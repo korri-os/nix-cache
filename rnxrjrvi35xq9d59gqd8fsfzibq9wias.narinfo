@@ -1,0 +1,10 @@
+StorePath: /nix/store/rnxrjrvi35xq9d59gqd8fsfzibq9wias-unit-korri-plugin-offline-proofs.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22-1107/11ff1f45dympij3nadhvy3vsd8b3cg5aw3p19x9y9ysphfkwi2ch.nar.zst
+Compression: zstd
+FileHash: sha256:11ff1f45dympij3nadhvy3vsd8b3cg5aw3p19x9y9ysphfkwi2ch
+FileSize: 754
+NarHash: sha256:0aw0j7a6hvr81dh71y13pi5rdzpgg1kkixgi7xmwk32gf5xyk6n0
+NarSize: 1584
+References: 1nwgsy4c5862g44s9lkf50643p3nbwm5-gnused-4.10 3b3k72bbr01bgff7bdkiz6r05gmlx5s9-gnugrep-3.12 5hgix7hwkp1983iwzrrzbd6wlnwg8767-unit-script-korri-plugin-offline-proofs-start i8an849ir6g3f4n2wrsm88s2qgrzjayq-tzdata-2026c k8as1kdn16q5w6zq6z3vih70qby9l40i-glibc-locales-2.42-84 p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11 x0iv5hlpqfrpykdckbj8jdxy78clbjpz-systemd-261.2 xqx65i7cwacw7rsnj3dlbqas27mwvpn2-findutils-4.11.0
+Deriver: s58n58dj4043bzk7vwf880w642kzpy29-unit-korri-plugin-offline-proofs.service.drv
+Sig: korri-cache-ci-1:R1LVYdtygPseeP3TAqAhg2u9OpnlJnxWp0utcsEMEDK7khE0Qzb9rncttLvdrDMcwBWDNUrSRfYtsVkKXg2AAg==
