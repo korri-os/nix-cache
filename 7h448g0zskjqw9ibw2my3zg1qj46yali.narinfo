@@ -1,0 +1,10 @@
+StorePath: /nix/store/7h448g0zskjqw9ibw2my3zg1qj46yali-X-Restart-Triggers-nix-daemon
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1ifwhkgl33bk26nmdibn8glpchmp124309226c9iwks140jjpjrk.nar.zst
+Compression: zstd
+FileHash: sha256:1ifwhkgl33bk26nmdibn8glpchmp124309226c9iwks140jjpjrk
+FileSize: 135
+NarHash: sha256:0qyrhxdaig4hxk2gq46wxfrp66n1hbs6cgsgvz7hr6gj5ip0744l
+NarSize: 168
+References: dhi3jr560pp8306x3mslwr91ibdsjbmp-nix.conf
+Deriver: 1jmz99irkfg3rzz7dpkdg9z6hyr699y4-X-Restart-Triggers-nix-daemon.drv
+Sig: korri-cache-ci-1:+v1yBEHh8ZCn22UmG/W1lkAYQ4EGGcEVO0HMH6unvuX6z53ZyCji5nPVD29oTdnyTO4Ri+mafD5/4KXXntqiCQ==

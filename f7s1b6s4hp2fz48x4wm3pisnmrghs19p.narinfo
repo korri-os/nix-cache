@@ -1,0 +1,10 @@
+StorePath: /nix/store/f7s1b6s4hp2fz48x4wm3pisnmrghs19p-X-Restart-Triggers-NetworkManager
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0jg0i13bl5if31nnjrfya6j4sgxcsy4pzin75i079h9zwr0lwyf4.nar.zst
+Compression: zstd
+FileHash: sha256:0jg0i13bl5if31nnjrfya6j4sgxcsy4pzin75i079h9zwr0lwyf4
+FileSize: 141
+NarHash: sha256:1mvhcjnxaj92jjrbahn7snn101d5zghcsbvkid5skfb7vjzj7v54
+NarSize: 176
+References: 1zmvaaqhqgd4pcyqsshvyqpq3h0b37v5-NetworkManager.conf
+Deriver: 0c4csngbs4q7j3y482i1fyapnyibsqdg-X-Restart-Triggers-NetworkManager.drv
+Sig: korri-cache-ci-1:FmL5tCMjAjMOJZZpR+AMqWUodg5G7NSbip7Gx4a59CFb++vN840uz6VvHQbmWnMr0tsl1Ny2zeTE8ygjssrvBw==
