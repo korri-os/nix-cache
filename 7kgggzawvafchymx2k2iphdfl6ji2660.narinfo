@@ -1,0 +1,11 @@
+StorePath: /nix/store/7kgggzawvafchymx2k2iphdfl6ji2660-korri-fex-config
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22-2/0l5mrviy5i0ibm5nbxsfhw926ifrgj0q0ycma99p3289a31i7vaz.nar.zst
+Compression: zstd
+FileHash: sha256:0l5mrviy5i0ibm5nbxsfhw926ifrgj0q0ycma99p3289a31i7vaz
+FileSize: 950
+NarHash: sha256:0p0kwjp4sv1ka3xgw88cy8cf39s88fbk6gzyy32v0mvrhmg0w9iv
+NarSize: 2688
+References: 
+Deriver: 2qh9k6k34x7bv11pmm8p0srpirfyf73x-korri-fex-config.drv
+Sig: korri-cache-zao-1:STPHOLKhVF/7XRcwOYCdgo1tRcy/czVlhJCYw50T0KKzOc54wqvFcIchzYvOziWhyd4GB22nJwB2JvCuHMcJCA==
+Sig: korri-plugins-1:Kgpf+t+i1X0Ggd2nYyhLx5AGaylrE4agRWVVyC/oq1KeEuHFVQnw4dPB/osTLFI6Xsgq2EOSwFTOwtV6rRQUAw==

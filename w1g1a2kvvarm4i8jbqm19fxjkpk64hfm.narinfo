@@ -1,0 +1,11 @@
+StorePath: /nix/store/w1g1a2kvvarm4i8jbqm19fxjkpk64hfm-55-nixos-aslr-entropy.conf
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22-2/0cbi4ln7zns35z7lr89ahaidv45hwp0f22csf3zlwfyr66nhj7xk.nar.zst
+Compression: zstd
+FileHash: sha256:0cbi4ln7zns35z7lr89ahaidv45hwp0f22csf3zlwfyr66nhj7xk
+FileSize: 122
+NarHash: sha256:0mgr24dqyv5z1i3s1g61z7si23d28rk4g782pyhas2d5bsn3q05w
+NarSize: 160
+References: 
+Deriver: zalsf3gddik0gxqddw4k1v22nhy1vyav-55-nixos-aslr-entropy.conf.drv
+Sig: fuji-1:/DDHvlOM8xnjI7cT1TxiY+cr548v9Z4LRPiCnUjZQz4m4oFZrbf7vOxWUVfWpk0ukaLrwJv4W5S+gC7+Up+YBA==
+Sig: korri-cache-zao-1:XLv/5+rg7PUL0qaacQCAe0Jf97Sq+yGd3i0GBE2Fa69OliN/zTx5pXYPiX1c6D1G50xTMIYs/SOHNr6PDQRDAg==

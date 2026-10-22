@@ -1,0 +1,10 @@
+StorePath: /nix/store/hi9l316aqnnzjz6zxhlkr20yrb2ads51-tmpfiles.d
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22-2/089xz1i8d5ab3h16642bzj9pnf4lryhqlf19mdrcmwx1viajcmzi.nar.zst
+Compression: zstd
+FileHash: sha256:089xz1i8d5ab3h16642bzj9pnf4lryhqlf19mdrcmwx1viajcmzi
+FileSize: 789
+NarHash: sha256:1fz3mrxz75ravsqfkfv4picslrz5x61nifrrln37ah23vs2bxqym
+NarSize: 5328
+References: 31k3af65pni46s1dnqdry1wizcf6yr1w-lvm2-2.03.41 9585kdzamnc54cw0mw0ncbzqxmpm3i8f-networkmanager.conf 9s6kislg3ch89p3nqysg9rfqy0qpq8nm-nixos-tmpfiles.d bhhbf9j407j8miyb8qlwhiblfpkj70xz-nix-2.34.8 kkp0czyda7xryy1rnzyraznpdam0l019-util-linux-2.42.3-lastlog w5i6wkyxnm31g1p650l8q9f5xffp3g2h-graphics-driver.conf x0iv5hlpqfrpykdckbj8jdxy78clbjpz-systemd-261.2
+Deriver: 04i7nrksm2bxyl2gv28035cqdapcc1id-tmpfiles.d.drv
+Sig: korri-cache-zao-1:IeZJgLdr5mRILy6wVwTf+P0nGgIyNKbrMRc8MnNqiTQdECuiFTPQNqxqX4KdHFFXbt4yAik8Xh8j0eoaZ2qWCQ==

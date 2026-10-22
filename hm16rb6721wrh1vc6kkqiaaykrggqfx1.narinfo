@@ -1,0 +1,11 @@
+StorePath: /nix/store/hm16rb6721wrh1vc6kkqiaaykrggqfx1-unit-rpminiv2-thermal-snapshot.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22-2/0nr1bqj2111hkbvpwcbwrbagfs4zj4xvn2nr7ix0i1h0x9d42qsk.nar.zst
+Compression: zstd
+FileHash: sha256:0nr1bqj2111hkbvpwcbwrbagfs4zj4xvn2nr7ix0i1h0x9d42qsk
+FileSize: 803
+NarHash: sha256:15199pbmkb9y9islyp2f4rkyhqxh4gw377gxxf197pxh9kpliiw7
+NarSize: 1776
+References: 1nwgsy4c5862g44s9lkf50643p3nbwm5-gnused-4.10 2cj39fc4q32hg7zy3hyp5ij9dmd3dkc1-rpminiv2-thermal-readonly 3b3k72bbr01bgff7bdkiz6r05gmlx5s9-gnugrep-3.12 i8an849ir6g3f4n2wrsm88s2qgrzjayq-tzdata-2026c k8as1kdn16q5w6zq6z3vih70qby9l40i-glibc-locales-2.42-84 p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11 rivsjh5plkn9y7fs4b3wbyi720727nxd-procps-4.0.7 x0iv5hlpqfrpykdckbj8jdxy78clbjpz-systemd-261.2 xqx65i7cwacw7rsnj3dlbqas27mwvpn2-findutils-4.11.0
+Deriver: a5frm194w14gs4cwfr7kh41y23m8zs8f-unit-rpminiv2-thermal-snapshot.service.drv
+Sig: fuji-1:urKvj1mDcfaIpUXexgS4BPB3g5i/Lwcs3MHnJL/xZDTG0wLQqkSv0WcSAP4o7VOTo871MZ//P7twZgaUBDhxBw==
+Sig: korri-cache-zao-1:JbVmt0qW6Ha9NYVeaTai3OMBoLyUlpPjxnLhnxvjcIQzt4PkUOwyxEoohQgkTJcMHcV1FQohPLmHdhFu7RVOBw==

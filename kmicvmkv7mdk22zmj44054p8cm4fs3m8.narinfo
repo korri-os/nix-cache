@@ -1,0 +1,11 @@
+StorePath: /nix/store/kmicvmkv7mdk22zmj44054p8cm4fs3m8-cachyos-unpack
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22-2/1qrbchys4knz5swlcp3f28nl0bmjy8q22nhh6plmiirnl564f0v1.nar.zst
+Compression: zstd
+FileHash: sha256:1qrbchys4knz5swlcp3f28nl0bmjy8q22nhh6plmiirnl564f0v1
+FileSize: 1299
+NarHash: sha256:1xqvn7h797q866b302rfkip581bqqqh76nrv4zilzb2mnsl48l93
+NarSize: 2600
+References: 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 690lffhvivszs10ixbi6pmifnzgcqcnl-xz-5.8.1-bin 6cankpvayjgidrbx5sj1gms2s13nvfvh-bash-5.3p3 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 f099k6mfrn3iydaa16p8pic9454igy31-korri-proton-cachyos-compatibilitytool f3asnnqprb40a3v6jskd8sr3r2s8sqrb-gnutar-1.35
+Deriver: 85idsrwbaqzgmhd0ni6462p9p25nc7b5-cachyos-unpack.drv
+Sig: korri-cache-zao-1:MHnoCqkCwzbgyqGYFbK/CjEGtWA393woE0EoY5SJWs4+ff/cuG4lkXGmcyj2EqzLq2juwcYnozy07SlFiR10CQ==
+Sig: korri-plugins-1:J1dr/SbNU6HIP+ufoMCqnPVvhZgNMkvk9AVLPIHyrxRXPPxhb8Z/qKllplMI2Hg/fv5WqzH4c29jTr0nb/O4DQ==

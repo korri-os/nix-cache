@@ -1,0 +1,10 @@
+StorePath: /nix/store/2cj39fc4q32hg7zy3hyp5ij9dmd3dkc1-rpminiv2-thermal-readonly
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22-2/1225y6kl73b7pzk00kc55sq3pinkgzp6wd2c8rxcn5zw8m31wd2n.nar.zst
+Compression: zstd
+FileHash: sha256:1225y6kl73b7pzk00kc55sq3pinkgzp6wd2c8rxcn5zw8m31wd2n
+FileSize: 878
+NarHash: sha256:1xchrf9w4v7nfy0r7ikwcm8hp5drwcl58llmab4dc2c85j9g7pxk
+NarSize: 1840
+References: idnyqaaix26szkvhs1mjgi7990jajz9a-bash-5.3p15
+Deriver: 45mszpj3b1pakssmrsqs3q8cwn72qbf7-rpminiv2-thermal-readonly.drv
+Sig: korri-cache-zao-1:SbcNHYjf7EVywGa4aOGZQPcBlvqhHpPmj7ELkc7P0ZWuv8nA5d+FvGv06Zzi7kBxStHpz5hv3iyPeg+X/Z7rCg==

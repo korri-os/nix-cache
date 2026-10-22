@@ -1,0 +1,11 @@
+StorePath: /nix/store/p3cf8bif4g9hhd00qi0n0c20ss88bm14-retroarch-source-checked-settings-1.22.2
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22-2/1pm3dyj5455x8asj0hlzzy13qyhlg2b0j26yah51l5xm22hbwgrn.nar.zst
+Compression: zstd
+FileHash: sha256:1pm3dyj5455x8asj0hlzzy13qyhlg2b0j26yah51l5xm22hbwgrn
+FileSize: 2219
+NarHash: sha256:0d6rbilfq4sz14biajbm6fdh9s0zvx61rcmwij9xkxlnvmmnl2gb
+NarSize: 11400
+References: 8l6hf4n1kpkvhdfnn3na81z23mp3n01p-retroarch-bare-1.22.2
+Deriver: hd9dw61ryzixcvzvcy6x9ibnjaag92kc-retroarch-source-checked-settings-1.22.2.drv
+Sig: korri-cache-zao-1:1QcMxx3uFK3rmrr1c87+W13apiAmh67jUPPkR7ovSTwcRR0Dj+pL0nGINDaxR+pCgdMVWA6Qt50fbW8TbCCpAQ==
+Sig: korri-plugins-1:5Vx8bVqM+HoJS0+aEH2oTomYnoYoV3Qjf6JP+JBXGcSPj4eQXYRnuzCb7jDgQauOLN7wMWtS7LPGdi5tpjjtCQ==

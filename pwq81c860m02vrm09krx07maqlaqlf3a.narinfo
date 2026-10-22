@@ -1,0 +1,10 @@
+StorePath: /nix/store/pwq81c860m02vrm09krx07maqlaqlf3a-firmware
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22-2/0ayb0yk7d3l7qkdsnjfl0y9ppfdg2vl0bg6wwavj1pa6prf2dh3v.nar.zst
+Compression: zstd
+FileHash: sha256:0ayb0yk7d3l7qkdsnjfl0y9ppfdg2vl0bg6wwavj1pa6prf2dh3v
+FileSize: 347
+NarHash: sha256:0vj03hcggg6dg13b7spkwnyql1kk2bf2ws1avmzg7iyhik7clp70
+NarSize: 2136
+References: zf86b762wah888jm0j8bkiynw9zqpxin-rpminiv2-firmware-20260622
+Deriver: j1vy01hdpxpgrpq0y5jm6xvvph18br0m-firmware.drv
+Sig: korri-cache-zao-1:gjGbMRN27igg1XwKyB1cwKRa9xcjBZoELjJaU0+MM57tNWwRyZ/XTFDd6TY5BbT/MLoi+tsxL3mOWnlr/3OcBA==

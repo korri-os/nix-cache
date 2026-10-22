@@ -1,0 +1,10 @@
+StorePath: /nix/store/xrrhi2jhaix74209ssf1j6njx4r7z95s-rpminiv2-va-macro-retry
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22-2/1llbsygicbhjrj8frhyhr21a7r1acsf1r97864sm3kp0gb1ya4xp.nar.zst
+Compression: zstd
+FileHash: sha256:1llbsygicbhjrj8frhyhr21a7r1acsf1r97864sm3kp0gb1ya4xp
+FileSize: 311
+NarHash: sha256:1g2mb0nn2z14lyvspwclir0dwnf07ibq4l52ciznya59lhwsng2d
+NarSize: 504
+References: idnyqaaix26szkvhs1mjgi7990jajz9a-bash-5.3p15 ry7lwn1b1hvaxfshfgzgwc1260jj9rwd-kmod-31
+Deriver: mbwmak61717ls39m8mrg5zba33vx96r2-rpminiv2-va-macro-retry.drv
+Sig: korri-cache-zao-1:7r+QFJW/blwxnFmROn0MNbFrmWReluzJ8+KqB4AwyFkcppLHZnqqoCSWfoSf0E/zZcRNTrabI8KpkFQCQuPwAQ==

@@ -1,0 +1,11 @@
+StorePath: /nix/store/lm5j24zs4w4fikfhx9my7m5n2s2rrvdp-unit-usb-gadget.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22-2/0v3q50jpxvp03j4jbm2779bvnhq2b702xklhsi422ls671qd2jvr.nar.zst
+Compression: zstd
+FileHash: sha256:0v3q50jpxvp03j4jbm2779bvnhq2b702xklhsi422ls671qd2jvr
+FileSize: 891
+NarHash: sha256:028sgh4vdc797a8glx3rsn2vrg0psaqmbjqg8yw4ccqfjdl0wjld
+NarSize: 1896
+References: 1nwgsy4c5862g44s9lkf50643p3nbwm5-gnused-4.10 3b3k72bbr01bgff7bdkiz6r05gmlx5s9-gnugrep-3.12 cc5w8x2zx85gwmjrvf3d1nl8x65vq0ir-unit-script-usb-gadget-pre-stop i8an849ir6g3f4n2wrsm88s2qgrzjayq-tzdata-2026c k8as1kdn16q5w6zq6z3vih70qby9l40i-glibc-locales-2.42-84 m3gnp81whvfbisnr619haq7xr4ss6z8p-korri-usb-gadget-configure p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11 x0iv5hlpqfrpykdckbj8jdxy78clbjpz-systemd-261.2 xqx65i7cwacw7rsnj3dlbqas27mwvpn2-findutils-4.11.0
+Deriver: xxq58xsi0c9670zfplv99c2bcxvi1k6s-unit-usb-gadget.service.drv
+Sig: fuji-1:0K8qSvYyWfXEs6MgO17zFH3bJaZt7OQD/fRi6vouA/nlnqvStE+ZyP6W/51AzyEpB8L6OHt8yA9yB3vD7uSxBQ==
+Sig: korri-cache-zao-1:GlsGFJWuisRCbPC3qkc/MnchC2pkOz5bbgQsNLbaVjxf5NfcdNg0ygJZYATJ5kJDC8y6W0IOUlSvgzIGo2N9Ag==

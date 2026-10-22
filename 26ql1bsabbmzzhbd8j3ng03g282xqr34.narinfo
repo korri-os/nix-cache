@@ -1,0 +1,10 @@
+StorePath: /nix/store/26ql1bsabbmzzhbd8j3ng03g282xqr34-etc-fstab
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22-2/0h4ym0qy9g3hnx0as354qm6v8zfkwq0rwblfksyvg88ijshdxsap.nar.zst
+Compression: zstd
+FileHash: sha256:0h4ym0qy9g3hnx0as354qm6v8zfkwq0rwblfksyvg88ijshdxsap
+FileSize: 357
+NarHash: sha256:1laxrd882nb70apmwgrg0c6qjksaw6kv1wihzyk7hpjiz4fqwbgf
+NarSize: 544
+References: 
+Deriver: ab06vimlah626idblyhd5fl4142l8vqq-etc-fstab.drv
+Sig: korri-cache-zao-1:+3EzhzVQqPjT/ZVIVpUngbMfpXaXtQPMgxfa9KbdpfJzb9ZhS4GJq6W7pAkAtMQSeJVVMhKx5PIRQ5BLWnjpDg==
