@@ -1,0 +1,10 @@
+StorePath: /nix/store/7iiz92nrhmgbrqj2p9swdrxfl64lm6v9-firmware
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22-1122/1xgmig8z0sr7d473awxjw4nz3bz4aznf2ksb472366f0g3vqxwjk.nar.zst
+Compression: zstd
+FileHash: sha256:1xgmig8z0sr7d473awxjw4nz3bz4aznf2ksb472366f0g3vqxwjk
+FileSize: 1143
+NarHash: sha256:1pz7him2jb7jp75g2bkbhny4li85h9yg52339d9510r2qazjmyin
+NarSize: 17384
+References: gm7khm6j4x4w7iqd5snfpm7krm321884-wireless-regdb-2026.09.03-zstd n1z6b0b7x67a25y9kqpiy85bfb9scy27-linux-firmware-rg353m-20260916-zstd r473n0jm2p1i7hcpkblrb185m9mpvf20-rtl8761b-firmware-rtk1395-zstd
+Deriver: 6hr9g4f9kcab7gmjjdnpklyzj4lkvfzi-firmware.drv
+Sig: korri-cache-ci-1:8cUvkMjMpG+a892BwZZaWiAVZzzObyr+gMReqFSH8IjSFjdCAapysAMhl3G62lvZhIfo3lHOn+0bzMPxZThUCQ==

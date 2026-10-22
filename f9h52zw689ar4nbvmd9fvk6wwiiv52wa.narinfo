@@ -1,0 +1,10 @@
+StorePath: /nix/store/f9h52zw689ar4nbvmd9fvk6wwiiv52wa-v4l-utils-1.32.0-lib
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22-1122/1q36vy7hvf93ialq2x90kg0s4zaqk8an17zv7wb9g1kjhzibh9h8.nar.zst
+Compression: zstd
+FileHash: sha256:1q36vy7hvf93ialq2x90kg0s4zaqk8an17zv7wb9g1kjhzibh9h8
+FileSize: 425734
+NarHash: sha256:1nd51ph7yad9qdc5hhg3fmgqdfz0yq01gh463ppj6if3d0rj3yk5
+NarSize: 1819264
+References: 558bbrzybch0lvlybaza3glcm7m0py05-systemd-minimal-libs-261.2 b3wp1gbghp5v6wza2y0qq743isw5rrnr-libjpeg-turbo-3.1.4.1 f9h52zw689ar4nbvmd9fvk6wwiiv52wa-v4l-utils-1.32.0-lib m54cs0m994hc3n9lax7sg98sgy729qsa-glibc-2.42-84 n65q2br81z7a9g3hcvskd2pvr8s6a7ms-gcc-15.3.0-lib q2is74m24qq9db9gy5m8zrqhmdaxzavi-json-c-0.18
+Deriver: kl3fm6bn0ach50bpyskv01qf3nrc63nw-v4l-utils-1.32.0.drv
+Sig: korri-cache-ci-1:+g6Jbg8TrtykgnSV+k47URzUmmkWE22C6dus/rlReKlbUEwXVEoYW/+I+3GWZ5c0RmYYSi+gcNRn0zkjrt/SCQ==

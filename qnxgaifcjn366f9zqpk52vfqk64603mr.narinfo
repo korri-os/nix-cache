@@ -1,0 +1,10 @@
+StorePath: /nix/store/qnxgaifcjn366f9zqpk52vfqk64603mr-graphics-driver.conf
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22-1122/0p684qzxc7liydfbgryqc10bwckri3ia1jh239hvymlhlgvja2wn.nar.zst
+Compression: zstd
+FileHash: sha256:0p684qzxc7liydfbgryqc10bwckri3ia1jh239hvymlhlgvja2wn
+FileSize: 254
+NarHash: sha256:0arcwxlx71lrwpf4v8pag0dlajdkzgm45aa950n3xc1p6hya6a8l
+NarSize: 792
+References: z8rb7yzx9xmfddi2h97xpzx3pw1gis6h-graphics-drivers
+Deriver: j5v5qb6m7d6q09b6a14ady5i1lb3wcb3-graphics-driver.conf.drv
+Sig: korri-cache-ci-1:vYzUWHIfY9Yo2OJEsu7PNqF4SUnv66eWJc3hCT+LoELLzwhq28aI3+g2ggfy+AWIjlxWV3kP9HFnJ9oul2lwDg==

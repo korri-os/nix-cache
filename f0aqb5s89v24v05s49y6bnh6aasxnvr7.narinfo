@@ -1,0 +1,10 @@
+StorePath: /nix/store/f0aqb5s89v24v05s49y6bnh6aasxnvr7-linux-7.2-modules
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22-1122/0phxzy4pwinlz5kjiyj13pgh071n9a0scfmn9gzwzfcr4yav6pcv.nar.zst
+Compression: zstd
+FileHash: sha256:0phxzy4pwinlz5kjiyj13pgh071n9a0scfmn9gzwzfcr4yav6pcv
+FileSize: 1486060
+NarHash: sha256:1d4fa6y8lzw3c55vf9v3jb4sy3dfnkf70qb2c0d236ajd4zksyxj
+NarSize: 8511528
+References: 4m9ri3jwf7qcyzjaagg25f7kf9bgph7r-linux-7.2-modules kvxbc20kxpbr6sza7knw6jq4iwq3x0px-panel-sitronix-st7703-rg353m-7.2
+Deriver: 6wcmz9wzs5cmzvqi5iyn1k3mv07zjc1h-linux-7.2-modules.drv
+Sig: korri-cache-ci-1:wQQkbj1zAhwliniJEGc9UeWrEmIKWOYPb5l8+NhOf/p1jZxOHwr3XRhtr3q2cCeojjmiGZlxOOXF7n/fyNEmAw==

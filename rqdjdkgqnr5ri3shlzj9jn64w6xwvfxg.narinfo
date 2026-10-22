@@ -1,0 +1,10 @@
+StorePath: /nix/store/rqdjdkgqnr5ri3shlzj9jn64w6xwvfxg-korri-chromium-args.json
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22-1122/0ax095yg1gi1m3b6j5hy0ny5liqbrcpjz9m5i14gag2ndwrywlcq.nar.zst
+Compression: zstd
+FileHash: sha256:0ax095yg1gi1m3b6j5hy0ny5liqbrcpjz9m5i14gag2ndwrywlcq
+FileSize: 130
+NarHash: sha256:1w1xmfw3p9714h48ccx8wyvp5sq7jmiv7m1y7pkhqd6ra658yyg3
+NarSize: 168
+References: 
+Deriver: s8lgqbpszpcpq64bnia2khqdla512c7w-korri-chromium-args.json.drv
+Sig: korri-cache-ci-1:qe524HW00SH+SEXF76y97QzsuGY6foca8rZhVlLiRkBmYLDpo/6HTcXWEbNP0F8mRUUPJsBNeh+p4J1MfML0AQ==

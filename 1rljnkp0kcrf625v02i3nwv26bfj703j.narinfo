@@ -1,0 +1,10 @@
+StorePath: /nix/store/1rljnkp0kcrf625v02i3nwv26bfj703j-etc-modprobe.d-firmware.conf
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22-1122/1z8cb0p1pqxhnnazrazqmi54zbd21i5gh8ymbdh264ci9ypn8n5z.nar.zst
+Compression: zstd
+FileHash: sha256:1z8cb0p1pqxhnnazrazqmi54zbd21i5gh8ymbdh264ci9ypn8n5z
+FileSize: 158
+NarHash: sha256:186dyr3jvg1apsrjf9r5wgnmlkqllcfy80vahcxgcmk2my7hlyn4
+NarSize: 208
+References: 7iiz92nrhmgbrqj2p9swdrxfl64lm6v9-firmware
+Deriver: 02w28zi6fgbjalr6073xicp0cffwccqj-etc-modprobe.d-firmware.conf.drv
+Sig: korri-cache-ci-1:WISrCxkx2squUMNEdK8/HRmdd3qM+C9+HnF9QTfF2aME6mYXHDTl9WyaOFQMLpgpJ7EDMJhTdRVT1KM2rtVLCQ==

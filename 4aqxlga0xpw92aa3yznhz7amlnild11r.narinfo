@@ -1,0 +1,10 @@
+StorePath: /nix/store/4aqxlga0xpw92aa3yznhz7amlnild11r-51-rg353m-default-audio.conf
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22-1122/1assy4qrq26zvkw62h7qv7vds37cqvbgvcsq6vsmz8h2p49mk3zd.nar.zst
+Compression: zstd
+FileHash: sha256:1assy4qrq26zvkw62h7qv7vds37cqvbgvcsq6vsmz8h2p49mk3zd
+FileSize: 299
+NarHash: sha256:1rfrk3a4z4mlm4qa14fknk4xh0a69na8fd1ddb4k01jyps88ks1i
+NarSize: 976
+References: 
+Deriver: dq3sp18qfmbplz7ncxd0ials354640xc-51-rg353m-default-audio.conf.drv
+Sig: korri-cache-ci-1:B1uEhegepcyQsUPea0kt3D8J3MablHBDyYlRrw/OtTQCnQXw5+T/xOeXJAIF2pNeWD/2WfmXpIAXvS9ocPuzDA==
