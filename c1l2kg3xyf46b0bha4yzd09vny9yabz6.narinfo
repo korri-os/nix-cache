@@ -1,0 +1,10 @@
+StorePath: /nix/store/c1l2kg3xyf46b0bha4yzd09vny9yabz6-linux-aarch64-unknown-linux-gnu-7.2-dev
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0kj3403sv3j4xl2xgn55mwnih6rvff5q0rjyr8ac0lbgzhfy1ri3.nar.zst
+Compression: zstd
+FileHash: sha256:0kj3403sv3j4xl2xgn55mwnih6rvff5q0rjyr8ac0lbgzhfy1ri3
+FileSize: 35166095
+NarHash: sha256:111bn3pp90gln3f9b6xkl0ahy2gypclqlr0i54mv0zqq56dva7pr
+NarSize: 129312648
+References: 0hvd25jcaxcq45gkrgwqmd4gfqixg99h-aarch64-unknown-linux-gnu-gcc-wrapper-15.3.0 7kwh7r41vkmw17y33ypvwlcv4azmj9qb-linux-aarch64-unknown-linux-gnu-7.2 9zib1q94gka8i5q530364cvy25504qz5-gawk-5.4.1 c011mk580m964s1zxjccvdax3fcmppnl-gnumake-4.4.1 c1l2kg3xyf46b0bha4yzd09vny9yabz6-linux-aarch64-unknown-linux-gnu-7.2-dev j0c03li98wyk84icrhbjdy1qvp5lrgap-python3-minimal-3.14.7 kgfjlv806bcil715x0lssbj6zzxql5hs-aarch64-unknown-linux-gnu-binutils-2.46 lm3pknxi0ipypy3lxh1wmm8wvvavdwrn-glibc-2.42-84 qf2wzyq4irhgyhnq3s2hz0ldjq3w8a3x-gnused-4.10 svx59425zxp552p2b8gm11qj5r09b56i-bash-5.3p15 vfvgqm1yi4sxw5vnjh2nq8hl61jk1kfy-aarch64-unknown-linux-gnu-gcc-15.3.0 w03i01kiakf4wz7jbp1l59c0bhb3pjca-perl-5.42.3 xjl7p8dvyk2j53kqf7f43kdj4ypbxz7g-coreutils-9.11 z4c6k0mrlkwl3s4w9ysxc8vq1wylm3ms-gcc-wrapper-15.3.0
+Deriver: 26dy88p3i8ysvq2lw0pj7xijkmmf6f6h-linux-aarch64-unknown-linux-gnu-7.2.drv
+Sig: korri-cache-ci-1:c60tqs1r9mdCb+Ckhzb42ge25ZolKj29947zuDr1ZC0xdGzNr2uMrvlu39uXhRgMFDnDMGAjzq3v4vKUoNDKBA==
