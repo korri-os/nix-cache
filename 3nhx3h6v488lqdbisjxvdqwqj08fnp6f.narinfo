@@ -1,0 +1,10 @@
+StorePath: /nix/store/3nhx3h6v488lqdbisjxvdqwqj08fnp6f-rg353m-inputplumber-data
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1ls2kqxqd3ylqnn4sdhsjl4ma1xyhq08x96d3vs9dpnsga0d6an1.nar.zst
+Compression: zstd
+FileHash: sha256:1ls2kqxqd3ylqnn4sdhsjl4ma1xyhq08x96d3vs9dpnsga0d6an1
+FileSize: 2162
+NarHash: sha256:04llc237w6rgbqfg002cymx61yndvn2101g9y9sqzvkfpgrpzd71
+NarSize: 8232
+References: 
+Deriver: 1q14ajh42g27b02jcrsmy7wwiy1ska75-rg353m-inputplumber-data.drv
+Sig: korri-cache-zao-1:/U9fDq1A6tJkfdlD57kefaC4OkOOIh1LksqToUX3bSIEzDvN1U/rRcaco97Qka9MHisiRAUZBUygXGoPjg1wDQ==
