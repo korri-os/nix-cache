@@ -1,0 +1,10 @@
+StorePath: /nix/store/3pb6kv6rr38hcv35qvym14nax3n9pfiv-cargo-package-android_system_properties-0.1.5
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0ysil4yqgcph9a5xsmpb60bm4p4xg355wrsy30954n3kwl1m4mnq.nar.zst
+Compression: zstd
+FileHash: sha256:0ysil4yqgcph9a5xsmpb60bm4p4xg355wrsy30954n3kwl1m4mnq
+FileSize: 5556
+NarHash: sha256:1qvqvgbldpja5q3594m1h7inpkvfyi6k1pi8nawdn6qzaha0h0zh
+NarSize: 17160
+References: 
+Deriver: vw8g89y90hd3cxhml9w9xclj3mnaygj9-cargo-package-android_system_properties-0.1.5.drv
+Sig: korri-cache-ci-1:hWOGEUuCAtazE3o5zZySh9aieVFiKpkzINJawKzNcyuMtYVo9fzAG7r7g4l4TESCMSfCIojtkbOb9hkFS+4jCw==

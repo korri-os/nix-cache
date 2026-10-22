@@ -1,0 +1,10 @@
+StorePath: /nix/store/bdhml0zx68rlx911vxcl8xb1ikfcr9rq-cargo-package-windows-targets-0.52.6
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/13fdsp4d94li6zvjpdvbxvmwrzizlsahzb81b06vvydm84wxzscb.nar.zst
+Compression: zstd
+FileHash: sha256:13fdsp4d94li6zvjpdvbxvmwrzizlsahzb81b06vvydm84wxzscb
+FileSize: 6765
+NarHash: sha256:0jkcm2aaxrqkrk9rzsmj1mi7vjrcil0g9pw8h0nhkmc2xkh2078m
+NarSize: 20920
+References: 
+Deriver: qjh2rrxd4c89mc39mcasqr5c8irh2gbw-cargo-package-windows-targets-0.52.6.drv
+Sig: korri-cache-ci-1:0u82KgJwoPeynZHTA+eK/Awc00SOP82lP7CVujkujB6k61Zi56+NAFrTT656awjia0stzp8LsMe1/3W6LMjJBw==

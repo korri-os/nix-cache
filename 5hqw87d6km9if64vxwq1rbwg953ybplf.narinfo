@@ -1,0 +1,10 @@
+StorePath: /nix/store/5hqw87d6km9if64vxwq1rbwg953ybplf-unit-script-nixos-activation-start
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1dvxfnn2ql6imfdb16mls347lhj4gv2p6ms2qhfynxa8ajz536ya.nar.zst
+Compression: zstd
+FileHash: sha256:1dvxfnn2ql6imfdb16mls347lhj4gv2p6ms2qhfynxa8ajz536ya
+FileSize: 739
+NarHash: sha256:1g2hwi36185rd64d4k4ck7z9pyq4jn4c73h26yc82w2nr2sfm7h2
+NarSize: 1408
+References: 3b3k72bbr01bgff7bdkiz6r05gmlx5s9-gnugrep-3.12 9cdd3lrps3aq210dhhzl6b0q53n66hhm-shadow-4.20.2 idnyqaaix26szkvhs1mjgi7990jajz9a-bash-5.3p15 k6w6fb7b4c786ffxspdis2n2k9k51gdq-getent-glibc-2.42-84 p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11 qbxkcbbkharkrdfbhh0wwh2zf733pzzg-util-linux-2.42.3-bin r68vac903zffq3aiihz3hzjqag7dl63f-glibc-2.42-84-bin x0iv5hlpqfrpykdckbj8jdxy78clbjpz-systemd-261.2 xqx65i7cwacw7rsnj3dlbqas27mwvpn2-findutils-4.11.0
+Deriver: nhkgwfrilnjlfg2jm46md2iy3hnalb29-unit-script-nixos-activation-start.drv
+Sig: korri-cache-ci-1:ycujnLYWlEimDZI/OlzUYTEAePyrFoB8AU8VjFnX0BiImHm9i07YMXC2udMoGucNuBkIPDFuE/7ePmz6/nVmBQ==

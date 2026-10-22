@@ -1,0 +1,10 @@
+StorePath: /nix/store/dijvhy086m3hdb0flmr3fv2ad5ikd3y8-cargo-package-iana-time-zone-haiku-0.1.2
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0m0vka5k358y06jygjyazvfak2ann5xsj11384drg6301j5bk2g9.nar.zst
+Compression: zstd
+FileHash: sha256:0m0vka5k358y06jygjyazvfak2ann5xsj11384drg6301j5bk2g9
+FileSize: 7534
+NarHash: sha256:1whrywidj1zwbfnz8rjrdhi1nj17125xcawqnhkrar1wd2fgxds0
+NarSize: 20984
+References: 
+Deriver: yxb1dfra5p2dg28c3m6wdqv9hp5d76jp-cargo-package-iana-time-zone-haiku-0.1.2.drv
+Sig: korri-cache-ci-1:TntGmAEmVEClXdaHz+Om3qF4E0GiN9eewu+ePOdmddZ4sAoF5kjEAU3dl1nv4o07jrnpy2enB4LwnbM4xT7iCw==

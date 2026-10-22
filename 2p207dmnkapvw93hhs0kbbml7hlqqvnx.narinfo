@@ -1,0 +1,10 @@
+StorePath: /nix/store/2p207dmnkapvw93hhs0kbbml7hlqqvnx-cargo-package-endi-1.1.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1x0sdfkx71mw9pb2gr9bfwpd92arkas3cfzadsrnqk06kbfq2l5r.nar.zst
+Compression: zstd
+FileHash: sha256:1x0sdfkx71mw9pb2gr9bfwpd92arkas3cfzadsrnqk06kbfq2l5r
+FileSize: 5523
+NarHash: sha256:0pk1cn0lppp8wayx6yrbx3n3abadc6wdyha7ra240nzv1kp46i29
+NarSize: 21272
+References: 
+Deriver: 0gx89c0915hjy79xxwgg106xy9kj0sja-cargo-package-endi-1.1.1.drv
+Sig: korri-cache-ci-1:9/DyUid9i3E3KBLifYvJdNyHMZj4B89JGHaMHajrsL8vZS7K0d0tZdWmCwc0PyVv4UJJNFW/zaHpElHQkLkPCQ==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/y5s6fw48w1rpr4jni4c10higadxaqxfj-korri-boot-splash-handoff
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0rj24fwj8jdkdsmfnrhwnhb13fclmw85x7ykqvzia04x9aa8gifm.nar.zst
+Compression: zstd
+FileHash: sha256:0rj24fwj8jdkdsmfnrhwnhb13fclmw85x7ykqvzia04x9aa8gifm
+FileSize: 428
+NarHash: sha256:01lgcfysil4vzn942pp35g5f434vjr63dl3z3acpwcwy1gpd4bqb
+NarSize: 872
+References: hdjg1cgqcrs57x2rng7jkk0l94xf8i4y-plymouth-26.134.222 idnyqaaix26szkvhs1mjgi7990jajz9a-bash-5.3p15 p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11
+Deriver: lxxvfka0kk9zb0v3zwkyw4hcy4gwalkl-korri-boot-splash-handoff.drv
+Sig: korri-cache-ci-1:8Q3VayuK4IWnhj2A5Nw89EP3Us0TIOPO7KyeK/xLXCkMmqTNGGi6O4yowCM+yMzsQN2cO1OBhBgB4SqXbkuMAQ==

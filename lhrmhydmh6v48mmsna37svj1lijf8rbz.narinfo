@@ -1,0 +1,10 @@
+StorePath: /nix/store/lhrmhydmh6v48mmsna37svj1lijf8rbz-cargo-package-wasi-0.11.1+wasi-snapshot-preview1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/17787m071p940wmcjjkybki6lvp2jligp49zhqgjvj3894kldmgp.nar.zst
+Compression: zstd
+FileHash: sha256:17787m071p940wmcjjkybki6lvp2jligp49zhqgjvj3894kldmgp
+FileSize: 30545
+NarHash: sha256:1d1n69n63wfk41bkkb8frf5fayy8id4vh92szi9zyq5pligxw3qy
+NarSize: 135496
+References: 
+Deriver: 9q2mm9n7x7y6nwz926jfrvzjcvfawrqd-cargo-package-wasi-0.11.1+wasi-snapshot-preview1.drv
+Sig: korri-cache-ci-1:9DgzCw6rQTAUW8v4cPv+OHpLam3yc7YnysFCBldZxvRGsu2Enl3ofnma72Ev1auv13EBQe4zyAgVIgMYOVjTCA==

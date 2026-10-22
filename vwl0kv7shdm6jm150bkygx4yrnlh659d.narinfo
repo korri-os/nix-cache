@@ -1,0 +1,10 @@
+StorePath: /nix/store/vwl0kv7shdm6jm150bkygx4yrnlh659d-cargo-package-parking-2.2.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1rawrhs9fspgh3903nmc945vj65zxx0b6yf9y1hmyilj2h0kgvci.nar.zst
+Compression: zstd
+FileHash: sha256:1rawrhs9fspgh3903nmc945vj65zxx0b6yf9y1hmyilj2h0kgvci
+FileSize: 11492
+NarHash: sha256:1misyn2dpn2kgkrrzl7lzz4rbgk1yr4y2hzr7lfmr9i5mq3fyh3x
+NarSize: 37904
+References: 
+Deriver: rk1izg82j6xlsdba1yd2l8cwiaai0yls-cargo-package-parking-2.2.1.drv
+Sig: korri-cache-ci-1:qbvp6iaAosY2CKoyHWv77a9bYd8nPQjh9z/vHF2sZxozWDZ6nH+ytQ0BQlmN659aRHBsPpLmPYgc76HjqrVIDQ==

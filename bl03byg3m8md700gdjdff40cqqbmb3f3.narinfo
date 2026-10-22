@@ -1,0 +1,10 @@
+StorePath: /nix/store/bl03byg3m8md700gdjdff40cqqbmb3f3-korri-wait-for-compositor
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1w643wfyz7vaxw1i37zmpw8s9rdc9xiy1rpb3jm9il21qzm28ccc.nar.zst
+Compression: zstd
+FileHash: sha256:1w643wfyz7vaxw1i37zmpw8s9rdc9xiy1rpb3jm9il21qzm28ccc
+FileSize: 826
+NarHash: sha256:15gr6gspc70b43wkicjfm8msg48pss55al9wpc68845jyf8pfavr
+NarSize: 1392
+References: fgshiz9w26917l7530sfjmgfr2cnrwin-jq-1.8.2-bin idnyqaaix26szkvhs1mjgi7990jajz9a-bash-5.3p15 jp7dhfn6fa363iv5707dgmpcqigp07xw-sway-1.12 p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11
+Deriver: 0gvi35czlqsd8cjfmvcf1hgrs70psd5r-korri-wait-for-compositor.drv
+Sig: korri-cache-ci-1:3Qs8pPSFcPAbgb+aj/jVFQY4t7voqe05+HKwVa5j84EvnV4S62nCPt368Ha6HGvAJ3gZeJGvsIcdchNceQWaAA==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/m3gnp81whvfbisnr619haq7xr4ss6z8p-korri-usb-gadget-configure
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1vf4vf116jlzvna5c65yzb6iangxkfy2q7zp45h0w33p9rgw4vzs.nar.zst
+Compression: zstd
+FileHash: sha256:1vf4vf116jlzvna5c65yzb6iangxkfy2q7zp45h0w33p9rgw4vzs
+FileSize: 1919
+NarHash: sha256:0700jr17vgwpbpfxnajib5v01bf6pckzskjf3pnzlj6sll7six5k
+NarSize: 4528
+References: 3b3k72bbr01bgff7bdkiz6r05gmlx5s9-gnugrep-3.12 idnyqaaix26szkvhs1mjgi7990jajz9a-bash-5.3p15 p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11 xqx65i7cwacw7rsnj3dlbqas27mwvpn2-findutils-4.11.0
+Deriver: ghmffb4wc1wm750c4zri7blz1x9443if-korri-usb-gadget-configure.drv
+Sig: korri-cache-ci-1:oi2O3zC/Bs/PNfd5bVIYN17Qww7O0NpIxevDRnMnGFdFdfB9Sfy/pi5Yn7ru0TgC2QMNZR2QEFgT7AaMcpfGAg==

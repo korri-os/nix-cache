@@ -1,0 +1,10 @@
+StorePath: /nix/store/nx3rq5a2cr5rinw2h5magyxgzrd5msj0-cargo-package-zeroize-1.9.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/09vs5a81b42cqh8qm2skb8803cc8ki7rgq80lz4i97bin3xwysy2.nar.zst
+Compression: zstd
+FileHash: sha256:09vs5a81b42cqh8qm2skb8803cc8ki7rgq80lz4i97bin3xwysy2
+FileSize: 25720
+NarHash: sha256:1bkks0liqcmfxn856ibywmfxawpsdq7v23v06mhkm2qfwfdr4i9v
+NarSize: 85616
+References: 
+Deriver: x347ah64qb0anjlvvnb7n0kmqdvgxrzd-cargo-package-zeroize-1.9.0.drv
+Sig: korri-cache-ci-1:nqJ8+A9kuVhRJViHUQs1TbH/MVYDw7Zv64+6lEkHp1NTsUeU68LYzKop9JyK8nWh8kSp3RaumyX47yLosd6WBQ==

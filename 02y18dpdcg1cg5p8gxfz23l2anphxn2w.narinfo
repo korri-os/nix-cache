@@ -1,0 +1,10 @@
+StorePath: /nix/store/02y18dpdcg1cg5p8gxfz23l2anphxn2w-cargo-package-windows-strings-0.5.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/08585kcdm13i9nsr66ggs3z4nk624fwwvh7xkqs7d0v5sxb8card.nar.zst
+Compression: zstd
+FileHash: sha256:08585kcdm13i9nsr66ggs3z4nk624fwwvh7xkqs7d0v5sxb8card
+FileSize: 15068
+NarHash: sha256:02nj18l43cnqr98nvz7zl35zfis4749hd6k9llww5dnm8fwhja24
+NarSize: 58984
+References: 
+Deriver: 6yh0yvyp2msbsl7xd2dqim51fa86p138-cargo-package-windows-strings-0.5.1.drv
+Sig: korri-cache-ci-1:iz7CdDO9CJKhoDNPn0EsprdBgG4sWdSlKXOSD67szP7B2bvx6fI6oJmQ1RF3acCnWnMJoRWKkVpyE99wUSbVAg==

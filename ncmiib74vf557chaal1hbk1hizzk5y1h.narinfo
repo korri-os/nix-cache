@@ -1,0 +1,10 @@
+StorePath: /nix/store/ncmiib74vf557chaal1hbk1hizzk5y1h-cargo-package-autocfg-1.5.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/012v4l6jkb4vzh16w833dq3v2f0pk21a000qnq71iwh2dhk1skvg.nar.zst
+Compression: zstd
+FileHash: sha256:012v4l6jkb4vzh16w833dq3v2f0pk21a000qnq71iwh2dhk1skvg
+FileSize: 20028
+NarHash: sha256:1bh1qhsdjx1a2yk5jd82g6mj2ld9n8hz2j0ynqrliqx1kkhb9wc5
+NarSize: 67584
+References: 
+Deriver: 41al12kdj53fxfna8cp0rmfnf8spknbc-cargo-package-autocfg-1.5.1.drv
+Sig: korri-cache-ci-1:k3/raarvl75Dxrk5kNPEjWhsIQo0L8Tu3MgxtVEy5qa1runmA5Hd/XBm7eMN4OjfLslYstVG7E1iBcZTB8EjBw==

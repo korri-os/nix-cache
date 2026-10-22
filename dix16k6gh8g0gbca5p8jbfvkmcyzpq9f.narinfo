@@ -1,0 +1,10 @@
+StorePath: /nix/store/dix16k6gh8g0gbca5p8jbfvkmcyzpq9f-cargo-package-tokio-1.53.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0c61whi7cb4ynsxr7mf1w2ajip5l8y2ngcb4paakd1spzhi30l1k.nar.zst
+Compression: zstd
+FileHash: sha256:0c61whi7cb4ynsxr7mf1w2ajip5l8y2ngcb4paakd1spzhi30l1k
+FileSize: 891388
+NarHash: sha256:0j31zqf46r4vwmyps81f0yicaaybvdkrk7barbbcdyzs2kclhj3v
+NarSize: 4846880
+References: 
+Deriver: gwlyl1cg8za9di9666dyn0i1nynfcmvx-cargo-package-tokio-1.53.1.drv
+Sig: korri-cache-ci-1:PI04RxVhvGsOiQr7ck8xxuqbKVUsdTKojZY0BBsOtec8YzlcI/UUPuN0PffbGFNob1CF8yCFhzLZ6UgpFNvzDA==

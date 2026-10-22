@@ -1,0 +1,10 @@
+StorePath: /nix/store/hfg9ixgf3hf5cjsqrw3qmhpxcj99clf7-cargo-package-flate2-1.1.9
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/197ll1n66f2qwhgm7ikcjzq326arsmyffkjk808zgq0c7gybfpqs.nar.zst
+Compression: zstd
+FileHash: sha256:197ll1n66f2qwhgm7ikcjzq326arsmyffkjk808zgq0c7gybfpqs
+FileSize: 81444
+NarHash: sha256:0hn8asky0zrp7ps4a7h371wvpw1p6b1mbskkyb5q0fz59jqwsi57
+NarSize: 350920
+References: 
+Deriver: kvc1sr2sxk3z419vnd5fvqg3ki8qp8sg-cargo-package-flate2-1.1.9.drv
+Sig: korri-cache-ci-1:qnRIVJBAp9z7Nnmjq9ZkDgYp5IqzMsIm8kq9Pe/jxkNQH6ps0mK02Eheg0GHEGB+Q61bhArWu3tYr2ip5mPeBA==

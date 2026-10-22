@@ -1,0 +1,10 @@
+StorePath: /nix/store/ysf56s48c6nyq865cpwh597ar0assihj-cargo-package-rand-0.10.2
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/16rysmm7pljlwxdbl60rsdyfjky0py3nzgcmw8gs5nng2jrqzrbs.nar.zst
+Compression: zstd
+FileHash: sha256:16rysmm7pljlwxdbl60rsdyfjky0py3nzgcmw8gs5nng2jrqzrbs
+FileSize: 107302
+NarHash: sha256:11gs4gssh33bbf9wm40dkxdzswgdhjqj3i96cw6hvb9kvasmmdjf
+NarSize: 441656
+References: 
+Deriver: qwgxs30rzps2x0xym3jmh6lmnh8vbn3r-cargo-package-rand-0.10.2.drv
+Sig: korri-cache-ci-1:JPJZk17GMJB7Sdz5CUTmvwddUpe2txMBXm7J1QqveteJ6XS4NPi0dHYR1L5O8AaT4fOQz2rAXNMAf9LJE9yBBg==

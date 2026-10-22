@@ -1,0 +1,10 @@
+StorePath: /nix/store/lhp935ylvi33xcjlg3i0gp76aakxq3ci-cargo-package-litemap-0.8.2
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1v06b5r6gri5p3x2kxhxj5mjy33nmax28b8ci7q45mvkas8yhc2a.nar.zst
+Compression: zstd
+FileHash: sha256:1v06b5r6gri5p3x2kxhxj5mjy33nmax28b8ci7q45mvkas8yhc2a
+FileSize: 36565
+NarHash: sha256:1pjsd785ym3nz30lmsmvxi8lkghj9xqmhj1nbvw6ak2g7i3qz2qn
+NarSize: 163376
+References: 
+Deriver: k7i2xq82kbjf1y3nfbxlhq07w1c2mq09-cargo-package-litemap-0.8.2.drv
+Sig: korri-cache-ci-1:I/na4WgsaYjSEvNPzQ9pGbWfjTWqFSVJ35JFmwLOn8fSTTicSzyOxih7FZAwRSzfrixFEXSWP2PZ4mIwWcICDg==

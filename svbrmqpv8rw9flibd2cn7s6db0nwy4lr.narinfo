@@ -1,0 +1,10 @@
+StorePath: /nix/store/svbrmqpv8rw9flibd2cn7s6db0nwy4lr-cargo-package-unicode-normalization-0.1.25
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1p3qb2n16r307i95lhl6rfpi66725lhdmwqp5hjkgz2f05gaic2m.nar.zst
+Compression: zstd
+FileHash: sha256:1p3qb2n16r307i95lhl6rfpi66725lhdmwqp5hjkgz2f05gaic2m
+FileSize: 141377
+NarHash: sha256:0v8nhihzpn0kqx6ia5hfgfw2nkp4jw9khbyg4jm94cknlfw5q7gj
+NarSize: 736488
+References: 
+Deriver: r4l4329d0skqja73j779ibbi4xgg4iza-cargo-package-unicode-normalization-0.1.25.drv
+Sig: korri-cache-ci-1:RyPAdWbFtYq0Qr7YvkR3OCmpLoieVeIeXrmW2HsGGhquYpFUN5S4agGvhJe7tdE53W+nBpE4k3rho4j0UGn/AQ==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/hw9ms65y2gnqlas1npcflzcmylsnqgrv-cargo-package-data-encoding-2.11.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0ljm3qzqwh2bj9lggcibf1naj3cm65zcq9x5h8srj74xwaw3cixz.nar.zst
+Compression: zstd
+FileHash: sha256:0ljm3qzqwh2bj9lggcibf1naj3cm65zcq9x5h8srj74xwaw3cixz
+FileSize: 24428
+NarHash: sha256:0iana3md8sxqp01h3gwp2ngg8i93rhi28c31salgq8h75fbddac7
+NarSize: 135936
+References: 
+Deriver: knz2aw49mk7p4q6x1j60lsp8jddsscnw-cargo-package-data-encoding-2.11.1.drv
+Sig: korri-cache-ci-1:XvybbNy5VpFBP6XdmTg4m2UNBxeVQiULgysyAVQpciZqYVIIPOZC/NiETYcT6u5PrM0b+l8+AIA74RcXjJSaDA==

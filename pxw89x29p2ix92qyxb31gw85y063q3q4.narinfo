@@ -1,0 +1,10 @@
+StorePath: /nix/store/pxw89x29p2ix92qyxb31gw85y063q3q4-cargo-package-tungstenite-0.27.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/068jzivm0kslaqi7z0m9mlrknkbi4mcqj0aif23yf6al8ij7z5cm.nar.zst
+Compression: zstd
+FileHash: sha256:068jzivm0kslaqi7z0m9mlrknkbi4mcqj0aif23yf6al8ij7z5cm
+FileSize: 69986
+NarHash: sha256:031x9b9cbkx3nlgb7lxa1x3yrv1nfrzk7wq1pfq3vlshinp8yh9s
+NarSize: 274512
+References: 
+Deriver: 5p4h7dgcqg6798i0cbx253f0269fn906-cargo-package-tungstenite-0.27.0.drv
+Sig: korri-cache-ci-1:0yj3p+ivx6Oj2mxChai2IRhEr03JL6Wp+/VNzZdJqT0JPoOS0Xr0lOSLjaPrFsH3ysJlZPuBlR1bXL7qiw5rCw==

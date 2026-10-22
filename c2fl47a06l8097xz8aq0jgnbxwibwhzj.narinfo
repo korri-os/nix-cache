@@ -1,0 +1,10 @@
+StorePath: /nix/store/c2fl47a06l8097xz8aq0jgnbxwibwhzj-cargo-package-cexpr-0.6.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0hpg7bnd1nh6fp6490y7dgkzwngh5pacndl4wrx3bqc6lar53zfd.nar.zst
+Compression: zstd
+FileHash: sha256:0hpg7bnd1nh6fp6490y7dgkzwngh5pacndl4wrx3bqc6lar53zfd
+FileSize: 19280
+NarHash: sha256:104nmsxlhzcw5h58zbgi9ps53cf0r6347iac4jaj1hp0pgsfc03w
+NarSize: 69984
+References: 
+Deriver: gysgbrsx7s2x598ib5f08lny528a5k5j-cargo-package-cexpr-0.6.0.drv
+Sig: korri-cache-ci-1:mVA4Hq4PBaD9BOsR6aTcBZChF3ltplNO+CiI896qp3qmQpA8eiCuuPoQtLwPYhrLFLeOOCJcHejIK5BjIBcsDA==

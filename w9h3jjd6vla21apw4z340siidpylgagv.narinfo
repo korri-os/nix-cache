@@ -1,0 +1,10 @@
+StorePath: /nix/store/w9h3jjd6vla21apw4z340siidpylgagv-unit-korri-compositor.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1ykn0p2cc6rf9ksbylfjdkhpp2w79x2vrcxdsiyyi3hpmvysf1il.nar.zst
+Compression: zstd
+FileHash: sha256:1ykn0p2cc6rf9ksbylfjdkhpp2w79x2vrcxdsiyyi3hpmvysf1il
+FileSize: 1709
+NarHash: sha256:0pkwrfi10j2bk66qp21ii012x8hwvpvlv80j81aqfjbpganjr5j7
+NarSize: 4008
+References: 1nwgsy4c5862g44s9lkf50643p3nbwm5-gnused-4.10 3b3k72bbr01bgff7bdkiz6r05gmlx5s9-gnugrep-3.12 43jagycfvg2rzkrjkmc73116bv248vq3-korri-resolve-drm-device 5hndjrc03w5ln4ji9yzhiyl998n2agvy-korri-wait-for-render-device 84gbfrbhjw58j28gj01bqbm5m0dwzdd3-korri-sway.conf bl03byg3m8md700gdjdff40cqqbmb3f3-korri-wait-for-compositor gx93xx5n8nbbnqhfqpskkr3xc3zc11dj-korri-publish-wayland-socket i8an849ir6g3f4n2wrsm88s2qgrzjayq-tzdata-2026c k8as1kdn16q5w6zq6z3vih70qby9l40i-glibc-locales-2.42-84 kik5qyy1h61vkhamvi53l0iw18zfp4gh-dbus-1.16.2 m2h5j584z9ay0g0pzmwvming36hcvkvf-sway-1.12 p6s91vq6xsrqca1p3hldzl4pfqibrkfr-xwayland-24.1.13 p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11 qzz0x1jad1g3yyrvrf6phsjcf4qincp7-korri-clean-compositor-sockets x0iv5hlpqfrpykdckbj8jdxy78clbjpz-systemd-261.2 xqx65i7cwacw7rsnj3dlbqas27mwvpn2-findutils-4.11.0
+Deriver: vzpiwrd32srks7gj118w759lqvnga4xy-unit-korri-compositor.service.drv
+Sig: korri-cache-ci-1:x/dYP0lzPbkICiULOUZma4LjUkyAajrFvJsdhsjS+Jfi6ujhBm4NiUqIVJuXafq2aWHxVZuTTrkSey/NPtomDg==

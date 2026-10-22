@@ -1,0 +1,10 @@
+StorePath: /nix/store/ya4xfzz8jsnl3i1k6j9ggrhf2ai6n8da-cargo-package-axum-0.8.9
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0z0sjk9hdji9nf3d462g7m04p7h0z2any1nj399hrdcy8jpij8sb.nar.zst
+Compression: zstd
+FileHash: sha256:0z0sjk9hdji9nf3d462g7m04p7h0z2any1nj399hrdcy8jpij8sb
+FileSize: 180365
+NarHash: sha256:13mwgdsyk29g4m0gmqwk8bsliyzwq00hh13qv3bs14xq3hz0sllf
+NarSize: 862112
+References: 
+Deriver: 6frw1jvp7nmbll7ma4dmlqdq26nbc93s-cargo-package-axum-0.8.9.drv
+Sig: korri-cache-ci-1:aNHEOy3ZPg7QIDWBGjahOZ+1rLJ12zOJ9RkresKCns293CYMSTbMN308e2hTob00ikxk74cuWO7EGoLTa6uWCA==

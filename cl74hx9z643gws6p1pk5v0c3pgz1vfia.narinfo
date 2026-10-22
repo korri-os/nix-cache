@@ -1,0 +1,10 @@
+StorePath: /nix/store/cl74hx9z643gws6p1pk5v0c3pgz1vfia-unit-logrotate-checkconf.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1gi6di1qfx3z3ycgc4nz359q26xv2l5c561xzfkn4vn9a1awj876.nar.zst
+Compression: zstd
+FileHash: sha256:1gi6di1qfx3z3ycgc4nz359q26xv2l5c561xzfkn4vn9a1awj876
+FileSize: 683
+NarHash: sha256:053pqvcbqc44hyysbks382jh6cqdrr3lgjx1r9yd8misg7wvw22r
+NarSize: 1416
+References: 1nwgsy4c5862g44s9lkf50643p3nbwm5-gnused-4.10 3b3k72bbr01bgff7bdkiz6r05gmlx5s9-gnugrep-3.12 626d88rx1xzrhcqp02zvlf061idyim8y-logrotate-3.22.0 i8an849ir6g3f4n2wrsm88s2qgrzjayq-tzdata-2026c k8as1kdn16q5w6zq6z3vih70qby9l40i-glibc-locales-2.42-84 p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11 x0iv5hlpqfrpykdckbj8jdxy78clbjpz-systemd-261.2 xqx65i7cwacw7rsnj3dlbqas27mwvpn2-findutils-4.11.0
+Deriver: phcif5didkvxsi33x8yf2hgis4jmcb93-unit-logrotate-checkconf.service.drv
+Sig: korri-cache-ci-1:SJtrfxi0s82xHGSCpdqM0xMPZHAFVZFqbcScz8doC8+flHmVq0OkjHiBCUurzsU2Z5+1GcWa3ED6wphXDtxlDg==

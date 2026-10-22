@@ -1,0 +1,10 @@
+StorePath: /nix/store/jd4c882a1js77hn3pf4zhj7mcj6kavbv-cargo-package-chacha20-0.10.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0zj0hzvblr4z7mf9dgq03328nsgsl31kddq7piswvzanmdmgqaza.nar.zst
+Compression: zstd
+FileHash: sha256:0zj0hzvblr4z7mf9dgq03328nsgsl31kddq7piswvzanmdmgqaza
+FileSize: 40212
+NarHash: sha256:1sqpc6p81yqcbkiq4xagjbrx7xkka4q92h7qm154bjmc2mv67v4a
+NarSize: 164696
+References: 
+Deriver: y9q74d6vqaqqg9s977wyripqhihpdx6c-cargo-package-chacha20-0.10.1.drv
+Sig: korri-cache-ci-1:PUE+hO60Bxx66mZ6Yi05iVuIboAM56M+e0OA/oqnIPpzxo99n0ABcmj02oNPsOkGfC641xxTMVd0qYxZ7OIHBg==

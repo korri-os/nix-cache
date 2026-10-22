@@ -1,0 +1,10 @@
+StorePath: /nix/store/mxxx51cc2542mqmq8hxzw9g74w6h1fzs-cargo-package-linux-raw-sys-0.4.15
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1kyybbd8gv15wsj73c1qk6fvznfp0aa65cvm86pdsyk29l3lhj5a.nar.zst
+Compression: zstd
+FileHash: sha256:1kyybbd8gv15wsj73c1qk6fvznfp0aa65cvm86pdsyk29l3lhj5a
+FileSize: 432254
+NarHash: sha256:1m4mhlam8z7bcl0k7r95nr67mvdapvf6imah0m79ckhlcmybwqks
+NarSize: 11946976
+References: 
+Deriver: 9yqkgs35088pyafgpsd7m182v331p70f-cargo-package-linux-raw-sys-0.4.15.drv
+Sig: korri-cache-ci-1:ljlYAPAtIqd/P3icdYS38sX5ItFeMpe4ReXqBBwSXFhDo9oPmx40AX5QFSk0dW6KYSLmDh9fx7p6hHyniEmEDw==

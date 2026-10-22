@@ -1,0 +1,10 @@
+StorePath: /nix/store/ffg5bx9lchn9qajis4hryyh8k0m16hyf-cargo-package-rquickjs-core-0.9.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1vxxx200qjqbi78ryhbm7k6bwivnki5qahs4ixg8c5iwy06as8h3.nar.zst
+Compression: zstd
+FileHash: sha256:1vxxx200qjqbi78ryhbm7k6bwivnki5qahs4ixg8c5iwy06as8h3
+FileSize: 128424
+NarHash: sha256:1gddn4xhbacpwg504c2rdh479j6jkjc9g68z3p989n45zkxp2ail
+NarSize: 614312
+References: 
+Deriver: 9isj7lfzqdbkhcnh3sl2zmbbycij3j08-cargo-package-rquickjs-core-0.9.0.drv
+Sig: korri-cache-ci-1:XLsvyx5Q1jI3bCOp91bfCnUOtMKUGmYYvVYjFlw22gj5yERzfv7EH7PxQoG9FiE76PrFLdXo7LxVCsdMS4QACQ==

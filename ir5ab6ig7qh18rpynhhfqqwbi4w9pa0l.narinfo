@@ -1,0 +1,10 @@
+StorePath: /nix/store/ir5ab6ig7qh18rpynhhfqqwbi4w9pa0l-unit-script-linger-users-start
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/14vcsdrcw2qrp4sm9ga55x5kghnqfjvcf89z8s2pj60y4z6bj1kd.nar.zst
+Compression: zstd
+FileHash: sha256:14vcsdrcw2qrp4sm9ga55x5kghnqfjvcf89z8s2pj60y4z6bj1kd
+FileSize: 682
+NarHash: sha256:1dy57aw0p6pn82d0qk96kqyp38dykjhfmfr2mpq4l2aysxa07ac0
+NarSize: 1528
+References: idnyqaaix26szkvhs1mjgi7990jajz9a-bash-5.3p15 x0iv5hlpqfrpykdckbj8jdxy78clbjpz-systemd-261.2
+Deriver: l3bwd3qsmp29ljkvhx9l4srjpv0cm3b4-unit-script-linger-users-start.drv
+Sig: korri-cache-ci-1:FeD15BYHEuaVmX4VIXtwpBVZDdoOejt5rVyyxkF6VbfGJshBvLTFBB0TQmrJ3kkGIb9CxVuZVtHfmFXNJMtLBA==

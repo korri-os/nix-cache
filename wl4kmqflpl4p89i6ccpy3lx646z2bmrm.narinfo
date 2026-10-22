@@ -1,0 +1,10 @@
+StorePath: /nix/store/wl4kmqflpl4p89i6ccpy3lx646z2bmrm-unit-script-nginx-pre-start
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1fknncxy487gabfsz6vywwsl7644wk7hdq0xq1hx5sdivvk3r008.nar.zst
+Compression: zstd
+FileHash: sha256:1fknncxy487gabfsz6vywwsl7644wk7hdq0xq1hx5sdivvk3r008
+FileSize: 323
+NarHash: sha256:1wgzs187shzkvphi1fpzjggfzhlgd24llls79rsplnka4x8rjgg1
+NarSize: 696
+References: 4854b0q067g6ipjj1996ynbnpzf1rd6r-nginx.conf idnyqaaix26szkvhs1mjgi7990jajz9a-bash-5.3p15 rx2fyiawli38aysl9nir6nxwi7rqxn0q-nginx-1.30.5
+Deriver: 6s6m0k1lhynk11q6nybnybpx87qyxjnf-unit-script-nginx-pre-start.drv
+Sig: korri-cache-ci-1:KTHAKjDi/ncAaHS0WIMjplufzxqoNriIQNT/kJ2m8Wn15+YJUgNxe2v9X3mLplJ4AI7uackpBXbuA95sFgKcAw==

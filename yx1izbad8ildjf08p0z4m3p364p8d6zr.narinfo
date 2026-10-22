@@ -1,0 +1,10 @@
+StorePath: /nix/store/yx1izbad8ildjf08p0z4m3p364p8d6zr-cargo-package-oxc_codegen-0.142.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1sv0166rccxv496pd42ahkgsa38m0lg2j5sknf93vggka3j6z9aq.nar.zst
+Compression: zstd
+FileHash: sha256:1sv0166rccxv496pd42ahkgsa38m0lg2j5sknf93vggka3j6z9aq
+FileSize: 67714
+NarHash: sha256:0v4x96blbi6s42pqdm5q9slg97j12dhydy9dg478hgg7lif0m4x6
+NarSize: 321584
+References: 
+Deriver: 3pdccdnv8l1q3l6wpaz6liiggg06qdvc-cargo-package-oxc_codegen-0.142.0.drv
+Sig: korri-cache-ci-1:QS9W22dnQCP62m8WwzVC7tIXFhi76pbW/Eupu0H8ClNTBA2WbJStldowLPyf2VYfL+HQzG00Sgy8zHx3Eg05Dw==

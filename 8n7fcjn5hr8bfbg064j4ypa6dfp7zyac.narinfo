@@ -1,0 +1,10 @@
+StorePath: /nix/store/8n7fcjn5hr8bfbg064j4ypa6dfp7zyac-cargo-package-cpufeatures-0.3.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0wagcl95b06ihnsdns9l6j1n4q2axy6p24ryfrxmnffi4qkj35bn.nar.zst
+Compression: zstd
+FileHash: sha256:0wagcl95b06ihnsdns9l6j1n4q2axy6p24ryfrxmnffi4qkj35bn
+FileSize: 15050
+NarHash: sha256:0ap46k1p4j8hmhmymfais48jjfm6jhyiqsvrwpqlpgk89sxm39ns
+NarSize: 50288
+References: 
+Deriver: jywdlfqy23s7c94gv3mdk1891hbzf5ph-cargo-package-cpufeatures-0.3.0.drv
+Sig: korri-cache-ci-1:F9PMGsay7alLI4a3ovbqtA34u1xFwYYop5KFNy+0DEU9R/YmbwvN5Va3ppaMdy47ZWPG+JsG9Fw9pFalw365Cw==

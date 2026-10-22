@@ -1,0 +1,10 @@
+StorePath: /nix/store/jfbq90xminp9kcmvviypzhnn4qj0hg2n-cargo-package-regex-1.13.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0hxkqp9j7kbjlpjjr6kcwpj1rcp69kl2p7gzfmgxkga3k8prjw20.nar.zst
+Compression: zstd
+FileHash: sha256:0hxkqp9j7kbjlpjjr6kcwpj1rcp69kl2p7gzfmgxkga3k8prjw20
+FileSize: 140851
+NarHash: sha256:0hc4h1f0ggd8f5210qyq59sjiyfy99hrca366sx5bgl54p5jh10p
+NarSize: 743480
+References: 
+Deriver: q9kl556wn9zammlqiwaj78wiynlmrlny-cargo-package-regex-1.13.1.drv
+Sig: korri-cache-ci-1:syqyZX+Fw3xYWObUK1f329VllVMfLnibKgJLJ/L8uNCJOkow+NAA6qmLmGdio8l//LltHuXBEuM8lqFEcwhbAg==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/nxjh6j5rlc1nk4j1kqky1gwvazfr4phh-cargo-package-rustls-pki-types-1.15.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1n2ig4nz5i772x9kkda0xnc9dif8afnqxzzw1m24dzldgqmbfkbr.nar.zst
+Compression: zstd
+FileHash: sha256:1n2ig4nz5i772x9kkda0xnc9dif8afnqxzzw1m24dzldgqmbfkbr
+FileSize: 40531
+NarHash: sha256:1p1xzmcsn7b6hh1qbiv98w5qvmpb58xpk33l4n5gfc1x6diarsvp
+NarSize: 173752
+References: 
+Deriver: 4a2gqwj3z6y7dbs0as6b0vi7dcnzfw79-cargo-package-rustls-pki-types-1.15.1.drv
+Sig: korri-cache-ci-1:JbgqybneNqUafVi+MHbJpx47N+bvt1ppdyEx9fqGCKubybErFRKbeJu0fweEy/cwhBJhE1h/oPBRogOzYW5+Cg==

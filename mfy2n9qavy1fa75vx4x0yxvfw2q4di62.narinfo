@@ -1,0 +1,10 @@
+StorePath: /nix/store/mfy2n9qavy1fa75vx4x0yxvfw2q4di62-korri-portal-credentials
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/18nd5srqp1rz4k71x8s0x7w3lahzck3ryfhks89c5i549g8k6waj.nar.zst
+Compression: zstd
+FileHash: sha256:18nd5srqp1rz4k71x8s0x7w3lahzck3ryfhks89c5i549g8k6waj
+FileSize: 390
+NarHash: sha256:086yc2wp3sm5465jvsfwjylq3vbhnivmyq2qg0wnm38n4ics7cms
+NarSize: 776
+References: ai0jh6nymysikgd4liv2k8iv9kmipcva-openssl-3.6.4-bin idnyqaaix26szkvhs1mjgi7990jajz9a-bash-5.3p15
+Deriver: ki53zzn6ldhm6mjy88vlrjmm8znpqmms-korri-portal-credentials.drv
+Sig: korri-cache-ci-1:AMp4UueZZPFp8OM17NKtZINtpdB2yQLbNgl3xa64Mr+st4pMNg04SlbliWVBi0uMu/D3PLE2/7LN4dQBMklnCA==

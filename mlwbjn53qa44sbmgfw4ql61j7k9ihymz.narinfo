@@ -1,0 +1,10 @@
+StorePath: /nix/store/mlwbjn53qa44sbmgfw4ql61j7k9ihymz-cargo-package-mio-1.2.2
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1vgjvfk943yk0bydxy7agk9whabny91zlxpndzg8wnqzngqclhj6.nar.zst
+Compression: zstd
+FileHash: sha256:1vgjvfk943yk0bydxy7agk9whabny91zlxpndzg8wnqzngqclhj6
+FileSize: 110780
+NarHash: sha256:1866gl6apabpcz43c12y99z0n9hhahhvs83jqf7nd6229mzsy4d9
+NarSize: 525776
+References: 
+Deriver: 9gldhbwma85wps6f59zxln518brd9b43-cargo-package-mio-1.2.2.drv
+Sig: korri-cache-ci-1:bi7Jq4NPOpliOr8udwEQHTYNreDwubC/UGNPbKE4JnQt4xsW5mxPle8ejIAt2DLosKsd/KhamP1GTdfmtTboAw==

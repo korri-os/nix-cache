@@ -1,0 +1,10 @@
+StorePath: /nix/store/68py3la7nrbi2d96b3xv2lj2xq2h6cqx-cargo-package-zbus_macros-5.19.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1ih5ng96mqs2b129jgid8z908cl2mvnxykxqj4g8zvx13p2j3gbd.nar.zst
+Compression: zstd
+FileHash: sha256:1ih5ng96mqs2b129jgid8z908cl2mvnxykxqj4g8zvx13p2j3gbd
+FileSize: 42197
+NarHash: sha256:1zvc08zd23j9z2s8s2gz8ipfq2x27asq7da86ifxpzbagvls2sxi
+NarSize: 178056
+References: 
+Deriver: k6031aglbi360pd77pa53yh2ipfdw8m6-cargo-package-zbus_macros-5.19.0.drv
+Sig: korri-cache-ci-1:gG5E7GVKXv8amkilUUB2V436ttSekkAtqM5gq5sGQDNvYmDP2ogL7IUNQ3zV9ckdvD36iVR6a8Fo/XrYAPbEAw==

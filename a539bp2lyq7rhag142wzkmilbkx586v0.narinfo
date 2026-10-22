@@ -1,0 +1,10 @@
+StorePath: /nix/store/a539bp2lyq7rhag142wzkmilbkx586v0-cargo-package-ucd-trie-0.1.7
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1c5n7ii0v0yrpqyjvmx69yrpk7in9fvy4y1xy4phkp2rglvpsqvp.nar.zst
+Compression: zstd
+FileHash: sha256:1c5n7ii0v0yrpqyjvmx69yrpk7in9fvy4y1xy4phkp2rglvpsqvp
+FileSize: 39447
+NarHash: sha256:0ahz5mlr7fymrlr9xgk4iplmbl9yph1x0hzc11wvwqhj48jf1hj0
+NarSize: 164768
+References: 
+Deriver: 4mqyl5jjxs6cial0bplvck2xcvr2k13m-cargo-package-ucd-trie-0.1.7.drv
+Sig: korri-cache-ci-1:+DtP/K3eeQQtNz5zwKsx/Zno/7C6BC5aTr2jIJeEmIET5GHQJOEP0BsmQ4NV+zstQNkr7/WfAbwBV+U9yai2AQ==

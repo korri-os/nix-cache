@@ -1,0 +1,10 @@
+StorePath: /nix/store/wyi5k2802y7src7lvh4bidriyf3r2akj-cargo-package-owo-colors-4.3.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1lgsqphq8pzd2phhi4s2yynch61rn4cdbcyfids3qg4w0h2n15sk.nar.zst
+Compression: zstd
+FileHash: sha256:1lgsqphq8pzd2phhi4s2yynch61rn4cdbcyfids3qg4w0h2n15sk
+FileSize: 32894
+NarHash: sha256:0kb33b6n91i1wc6ccfimc08yll0cdzz4hqgwn18n52cjamznvsl2
+NarSize: 166560
+References: 
+Deriver: 6asp6wl09wda8gghl9gnkwq7ciw18g7m-cargo-package-owo-colors-4.3.0.drv
+Sig: korri-cache-ci-1:aS77172jCrzwQI7v90rARf0VQnjd9m9+vs7Oo+Z2SV2aaqVFVr8iipWIglzGpH6v8hMUv2FxMPCRTXqVKTj6Cg==

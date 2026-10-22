@@ -1,0 +1,10 @@
+StorePath: /nix/store/13i37cpk696njk1v9vz6jv1wjl4j0zfi-cargo-package-tinystr-0.8.3
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/16mwilx9v7475w23fk074p81qfg8b4wwmjhh1hfw9q1s192azbmv.nar.zst
+Compression: zstd
+FileHash: sha256:16mwilx9v7475w23fk074p81qfg8b4wwmjhh1hfw9q1s192azbmv
+FileSize: 25301
+NarHash: sha256:17dlnxb4lcfk44s0yyja4yx4fakjzn4bqj2vghqgnnkagiqmfsdx
+NarSize: 119144
+References: 
+Deriver: zbm3qnjwfrhmk5p1mvpdvjs4fyn7x80q-cargo-package-tinystr-0.8.3.drv
+Sig: korri-cache-ci-1:4aqxkvv1nnnSvhk1baUmT7s5WX3FVKcoe+T5BtCQCxz9mL3p3YoaXIjYZnhFWQmuUKBIetcboxiL7MVQUc+ZDQ==

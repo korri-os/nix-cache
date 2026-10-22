@@ -1,0 +1,10 @@
+StorePath: /nix/store/fmxp77sdriz7336r5ymqmm8a7ai5q68y-etc-ssh-ssh_config
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1zl81cwbwznnjwb622ddhvaqnl0rqm8l95ixkkpcfxyyzhalhdfi.nar.zst
+Compression: zstd
+FileHash: sha256:1zl81cwbwznnjwb622ddhvaqnl0rqm8l95ixkkpcfxyyzhalhdfi
+FileSize: 282
+NarHash: sha256:0v4mn31h5ir27ipz6zk7nphp2477v5ypmra6dd6bb2k5g8g0mxss
+NarSize: 368
+References: x0iv5hlpqfrpykdckbj8jdxy78clbjpz-systemd-261.2
+Deriver: 1y7zziiavbx189b1mys2n79ps7z4f26c-etc-ssh-ssh_config.drv
+Sig: korri-cache-ci-1:HQREz730bF2h8w1gjc01z45e7ttMV+br4hOJIX/tehsmZYXRBmEJLPxztXw9eQru6M15uFKYtjlSO6TwfRnnDA==

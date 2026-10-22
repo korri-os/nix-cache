@@ -1,0 +1,10 @@
+StorePath: /nix/store/c07gdfa9r0qhr6s6kjhbxlnz12sh1077-cargo-package-bitcoin-consensus-encoding-1.2.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1sq4788ji8qzqaw247sxq9zvi5cd0a032j8a3l978mcdqw9bwnn5.nar.zst
+Compression: zstd
+FileHash: sha256:1sq4788ji8qzqaw247sxq9zvi5cd0a032j8a3l978mcdqw9bwnn5
+FileSize: 37055
+NarHash: sha256:0h8ynzmp5cpxg3cjp0qppqdi7zy0xq266hgxqqz87h79r1am50f8
+NarSize: 161944
+References: 
+Deriver: 4a1s3jd319jr07qlv7gzar1x62jsc9ii-cargo-package-bitcoin-consensus-encoding-1.2.0.drv
+Sig: korri-cache-ci-1:GmSXZuE7IEa99gW3AUNsMdH0s7FmDnf897ZZPtobO+HtWRGfTKzxdXSAJcph9DhqJg610gNU1VBMdkqjFdfXDw==

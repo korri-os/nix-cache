@@ -1,0 +1,10 @@
+StorePath: /nix/store/bcqqx1kwagb28srv8najpcjl2a1ds5c7-cargo-package-prettyplease-0.2.37
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0vxkh294px3k6j9mxfiya6g8fzvjnirl3mndp3g6jl1jpk0l1s24.nar.zst
+Compression: zstd
+FileHash: sha256:0vxkh294px3k6j9mxfiya6g8fzvjnirl3mndp3g6jl1jpk0l1s24
+FileSize: 74692
+NarHash: sha256:0f4hjg9cvaz1p2x0yljpal2350z7y3rhzh5wsbhiaib1zamlvvyn
+NarSize: 426104
+References: 
+Deriver: kqcb20s7nqm86f8s7zqvlnfhyh0a1cr4-cargo-package-prettyplease-0.2.37.drv
+Sig: korri-cache-ci-1:LCmFtCog41CHuynSQHFZNgsPbO7Jau1YfIl3NfzjRikcYUCPGscy4SavWaC5C0Ru9N/Z2q2tvcluZzg54NSkBQ==

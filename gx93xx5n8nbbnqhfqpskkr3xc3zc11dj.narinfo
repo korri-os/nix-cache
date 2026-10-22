@@ -1,0 +1,10 @@
+StorePath: /nix/store/gx93xx5n8nbbnqhfqpskkr3xc3zc11dj-korri-publish-wayland-socket
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/190v6m9ys8s0zh29n0vrvrqw1rxgrkv18kl6d9lh81fnldary8qa.nar.zst
+Compression: zstd
+FileHash: sha256:190v6m9ys8s0zh29n0vrvrqw1rxgrkv18kl6d9lh81fnldary8qa
+FileSize: 637
+NarHash: sha256:1b522ikp57wdax0bhy0j5c6y6iz0rmavrfzgzk9vwy5kv7kg6vhg
+NarSize: 1184
+References: idnyqaaix26szkvhs1mjgi7990jajz9a-bash-5.3p15 p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11
+Deriver: cks4f6jxrkfcmbcnijsav3d4finxbm4p-korri-publish-wayland-socket.drv
+Sig: korri-cache-ci-1:+Rq+Bprrehv75vXvpa0yiyKVXJ1kyoo2Snw4ugPlKopYh0Wv+J2QXJ4f+iF6ZevbbdzL6PQrAe/OieV5vkkXBQ==

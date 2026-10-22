@@ -1,0 +1,10 @@
+StorePath: /nix/store/d9s1z5zzw7ssi5zsss0azw5njm1zbkrq-cargo-package-find-msvc-tools-0.1.9
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1r16nf87cvzyxy2gs9slxpc00sfszl383bhvyqarxm1vn8h1lhfb.nar.zst
+Compression: zstd
+FileHash: sha256:1r16nf87cvzyxy2gs9slxpc00sfszl383bhvyqarxm1vn8h1lhfb
+FileSize: 33036
+NarHash: sha256:09dh3nlcjv7awv5a7jaqyllkl616c4d4fy1561yb46gbw99dj6si
+NarSize: 120408
+References: 
+Deriver: ga5yvj74xqhzmhs7jclcrmms2j7p4fjd-cargo-package-find-msvc-tools-0.1.9.drv
+Sig: korri-cache-ci-1:BUDC3xHGkVuR1v6TTk3kkpD0o/3IexySJ7SCA6igcv5leQp7lq8FhTqvwO5A84Q54ZA89MRHCw7Soknow4toDA==

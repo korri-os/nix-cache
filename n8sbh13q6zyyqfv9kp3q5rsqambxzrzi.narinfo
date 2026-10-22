@@ -1,0 +1,10 @@
+StorePath: /nix/store/n8sbh13q6zyyqfv9kp3q5rsqambxzrzi-cargo-package-writeable-0.6.3
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0fb59d0vl5b55lmhfrnfrlwkbvnsvxy3xii6i565w6vl6z8s59rj.nar.zst
+Compression: zstd
+FileHash: sha256:0fb59d0vl5b55lmhfrnfrlwkbvnsvxy3xii6i565w6vl6z8s59rj
+FileSize: 27926
+NarHash: sha256:1w1z71wivy4jb4zwjhqzdrfn3cxi7dskzilv3zhp33450bz4rmc8
+NarSize: 115920
+References: 
+Deriver: 4arhcyan4fnj6yc8cqmxs48bv90170r0-cargo-package-writeable-0.6.3.drv
+Sig: korri-cache-ci-1:Yzu4WFmkN53zRN7PATm3qqosA7YNAQYMkQT4NENaeMpZqBdyTzwJ5/68YRWhnG/J2eb9iMfm23za676lUtspAQ==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/wmq279pgp21w1ly2m1q7mpgw9jdn8p89-cargo-package-hyper-util-0.1.20
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0fnnjlh9ziajhwcnzjx98sqn13y21x63h4pjapsc58mpq4s0nn0v.nar.zst
+Compression: zstd
+FileHash: sha256:0fnnjlh9ziajhwcnzjx98sqn13y21x63h4pjapsc58mpq4s0nn0v
+FileSize: 116664
+NarHash: sha256:1s0xdi9aa26kyvz01rbipghbqnzqb9d446z7dcg2qid618zwqkl5
+NarSize: 548240
+References: 
+Deriver: 6gn454gipiwll2liz9nj3ls87gfc0m9a-cargo-package-hyper-util-0.1.20.drv
+Sig: korri-cache-ci-1:rCOlPWx0VmFW7saMRAnExK4LB2dlrs0dbZr9kWU8zOWNfGVHRTv5FYUegWUkAXDYxtmMkYldcv9GhTecmPMGCg==

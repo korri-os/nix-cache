@@ -1,0 +1,10 @@
+StorePath: /nix/store/hp5d2vzk4n96dinalxa9g9wxf3kwg6nb-X-Reload-Triggers-systemd-networkd
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1wl7x2xn7yydll1iny32wh2nfvk72jsjf9ri20aw74l2sf0any78.nar.zst
+Compression: zstd
+FileHash: sha256:1wl7x2xn7yydll1iny32wh2nfvk72jsjf9ri20aw74l2sf0any78
+FileSize: 152
+NarHash: sha256:01kb9kipc7xqa5c6qbn1yz8icwj46j10d307139gphcwpswmi7yf
+NarSize: 208
+References: h6pk293p6305b6k521bwhfs91v5y261m-unit-10-usb-gadget.network
+Deriver: z72yqiqz7r9w3sv5a56y8idcnwwvghnq-X-Reload-Triggers-systemd-networkd.drv
+Sig: korri-cache-ci-1:WqhIiZhpm3Tb/4t57iRNaQJuVsNyJHSmN0Ey0RpV2H32WXk4i/VSvR/YuW2uUr9D9hrO6t272lQAFTpkOxgKAA==

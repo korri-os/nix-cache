@@ -1,0 +1,10 @@
+StorePath: /nix/store/cyibcb70hq6gjmz0g1glxgps549h692m-udev-path
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0nvwgs66vm7r2qwqgfgqdxb56z7mibcn5c95897hl1a4azqk020m.nar.zst
+Compression: zstd
+FileHash: sha256:0nvwgs66vm7r2qwqgfgqdxb56z7mibcn5c95897hl1a4azqk020m
+FileSize: 7248
+NarHash: sha256:0bggnxgq9sn6842lmiz17jkj10407c1qclphyk9f994ar1bd2fcq
+NarSize: 137752
+References: 1nwgsy4c5862g44s9lkf50643p3nbwm5-gnused-4.10 3b3k72bbr01bgff7bdkiz6r05gmlx5s9-gnugrep-3.12 p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11 qbxkcbbkharkrdfbhh0wwh2zf733pzzg-util-linux-2.42.3-bin x0iv5hlpqfrpykdckbj8jdxy78clbjpz-systemd-261.2
+Deriver: a4f1lbhidb6jz7h00sy105bmvq9h9kdc-udev-path.drv
+Sig: korri-cache-ci-1:lZxijds3y/BR/4jTiPmkdEKyA5s3sIE57LGaivyfRivfIB9i5ADV4F/HCyXa6Z26q/0LcEW/cnmQzzowtN94Ag==

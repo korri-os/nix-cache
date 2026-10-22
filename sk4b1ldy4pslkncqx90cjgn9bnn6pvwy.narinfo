@@ -1,0 +1,10 @@
+StorePath: /nix/store/sk4b1ldy4pslkncqx90cjgn9bnn6pvwy-cargo-package-str_indices-0.4.4
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/16f4y2mgw66l46mw96j3scjll7qsa6dibpgq5qddqrg4q2w7cx65.nar.zst
+Compression: zstd
+FileHash: sha256:16f4y2mgw66l46mw96j3scjll7qsa6dibpgq5qddqrg4q2w7cx65
+FileSize: 21016
+NarHash: sha256:1lj4i9dicsfdbszvsp9h194v1rw18lfdw2m6v78vipkylsd4xyd6
+NarSize: 106312
+References: 
+Deriver: zxdxwxsc94cigwc60b8qdqk78imaz0j7-cargo-package-str_indices-0.4.4.drv
+Sig: korri-cache-ci-1:8w5TQs9wZnehKNamKxdltyCC6nCnLGKxoelCgsAAXK6O/0r1s78gaqxAniMJvyFlxsnHJNlt4x7lrqHKAmqzDw==

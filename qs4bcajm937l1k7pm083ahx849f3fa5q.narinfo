@@ -1,0 +1,10 @@
+StorePath: /nix/store/qs4bcajm937l1k7pm083ahx849f3fa5q-cargo-package-getrandom-0.3.4
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0awb0j09ck9wkpyiacksczf9nbf1z8z2d11dkkg3p24kw89fkmiv.nar.zst
+Compression: zstd
+FileHash: sha256:0awb0j09ck9wkpyiacksczf9nbf1z8z2d11dkkg3p24kw89fkmiv
+FileSize: 52168
+NarHash: sha256:09ngn3dk7nhyan3n58fnvj0bn2725d764hz0hysxs3h3v0ayanmk
+NarSize: 185664
+References: 
+Deriver: x7fi6d5mdy2wa86pkfvvdmp6i0xc8hl7-cargo-package-getrandom-0.3.4.drv
+Sig: korri-cache-ci-1:Mj8LtZNDkhkrB5MiRe1VEPCxtoMCfRJbF8y8OAOw+UdgLGLrGsBr1X9/AcuLKIEr18lfw3X1v9lBVr06aVdYAA==

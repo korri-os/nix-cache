@@ -1,0 +1,10 @@
+StorePath: /nix/store/jfb8vry36vpy08f1yr9pz6yk31b94ffd-cargo-package-event-listener-strategy-0.5.4
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0idsm8vlfnpvblg1k9ca8pn328c3njryzbjm31qfs2vsz56mpxh3.nar.zst
+Compression: zstd
+FileHash: sha256:0idsm8vlfnpvblg1k9ca8pn328c3njryzbjm31qfs2vsz56mpxh3
+FileSize: 17040
+NarHash: sha256:1894p2kjgilc4vqrq3wqnfab4a9rr8cw9k62yf9w1fq3xr1rmmz9
+NarSize: 58896
+References: 
+Deriver: qlkg052i0ls5lh55x1lcq10dy8sqkxsb-cargo-package-event-listener-strategy-0.5.4.drv
+Sig: korri-cache-ci-1:Rxh/vXvo/xOf6+/hqsMj/o9K4mMHNU7aiiszAtxNsKIemFA/DkacxXidNNnm+/+naSgwQwhDTM4HguH8pBCmBg==

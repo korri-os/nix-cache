@@ -1,0 +1,10 @@
+StorePath: /nix/store/zrpbk84zql4xcfy6mhdgm2z1glbr8i2n-cargo-package-ppv-lite86-0.2.21
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0hpqbra4ks08jhqd443v64yz995l4mdw2n0r0vi0pbrkr85i4sql.nar.zst
+Compression: zstd
+FileHash: sha256:0hpqbra4ks08jhqd443v64yz995l4mdw2n0r0vi0pbrkr85i4sql
+FileSize: 24241
+NarHash: sha256:0ps2rrrsr948k209mx9znk34gr7pzmqm33mh1zakd3r9qaa6g568
+NarSize: 135680
+References: 
+Deriver: 8d6bqkjh3yaic89bjiwsp7d0cpfnksmf-cargo-package-ppv-lite86-0.2.21.drv
+Sig: korri-cache-ci-1:NBsAqv95lV0ujl4dj9ZXUQMGONPHEAo4P32Uv1eF9U9WdTcEPfltGYmk/BqEm0FHz2ZkupwEDUdq0vXTzODnAA==

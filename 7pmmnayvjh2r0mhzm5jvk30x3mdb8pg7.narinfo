@@ -1,0 +1,10 @@
+StorePath: /nix/store/7pmmnayvjh2r0mhzm5jvk30x3mdb8pg7-cargo-package-fnv-1.0.7
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1d8wqmaggqxqsfpvz8dfi8j62s46y71mgp0263sjhzqnhxs89azq.nar.zst
+Compression: zstd
+FileHash: sha256:1d8wqmaggqxqsfpvz8dfi8j62s46y71mgp0263sjhzqnhxs89azq
+FileSize: 11751
+NarHash: sha256:188q6wz5zg9m2c3j80vkq7sg5vbk0n9fd9srn969ixd8b4wixw9b
+NarSize: 37056
+References: 
+Deriver: cj69rx2gg1x05xqbvpdxvd6sgvlwmwym-cargo-package-fnv-1.0.7.drv
+Sig: korri-cache-ci-1:ckN8lvsvvMMlCo8KEkxow5h3J+yBXyAIBGoniffCyjupdk5rLtEEbazk7bb/PblZ91p7Ez4Wc933FfoCH2AwDA==

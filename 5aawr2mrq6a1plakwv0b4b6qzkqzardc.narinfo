@@ -1,0 +1,10 @@
+StorePath: /nix/store/5aawr2mrq6a1plakwv0b4b6qzkqzardc-korri-fan-control-restore
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1gab3d8niyz1rz376ssz72lamfcax7jv59m4683k2nz383v25i4s.nar.zst
+Compression: zstd
+FileHash: sha256:1gab3d8niyz1rz376ssz72lamfcax7jv59m4683k2nz383v25i4s
+FileSize: 716
+NarHash: sha256:1lk0n1dxld9wbzkqanfynxrlhflrjnfj0b9b9wsn6z49hcfxy19i
+NarSize: 1096
+References: idnyqaaix26szkvhs1mjgi7990jajz9a-bash-5.3p15 p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11 qbxkcbbkharkrdfbhh0wwh2zf733pzzg-util-linux-2.42.3-bin
+Deriver: jllv8apnq2sg3fbnggkj9lgj7mb3p3dj-korri-fan-control-restore.drv
+Sig: korri-cache-ci-1:pDGv3Jw8E/vonB1VNlDGh6MTui6ii7DYL3u51BZBoVeYfsF/SkZ7JbAYWpfIFG8Sivgv8WYwIcRRizIurw1jAA==

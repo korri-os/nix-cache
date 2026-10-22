@@ -1,0 +1,10 @@
+StorePath: /nix/store/846imyqydjphdg628ylby8qnp1qlfjhk-systemd-boot
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/13zpd4ha4zh1wpdmvs23bsjs3059mly302al4rc0m0sicxw7c2d2.nar.zst
+Compression: zstd
+FileHash: sha256:13zpd4ha4zh1wpdmvs23bsjs3059mly302al4rc0m0sicxw7c2d2
+FileSize: 8158
+NarHash: sha256:0x5mvl17srqan40hvczb8y7b309igi7r66yn1jjyxxcda3drvsfk
+NarSize: 24576
+References: 3fl7bdkdxk2k4nssy1d1161isbzn6bsr-python3-3.14.7 kp50n6pqlxc03m02r9610jb4i57vf33s-check-mountpoints lz2w1as1p0c2lajnvy2iif1i3vqh189a-nix-2.34.8 x0iv5hlpqfrpykdckbj8jdxy78clbjpz-systemd-261.2 zqmgvq294dkj3ky8in8qzc30dvd14pyp-copy-extra-files
+Deriver: lz5iavlzvzymjhpl45accfgh275bf2dp-systemd-boot.drv
+Sig: korri-cache-ci-1:RgItuVkrgGsyo5p6ujbN8uurA3Npg0JvTEareoF6PN6Y+MtaD0gwNeaIIG5Pp+rYOlw/BEzxzZ452dlZxK91Ag==

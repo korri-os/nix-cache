@@ -1,0 +1,10 @@
+StorePath: /nix/store/ghqvvfqcsp5gbzs6p9b504ig6vly9k1y-cargo-package-seq-macro-0.3.6
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/03a4vxs85aykgc5d5bca3cvsdlqn9vbj82bh2l4q7b8bl3is1x59.nar.zst
+Compression: zstd
+FileHash: sha256:03a4vxs85aykgc5d5bca3cvsdlqn9vbj82bh2l4q7b8bl3is1x59
+FileSize: 17180
+NarHash: sha256:19k9362mspdhyjmvnvvi3d854yzz8hi91jgaiz643za1ixw341iy
+NarSize: 59640
+References: 
+Deriver: cncb5n8qczzfrfks78jghr2k19nixv9q-cargo-package-seq-macro-0.3.6.drv
+Sig: korri-cache-ci-1:KQYzreKGJXcz9gjq/J3Ls0aQv6u6FyZcX5jlHWjKE6lWMOmDJmg/YA7hOgOh+iTceLl45ibiMRD+LebmhAyGDA==

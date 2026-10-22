@@ -1,0 +1,10 @@
+StorePath: /nix/store/q5kq035cwcsl4wkjbjild42gbxr0ws4r-cargo-package-inout-0.1.4
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/19cxdpjsi913hiz0hpw17qk2yh764da8p972vcvcn8pqxiig961s.nar.zst
+Compression: zstd
+FileHash: sha256:19cxdpjsi913hiz0hpw17qk2yh764da8p972vcvcn8pqxiig961s
+FileSize: 12316
+NarHash: sha256:0pi96kzgppcfik06qfiiivzkak1g6d7if6yq93bl82srjqkiwnyb
+NarSize: 44864
+References: 
+Deriver: j9sphdym49d0z5ymfgp56yip833r3b5h-cargo-package-inout-0.1.4.drv
+Sig: korri-cache-ci-1:j1YYvYzC+g35aHijzx+Ji0pOw/WI0rlcOcmM2J7GI+y/GhUNnPmcG+ufG5rBfm94T3rMayBK6jdvAhVNkPWZAg==

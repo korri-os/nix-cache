@@ -1,0 +1,10 @@
+StorePath: /nix/store/c5mhsv05qybjhnpswk3b8icldraia674-ayn-odin2-ucm-2026-05-11
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0hm8id1pd6xp1pyssfslfgv4z9iga35kc55w6wi5y4c8zsff7saj.nar.zst
+Compression: zstd
+FileHash: sha256:0hm8id1pd6xp1pyssfslfgv4z9iga35kc55w6wi5y4c8zsff7saj
+FileSize: 116965
+NarHash: sha256:109lgl71srbwii6y3gmq20l8zd1vp8amjrhd292fbnzzl5qhq8ni
+NarSize: 940480
+References: p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11 ry7lwn1b1hvaxfshfgzgwc1260jj9rwd-kmod-31
+Deriver: zj7xbv19c2kijgv5qi62l688pmmf8i0p-ayn-odin2-ucm-2026-05-11.drv
+Sig: korri-cache-ci-1:uviHTHVbxUfYKgNW01F6UcTKnXv7hCU3QrkQh12T6EG7JAqC7b180RqSKaKwI2Y7uclP+6FyZ5Fq1TMFM1LDAg==

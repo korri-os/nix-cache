@@ -1,0 +1,10 @@
+StorePath: /nix/store/qlfq8zhqfawv0l1hkm7fihj6vbgry1lx-unit-plymouth-quit-wait.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0srpjmwk8qrzqpi18gaf5y98s8lnd5qa876g2c5b6jcdvkvawp8i.nar.zst
+Compression: zstd
+FileHash: sha256:0srpjmwk8qrzqpi18gaf5y98s8lnd5qa876g2c5b6jcdvkvawp8i
+FileSize: 575
+NarHash: sha256:0l4y5hjkn7mfxwhbq68zlmrv6kwimryh3x9s8yynwn6735hwf6vr
+NarSize: 1224
+References: 1nwgsy4c5862g44s9lkf50643p3nbwm5-gnused-4.10 3b3k72bbr01bgff7bdkiz6r05gmlx5s9-gnugrep-3.12 i8an849ir6g3f4n2wrsm88s2qgrzjayq-tzdata-2026c k8as1kdn16q5w6zq6z3vih70qby9l40i-glibc-locales-2.42-84 p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11 x0iv5hlpqfrpykdckbj8jdxy78clbjpz-systemd-261.2 xqx65i7cwacw7rsnj3dlbqas27mwvpn2-findutils-4.11.0
+Deriver: 09ack5g6f65bybj0d84wwxhqyx6l0kab-unit-plymouth-quit-wait.service.drv
+Sig: korri-cache-ci-1:PQkZV5FwTMH+3AGpl6O50xNYWTl+ioiFj46owFYCo0ABVHQUCYkSIU3i/6Bs1QSgy5X6rp6FvSaWja0spaLvDA==

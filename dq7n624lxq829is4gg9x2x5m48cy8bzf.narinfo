@@ -1,0 +1,10 @@
+StorePath: /nix/store/dq7n624lxq829is4gg9x2x5m48cy8bzf-cargo-package-percent-encoding-2.3.2
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0v5npvwyc1nad97n30mz4q2s3m8yzvzaw6amy67dn55fr1c54ls4.nar.zst
+Compression: zstd
+FileHash: sha256:0v5npvwyc1nad97n30mz4q2s3m8yzvzaw6amy67dn55fr1c54ls4
+FileSize: 12306
+NarHash: sha256:1iwxy5kwg5dx4nyprlxm2j9bl829h7zlvmp8xlvg7vhbkpf4s3wy
+NarSize: 37656
+References: 
+Deriver: pwck0279zh851p35dbrpdnyn3xjsds8m-cargo-package-percent-encoding-2.3.2.drv
+Sig: korri-cache-ci-1:6uTPLsonTMQnX96XMZlIVY6ivNyD2CnkG4YwHxsKLnopffBR5MF5kAeYc4LQ2GGtzwMmc1n9rl5jEjk0i0KRAA==

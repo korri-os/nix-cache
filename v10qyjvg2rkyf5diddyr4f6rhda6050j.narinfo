@@ -1,0 +1,10 @@
+StorePath: /nix/store/v10qyjvg2rkyf5diddyr4f6rhda6050j-cargo-package-inotify-sys-0.1.8
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/10g5knsbn780rpaz8nkfk1zxgnq3mkgk9zgzb1yhdz6f38l9j23z.nar.zst
+Compression: zstd
+FileHash: sha256:10g5knsbn780rpaz8nkfk1zxgnq3mkgk9zgzb1yhdz6f38l9j23z
+FileSize: 9002
+NarHash: sha256:1k0gsq4myk8g7f4wi4b8gy4v8m4nfn6s67p2x3rk3s2bahlp2pqk
+NarSize: 39952
+References: 
+Deriver: xgc3186vcxvld9f20z8psbwxbnmxzvds-cargo-package-inotify-sys-0.1.8.drv
+Sig: korri-cache-ci-1:10Zgv9RluuR3IBcYQG7JD9vflEebUqmNOIR+Dq4FaUMp7hfUjbC8mGSqPxSLDlr4oM/gtmVSgSN8xEsqqsckDA==

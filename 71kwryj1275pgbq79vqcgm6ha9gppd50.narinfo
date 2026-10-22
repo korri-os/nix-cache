@@ -1,0 +1,10 @@
+StorePath: /nix/store/71kwryj1275pgbq79vqcgm6ha9gppd50-cargo-package-icu_properties-2.2.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0rgk8ax4lz9l0wql1ilzh5zxx5ij0xc7w1hx7q5a7f4j7999d4p3.nar.zst
+Compression: zstd
+FileHash: sha256:0rgk8ax4lz9l0wql1ilzh5zxx5ij0xc7w1hx7q5a7f4j7999d4p3
+FileSize: 64636
+NarHash: sha256:0iv96ijhzfsq4aq0i8r780fym1b2y7ik7j20v4s7lw19q1s7apaw
+NarSize: 379472
+References: 
+Deriver: c3s0c0vc9ma3ycgkgwai83b9an52grzq-cargo-package-icu_properties-2.2.0.drv
+Sig: korri-cache-ci-1:uMDAvRQZb182T3D9u7HbYOpgVKGbag7FHaH/NpQwC3OmW3XeKitHRytmcRh+b3gkfeJPHo8a89u1OXnJi3LdAQ==

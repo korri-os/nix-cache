@@ -1,0 +1,10 @@
+StorePath: /nix/store/682j7pfr85c2xcf665mqkifr30fs4gr6-unit-korri-portal-credentials.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0way31clhcnvsr6z0dn5gs989l1gxv3ni9p2i82bh29m0l55zlig.nar.zst
+Compression: zstd
+FileHash: sha256:0way31clhcnvsr6z0dn5gs989l1gxv3ni9p2i82bh29m0l55zlig
+FileSize: 731
+NarHash: sha256:13m1dbq7i1fclc0pj9p1pi07mw35bbqh9nzrg2v6iyl3655brb1c
+NarSize: 1528
+References: 1nwgsy4c5862g44s9lkf50643p3nbwm5-gnused-4.10 3b3k72bbr01bgff7bdkiz6r05gmlx5s9-gnugrep-3.12 i8an849ir6g3f4n2wrsm88s2qgrzjayq-tzdata-2026c k8as1kdn16q5w6zq6z3vih70qby9l40i-glibc-locales-2.42-84 mfy2n9qavy1fa75vx4x0yxvfw2q4di62-korri-portal-credentials p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11 x0iv5hlpqfrpykdckbj8jdxy78clbjpz-systemd-261.2 xqx65i7cwacw7rsnj3dlbqas27mwvpn2-findutils-4.11.0
+Deriver: 8p6b581xbmr32d2r5z48plllmh3msp8j-unit-korri-portal-credentials.service.drv
+Sig: korri-cache-ci-1:7+uYPoRHSzoyY1cL51/l2rpFi3SDLh9nlnBuXDEWVA0Jr0NKF4WPcI4cI/Sw92Ly//cTwzqqZA9IgY4hOosABA==

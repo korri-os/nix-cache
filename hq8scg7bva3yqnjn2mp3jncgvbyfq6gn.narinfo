@@ -1,0 +1,10 @@
+StorePath: /nix/store/hq8scg7bva3yqnjn2mp3jncgvbyfq6gn-10-sm8550-quantum
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0m64vwvsd6yjfj61n7qcbvfb0dcydmky742h5qcj474i4bjxmwxg.nar.zst
+Compression: zstd
+FileHash: sha256:0m64vwvsd6yjfj61n7qcbvfb0dcydmky742h5qcj474i4bjxmwxg
+FileSize: 145
+NarHash: sha256:0jjgiha624i213il7v9zwm5chhk1zbg3maq57g8522mgi1caf79j
+NarSize: 184
+References: 
+Deriver: 98q9zmfad4fn303dw8pz501d7w2r7ig0-10-sm8550-quantum.drv
+Sig: korri-cache-ci-1:6AhATXQg+shs9ZRQxcfVtzhtkucj3W0Y2lYmlGzdJ9zzoD1Z8Bx7Q1veQD4tGhDzRR/j3f2PwPdK0BnfWPmOAw==

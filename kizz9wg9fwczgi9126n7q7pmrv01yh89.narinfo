@@ -1,0 +1,10 @@
+StorePath: /nix/store/kizz9wg9fwczgi9126n7q7pmrv01yh89-cargo-package-fdeflate-0.3.7
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/18ddzbkcva9g4l8zgj3vk50vh595lrq0prl6z0yl7p9lzapxhgda.nar.zst
+Compression: zstd
+FileHash: sha256:18ddzbkcva9g4l8zgj3vk50vh595lrq0prl6z0yl7p9lzapxhgda
+FileSize: 29245
+NarHash: sha256:1s58sh4gbr3w1azpfl6biigkcylr43mnk6syk6p49722i17bvrnw
+NarSize: 112552
+References: 
+Deriver: g2wysy3bdwpjjr3z48sjwcw8sx6b3w2a-cargo-package-fdeflate-0.3.7.drv
+Sig: korri-cache-ci-1:IHzmM7C4pToKs2T3XRQTT5ID4QSW5KTB6yJzURFbEvkrvfc/4TuWouM7veDwZhPv18Q3xdTCUQgZgxTaoW/dAw==

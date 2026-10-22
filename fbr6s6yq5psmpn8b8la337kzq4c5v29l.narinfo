@@ -1,0 +1,10 @@
+StorePath: /nix/store/fbr6s6yq5psmpn8b8la337kzq4c5v29l-cargo-package-num-bigint-0.5.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/185h04k5nj0wbb023l8ii83pg6hxkgrrx1s74kdrh067d95c97kr.nar.zst
+Compression: zstd
+FileHash: sha256:185h04k5nj0wbb023l8ii83pg6hxkgrrx1s74kdrh067d95c97kr
+FileSize: 109327
+NarHash: sha256:0mcnw5m53pm129frc1k9w3kznhwvbga5w48pjc1sf5diba3g7gna
+NarSize: 541520
+References: 
+Deriver: qfp2zvq20yid60g5kv32078jhvs94kif-cargo-package-num-bigint-0.5.1.drv
+Sig: korri-cache-ci-1:6UwxW15ajDoNSDvds5Yckq+JrMlrQUCvqpYEzBf5gun8rxMW3gx8oQsH3TxUsLYBgH6ob0U0BNNfPIEkKd5PDw==

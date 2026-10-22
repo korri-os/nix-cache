@@ -1,0 +1,10 @@
+StorePath: /nix/store/ywk0yxm6n2lh7fhz4nbdd2vk83ddq14q-cargo-package-outref-0.5.2
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/05b7sxx744brx3kksh8nr2xk4briy8y53mfhh3viw62vhl71mmh4.nar.zst
+Compression: zstd
+FileHash: sha256:05b7sxx744brx3kksh8nr2xk4briy8y53mfhh3viw62vhl71mmh4
+FileSize: 5984
+NarHash: sha256:1il8nmvzd56lfizp79gj8kajs9yjigbwggbhk8bb2shfqq590ahy
+NarSize: 18768
+References: 
+Deriver: ajb7vr3zfnpl93vvdmw5sw8wfp9d3ads-cargo-package-outref-0.5.2.drv
+Sig: korri-cache-ci-1:ojzhrNHat2plzb15M8QJya9FfsH5xAu1t6kehCde+0mkPr16cubVy2Oaek19Ue4UqSoZETECCJZSideEiYyhCA==

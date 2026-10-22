@@ -1,0 +1,10 @@
+StorePath: /nix/store/al0s0swz47a4z3886kqn4i7wk1vhlbsg-cargo-package-castaway-0.2.4
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1p6v4d4v5iyc5swl2n2jmzvzkpddg2d52bj9h85qfvmw03w4dgrk.nar.zst
+Compression: zstd
+FileHash: sha256:1p6v4d4v5iyc5swl2n2jmzvzkpddg2d52bj9h85qfvmw03w4dgrk
+FileSize: 13220
+NarHash: sha256:02gfnv77jwvfxn10ijxivwvkavmkwii5v1d2l1h7mcmahqbppg7k
+NarSize: 47368
+References: 
+Deriver: 74x00j34fcakffmwc2pbk7sjxlywnfd3-cargo-package-castaway-0.2.4.drv
+Sig: korri-cache-ci-1:dx6A7TG8u/ftJYuFqyQkydwS+b2z1RVZ30DhFGyX7CYYlPqxKVkc/yUbOue3/nL3y6cVmEMAuzY/JvI+ueUnCQ==

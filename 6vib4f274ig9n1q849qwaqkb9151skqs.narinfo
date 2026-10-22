@@ -1,0 +1,10 @@
+StorePath: /nix/store/6vib4f274ig9n1q849qwaqkb9151skqs-cargo-package-clang-sys-1.9.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1x206x98mg3c06c1s34a3ir7qsidzj3wvkr1jmh4qwwpr03d54sf.nar.zst
+Compression: zstd
+FileHash: sha256:1x206x98mg3c06c1s34a3ir7qsidzj3wvkr1jmh4qwwpr03d54sf
+FileSize: 49720
+NarHash: sha256:03hhqxd9kx9w52nfl3czycmis87qw05daz9n5lgdzk9a57an14kg
+NarSize: 231680
+References: 
+Deriver: z36fiqs4mlqwm5l4yd68bxhc70sz4xqa-cargo-package-clang-sys-1.9.1.drv
+Sig: korri-cache-ci-1:hyL0pG/Fb9Dwj7xnI2lnHTiHjFuGVJ/0jiPbkLoaqtiJ9US34Fesx7vxp70RGZBVwLmAfDVs7halqka6PsphDQ==

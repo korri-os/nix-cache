@@ -1,0 +1,10 @@
+StorePath: /nix/store/73dclr6h40ah50v4vg9d0fb0cx2lgb6h-cargo-package-wasm-bindgen-shared-0.2.126
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0gkcahzivscm2ivi5chdpds8vr8g680w6nvf6zxlk306dn7lqcnb.nar.zst
+Compression: zstd
+FileHash: sha256:0gkcahzivscm2ivi5chdpds8vr8g680w6nvf6zxlk306dn7lqcnb
+FileSize: 11867
+NarHash: sha256:1yxzaf0l68wppd48wqnajpjfl9bckql5dk5q936yd38v0ic978x2
+NarSize: 35816
+References: 
+Deriver: m3x3vpjcj763ajbhxvrxi96sn00cazhq-cargo-package-wasm-bindgen-shared-0.2.126.drv
+Sig: korri-cache-ci-1:q8/wA+EAa68gn3nGS1Zp2MyHepQJC0/MW4jsH8wBuDIuDV893x6Ub3h1f14nb3vFXCbQgeBAJD6r0A8riithAg==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/sr3vji2nzycay3dfp0biwkz5gdbzc74i-korri-display-idle
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/00v4gqgvq565fmv8lwhp44pav8yv18kw6af0paxvmvfx8xi3ilwr.nar.zst
+Compression: zstd
+FileHash: sha256:00v4gqgvq565fmv8lwhp44pav8yv18kw6af0paxvmvfx8xi3ilwr
+FileSize: 340
+NarHash: sha256:0gzx0dd3klixdlhf41vh1x7mry3i5vmg1086268zp3n6dnwapwgb
+NarSize: 664
+References: c6r3jmhvy7h8i1sj0nfxq18pxxlbycg0-swayidle-1.9.0 idnyqaaix26szkvhs1mjgi7990jajz9a-bash-5.3p15 jp7dhfn6fa363iv5707dgmpcqigp07xw-sway-1.12
+Deriver: z8g42camp02dk14zzsv4qc6xb28bbqmi-korri-display-idle.drv
+Sig: korri-cache-ci-1:QgT68N8hU90YKBIrnmjQ1yusKq2AXehCAiy4NUr266KRkbAUsUruOsadprz47r2WqrZCG9sIBVt5kjWTmW3bCQ==

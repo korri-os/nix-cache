@@ -1,0 +1,10 @@
+StorePath: /nix/store/q71s8gw2ypqkj0bd2zidyznnj0bldk17-cargo-package-linked-hash-map-0.5.6
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0xn7xf8yykq8c7i2ysxkgjb0wp81nfwm9f8jj276jqxid4pkjn24.nar.zst
+Compression: zstd
+FileHash: sha256:0xn7xf8yykq8c7i2ysxkgjb0wp81nfwm9f8jj276jqxid4pkjn24
+FileSize: 16414
+NarHash: sha256:1b24cdypa9p0chw3i2dkj5rybpg20icy0vg3pmh07822gkss9rr0
+NarSize: 65840
+References: 
+Deriver: a23952bripak3l01y29wmmv09778q4rg-cargo-package-linked-hash-map-0.5.6.drv
+Sig: korri-cache-ci-1:6beEDkgd40Ry+IEL0VTdnz93is2ezfzg3P+c9KJBymnCRan78udDhq8k1cbqfMl5oMUlzl36C15+avf3NJmqCA==

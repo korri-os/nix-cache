@@ -1,0 +1,10 @@
+StorePath: /nix/store/lxl6l3xkwvi2j9ylvsfg0wbiicp8qv8q-cargo-package-hmac-0.13.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/063ms3w9w8rg4w0ap636h9h0by3swsdxm77a9z2qyqm3x1ckv5qs.nar.zst
+Compression: zstd
+FileHash: sha256:063ms3w9w8rg4w0ap636h9h0by3swsdxm77a9z2qyqm3x1ckv5qs
+FileSize: 46280
+NarHash: sha256:03i03xah32fzqrpkydgmcjygx8qkyffj7d1091jlxr0g1i9swg0r
+NarSize: 83456
+References: 
+Deriver: wc2l7xrdqsr4v82gdd9cwx25ndr7kzf5-cargo-package-hmac-0.13.0.drv
+Sig: korri-cache-ci-1:5TlM/MPotU3lldYBbNYPVLY4TPTKY71ad+yLsHdfQjzD8cSrEXVJEXVwelwhuNZE7mtiosR7Tv66PzpRkNsTCw==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/5wfy5d63rz9g8wg0ssz37pqs45y1yick-cargo-package-memchr-2.8.3
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/02lffs8gkrli8w84di9fazs83ib859m048ly7shx12xdawf089fm.nar.zst
+Compression: zstd
+FileHash: sha256:02lffs8gkrli8w84di9fazs83ib859m048ly7shx12xdawf089fm
+FileSize: 87216
+NarHash: sha256:19ahcbadipbc4zx2q97xkz5f4nxvbwlpn4dvpym3rirkcq1x27md
+NarSize: 603304
+References: 
+Deriver: 1lhwgpzdq8dr6fpmkij6yhy5k3n7zqw9-cargo-package-memchr-2.8.3.drv
+Sig: korri-cache-ci-1:vZyAFf2H7ZIoaQhQZWTowPcMG1tit/40clw1tEQftg0wdPyoLS2BVFTG2PAwUgYP5DMBqJp91c1Ck0eGVO12DQ==

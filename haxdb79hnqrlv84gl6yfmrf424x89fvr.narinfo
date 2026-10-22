@@ -1,0 +1,10 @@
+StorePath: /nix/store/haxdb79hnqrlv84gl6yfmrf424x89fvr-cargo-package-zune-core-0.5.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0jqm12mnals6cal59v0fc8divij1dzy0nj56ch7kj917qd0r05k0.nar.zst
+Compression: zstd
+FileHash: sha256:0jqm12mnals6cal59v0fc8divij1dzy0nj56ch7kj917qd0r05k0
+FileSize: 29723
+NarHash: sha256:194v709717k7k5pbkgk669fnfgzkrx1jfvd3wi0p63n6avcc81l4
+NarSize: 118312
+References: 
+Deriver: 8ni78126dqr9by02jr52smxdp82n8km8-cargo-package-zune-core-0.5.1.drv
+Sig: korri-cache-ci-1:Z/CRyEu/E9bWT4MJh5DGyyvIQDFCUEQ8dNyCBmb4u7aWgZ2Dr9MkoTXTqdhJF8p8GOD/ommcvefRF04m3PTiAw==

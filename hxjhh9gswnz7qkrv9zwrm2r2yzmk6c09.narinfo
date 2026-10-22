@@ -1,0 +1,10 @@
+StorePath: /nix/store/hxjhh9gswnz7qkrv9zwrm2r2yzmk6c09-cargo-package-rustls-0.23.43
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0ackwky456b02ncn62hi9ya0fcdi71wch2ria8rs9bzwhqsmxhq6.nar.zst
+Compression: zstd
+FileHash: sha256:0ackwky456b02ncn62hi9ya0fcdi71wch2ria8rs9bzwhqsmxhq6
+FileSize: 363496
+NarHash: sha256:0yab66arisl90dz0ijysan6ba9970y6pmn60yz4kr7wvvyshl8cv
+NarSize: 1776440
+References: 
+Deriver: n9a5rzvy3cmi9bqpcjwirbbm1g775jdc-cargo-package-rustls-0.23.43.drv
+Sig: korri-cache-ci-1:XpVDN08QFox+qbYGIGlcTiVYOmHC7jJNLHVXvHasp2cDIhDxCWFPvpWFqN4Vq6EG6mR7Ygii6I/Ljy5ZCnCtDg==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/jpzl5si5mq6kq7iflbw5sw9jjbzzmwc9-cargo-package-embedded-io-0.6.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1yj7krvjvgm2bcv17rqncdin896vl9w6w76rsvsm1m1z940xfcln.nar.zst
+Compression: zstd
+FileHash: sha256:1yj7krvjvgm2bcv17rqncdin896vl9w6w76rsvsm1m1z940xfcln
+FileSize: 13976
+NarHash: sha256:0zga3d7msbq61isq2bmccxmpra8f1c2lmfi7kncfnzbn5rqb1vr6
+NarSize: 47440
+References: 
+Deriver: av8snpm48plrb9k8za1zpdfxmpd90dwi-cargo-package-embedded-io-0.6.1.drv
+Sig: korri-cache-ci-1:h2G1n7Mg8+0+z3ozpJ7ziUjpAJcHfXtisoiuyGIyTiSn1lddvZGqaqD8+r1LRicZ4tNbR6ZNWvD4m1eRu7/yBg==

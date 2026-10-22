@@ -1,0 +1,10 @@
+StorePath: /nix/store/72f17w8dkxds0f3w1ihcq8ps6k54h8mg-cargo-package-futures-sink-0.3.33
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0kzjlrjh0pgwn0bizvcvl6jhbc81mcal9h02yjs9i6jw81k0bpp6.nar.zst
+Compression: zstd
+FileHash: sha256:0kzjlrjh0pgwn0bizvcvl6jhbc81mcal9h02yjs9i6jw81k0bpp6
+FileSize: 8487
+NarHash: sha256:1zm6gyv785c8fpafyxn4wgh4c8m70gmfivzys6ia0hsm04yz3j4w
+NarSize: 25904
+References: 
+Deriver: h8jbfffi2qg5gwp40sxg3z1ymkgzxm52-cargo-package-futures-sink-0.3.33.drv
+Sig: korri-cache-ci-1:Kf+jRfCwxQ3/4abQq0Ni+/oygUDf0rt1NmEOojemO36HBxWVCkNy67AeaDshipSNrfzgkCqmL/k5pJ+otaUQDg==

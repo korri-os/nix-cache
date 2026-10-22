@@ -1,0 +1,10 @@
+StorePath: /nix/store/ph3js47hd8ssnlra4pc61c76dz1n6zs4-cargo-package-serde_yaml-0.9.34+deprecated
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/081jnrf5ccm3mlimgahihr8khypah9y67bzjpsfyvwnkb0ma9bpx.nar.zst
+Compression: zstd
+FileHash: sha256:081jnrf5ccm3mlimgahihr8khypah9y67bzjpsfyvwnkb0ma9bpx
+FileSize: 69102
+NarHash: sha256:08nig6wgybq34l65aa4gixmlfgcyqw4xapvpk3av2c0pxiqxbk0q
+NarSize: 410232
+References: 
+Deriver: 8mmm0hxw834lflrb30yi8yfr3xfjhhx9-cargo-package-serde_yaml-0.9.34+deprecated.drv
+Sig: korri-cache-ci-1:Ujw6FryGGVpMr2mH0SMxUClQjcGBbPiKVfKtSK/mrbxgcfsvpyNSekvagLW9tZ2o0BqOvUJ/4oSa08GQgpCADg==

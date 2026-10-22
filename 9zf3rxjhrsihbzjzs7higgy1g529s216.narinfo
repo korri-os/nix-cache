@@ -1,0 +1,10 @@
+StorePath: /nix/store/9zf3rxjhrsihbzjzs7higgy1g529s216-cargo-package-typeshare-annotation-1.0.5
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1li5rirj5mwgir6y0ifxdnb7rs8rszc22xgr98p0vsgwhi2nfi5y.nar.zst
+Compression: zstd
+FileHash: sha256:1li5rirj5mwgir6y0ifxdnb7rs8rszc22xgr98p0vsgwhi2nfi5y
+FileSize: 2724
+NarHash: sha256:1c42kbl84kzpsscydw5ablqihpapx5rxw33p6ndrvxh8r34kbrhw
+NarSize: 7600
+References: 
+Deriver: cbyvr4nklb8v6mabkwkrjfwzbbprm5yi-cargo-package-typeshare-annotation-1.0.5.drv
+Sig: korri-cache-ci-1:lMLVlInhkM/aCt54LZbAnnkkRDJkTlyzxNWVnxW5yGPxDcPgk/cPPUhsKxiZnzzVrCpO9lMtwGb/Y/fRzlF2Bg==

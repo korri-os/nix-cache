@@ -1,0 +1,10 @@
+StorePath: /nix/store/7gmxm8ikban7dpf46wjvhba4qm2aha84-shutdown-ramfs-contents.json
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0nv5lkcqamls6gvwvkirggj1zv3711w0zkmpvf4vfm01lziqw2di.nar.zst
+Compression: zstd
+FileHash: sha256:0nv5lkcqamls6gvwvkirggj1zv3711w0zkmpvf4vfm01lziqw2di
+FileSize: 388
+NarHash: sha256:0mflgn26lcb98a8nv9qbidwn3zwjhf6s5ww6clbjx06sdags71x7
+NarSize: 960
+References: 0w78lwprypiyk6h79xnfh6yj8m3vd316-etc-os-release idnyqaaix26szkvhs1mjgi7990jajz9a-bash-5.3p15 p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11 x0iv5hlpqfrpykdckbj8jdxy78clbjpz-systemd-261.2
+Deriver: 7inwxzczjkhpyzzyxvxz32zlklgfm361-shutdown-ramfs-contents.json.drv
+Sig: korri-cache-ci-1:6mbA/Nac36ziXCqcqv1ph731HFyqimvDkrdkCBxVlXA/5xCe++lJkR8rsNq1Hntk7RiIdwqM/D4Z0Fx1KhYTDg==

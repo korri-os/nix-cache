@@ -1,0 +1,10 @@
+StorePath: /nix/store/lml999whwl9nrlsma3nww97x3r22m32k-cargo-package-convert_case-0.6.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1rbmycamxxsqs62w4m90pw6671lcgm7ljik92qrb633885r191mb.nar.zst
+Compression: zstd
+FileHash: sha256:1rbmycamxxsqs62w4m90pw6671lcgm7ljik92qrb633885r191mb
+FileSize: 19861
+NarHash: sha256:0i5673raa6zvn03ys12hajw9sqmhcz6xij3bf0v3mn1ds04k4py8
+NarSize: 84128
+References: 
+Deriver: dpm8qwr6j7cbq7x6dgjkkp1ihdini5ns-cargo-package-convert_case-0.6.0.drv
+Sig: korri-cache-ci-1:O8i8tFUTpv4Lh8rLJYzHsprh8Js5EA0XxLXjfUJ7+R/sRRMQFuZqppRAP32B9WNfxlP8HMXbmoZgicy9xncMBg==

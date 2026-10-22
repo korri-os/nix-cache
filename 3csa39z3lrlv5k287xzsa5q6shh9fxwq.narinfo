@@ -1,0 +1,10 @@
+StorePath: /nix/store/3csa39z3lrlv5k287xzsa5q6shh9fxwq-cargo-package-quinn-0.11.11
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1nsz0s50pxpgnvdbkjvpks77nfcaalkz8sbvard3jkx5y9vwsfi3.nar.zst
+Compression: zstd
+FileHash: sha256:1nsz0s50pxpgnvdbkjvpks77nfcaalkz8sbvard3jkx5y9vwsfi3
+FileSize: 86787
+NarHash: sha256:1yp4s36cwzw5216x8wsggr1ican0v540lm87b3s8w0xpw7mb4fy0
+NarSize: 344984
+References: 
+Deriver: n3w254wbaqzdaax40fg4nsm9bgq1s73h-cargo-package-quinn-0.11.11.drv
+Sig: korri-cache-ci-1:Y+MGdfvCYD+Z7q1u38Bog09AneKdiYcgkXplFlq5rrjyTnJAT5jy/sXRXC/CE8V9ghTjhtS2o+GxEFBzcw2pCw==

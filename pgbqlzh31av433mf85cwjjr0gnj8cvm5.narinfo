@@ -1,0 +1,10 @@
+StorePath: /nix/store/pgbqlzh31av433mf85cwjjr0gnj8cvm5-firmware
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/07yj0nk5n4lalryk0gfyg3h1qpa6yv8npa4ggny9g4fjdldmsrkw.nar.zst
+Compression: zstd
+FileHash: sha256:07yj0nk5n4lalryk0gfyg3h1qpa6yv8npa4ggny9g4fjdldmsrkw
+FileSize: 20379
+NarHash: sha256:0wnngdycb8ppmghm55qfm84xinmsbnvayad1pmcnl7ncskd2rb7z
+NarSize: 463984
+References: 1rg9p78fz7ds8fhy3n4y3slchhir4va4-rt5677-firmware-4.16-10 1z50x5sd333wfx78klh2vaswif3r26mi-wireless-regdb-2026.09.03 3g0dc4bd417dwak9nzpp2ipzbj1lwajk-rtl8761b-firmware-rtk1395 3rbnqsysqybnfs8y4acda9p1x9hv8m8a-rtl8192su-firmware-0-unstable-2016-10-05 4wiz99hcp2mwxhfzm1dpmq0fj62q6crh-alsa-firmware-1.2.4 a9wjdb4a7sq8w1gmmmn639cpzcmszgjx-linux-firmware-20260916 j1p02iig0v6w4qc8g9jzs62qn7dxvkvy-ipw2200-firmware-3.1 ks1qlvjdm14bxvxsaivwip8x7c5jaclg-zd1211-firmware-1.5 ndb77v55xzhj97jrafwz9svgl13n6mbn-odin2portal-firmware vgn4gzz81dz4wbbly9cqh3m9rlgb0hxq-sof-firmware-2025.12.2 w65kwapc5h82bnwjsfsij0252aa4y0a8-libreelec-dvb-firmware-1.5.0 wghgax6ybh25w0wmjvm5i33npnhmlzql-raspberrypi-wireless-firmware-0-unstable-2025-04-08
+Deriver: kxb0h4lls7jqj426094jhxv13ngcyp20-firmware.drv
+Sig: korri-cache-ci-1:/fDn4UDce4T54LOEY1ApUYMG4zQ+ulFX+lNJO5XToAX5UsGfcb57JG1pk/VtKmmdtFjD01DABiytGm6ligGTDg==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/wjd0y2kmnk23a0lhsr2k3jrbgrlnplxh-cargo-package-zerovec-0.11.6
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1dl481i19hc0fzkn9jkk833qyz4fw8qh4grlghscpq30h80sb85h.nar.zst
+Compression: zstd
+FileHash: sha256:1dl481i19hc0fzkn9jkk833qyz4fw8qh4grlghscpq30h80sb85h
+FileSize: 126941
+NarHash: sha256:05xmmzsrx1syf5869ld6id0s9pphhq724c4fz7dmiqljpv1b6iwg
+NarSize: 641528
+References: 
+Deriver: bnfaj679s3qc7jvmgl6ggm65xbq0wikk-cargo-package-zerovec-0.11.6.drv
+Sig: korri-cache-ci-1:Ri3U5+xfMriBdwaWJ7ndELjH/0EC5d++2m5oFXkoAmrWtVzSNnkC0+KOn4Wbg11zpRlYir6JDxycxU6qKy+jAw==

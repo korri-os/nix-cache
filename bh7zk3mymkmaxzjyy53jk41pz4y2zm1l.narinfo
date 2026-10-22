@@ -1,0 +1,10 @@
+StorePath: /nix/store/bh7zk3mymkmaxzjyy53jk41pz4y2zm1l-cargo-package-salsa20-0.11.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1hb0p8j9mw8fps54fq1gvf81vi6755hf6fdp3224xhrlzqar0fy4.nar.zst
+Compression: zstd
+FileHash: sha256:1hb0p8j9mw8fps54fq1gvf81vi6755hf6fdp3224xhrlzqar0fy4
+FileSize: 46651
+NarHash: sha256:0lzq96nx5f3vi7nrdbw2qb4b969kqi0wawwgh7gj377b82fcfa64
+NarSize: 78760
+References: 
+Deriver: layn34g3nbhpdasvca3dbx7b4ydqpjs7-cargo-package-salsa20-0.11.0.drv
+Sig: korri-cache-ci-1:+70uNQ2BgaS8yp15wBinQeOR7mHQ8vRQz5V3vEN5DUNtxdF2xQH52PgET28OkQx9E+ira+gRtvmYOkEHlYBZBw==

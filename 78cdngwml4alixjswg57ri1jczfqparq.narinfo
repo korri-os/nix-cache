@@ -1,0 +1,10 @@
+StorePath: /nix/store/78cdngwml4alixjswg57ri1jczfqparq-cargo-package-oxc-miette-derive-3.0.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/02ml7cykjv63bgmghqc74dxirkv2nm3829g45nrqa98kl5nrp2r2.nar.zst
+Compression: zstd
+FileHash: sha256:02ml7cykjv63bgmghqc74dxirkv2nm3829g45nrqa98kl5nrp2r2
+FileSize: 18768
+NarHash: sha256:0xw5w71y8ssz4wr8df88g8ix5lsbxsi2c6c14k0y2lbps5n1n0fj
+NarSize: 87992
+References: 
+Deriver: gwwgbwkqs50ri3ds0qayp93kkc8c5l8f-cargo-package-oxc-miette-derive-3.0.1.drv
+Sig: korri-cache-ci-1:ttACyU4T0A7TwfQGfIrSntvm7DVqjBw/kcSL/Iab4hdInF6lkRzOD6nVgLYXht2pzlZfZLofG3fnXE/NdjCPBQ==

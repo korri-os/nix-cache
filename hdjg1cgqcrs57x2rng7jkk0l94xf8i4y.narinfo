@@ -1,0 +1,10 @@
+StorePath: /nix/store/hdjg1cgqcrs57x2rng7jkk0l94xf8i4y-plymouth-26.134.222
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1d41v9a317c3gprh05fmzvcd8gqzcwk7xd8b66qmzz4ksp5c5vmi.nar.zst
+Compression: zstd
+FileHash: sha256:1d41v9a317c3gprh05fmzvcd8gqzcwk7xd8b66qmzz4ksp5c5vmi
+FileSize: 1157245
+NarHash: sha256:1kd0qawcx9rrw8yd38qpy4jj9cjyhs4qjjycfq6l0rhig947daa0
+NarSize: 3102304
+References: 0xcqfl4wvwmhmpri1lb5wlbvmnj51dpr-gtk+3-3.24.52 1kywjlirkyg1lb4qlb8a8sw2xnx4w6kw-cairo-1.18.4 203fn0jkr0vy4n7s0m8kfvnfifrnpz7g-libpng-apng-1.6.58 255s9i5hqj3x5lz7s5lx1kh3pair8815-freetype-2.14.3 5gm4a37v60xk387sq6q8r17bxym95vmh-fontconfig-2.18.3-bin bd2kb9mp85ccbbw7dpdcx1n749qg0q5s-pango-1.57.1 c93rd8x6zq0q07bg2yfs6lf0c8vka8ks-libxkbcommon-1.13.2 hdjg1cgqcrs57x2rng7jkk0l94xf8i4y-plymouth-26.134.222 idnyqaaix26szkvhs1mjgi7990jajz9a-bash-5.3p15 ih1qd652s6zxqdfa2lvgdgn4rwby97dc-libdrm-2.4.134 m54cs0m994hc3n9lax7sg98sgy729qsa-glibc-2.42-84 r2fyc1x2wsk27q22pybrsz01qp0gc9ip-libevdev-1.13.6 x0iv5hlpqfrpykdckbj8jdxy78clbjpz-systemd-261.2 ysmblj00s4j15a6p15s544dh8zf27a5a-glib-2.88.3
+Deriver: wkdb5z0lwy4073ndvyy3pq74yjzha5z2-plymouth-26.134.222.drv
+Sig: korri-cache-ci-1:JsDUULjVWHm6gIt7YibIJ3E0D9xL+0ek/38r3VDZBvhxNnvqfwKQuuJqPq77BEmguDRy3KFXifSpuQQAuCFJAg==

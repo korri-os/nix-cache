@@ -1,0 +1,10 @@
+StorePath: /nix/store/y2ns45i1l71q7iyc0rzz1ifg4yas5f2r-unit-systemd-sysctl.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/05778rarnymh7x5rrm37wirg109jckdm9qnbczypyxfq76r9hppq.nar.zst
+Compression: zstd
+FileHash: sha256:05778rarnymh7x5rrm37wirg109jckdm9qnbczypyxfq76r9hppq
+FileSize: 621
+NarHash: sha256:1l7v8c0l111bprmiw57llcr5sfa9gfqfkybnwb8x6fxbfmkzjdki
+NarSize: 1312
+References: 1nwgsy4c5862g44s9lkf50643p3nbwm5-gnused-4.10 3b3k72bbr01bgff7bdkiz6r05gmlx5s9-gnugrep-3.12 i8an849ir6g3f4n2wrsm88s2qgrzjayq-tzdata-2026c k8as1kdn16q5w6zq6z3vih70qby9l40i-glibc-locales-2.42-84 p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11 v3v23h6jkmb4q3alfvdj78djrp64cwk4-X-Restart-Triggers-systemd-sysctl x0iv5hlpqfrpykdckbj8jdxy78clbjpz-systemd-261.2 xqx65i7cwacw7rsnj3dlbqas27mwvpn2-findutils-4.11.0
+Deriver: 0lqx300hr8bg7nn2pd494zkrbbchj3da-unit-systemd-sysctl.service.drv
+Sig: korri-cache-ci-1:VuxkwicU0zlrrm4d6sJqlqX2GXOnoxjN9tLOu6HjrJ7Q1b9DtBi56XUAWI8YbowAN1JcpQEIXrJit9FOhSGDCQ==

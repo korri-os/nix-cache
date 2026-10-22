@@ -1,0 +1,10 @@
+StorePath: /nix/store/7ynvw89c2qn2bh4fwyqa34psysnc5g5w-cargo-package-hyper-rustls-0.27.9
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/04ivglfgipmzlypdk37dwmkilm43kx0nkizfph6sgz5dgn987k3a.nar.zst
+Compression: zstd
+FileHash: sha256:04ivglfgipmzlypdk37dwmkilm43kx0nkizfph6sgz5dgn987k3a
+FileSize: 24224
+NarHash: sha256:0ws2f37z030w6dza5z0lilwin7akqjk21ndac705mwhrdpzwzvx6
+NarSize: 89568
+References: 
+Deriver: y75kpvpplnizppkvylkqk4ppmma95aar-cargo-package-hyper-rustls-0.27.9.drv
+Sig: korri-cache-ci-1:a1YHLbVCCEDPK3fMtgsAx9aa9v1TW05MBQkfhzfzBbmP6ZpMXeOcA+Ij+BZliZkhnDFhCI51bmiiRu9EnnGvCA==

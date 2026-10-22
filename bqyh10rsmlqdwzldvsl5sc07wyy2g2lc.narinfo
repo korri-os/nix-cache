@@ -1,0 +1,10 @@
+StorePath: /nix/store/bqyh10rsmlqdwzldvsl5sc07wyy2g2lc-cargo-package-wasm-bindgen-futures-0.4.76
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0gnh8bl1ja2l61w1s04frmp6fzx4hmw6xjcs1h2d0ic1pwl6rnfh.nar.zst
+Compression: zstd
+FileHash: sha256:0gnh8bl1ja2l61w1s04frmp6fzx4hmw6xjcs1h2d0ic1pwl6rnfh
+FileSize: 8632
+NarHash: sha256:1cd4jcs2xnsi54g1qhb2pkv6jz8wfsraqwxkmlrh41qf0kw5fjq2
+NarSize: 24608
+References: 
+Deriver: faxn26x0y9dvv881fbl6dpy57704x0xl-cargo-package-wasm-bindgen-futures-0.4.76.drv
+Sig: korri-cache-ci-1:VdSAFwKqqFkqKEVAs20cCpuyTDwHpWXX8L4u78R8HpVPuPKUvh1pXEU9Rqvws9hotAJQvN3xkKRMUW3IDNQwCA==

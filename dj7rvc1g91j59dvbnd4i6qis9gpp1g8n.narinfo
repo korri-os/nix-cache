@@ -1,0 +1,10 @@
+StorePath: /nix/store/dj7rvc1g91j59dvbnd4i6qis9gpp1g8n-cargo-package-notify-6.1.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0kiyslqxs0hmd9pk7fxa4crgfv520y0d11ds0xw1xz0isn08p9r1.nar.zst
+Compression: zstd
+FileHash: sha256:0kiyslqxs0hmd9pk7fxa4crgfv520y0d11ds0xw1xz0isn08p9r1
+FileSize: 42765
+NarHash: sha256:150nas3flp5yhrswn4c9bjsi8wqch0nl5vnc3mg6g6r8s7rp5vsq
+NarSize: 174896
+References: 
+Deriver: fm4dydy9qxzndsw1g1a8s4qi9rga8nhm-cargo-package-notify-6.1.1.drv
+Sig: korri-cache-ci-1:+Tt0buoA105cyOJxqi0ZYfQaOBHFt9qavAWCVEWdQM/gEDwTNhHyfLBxxVjVNoTFwxrHmxrTR0gmfxeZ65mYBQ==

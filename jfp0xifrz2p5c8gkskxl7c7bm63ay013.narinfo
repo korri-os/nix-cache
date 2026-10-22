@@ -1,0 +1,10 @@
+StorePath: /nix/store/jfp0xifrz2p5c8gkskxl7c7bm63ay013-cargo-package-futures-task-0.3.33
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/062vna30zaj8k20721ykyifrpwczpnm00j0nhsyqis22ql1rlzd4.nar.zst
+Compression: zstd
+FileHash: sha256:062vna30zaj8k20721ykyifrpwczpnm00j0nhsyqis22ql1rlzd4
+FileSize: 12085
+NarHash: sha256:0r0mmmm6pnmwkdlxjxwfmkqgkbhsldryg9d266573m6k8pyxnjzs
+NarSize: 43568
+References: 
+Deriver: bghlc9092n2yjxlxih573i90ys41s5m2-cargo-package-futures-task-0.3.33.drv
+Sig: korri-cache-ci-1:+fcL9l8j2jqYE0+7/Jfws9bBzVxAo4VdcMCXDRC++U0OT8GomifI39ZU45ubIPW9lAf9/No97qTFDuCldElMDQ==

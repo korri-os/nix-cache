@@ -1,0 +1,10 @@
+StorePath: /nix/store/11p78fmnrqw1pn2vbyp9yaffs8sixrpj-cargo-package-oxc_ecmascript-0.142.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0q0ync77yn5hmadsi84fzvc40aznxvxa13x3iks7a44cpm2xzaki.nar.zst
+Compression: zstd
+FileHash: sha256:0q0ync77yn5hmadsi84fzvc40aznxvxa13x3iks7a44cpm2xzaki
+FileSize: 60669
+NarHash: sha256:0sx38kr121858szsggny1falk43vf9qr5wjpvnk08kc01g1cbash
+NarSize: 291880
+References: 
+Deriver: xqisbgdflnzbylsfmks1zrh5xwmnzwjm-cargo-package-oxc_ecmascript-0.142.0.drv
+Sig: korri-cache-ci-1:rbSRIBWZNXNybyVB39X3SP4n4eUMLSthYbzDFIseAw8vBNgJiFpCFe4mPs+TZH1gP7wKyWdfZplfSA4+9/f+DQ==

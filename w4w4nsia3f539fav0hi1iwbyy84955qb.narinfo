@@ -1,0 +1,10 @@
+StorePath: /nix/store/w4w4nsia3f539fav0hi1iwbyy84955qb-plymouthd.conf
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/176mk7zm79gchx1v2jnpxbwmb13q37vym0yb2xjrdc6kxj5fzagi.nar.zst
+Compression: zstd
+FileHash: sha256:176mk7zm79gchx1v2jnpxbwmb13q37vym0yb2xjrdc6kxj5fzagi
+FileSize: 132
+NarHash: sha256:18k3g55pynr3zja6x2fj6a9lwwhbc7d1pfc8085a6d12ng6mx6cp
+NarSize: 168
+References: 
+Deriver: fzgrx14fxnb3j6mimgn6la1lqn9gn23y-plymouthd.conf.drv
+Sig: korri-cache-ci-1:RkEcHaFFt1VfD8i5uu3qOjuVw0piBPpmB7tLIOCOIcEJQcYDlYX+qq3Cws7n3A1p2J+R1MefJIcbICMEfrJ2Dg==

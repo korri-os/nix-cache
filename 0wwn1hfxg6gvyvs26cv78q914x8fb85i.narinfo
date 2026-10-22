@@ -1,0 +1,10 @@
+StorePath: /nix/store/0wwn1hfxg6gvyvs26cv78q914x8fb85i-cargo-package-smawk-0.3.3
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1dymjpjpjrsgqdmifdgnf7v6gkqryziai4sc9dcnk3a9xsismvaz.nar.zst
+Compression: zstd
+FileHash: sha256:1dymjpjpjrsgqdmifdgnf7v6gkqryziai4sc9dcnk3a9xsismvaz
+FileSize: 30803
+NarHash: sha256:09s5dqkkc293dq5vkp86lwqzp9lq56i7iyh3q3md1hvvzv5a2n0k
+NarSize: 108600
+References: 
+Deriver: cqhxsbjj2nvqpqy77kmi9pbmfq2sf9cw-cargo-package-smawk-0.3.3.drv
+Sig: korri-cache-ci-1:36j057+J64NQVkEgZwRbTa6zw0FA9AUcHgOtI/x4cp75TpF9uYOtIFYy+ry+WjOgPZP4t6OWbgTUvhWr/vE5AQ==

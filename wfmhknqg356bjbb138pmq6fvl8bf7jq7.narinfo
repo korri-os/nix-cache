@@ -1,0 +1,10 @@
+StorePath: /nix/store/wfmhknqg356bjbb138pmq6fvl8bf7jq7-cargo-package-bitcoin_hashes-1.2.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0ckmrb2bzcivminn8lhvnybh9y6mwhy3wdnkgbpmm3ads3j33afr.nar.zst
+Compression: zstd
+FileHash: sha256:0ckmrb2bzcivminn8lhvnybh9y6mwhy3wdnkgbpmm3ads3j33afr
+FileSize: 83336
+NarHash: sha256:147mwkk0gv9mpk3cy77alik6ggh014pjkih5sas2qsdw3b76bfzc
+NarSize: 467248
+References: 
+Deriver: al84msl47wvqwx5vjq57d8gy2jsf0wic-cargo-package-bitcoin_hashes-1.2.0.drv
+Sig: korri-cache-ci-1:weH82TCh9bswTnZMwY5rOJqiL3i33A3wH0j2vheV6TQi8B5TWJLhnFatjcKdnmkYI+Mxj0Xs9hIcet8v67t8AA==

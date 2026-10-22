@@ -1,0 +1,10 @@
+StorePath: /nix/store/5fgps6z7qmlg4cay0sxnlldg09nidvkc-switch-inhibitors
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0ry7w9f9ycfhcmn8f7n3ncm92kxvhwr21qi3cm7s5fbslqs7fsjm.nar.zst
+Compression: zstd
+FileHash: sha256:0ry7w9f9ycfhcmn8f7n3ncm92kxvhwr21qi3cm7s5fbslqs7fsjm
+FileSize: 119
+NarHash: sha256:0x26js4bfjh99dcrlkqh3n6ci102rzk3w2bpiy53ilvmdqrdiwqn
+NarSize: 152
+References: 
+Deriver: wyl4ch4bzz58c3n25s32nlpppl152gag-switch-inhibitors.drv
+Sig: korri-cache-ci-1:6bie8xSyYryCvn05eyFKLYojBZv5Eyk/eA4MQjxPK9dzPlWBSRnfN7yupvCfu3uZzd7BUWYTNR4mIQCfaDumAQ==

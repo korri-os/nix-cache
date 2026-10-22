@@ -1,0 +1,10 @@
+StorePath: /nix/store/qkyjaa28ls70id3q76y36q2afvfbrp00-cargo-package-rustc-hash-1.1.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1w9v2wyflswaci4ncjwl4q03yp22nqyrm4rm493wsjzajb3jqb9j.nar.zst
+Compression: zstd
+FileHash: sha256:1w9v2wyflswaci4ncjwl4q03yp22nqyrm4rm493wsjzajb3jqb9j
+FileSize: 9724
+NarHash: sha256:1gp752vb8vn4fsygjiz4x798bdrh39r4s98bvlq7l5jdxkf1x1j4
+NarSize: 26584
+References: 
+Deriver: 3cb6jy67df9rcly9h44xz0z301gfcsf4-cargo-package-rustc-hash-1.1.0.drv
+Sig: korri-cache-ci-1:uNP4I9nX5vibkywISVCUQnkvva3kM5KTeXenlFwm82q2ijPi/YxiXXdpS9d9xw5ZLvwbGQwd/ExL8JqgpeB5BA==

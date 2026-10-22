@@ -1,0 +1,10 @@
+StorePath: /nix/store/s6na3a95xxjf1nap2brq296a5mffl6nd-cargo-package-moxcms-0.8.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0w0284ah40wgybs1i0yv0k09n37vsgmakg5cghx5ishziw4jv9qj.nar.zst
+Compression: zstd
+FileHash: sha256:0w0284ah40wgybs1i0yv0k09n37vsgmakg5cghx5ishziw4jv9qj
+FileSize: 173666
+NarHash: sha256:03z1qbz5i550m42aqv10dbifnlsaiyqrbwrhyi6fhd0gymql48ms
+NarSize: 1580384
+References: 
+Deriver: kjsskfwzmc5b48xcmr1m4c3xslch2v7r-cargo-package-moxcms-0.8.1.drv
+Sig: korri-cache-ci-1:vga4/UjvphdJN0AjriA6sPsDjVTs97/BtRfhnygsjOkg+HuPKG2yDny2jjnRUpeMX8Y3yW+n4Hg38HaBDLFrDw==

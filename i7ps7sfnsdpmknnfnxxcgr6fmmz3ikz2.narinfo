@@ -1,0 +1,10 @@
+StorePath: /nix/store/i7ps7sfnsdpmknnfnxxcgr6fmmz3ikz2-cargo-package-signal-hook-registry-1.4.8
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0074v9icncksmc73zw98lczmycc1ldyg3g14kqg6sjjnf37lwim2.nar.zst
+Compression: zstd
+FileHash: sha256:0074v9icncksmc73zw98lczmycc1ldyg3g14kqg6sjjnf37lwim2
+FileSize: 22956
+NarHash: sha256:00i3j9c9jlgvms5ydgb4z0d377zmvk1b9nhhk9qqflzv60ys534w
+NarSize: 71320
+References: 
+Deriver: 5j876s40kir5v0wzjjsl60iic2p4cgpl-cargo-package-signal-hook-registry-1.4.8.drv
+Sig: korri-cache-ci-1:3+P5jFr4Wz8WX6hecW//SCYf4WULSv9J3MtDT1UgsJuEYlLqeIMgH6i8Gpv5pk5xpB5ddgy69UHjrs/Z5IKVCw==

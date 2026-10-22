@@ -1,0 +1,10 @@
+StorePath: /nix/store/q5fqmskz4xwvsg7w5ds4b33hpxl3a8f6-cargo-package-opaquerr-0.2.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1gkpjscpvzfgag4qphlm904rpkyq1dp357zdnciq2n5v8wa7wlf0.nar.zst
+Compression: zstd
+FileHash: sha256:1gkpjscpvzfgag4qphlm904rpkyq1dp357zdnciq2n5v8wa7wlf0
+FileSize: 8398
+NarHash: sha256:035nzv393w1gl0w68rlil77anfakjb9acfr428657d4yq21bydy4
+NarSize: 38424
+References: 
+Deriver: gvpvl9nw781yd7dvp0lp7pbycdbdq9v0-cargo-package-opaquerr-0.2.0.drv
+Sig: korri-cache-ci-1:jookSHh1fpcD9IjWZhCmWgB0VxejKKHSlxD4N/2RFiAv5Zl2XQ/kSeRrHrYtB6Jatl4ZkNZmr73CG0b656GgDQ==

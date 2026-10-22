@@ -1,0 +1,10 @@
+StorePath: /nix/store/0l3myp9syw5ap9cqm3cjnp72872rg4wk-cargo-package-bitflags-1.3.2
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0qkimdlkad24frdc674qm2a9zq4fbj2z1dp2z6np724zqgkb722m.nar.zst
+Compression: zstd
+FileHash: sha256:0qkimdlkad24frdc674qm2a9zq4fbj2z1dp2z6np724zqgkb722m
+FileSize: 24985
+NarHash: sha256:152v3wpd6y29vn5gy1d2k47vzbwqyjkjn18ds79kcyczkk73pypz
+NarSize: 106256
+References: 
+Deriver: vpml5dwy6icaicar18h4j0clgjnwl5mc-cargo-package-bitflags-1.3.2.drv
+Sig: korri-cache-ci-1:xIvR+Upzigac7y/jlxOMayzWY4Kgms6UoN6ToAhIW39S2fdp1ur5Lg6LvYG/UjkoT5BmhHef3sdECzHfssbrBg==

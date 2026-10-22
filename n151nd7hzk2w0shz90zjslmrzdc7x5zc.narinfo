@@ -1,0 +1,10 @@
+StorePath: /nix/store/n151nd7hzk2w0shz90zjslmrzdc7x5zc-cargo-package-bitcoin-internals-0.6.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1xws6djsml0s6iwcn76hyxgfnkc9mg8s80kdi9267pyp4mxwg37g.nar.zst
+Compression: zstd
+FileHash: sha256:1xws6djsml0s6iwcn76hyxgfnkc9mg8s80kdi9267pyp4mxwg37g
+FileSize: 17616
+NarHash: sha256:009jfmfjmsypjy7yd8qsc968haf0rd5cfiyqjmw86r4n1flx4wyb
+NarSize: 64512
+References: 
+Deriver: cvz9vw2bf7wrc9vcrxjd17zbpgq9xama-cargo-package-bitcoin-internals-0.6.0.drv
+Sig: korri-cache-ci-1:0Z8O/0G60kR9Ny4cPmDL1Exldkqubga6Lb6ddvjNcCziJH1Mfb7n0hpk9UHTpcrv5ZMWA4b54lH7eosRzcWZDw==

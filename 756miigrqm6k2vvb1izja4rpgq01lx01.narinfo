@@ -1,0 +1,10 @@
+StorePath: /nix/store/756miigrqm6k2vvb1izja4rpgq01lx01-cargo-package-bindgen-0.69.5
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0vbr0a5pwfr7rji5waj67gksh291rg6pw1yd0n7gn7i91bg3rmni.nar.zst
+Compression: zstd
+FileHash: sha256:0vbr0a5pwfr7rji5waj67gksh291rg6pw1yd0n7gn7i91bg3rmni
+FileSize: 226090
+NarHash: sha256:0n4rmwgn1zgk3i0p3lk7qypqrffskcc6yrwv7waazrfzx6bblsny
+NarSize: 1042184
+References: 
+Deriver: h54bymi1grcpi1jd5s9dzww8k2r5x5wv-cargo-package-bindgen-0.69.5.drv
+Sig: korri-cache-ci-1:G6dMm/aJvCPFGw0E6gMsmXzfW6YCF+6nB41uz00VS7MmXd8xPZ6/XDcGWg6a4sJUCTZ52qBytOCjI3fuMapHCQ==

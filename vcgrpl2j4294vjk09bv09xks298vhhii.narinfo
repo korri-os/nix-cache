@@ -1,0 +1,10 @@
+StorePath: /nix/store/vcgrpl2j4294vjk09bv09xks298vhhii-cargo-package-enumflags2_derive-0.7.12
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1g1zag8p47dnb0x65rysp2n5gmmmmj3viqjy921kwzks1hrkx6gr.nar.zst
+Compression: zstd
+FileHash: sha256:1g1zag8p47dnb0x65rysp2n5gmmmmj3viqjy921kwzks1hrkx6gr
+FileSize: 9085
+NarHash: sha256:1zfy29f8faf1w0mav29vx0qmsq32zyn9mda9ql3qrhyiqrbshzn4
+NarSize: 26944
+References: 
+Deriver: 2j5mcil10sgr1b58w6hnz8nw73cjvfpn-cargo-package-enumflags2_derive-0.7.12.drv
+Sig: korri-cache-ci-1:boYBiwjAa2YLjRklZ0dTBHY7TtXdRyyu3sSuT6BlERs4wCYlDXf33C5J6kKsR3hahQiwdljDKYy7soIIJFqeBw==

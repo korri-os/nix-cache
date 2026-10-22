@@ -1,0 +1,10 @@
+StorePath: /nix/store/v7ly11ak9rk5v8r85zvf848fn4m161ds-cargo-package-zcheapstr-1.1.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1hzskj4rldqi25nh35snnlh8zch2r3sl5l08znif0kq93ajhmj2i.nar.zst
+Compression: zstd
+FileHash: sha256:1hzskj4rldqi25nh35snnlh8zch2r3sl5l08znif0kq93ajhmj2i
+FileSize: 13809
+NarHash: sha256:02jdmppw7cqw6yaps9zdfd6psm33mvcwhhi3c4m3a6jv6zq0xn0f
+NarSize: 43560
+References: 
+Deriver: hkng4ncppi0abplq39pfwrhg3ai2nsc2-cargo-package-zcheapstr-1.1.0.drv
+Sig: korri-cache-ci-1:LgUJIsXZIprFe6IiyqK4yGc5dSAa3dJUyeq0Ush3kjwKHl4RSk8u8dNTlBsiutzzTsj8awAty/UEKKiMIFVTBA==

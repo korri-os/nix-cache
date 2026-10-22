@@ -1,0 +1,10 @@
+StorePath: /nix/store/l8yicdgpfvngsmg517gqgh4dhqwdri85-cargo-package-libloading-0.8.9
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0hw8vv1bxzp21rjn5hkb722n0g6fv4xvj74ppwdb42vz3gy67irk.nar.zst
+Compression: zstd
+FileHash: sha256:0hw8vv1bxzp21rjn5hkb722n0g6fv4xvj74ppwdb42vz3gy67irk
+FileSize: 31664
+NarHash: sha256:1sj80121d76zgdxfq80dnhlhzr1fqna6akk2q6dahcpv1rhcimgv
+NarSize: 130312
+References: 
+Deriver: msb3cs50vf3nbkcl9rjhr2qgc2hw1i1m-cargo-package-libloading-0.8.9.drv
+Sig: korri-cache-ci-1:J96BZUGT5+ee7Pp/QWwp4eRiRt2MIZVodwXJIM1UCEeVRb19yD/4QcCFvjZoxQa1AqSJTat8KVQ5xQR1hcOeDw==

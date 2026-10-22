@@ -1,0 +1,10 @@
+StorePath: /nix/store/kzvsgv5imapcx0zmd3kaqwsfkavax8lg-pam.d
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1cpc4lf6zwwwp6sgv2036qz13kfslm1jbcns3p0md0wbhnk2v54n.nar.zst
+Compression: zstd
+FileHash: sha256:1cpc4lf6zwwwp6sgv2036qz13kfslm1jbcns3p0md0wbhnk2v54n
+FileSize: 1216
+NarHash: sha256:113dp8vyrcv6qzikz65f5wpc1s324j7rjv22b2zj3xmdj9nb3b63
+NarSize: 30736
+References: 149c9jvllrii9cx1zms29s6f2jga590m-linux-pam-1.7.2 3a0p5ks0zdzvwhc7mip1spdzsj5b96fw-xauth-1.1.5 fwgxqagaim9jgi3m00krva1vs2r07gr3-limits.conf kkp0czyda7xryy1rnzyraznpdam0l019-util-linux-2.42.3-lastlog x0iv5hlpqfrpykdckbj8jdxy78clbjpz-systemd-261.2
+Deriver: kj0397hryyaj4bjv127cvxykajrj1mdk-pam.d.drv
+Sig: korri-cache-ci-1:HjDxFC9XT993oKaJgK/gTGBHi4taflXv5Dxla362W3MmmX8oUSit9C3O507hlFs4ReyHWF5O24uywEffQYRAAg==

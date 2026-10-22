@@ -1,0 +1,10 @@
+StorePath: /nix/store/v1v8p42scn366qfh0kdsb3k9172k9sbi-cargo-package-windows-sys-0.61.2
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0sf4hbilm4bc17siahs8j1x5sgzq5qdk4c40xyfyav8ldrjs3hyr.nar.zst
+Compression: zstd
+FileHash: sha256:0sf4hbilm4bc17siahs8j1x5sgzq5qdk4c40xyfyav8ldrjs3hyr
+FileSize: 2629832
+NarHash: sha256:04gys0d0wa9mcwswq1lw8bi3ikprrn10lrr0cph049rl4r208x71
+NarSize: 18275264
+References: 
+Deriver: yn7yr26j668afb5f8ppnlhvbb4r58xlx-cargo-package-windows-sys-0.61.2.drv
+Sig: korri-cache-ci-1:DGTBPvTMYqI7Av7WjodAHYQ1czXez4yRU+iDGo0LP201BLyr0cvyCUFB2RLo98RH/QGTi9YDDh0vPBANXAajDA==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/43mp5vf0bq1d0pp9dyp7adfn1l68isrf-cargo-package-unsafe-libyaml-0.2.11
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/16133px6yrc9ggf384vfflf5zhfhbc5yz6v1gnwcz01w8z8kyx7c.nar.zst
+Compression: zstd
+FileHash: sha256:16133px6yrc9ggf384vfflf5zhfhbc5yz6v1gnwcz01w8z8kyx7c
+FileSize: 69252
+NarHash: sha256:0lki8ahgiyip30qz6903wkmflr8cm7xdr9lizv9291yph9y21lpl
+NarSize: 468336
+References: 
+Deriver: ma57zp6c7w4r24slc2j05d34j4797r7l-cargo-package-unsafe-libyaml-0.2.11.drv
+Sig: korri-cache-ci-1:mCCeaNv92Bm89GU1RfpjqWtgyKAyGproCZru1vJtMpGecRjjbE7s+5HsZp/VtrC4zZeTqyQdiLl/jsHYTDdSCw==

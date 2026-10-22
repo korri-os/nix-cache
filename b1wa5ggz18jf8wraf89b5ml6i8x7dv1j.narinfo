@@ -1,0 +1,10 @@
+StorePath: /nix/store/b1wa5ggz18jf8wraf89b5ml6i8x7dv1j-cargo-package-serde-hjson-1.1.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/18p8z3gbpl0w6a04pz9g3a9zwrkvv2caf5yh1y61y12jyslkk4wj.nar.zst
+Compression: zstd
+FileHash: sha256:18p8z3gbpl0w6a04pz9g3a9zwrkvv2caf5yh1y61y12jyslkk4wj
+FileSize: 23942
+NarHash: sha256:0x5l6qf579jg6ygvd55my3gd6fcfxrvclz1hbg3y2q21fxwbh49l
+NarSize: 116832
+References: 
+Deriver: d7yhiz6763mn6prna7czp1z1zx3axx3f-cargo-package-serde-hjson-1.1.0.drv
+Sig: korri-cache-ci-1:T3iWSLBKR/eGvN3buk1mCdMd9YAAuTsCEFlSm6ciamkJfWng8ipr5eBKnzMzjUAv2IlrugP/f1/I+WKU/0G1Bw==

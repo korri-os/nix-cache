@@ -1,0 +1,10 @@
+StorePath: /nix/store/asw1407k4593akakyj79iqa9k3a4758j-cargo-package-quick-error-2.0.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0fj83ym0kwmidq4l7wcgfkrvszlxm5xvihss4hf9yk3566yrywn1.nar.zst
+Compression: zstd
+FileHash: sha256:0fj83ym0kwmidq4l7wcgfkrvszlxm5xvihss4hf9yk3566yrywn1
+FileSize: 15632
+NarHash: sha256:0dacznrv6x5jz225jrgs77phspblhkjvz3rnahsa9zr0ppagjj2r
+NarSize: 66632
+References: 
+Deriver: i3wzsalpz3s3xap1vqhna45adh17gl6v-cargo-package-quick-error-2.0.1.drv
+Sig: korri-cache-ci-1:antSIYhzgc5fnj81IlQiT7rJVUXqfxRuIGl6kmq8WYJRDgvxQVzgE/iNH/sn0wOwME7uNEwpinKL3ruKH8QPAQ==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/df653z77g5fy588rks8vfz8szvm8ydng-cargo-package-indexmap-2.14.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/02q1h9vq4r8bfvggw5jgdxp800j8ylfnc3fjbzfbnf3jrapca5nr.nar.zst
+Compression: zstd
+FileHash: sha256:02q1h9vq4r8bfvggw5jgdxp800j8ylfnc3fjbzfbnf3jrapca5nr
+FileSize: 100272
+NarHash: sha256:0w6w3vg69mqqbbl0c4vzml84gx47w17p53d1qd95msh80z4q6rmq
+NarSize: 543216
+References: 
+Deriver: glnk2fl60spnx1rd4al8ybsvkg36jqn7-cargo-package-indexmap-2.14.0.drv
+Sig: korri-cache-ci-1:1WIehNFRrt8UUYSSM+02aRKMa4HYasSVld5Lyj3h0loMYhOwz6AThV7P7AXHNvRCZ53s6I5eSdaSsxFJHJxaCA==

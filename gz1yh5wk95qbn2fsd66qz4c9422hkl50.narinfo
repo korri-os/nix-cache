@@ -1,0 +1,10 @@
+StorePath: /nix/store/gz1yh5wk95qbn2fsd66qz4c9422hkl50-cargo-package-pxfm-0.1.30
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1bcb9in4r4fmxbb4xj9ia0q8vibhd376wxxkd9k2sknij00s20p2.nar.zst
+Compression: zstd
+FileHash: sha256:1bcb9in4r4fmxbb4xj9ia0q8vibhd376wxxkd9k2sknij00s20p2
+FileSize: 701685
+NarHash: sha256:1x0j3vl4ps1bjzqa075hxxkfa4g6im5d0ynw68k861ad8g5pxmjm
+NarSize: 3873752
+References: 
+Deriver: 5nziy95vw5fy6naznyify0am3zi6k4pc-cargo-package-pxfm-0.1.30.drv
+Sig: korri-cache-ci-1:t6cnXctbQZW61OdO441R8HQWFCtVl5OQfCioFDYnQOvLeEG2VjFwdiXymdfaAhrrYKX09l+IWma2f4WiJXq5Ag==

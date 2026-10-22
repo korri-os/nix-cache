@@ -1,0 +1,10 @@
+StorePath: /nix/store/gd2sm98x1s7jcx7rga24bhvsflmxlwq9-cargo-package-yoke-0.8.3
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/03c6ifywjlbqp65c0043fd9163fq4xx60sf9pj3iws7ic1fm5j4i.nar.zst
+Compression: zstd
+FileHash: sha256:03c6ifywjlbqp65c0043fd9163fq4xx60sf9pj3iws7ic1fm5j4i
+FileSize: 34866
+NarHash: sha256:1mm0gi5s0khwgg7km6fnfy8mdqrps2cgyh8wg1q5cwl5k57n5rqg
+NarSize: 150592
+References: 
+Deriver: mind5fp7q1i7nqljq2v0f05qirnn8xc6-cargo-package-yoke-0.8.3.drv
+Sig: korri-cache-ci-1:YkKuvwvFl4K5s1/09HBQOpwj2xQvilBOXQRkYe4rnb9M78Jo22lC7yRbEmsviPpAKbJo5+DyIuETCJdRFgqjAA==

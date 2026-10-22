@@ -1,0 +1,10 @@
+StorePath: /nix/store/r4vm7m7vcglaf90ar06acs3vaq65icl6-cargo-package-zerofrom-derive-0.1.7
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/00braq8glmwb5rhrscv26fh4yk1474ac62d897xl6gwyd4dnk5ni.nar.zst
+Compression: zstd
+FileHash: sha256:00braq8glmwb5rhrscv26fh4yk1474ac62d897xl6gwyd4dnk5ni
+FileSize: 9542
+NarHash: sha256:0aspg5ajly2l7z2hfv6nqhbm0s156aijvy7hcs96s3d5pmcljj7g
+NarSize: 29320
+References: 
+Deriver: cwq2yxj5a6gny9b52gp8p0r0jlqrbykh-cargo-package-zerofrom-derive-0.1.7.drv
+Sig: korri-cache-ci-1:9MeIG0RWNwXdjt/cG/THwrSy2VzP5WkcfuNl1YPWBsg8xBQMOEEFSVmLDEm1XN1iJ3AtZbNw46tz/W5ZsOokAg==

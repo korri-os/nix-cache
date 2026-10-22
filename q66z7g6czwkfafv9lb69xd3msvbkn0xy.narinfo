@@ -1,0 +1,10 @@
+StorePath: /nix/store/q66z7g6czwkfafv9lb69xd3msvbkn0xy-cargo-package-kqueue-sys-1.1.2
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/00h032x35w11fmasbv56m8kcdv5xici07fikc11v4yif61835kx8.nar.zst
+Compression: zstd
+FileHash: sha256:00h032x35w11fmasbv56m8kcdv5xici07fikc11v4yif61835kx8
+FileSize: 9419
+NarHash: sha256:06q5xwg3k9i5yix95z15rm5yjnn2gr3mmciqk2g4ry6szz19xjh4
+NarSize: 41880
+References: 
+Deriver: dgl2n7a305d22si1d0fwf1fd5lqkwr4k-cargo-package-kqueue-sys-1.1.2.drv
+Sig: korri-cache-ci-1:PHDxCb86duIOM/JLWIghTFZFzvM86X6AnxbFM2Fx8oGLMymL/CCT/20/gm+ktP7wzXYdCkSBVmharS2WU7JoBw==

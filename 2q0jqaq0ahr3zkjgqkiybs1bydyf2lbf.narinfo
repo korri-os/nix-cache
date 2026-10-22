@@ -1,0 +1,10 @@
+StorePath: /nix/store/2q0jqaq0ahr3zkjgqkiybs1bydyf2lbf-cargo-package-unicode-linebreak-0.1.5
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/04ig0zvjf750mhkm7q0ahw3q1y3a7krn9n1d7kx9m0bvc10hw07h.nar.zst
+Compression: zstd
+FileHash: sha256:04ig0zvjf750mhkm7q0ahw3q1y3a7krn9n1d7kx9m0bvc10hw07h
+FileSize: 17397
+NarHash: sha256:0s6d93nkac694lg03bqs0agdr15sfk3g4422dnbi1i59mmwlmhm8
+NarSize: 91712
+References: 
+Deriver: xpn5wayq56vs8clj9f294jpiaz5vy7j8-cargo-package-unicode-linebreak-0.1.5.drv
+Sig: korri-cache-ci-1:WuX246qOlSFR9dUlqn3bl5XjxfpYkO7spK6S/j+cA2leCMZ3ywVchSy5pNEPR5mbCFAyFq3+VKXz9EFTAeJnBg==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/g2g0xxdzy058csf519jx4vxmjyqgf6vp-cargo-package-vsimd-0.8.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/06d2zczp0ldckrappjhr75q79kykmy52nyj574r8xi0ybwx103fi.nar.zst
+Compression: zstd
+FileHash: sha256:06d2zczp0ldckrappjhr75q79kykmy52nyj574r8xi0ybwx103fi
+FileSize: 23400
+NarHash: sha256:0w0sq7kkrr2hpfa34qvnal3y68hfvl31vpljfxiywpxpy7mha76j
+NarSize: 176552
+References: 
+Deriver: x903rkj7z4q805wfyz3axwq9inkxab2y-cargo-package-vsimd-0.8.0.drv
+Sig: korri-cache-ci-1:QHOMsCPpfKQwlSulVckJNvWu3WCs1AR2LXRttu3VjIbRK5RtqsGuT430HEiWEhkvpVI+QVycC4vSP0ojXRBbAg==

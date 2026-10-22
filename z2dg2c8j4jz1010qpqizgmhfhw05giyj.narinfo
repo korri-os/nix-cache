@@ -1,0 +1,10 @@
+StorePath: /nix/store/z2dg2c8j4jz1010qpqizgmhfhw05giyj-cargo-package-ring-0.17.14
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/15i1ydhakcpf93j4v3ymxyi5pxkldb8adagdi6pbv4w7ry9a8cph.nar.zst
+Compression: zstd
+FileHash: sha256:15i1ydhakcpf93j4v3ymxyi5pxkldb8adagdi6pbv4w7ry9a8cph
+FileSize: 1386998
+NarHash: sha256:0g8rbfwr70wp6my0l59r23hinm3bmc6m0mwwg89d028059ifdp9i
+NarSize: 7845624
+References: 
+Deriver: nhcghd59wg06f6hswzn0zxkl8ga7kbdn-cargo-package-ring-0.17.14.drv
+Sig: korri-cache-ci-1:NHbhd2DDKUmtLeIOKNNMHjLPb2o1ZMsLRCjIlpf1zBDF4kb4Mi4+IYUwI/keAxY3jLO6jSynw6owID3fHBqzCg==

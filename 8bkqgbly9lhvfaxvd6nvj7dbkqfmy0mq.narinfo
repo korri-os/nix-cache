@@ -1,0 +1,10 @@
+StorePath: /nix/store/8bkqgbly9lhvfaxvd6nvj7dbkqfmy0mq-korri-portal-freezer.conf
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/114xzs7q4aiqayizrcxyssj71qj5x41idj2xyx909zg7bjnwwk6y.nar.zst
+Compression: zstd
+FileHash: sha256:114xzs7q4aiqayizrcxyssj71qj5x41idj2xyx909zg7bjnwwk6y
+FileSize: 406
+NarHash: sha256:0ch8fxpwlgn6qqjiq4c53jgrjcy9v44cidby3sgk821zfiqi1d1k
+NarSize: 1328
+References: 
+Deriver: rfkymd77m8va0b2shlbch39glmicpslg-korri-portal-freezer.conf.drv
+Sig: korri-cache-ci-1:56kpS6652kbBOhqciyV88WBZXZNMgLkXyGq3YoD64KWACpL8a+YOvTd2E/GnpZDPJLID9B3mpoRDNSkkKCEkDQ==

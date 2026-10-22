@@ -1,0 +1,10 @@
+StorePath: /nix/store/zmw74aya9kgi15c48lyiyqy828y0hwmf-cargo-package-hex-conservative-0.2.3
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0zzrsabkkvqgbb5mwklby4b8929p9pfjxq8mc0hn1n16msc7h24z.nar.zst
+Compression: zstd
+FileHash: sha256:0zzrsabkkvqgbb5mwklby4b8929p9pfjxq8mc0hn1n16msc7h24z
+FileSize: 25824
+NarHash: sha256:1jfbw4s0af54zsx6rhn91xh6yvclb5pwkjy2ip4qnfp8rrk84q6z
+NarSize: 98880
+References: 
+Deriver: gl68h4j66l02wn4sh4xmgwm9m8i920zs-cargo-package-hex-conservative-0.2.3.drv
+Sig: korri-cache-ci-1:WZGEz9RYEtXpdUEviOdqHL6E3wBTc309MD7d6at3Zh7R+4m+3eyFCzyWuRVdYqv0heXJ0o3AxNVwe6kQa+PhBg==

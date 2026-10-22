@@ -1,0 +1,10 @@
+StorePath: /nix/store/ai6fwkafys1bm2160hhw9v61i6mbxqm5-cargo-package-num-traits-0.2.19
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/15vbmapcf5ap3230320a6c2sd5xmc4g8c9mk56bzfrgrc1ys4ga2.nar.zst
+Compression: zstd
+FileHash: sha256:15vbmapcf5ap3230320a6c2sd5xmc4g8c9mk56bzfrgrc1ys4ga2
+FileSize: 52254
+NarHash: sha256:1l08aaq9qhy02kn6aqb4hwanfsiri0n56icbim9w7079j6dkf7yv
+NarSize: 280440
+References: 
+Deriver: hwbw8lp7d24bk620mraqfvd43vkswbq4-cargo-package-num-traits-0.2.19.drv
+Sig: korri-cache-ci-1:R/oTLjCpTAaj3t8oDzr5xXr0sjMSNtjhri3dtngqzHoeT/Ltqh8/2LQ+f54CautGly9z1MCNcJ3lR7/DtuydDQ==

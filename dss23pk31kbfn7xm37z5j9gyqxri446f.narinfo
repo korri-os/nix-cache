@@ -1,0 +1,10 @@
+StorePath: /nix/store/dss23pk31kbfn7xm37z5j9gyqxri446f-cargo-package-subtle-2.6.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1iflwmb2g500l1vxzdvx4sk90vhha9cn6hgwyx1ldvfads2yhnrg.nar.zst
+Compression: zstd
+FileHash: sha256:1iflwmb2g500l1vxzdvx4sk90vhha9cn6hgwyx1ldvfads2yhnrg
+FileSize: 15789
+NarHash: sha256:1m7q5vrgk04ph4ng6zbfqdjwb1ypinnww899bcy1a6my4j0s82sk
+NarSize: 60064
+References: 
+Deriver: z51ddq279l9paav5552l3w3slk1gka0z-cargo-package-subtle-2.6.1.drv
+Sig: korri-cache-ci-1:bTNCL2LJ890wsX5cN+EeVTR0rcjNnDBN4tgPXIkl39bbrOtyCZgyPqHy7i+g9oZBj2gzSQ82jzQxz+5QW0V0Cw==

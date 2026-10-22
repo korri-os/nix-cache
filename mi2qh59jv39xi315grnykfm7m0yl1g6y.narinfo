@@ -1,0 +1,10 @@
+StorePath: /nix/store/mi2qh59jv39xi315grnykfm7m0yl1g6y-cargo-package-fastrand-2.5.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/015y2bfjfynn5v6b2y3zdiny56l4vhr8jkygl76yyldrdwfbl518.nar.zst
+Compression: zstd
+FileHash: sha256:015y2bfjfynn5v6b2y3zdiny56l4vhr8jkygl76yyldrdwfbl518
+FileSize: 22107
+NarHash: sha256:05aisd3h9wa0sfvfy9aydz59ifvypw5h06xgrx99ps2xfxjayqr5
+NarSize: 77680
+References: 
+Deriver: x2p86ysnkhcsxdfzhj137ii6zy5829g7-cargo-package-fastrand-2.5.0.drv
+Sig: korri-cache-ci-1:jVW773cmHzu9i9nhsi7JAHppfN5uE5BRcwSW3eqc9CRXZcScoRRxCHF0SA46cJytKJ862DMuGIDTsMd/Kq8PBA==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/flh5l52nipdh0qd2jnxifq8p8x8a9mja-cargo-package-reqwest-0.12.28
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1c3kwh8kd4k4109gcz596bdr1lkd8cnrgy3mws0w6q7q8ayn3kvd.nar.zst
+Compression: zstd
+FileHash: sha256:1c3kwh8kd4k4109gcz596bdr1lkd8cnrgy3mws0w6q7q8ayn3kvd
+FileSize: 146487
+NarHash: sha256:1ac6qbjfnfh833a2bxvwqwv0bpn060ikz9s6vssv01zsz2lav4yx
+NarSize: 745952
+References: 
+Deriver: s4b59cq2ls94dcyf8m6xwcsdjxr9lddz-cargo-package-reqwest-0.12.28.drv
+Sig: korri-cache-ci-1:Bf2oTX3aQ/Dz5v6VuPATkRgiazpT66T3d64TMmMHYddTfl594isnVa7fWZMwyjCUxgqlNVq77o11eteC0LShBQ==

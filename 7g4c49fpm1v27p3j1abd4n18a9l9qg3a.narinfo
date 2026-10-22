@@ -1,0 +1,10 @@
+StorePath: /nix/store/7g4c49fpm1v27p3j1abd4n18a9l9qg3a-cargo-package-which-4.4.2
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1r0rrryrrzzyw2pgpl5q7yxl2hf8gzlna4ml3wdqlsj1lazz0kqk.nar.zst
+Compression: zstd
+FileHash: sha256:1r0rrryrrzzyw2pgpl5q7yxl2hf8gzlna4ml3wdqlsj1lazz0kqk
+FileSize: 17304
+NarHash: sha256:1jig7r341x19kdpysm7mrh9rh4g6hy1kqw9zas389jbrfp6ify0z
+NarSize: 66872
+References: 
+Deriver: r9bjwa0x05dyybvmhszwl7l29f7im0y5-cargo-package-which-4.4.2.drv
+Sig: korri-cache-ci-1:/9pwlATpFM3S/nADsEr4oBdJL8Y/NpdQ6sQUO1YZZGPO3pVzc/Z2e3MryuOjVhl/YiBWTOYS9ApvRgWWWgDhBw==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/yygdb0700hfrja9ss2ika02j315i1n8n-cargo-package-socket2-0.6.5
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0975q552nfm2fidfmrk20hsvsivl1fw3rfgihkrzzkraprg1zid8.nar.zst
+Compression: zstd
+FileHash: sha256:0975q552nfm2fidfmrk20hsvsivl1fw3rfgihkrzzkraprg1zid8
+FileSize: 61208
+NarHash: sha256:081j7kdvq9p0i026gyjppqn7m9nz2rzavnbnaacrbbgsfxibfqvj
+NarSize: 304304
+References: 
+Deriver: fi0az7jldzrlirdafv05vkmjvn8q3gfz-cargo-package-socket2-0.6.5.drv
+Sig: korri-cache-ci-1:mzBbhCbBteSiWyeXiAMSI48vEsnDUlMhRDYwCgf4TrfNZ7Ey4sHFLI8t3ACyhFQO6PPO8ZfY23w5G4WJXTqICg==

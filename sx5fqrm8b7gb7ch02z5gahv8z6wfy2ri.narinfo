@@ -1,0 +1,10 @@
+StorePath: /nix/store/sx5fqrm8b7gb7ch02z5gahv8z6wfy2ri-pipewire-extra-config
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/13a5gv204097fb79csxkhf1hj3csz2l9bz09w849c74270jyvabh.nar.zst
+Compression: zstd
+FileHash: sha256:13a5gv204097fb79csxkhf1hj3csz2l9bz09w849c74270jyvabh
+FileSize: 288
+NarHash: sha256:03a8gyrsp8d1rqr07q8wgsws783c29appn5npbc40ns4d69xwndc
+NarSize: 1320
+References: a9xd3lcjpfpxkcfa0j1yqx34bpc9ky9w-10-sm8550-quantum hq8scg7bva3yqnjn2mp3jncgvbyfq6gn-10-sm8550-quantum
+Deriver: v1qaj42phs8sg7nnifss7y49h9y3v1kb-pipewire-extra-config.drv
+Sig: korri-cache-ci-1:AzVcrT7iXcTbU5mg3RFAJtBB3ewnzkWEWiQqMnmx1K253vq90Lqa2bdd9iNcbQ0jkKP8Xmzo6WupX1vMfOF8DA==

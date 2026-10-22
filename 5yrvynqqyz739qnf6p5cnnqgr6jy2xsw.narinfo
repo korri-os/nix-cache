@@ -1,0 +1,10 @@
+StorePath: /nix/store/5yrvynqqyz739qnf6p5cnnqgr6jy2xsw-cargo-package-pin-project-lite-0.2.17
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/07fqsf8vf79vf14xv0832kb45gw4i4jfqf5apikppyaldi7mb31q.nar.zst
+Compression: zstd
+FileHash: sha256:07fqsf8vf79vf14xv0832kb45gw4i4jfqf5apikppyaldi7mb31q
+FileSize: 33571
+NarHash: sha256:0h8yjy0izm1g4ilrsldxsjnhgy0li04s6mrqg7jx7mh3m2rf2nnl
+NarSize: 257912
+References: 
+Deriver: lz1i5ml81w9y875isyzgmjjzcin3p909-cargo-package-pin-project-lite-0.2.17.drv
+Sig: korri-cache-ci-1:m4s0+i7bmeoESeQgwTdxYBDN432MD3irdcUGmgKoNmtdVZ+3iKNBW95b2RvnWUQNcGBtxOCj/UvTJNvfE5CVCw==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/bsmr4f23smdry75sm6glmyakdah42hbz-plymouth-theme-korri-0.0.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/037kkwr39xdd7lc6c3pdc2va6b5alcnpmrvbqnsx1xhmr8gz5d3l.nar.zst
+Compression: zstd
+FileHash: sha256:037kkwr39xdd7lc6c3pdc2va6b5alcnpmrvbqnsx1xhmr8gz5d3l
+FileSize: 48149
+NarHash: sha256:1iivvxw24n79cjf526jdqcra6yxamgds48dskf1g7wn7wm5afjpi
+NarSize: 75896
+References: bsmr4f23smdry75sm6glmyakdah42hbz-plymouth-theme-korri-0.0.0
+Deriver: k7dpsc2jl33pza3zsapnppk95pgjf5n1-plymouth-theme-korri-0.0.0.drv
+Sig: korri-cache-ci-1:vpl4kwWmCK3LTYMxe7pdQxe7h7G49+DAIAcJVxQ6LS8JS6iETmuzmFJR28QhDx4IhvOikFPkhEtTSo3Yt7l1Aw==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/zs61fjc80gpgyn8cc2g0bznwqmb4x282-cargo-package-opaque-debug-0.3.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1qh5bmj3ryxm28jk9k67p5xdfa881xlifmzsmqsq0jivrx09h2h4.nar.zst
+Compression: zstd
+FileHash: sha256:1qh5bmj3ryxm28jk9k67p5xdfa881xlifmzsmqsq0jivrx09h2h4
+FileSize: 7492
+NarHash: sha256:1931rpc3bkakcwdz4422mhk4278ghykim4aya03294mr1z5r1mi6
+NarSize: 21120
+References: 
+Deriver: k4fgdr3fnrrs25yvpw7mrxw64mq0p7qk-cargo-package-opaque-debug-0.3.1.drv
+Sig: korri-cache-ci-1:nFaKmqU7m7AiTdWPOszoR1RqGdTFKy9m2bIUBbPOc7KXG2iFzpvytgQ4Axi5+zm4TrICYcwcUolImI/D+Ql5Ag==

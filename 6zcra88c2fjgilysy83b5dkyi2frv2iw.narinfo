@@ -1,0 +1,10 @@
+StorePath: /nix/store/6zcra88c2fjgilysy83b5dkyi2frv2iw-cargo-package-itertools-0.12.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0vkw0qm6hx2r2l7ncsxfs54z3j4pyarjscqz6lnckyaqkxk4j0gp.nar.zst
+Compression: zstd
+FileHash: sha256:0vkw0qm6hx2r2l7ncsxfs54z3j4pyarjscqz6lnckyaqkxk4j0gp
+FileSize: 144346
+NarHash: sha256:1www8a30bj1v59yg180zbv44jfcy0ygvw7mj2ghv8rld5dd8qvgv
+NarSize: 691592
+References: 
+Deriver: 30sh3dykn6s2050qs52al6waxfil1f8k-cargo-package-itertools-0.12.1.drv
+Sig: korri-cache-ci-1:+2S5ZQFCx/zqkATFs0vwpoQGNSAIZwpdo6rxdTYO7Qkavq0rV5kFyRayOgGOPsbkv1ayoOq09CEeLZDN/3U2Bg==

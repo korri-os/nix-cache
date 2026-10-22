@@ -1,0 +1,10 @@
+StorePath: /nix/store/gmh5vh4xr2ph0s52y29y9slkfm0nmczi-50-coredump.conf
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/12kq7kkga8x464s86rhnmf1b8mxfw0pvj7br67g1yqc2vanb7c7y.nar.zst
+Compression: zstd
+FileHash: sha256:12kq7kkga8x464s86rhnmf1b8mxfw0pvj7br67g1yqc2vanb7c7y
+FileSize: 1065
+NarHash: sha256:1fijpd215nf9vjy992mz4lcmm90ljc9j7y99i2dj1w6l43asn7z0
+NarSize: 1984
+References: 0lz7vhqlg4w9a0q7dc1sbh6zja6ymm8s-systemd
+Deriver: z0q6hph7l841z41153b1vnpb32z9xjsq-50-coredump.conf.drv
+Sig: korri-cache-ci-1:FpS5Xdau9rnT72smJlbkL1e/AextXGgucMchK5/oO2XUEbPu5HCwyrZqYBNY4Boktv7/kFK7isqQDzqMw1DvCQ==

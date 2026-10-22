@@ -1,0 +1,10 @@
+StorePath: /nix/store/9zw9h77pd7kcvfcvkjy5mrllnaar177d-unit-script-suid-sgid-wrappers-start
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/16i37j351yzi4a4phv5pskl5rhhs6435s431y5rf7fax98rr2sw8.nar.zst
+Compression: zstd
+FileHash: sha256:16i37j351yzi4a4phv5pskl5rhhs6435s431y5rf7fax98rr2sw8
+FileSize: 1494
+NarHash: sha256:08lj0ic467gn2521zkkqcb21bmrhcd56q39r33lqpqv2nkcx5fz6
+NarSize: 5616
+References: 03q9yix4b88fhff06bwb90cq0bpqw729-security-wrapper-su-aarch64-unknown-linux-musl 1754h8xz1ff6crcxmlkyayxzxv4h7pgd-security-wrapper-sudo-aarch64-unknown-linux-musl 47fmjl7h0m740rk7jfqrwrk9in92knik-security-wrapper-unix_chkpwd-aarch64-unknown-linux-musl 6a1l89748y7pkfvccriscc0v5chlxhd6-security-wrapper-newgrp-aarch64-unknown-linux-musl 6fcfp81vwhdqm7dcavmxxpwz0065zayy-security-wrapper-passwd-aarch64-unknown-linux-musl 73zgjwcx7xlsf8dc5fcm59x86bq1bbhg-security-wrapper-sg-aarch64-unknown-linux-musl b8932z1hy2nm8jd3sr9nc84nchxqzcbg-security-wrapper-newuidmap-aarch64-unknown-linux-musl ch6gqmk6x160wc5w00xfa2biyg3y539a-security-wrapper-umount-aarch64-unknown-linux-musl g5j4v21y4g9773784blq2mw3884ym885-libcap-2.78 idnyqaaix26szkvhs1mjgi7990jajz9a-bash-5.3p15 iljxkkqdcq7yfw7lkmp3bq7qgaj0pfh1-security-wrapper-sudoedit-aarch64-unknown-linux-musl m6n3i83ml5xy4736x2bp68xfcrc9hp0q-security-wrapper-newgidmap-aarch64-unknown-linux-musl snm7m0ir768gd7zg8qr9wxa0jc028yww-security-wrapper-chsh-aarch64-unknown-linux-musl swjdbnq4d9r9cg75m9ahr77gp1035q01-security-wrapper-mount-aarch64-unknown-linux-musl wmvjcr1a5yp4pwdx3zqwj7l33a7wng1q-security-wrapper-dbus-daemon-launch-helper-aarch64-unknown-linux-musl
+Deriver: 48mvs5sx4zgf1ixgdabkzmbzif00aq2m-unit-script-suid-sgid-wrappers-start.drv
+Sig: korri-cache-ci-1:J8G6+sQcUmS2BGKByc7d9pebEcTAwLenpHjsGJMmmaSZ8NmnFLiy8QcYyzaaIH/ecJgTnwp5mwo6SWtuC/zfAg==

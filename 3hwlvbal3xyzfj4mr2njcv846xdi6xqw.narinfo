@@ -1,0 +1,10 @@
+StorePath: /nix/store/3hwlvbal3xyzfj4mr2njcv846xdi6xqw-cargo-package-cobs-0.3.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0iiljc65xi7003zgp6wj9qnfzi5qa9la6akjrsd8ncmgikjia7hg.nar.zst
+Compression: zstd
+FileHash: sha256:0iiljc65xi7003zgp6wj9qnfzi5qa9la6akjrsd8ncmgikjia7hg
+FileSize: 16815
+NarHash: sha256:1h13k4ncpw6yjbkwpp460x6x1v9wnsyrnj9hmsp2r8g518173cn3
+NarSize: 60776
+References: 
+Deriver: n7g0iq5kqwp28qhzzd9m095831f1bw4p-cargo-package-cobs-0.3.0.drv
+Sig: korri-cache-ci-1:0uXQ9uXYNpQUxQwNMy6L1GiOmj9ZcOIQNx7SB6ysonTQ2JVAHm4ne/1YCPD/RqQ+khOxXyeiN86NwDnDRjVGBw==

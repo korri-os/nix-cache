@@ -1,0 +1,10 @@
+StorePath: /nix/store/vl4bbcx5vp017wisjpc1xg4ydzvx2435-korri-validation-motion-0.0.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1khavz840zkyw6xzg2g5pl2i2n4w2y6cypw1vnb4mh3kkbiddn2n.nar.zst
+Compression: zstd
+FileHash: sha256:1khavz840zkyw6xzg2g5pl2i2n4w2y6cypw1vnb4mh3kkbiddn2n
+FileSize: 7824
+NarHash: sha256:0jw3c1gvcrn5p1xm2h36fgpl4gmf4impmap0456dmzm1fys796zn
+NarSize: 72040
+References: k3cp6w7dk15zdmgn2adf87y5i2hhavnn-libx11-1.8.13 m54cs0m994hc3n9lax7sg98sgy729qsa-glibc-2.42-84
+Deriver: ypmgbhpadfyh92gm180zrlyc2l8vgy4f-korri-validation-motion-0.0.0.drv
+Sig: korri-cache-ci-1:OztkrceNlIBaC8fK9reqpCCutmW6CuqSsJ0BlkHXXkyrqORi2P7kQ6FKwXKqB+zWh3c9P/8v8qdHXqlSkIyeCA==

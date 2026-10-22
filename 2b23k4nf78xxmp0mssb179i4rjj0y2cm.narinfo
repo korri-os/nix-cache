@@ -1,0 +1,10 @@
+StorePath: /nix/store/2b23k4nf78xxmp0mssb179i4rjj0y2cm-unit-nix-optimise.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/00ma4bvslrznjvy5blf2f922w90gd35sx3s972r6kiv1n3hz5csh.nar.zst
+Compression: zstd
+FileHash: sha256:00ma4bvslrznjvy5blf2f922w90gd35sx3s972r6kiv1n3hz5csh
+FileSize: 714
+NarHash: sha256:092f6asxvzwzpjjiyq5jaha9ch5wfgd6jm4bf66n94cl2hfbsff2
+NarSize: 1456
+References: 1nwgsy4c5862g44s9lkf50643p3nbwm5-gnused-4.10 3b3k72bbr01bgff7bdkiz6r05gmlx5s9-gnugrep-3.12 i8an849ir6g3f4n2wrsm88s2qgrzjayq-tzdata-2026c k8as1kdn16q5w6zq6z3vih70qby9l40i-glibc-locales-2.42-84 lz2w1as1p0c2lajnvy2iif1i3vqh189a-nix-2.34.8 p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11 x0iv5hlpqfrpykdckbj8jdxy78clbjpz-systemd-261.2 xqx65i7cwacw7rsnj3dlbqas27mwvpn2-findutils-4.11.0
+Deriver: jlik0z2cycm7h9b7rg74gs8sbm8cgwvv-unit-nix-optimise.service.drv
+Sig: korri-cache-ci-1:54uAXsT9YjmGTAIpSCVNLoGNGMlYfJNNH4K+8fOO0lkoUAbqQ4SCcj1ajDfBwZXJjtAHyAXiCpNAME/lIaUQCw==

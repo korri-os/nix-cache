@@ -1,0 +1,10 @@
+StorePath: /nix/store/q5wc9nz3r0dkb7jfji082wvjgp3gd0mg-local-cmds
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1iqbqgy49w8gfg29dz9gb21r9jnbj5rl76a8xxgv4j1vvha5mls1.nar.zst
+Compression: zstd
+FileHash: sha256:1iqbqgy49w8gfg29dz9gb21r9jnbj5rl76a8xxgv4j1vvha5mls1
+FileSize: 523
+NarHash: sha256:02mkaz4wr6h789bq50lb91zzjy0rvsb5xiq9f6i43vixkjgigc5h
+NarSize: 1000
+References: 10n6y6mdxplz2zzyk36v061avsdr605m-gptfdisk-1.0.10 50vnh2qyvpbaxa8pbgallwd3z3fzj60i-e2fsprogs-1.47.4-bin p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11 qbxkcbbkharkrdfbhh0wwh2zf733pzzg-util-linux-2.42.3-bin
+Deriver: 5jfhibwa7pqgkjhlvh1c9aqapy0vlkkl-local-cmds.drv
+Sig: korri-cache-ci-1:HE7Uwgt1zETYInnfGVUaWN1fvf414NO7s28eyVXzcxwlVM2uRRbcZdStXuF+nBB8REyL+MoCd+zcEnY9D6h/Aw==

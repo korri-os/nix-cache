@@ -1,0 +1,10 @@
+StorePath: /nix/store/5g2469v741j2gfiw8k0mnlq72jb7bm1q-cargo-package-siphasher-1.0.3
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1aday7znp8svy9ka1hz3dz5jinfff5089sf29khz89libn725azh.nar.zst
+Compression: zstd
+FileHash: sha256:1aday7znp8svy9ka1hz3dz5jinfff5089sf29khz89libn725azh
+FileSize: 12237
+NarHash: sha256:1apw0szxk1awjzl2rzd9mwil57sh1nlvlvbqfah5k9mbhabvbdir
+NarSize: 63616
+References: 
+Deriver: 44z0wiblpvb9w0228yfmvpcv8j1s09h5-cargo-package-siphasher-1.0.3.drv
+Sig: korri-cache-ci-1:TSbNJltnDFK3R83NImPVfWM05gfcNTF2yi5e635pt8JMrChR4SxFvdzPiqC7QfXmecd0/WSj5jW8/vHC9/7mAQ==

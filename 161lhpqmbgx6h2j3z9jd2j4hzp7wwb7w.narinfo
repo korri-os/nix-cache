@@ -1,0 +1,10 @@
+StorePath: /nix/store/161lhpqmbgx6h2j3z9jd2j4hzp7wwb7w-cargo-package-itoa-1.0.18
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0w93w001y6n2psdiyz9g5d0z1w8jb37ynavxwm09wpjmkfh4irnl.nar.zst
+Compression: zstd
+FileHash: sha256:0w93w001y6n2psdiyz9g5d0z1w8jb37ynavxwm09wpjmkfh4irnl
+FileSize: 16774
+NarHash: sha256:1sp3gbcvs0sj1yyv99q2117qahkz3a5jd14dj5cp6x7a23kp4wad
+NarSize: 55040
+References: 
+Deriver: g9wn35a1hv5g85c0jfbwjc65nm4hw5bd-cargo-package-itoa-1.0.18.drv
+Sig: korri-cache-ci-1:JjuMhu1ln2WL/4a89joJtnTc2bD8bEMQOOLqI7TD1Y4PLEcz/6tLzS5E304LRSp1V2OmTgle6gFDJBd4HHbsAA==

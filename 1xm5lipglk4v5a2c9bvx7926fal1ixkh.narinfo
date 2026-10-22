@@ -1,0 +1,10 @@
+StorePath: /nix/store/1xm5lipglk4v5a2c9bvx7926fal1ixkh-cargo-package-cipher-0.5.2
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1fiz0d52505s43qcq1va3awqprwb8gijgzy9bmvr5p7nkp0ccvn4.nar.zst
+Compression: zstd
+FileHash: sha256:1fiz0d52505s43qcq1va3awqprwb8gijgzy9bmvr5p7nkp0ccvn4
+FileSize: 29810
+NarHash: sha256:0b0k7lq6piiajn66dach96drfpli6px57h2bb9zviaknbmhc04z1
+NarSize: 135176
+References: 
+Deriver: jv0knywgfi3xrwrnv6d36l1sbgxf8liz-cargo-package-cipher-0.5.2.drv
+Sig: korri-cache-ci-1:C9r5XVHH/lnN4YISzs6jRJdXafz5ZD+Dg/sn0hthvj05NceCJBm5q9+Q7t9uzgCJQnwm91SG4GXtLYZrznjHDA==

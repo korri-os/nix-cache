@@ -1,0 +1,10 @@
+StorePath: /nix/store/mzmvw7a2pyxj37shcylznmykil54x7qr-cargo-package-chacha20poly1305-0.10.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/17yji76xxrscmcqmyzbq629mx0sdzf38cik5mn87bcl094hw5lp1.nar.zst
+Compression: zstd
+FileHash: sha256:17yji76xxrscmcqmyzbq629mx0sdzf38cik5mn87bcl094hw5lp1
+FileSize: 68985
+NarHash: sha256:1ybh544whkc30rllz5ph05qn7szwxwdkkl7dk6x5g6kgqjvfzybw
+NarSize: 128656
+References: 
+Deriver: 997a2zwkdjhp9gpkd3fr7zr684x0hj4k-cargo-package-chacha20poly1305-0.10.1.drv
+Sig: korri-cache-ci-1:w3+p+mBWBOsoBfdUOUXgts8LgxgRGUf7xomd1r9wit6gbWjvHlKJtv6Y7IF2OPB8XFSFP8+GNOtieNa3nrBzAQ==

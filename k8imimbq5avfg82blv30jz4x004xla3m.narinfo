@@ -1,0 +1,10 @@
+StorePath: /nix/store/k8imimbq5avfg82blv30jz4x004xla3m-cargo-package-proc-macro2-1.0.107
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1dpsl7dacw51wn8syi38ax4pgkf9ldna48bkqh51nnaphcq2padq.nar.zst
+Compression: zstd
+FileHash: sha256:1dpsl7dacw51wn8syi38ax4pgkf9ldna48bkqh51nnaphcq2padq
+FileSize: 61504
+NarHash: sha256:0i14nhcg5bm96h40719lsrh23piqpr38ic70rd5ivyf8b8wj6sn7
+NarSize: 277936
+References: 
+Deriver: 336xmq6zrxbp9nydqv067rmfkjacffxy-cargo-package-proc-macro2-1.0.107.drv
+Sig: korri-cache-ci-1:7hRTZJIHnOTTOoLysuB8Cca7XPiJxXJaY4UWaP2911s0x0IiI9nSSTTGzaPkamTsMeqIF1gt3zQDbBwAiXp9Cg==

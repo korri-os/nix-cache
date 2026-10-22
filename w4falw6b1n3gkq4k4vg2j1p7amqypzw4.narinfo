@@ -1,0 +1,10 @@
+StorePath: /nix/store/w4falw6b1n3gkq4k4vg2j1p7amqypzw4-cargo-package-r-efi-5.3.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1hhcjqf3slbp6m4z77xr6i5v496ykrymby0y4q5ywq9yachl438v.nar.zst
+Compression: zstd
+FileHash: sha256:1hhcjqf3slbp6m4z77xr6i5v496ykrymby0y4q5ywq9yachl438v
+FileSize: 66124
+NarHash: sha256:1cc8x76n8i4k76fv5874v4rqfk6nwf7z5vghlc0whddgh4qh9nl8
+NarSize: 303720
+References: 
+Deriver: ynhablnm3nxj1g1xjx4xcbrhc4indzf9-cargo-package-r-efi-5.3.0.drv
+Sig: korri-cache-ci-1:7ItOCvaS6m9nAq9mpfza2MEAwYthIVx5g5d3sPa/Yv5uwX4SDffu+EzKX/GkSv+OXXG0eXpjCFwrcOTG+bEbBA==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/6lfma7ifvj97k7j53q9vlw5y9wvsk0gb-cargo-package-minimal-lexical-0.2.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/11a7l09vgh5zvxz7ppn4am2bza2y64d9sgxs22nqqrh8hf8pd4fl.nar.zst
+Compression: zstd
+FileHash: sha256:11a7l09vgh5zvxz7ppn4am2bza2y64d9sgxs22nqqrh8hf8pd4fl
+FileSize: 93958
+NarHash: sha256:09n6d2bik5jz6g8w1gqhjmlypslha78by2i0pblplj49lmpwph1q
+NarSize: 343168
+References: 
+Deriver: rclb3i3qdv3qa012fpqrjkqrrfkzcrzg-cargo-package-minimal-lexical-0.2.1.drv
+Sig: korri-cache-ci-1:ynW/0ukAmuaq+VIuW9++IwI23C8Ck+f4yNAZXBh2agAz9U4AVhdLXuoExB7gyBC4hbXTHQN0CnotYYrzdPVeCQ==

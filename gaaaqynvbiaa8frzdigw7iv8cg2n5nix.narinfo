@@ -1,0 +1,10 @@
+StorePath: /nix/store/gaaaqynvbiaa8frzdigw7iv8cg2n5nix-cargo-package-unicode-ident-1.0.24
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0j4a3kmny2nrlya82pr41263p5yg3f47d9bjyzsfdd8lxl5igh3l.nar.zst
+Compression: zstd
+FileHash: sha256:0j4a3kmny2nrlya82pr41263p5yg3f47d9bjyzsfdd8lxl5igh3l
+FileSize: 53255
+NarHash: sha256:1ac661vk2s8799nh0dllaqh3s6xxsxbwy5si030adc1hi5186h3m
+NarSize: 343760
+References: 
+Deriver: nsdrfrk1w47sp94r0862sna50hk9ayvc-cargo-package-unicode-ident-1.0.24.drv
+Sig: korri-cache-ci-1:86PVwqOq3jJv/IgfHCV6CSFaHR/sXuxeKnasu3BsfEfeExrn9vqtfnXRmGMscxSkfQ483O6De9mxcPI/cSZNCg==

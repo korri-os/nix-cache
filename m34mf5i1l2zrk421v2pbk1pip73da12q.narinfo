@@ -1,0 +1,10 @@
+StorePath: /nix/store/m34mf5i1l2zrk421v2pbk1pip73da12q-cargo-package-winnow-1.0.4
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1zvdkgzxkssyav7i1j9mrsdipklfs65rdp0738a7dmciakmnslsr.nar.zst
+Compression: zstd
+FileHash: sha256:1zvdkgzxkssyav7i1j9mrsdipklfs65rdp0738a7dmciakmnslsr
+FileSize: 192057
+NarHash: sha256:1lfc36cxk20dymm7zmij002291kdlxppkws85s8836qlsmg9f579
+NarSize: 1368136
+References: 
+Deriver: 4ys37g08fp1vim27mgrl4s7v9rxpk7s9-cargo-package-winnow-1.0.4.drv
+Sig: korri-cache-ci-1:sJfA37rj0Ssc0cXBDd0WJ7yynhAgbPCfU/8o5Lb1uL3ecqjoB+lvMhLTlUHSAFxMEdO/0in955vDMSxICFULCQ==

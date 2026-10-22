@@ -1,0 +1,10 @@
+StorePath: /nix/store/3w8xw4221isjy5kzp5phvndbwikvq8m5-sway-unwrapped-1.12
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0f49rc8k2xcpkp7ycv0pmcnkl3wc56gryrbsvbyrkhhrbrxhah0x.nar.zst
+Compression: zstd
+FileHash: sha256:0f49rc8k2xcpkp7ycv0pmcnkl3wc56gryrbsvbyrkhhrbrxhah0x
+FileSize: 5481685
+NarHash: sha256:0a85pj5zgfl17hw6r0jmavj3wx0gm7yz4nvp82g38glm6vnqp4jy
+NarSize: 6346024
+References: 1kywjlirkyg1lb4qlb8a8sw2xnx4w6kw-cairo-1.18.4 3w8xw4221isjy5kzp5phvndbwikvq8m5-sway-unwrapped-1.12 4rhj7fy78aq162kqs6687rhnk4qh6024-pixman-0.46.4 558bbrzybch0lvlybaza3glcm7m0py05-systemd-minimal-libs-261.2 a9vrd8hyg9isgd80wmpi0y2a0v3sqk80-libxcb-1.17.0 b0ml5fzg1whfc2803dgpfyd4jrwk4fpg-wayland-1.26.0 bd2kb9mp85ccbbw7dpdcx1n749qg0q5s-pango-1.57.1 c93rd8x6zq0q07bg2yfs6lf0c8vka8ks-libxkbcommon-1.13.2 ca6p8hc8q75jn4idrsny6ff4kkg7g1fj-libxcb-wm-0.4.2 ih1qd652s6zxqdfa2lvgdgn4rwby97dc-libdrm-2.4.134 l830ky8dj232ssmlinq30lxxlf6v05m2-wlroots-0.20.2 m54cs0m994hc3n9lax7sg98sgy729qsa-glibc-2.42-84 ng3a5234h25zi0q21zqljixxm97dqfxb-swaybg-1.2.2 q1gq0ixsm3r2l6gw91qqkfjjl2lw35nh-libinput-1.31.3 q2is74m24qq9db9gy5m8zrqhmdaxzavi-json-c-0.18 r2fyc1x2wsk27q22pybrsz01qp0gc9ip-libevdev-1.13.6 xg8r53g4y7n6d237a54yqrvwmy66ckid-pcre2-10.48 yc147wbahx9ajp7gry05s28xs30466hc-gdk-pixbuf-2.44.7 ysmblj00s4j15a6p15s544dh8zf27a5a-glib-2.88.3
+Deriver: g8y2wnkahgh79q7s5agp71mm6f1003z5-sway-unwrapped-1.12.drv
+Sig: korri-cache-ci-1:gHSj+rLm+e5kAZpYq0FYFCda1nSlsYvNpK0ybLAfoYG1taYRYh6+C3Zj0aCx/xUS+043ywPgWgHayI1miRneAA==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/p40yd5818655lxxmh4j1kv2m80rhcpn5-cargo-package-idna_adapter-1.2.2
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1qdb4811wm38q9w3jhwazjf4vg9hfvpz2wapfi18c1djwc7xahbq.nar.zst
+Compression: zstd
+FileHash: sha256:1qdb4811wm38q9w3jhwazjf4vg9hfvpz2wapfi18c1djwc7xahbq
+FileSize: 10988
+NarHash: sha256:13m49cpp4p8a8va2wybym3wcr8fjxp0mf3vgivsbzfb9zdv8qs9l
+NarSize: 37032
+References: 
+Deriver: am28ahkj78wabh83a4hjky18hrcc9z5s-cargo-package-idna_adapter-1.2.2.drv
+Sig: korri-cache-ci-1:hpZGuPwO4Ukgw1QN1XA31AVPjKC8ZPo5oWIjJ0SCIxPIi21bzprA9aPM8B8+f/Mq0ZRgu7iKaJk9gJS9L7Y9Cg==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/frq8cni0mcg74458vcg6gkjipdybxlm3-cargo-package-iana-time-zone-0.1.65
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1bd7d0akk2fsyprp3x0csz99yikzl9b64xz24jfbhh945mi2gj4p.nar.zst
+Compression: zstd
+FileHash: sha256:1bd7d0akk2fsyprp3x0csz99yikzl9b64xz24jfbhh945mi2gj4p
+FileSize: 35946
+NarHash: sha256:0f7kdldvw6ib5v18f6hr8mpl6a1i6a56my8s0wjirzb4m4p6gzp1
+NarSize: 188840
+References: 
+Deriver: 9di3qg4b4q2b5b238zjl0v0n86f46lhq-cargo-package-iana-time-zone-0.1.65.drv
+Sig: korri-cache-ci-1:7vu5FF1thyBg/WvB3Ur3r1B8nFpLljsxvj6KLsANEXw5Fot7vZN1Je3FfavfpvBLUlOVO52HhXHhAqHGz4MZAQ==

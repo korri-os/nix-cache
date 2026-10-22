@@ -1,0 +1,10 @@
+StorePath: /nix/store/fplk9cif3lr34d11k1j11vpc0xcxp4a7-korri-backlight-step
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0px0ilswjacyqfcm2ha992ixiiygydvsf3anzppnamn3jki2xv5i.nar.zst
+Compression: zstd
+FileHash: sha256:0px0ilswjacyqfcm2ha992ixiiygydvsf3anzppnamn3jki2xv5i
+FileSize: 1032
+NarHash: sha256:09rrk4s0mi0zfjg1ik2rnbfss4sysijy1wgxkns5yhrfxb8ihzi3
+NarSize: 2608
+References: idnyqaaix26szkvhs1mjgi7990jajz9a-bash-5.3p15 p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11
+Deriver: q28i9aa0paggkrfr7cfpr47ws5g6rx7y-korri-backlight-step.drv
+Sig: korri-cache-ci-1:toeKketUfeAEDxeC3ZkI+9qT5uR2yPSQVVRU3NjT4Pe82L4Fy6X9cKtP2U/KUrXd9HNRh4TuuCJ6UqKiBJIABw==

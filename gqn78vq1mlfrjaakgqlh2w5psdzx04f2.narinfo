@@ -1,0 +1,10 @@
+StorePath: /nix/store/gqn78vq1mlfrjaakgqlh2w5psdzx04f2-cargo-package-aho-corasick-1.1.4
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1n9j50mslg92y1qi6fjfg9wdw7f4019cjz8j16rddzd2irq335rh.nar.zst
+Compression: zstd
+FileHash: sha256:1n9j50mslg92y1qi6fjfg9wdw7f4019cjz8j16rddzd2irq335rh
+FileSize: 179124
+NarHash: sha256:1ijr0fhzrs7n0jbnaj708h5r6s5n9iwx339sq5ygvwjv8z6gvf9a
+NarSize: 846040
+References: 
+Deriver: xscj0vm5mplpxn7igh0xk1rbjlmc8r8j-cargo-package-aho-corasick-1.1.4.drv
+Sig: korri-cache-ci-1:W+jNh1jDds+Gmq3Mh5Tfo2T7MvCH/o5GEGJJtbAGSXmihayZk+8BD7DxaxeJl8+FYz3x/udKFkdwNGgPLxQWBA==

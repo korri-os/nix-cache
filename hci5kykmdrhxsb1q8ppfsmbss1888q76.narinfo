@@ -1,0 +1,10 @@
+StorePath: /nix/store/hci5kykmdrhxsb1q8ppfsmbss1888q76-cargo-package-ryu-1.0.23
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0skrq5mhannyrwkqg5flygp7d0lip1hbvbj0vdn6mvpm3qcxp5zw.nar.zst
+Compression: zstd
+FileHash: sha256:0skrq5mhannyrwkqg5flygp7d0lip1hbvbj0vdn6mvpm3qcxp5zw
+FileSize: 51124
+NarHash: sha256:19xrdiaarwjvq650vcw7wyafmkfvlrgk1sv3284cjgxsy7fwgvqp
+NarSize: 192408
+References: 
+Deriver: 79kciqqzf8z68c25l06b1507agh1q29m-cargo-package-ryu-1.0.23.drv
+Sig: korri-cache-ci-1:+vmXETb3cfIwLBwHL0jwIOeUxcFCgY6rze/nSIW22ORwY7P3tL92Vj4H0fHHXd8GQG8QjxEWOeMCDjMjFUEEBg==

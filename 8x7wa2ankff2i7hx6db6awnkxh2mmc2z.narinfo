@@ -1,0 +1,10 @@
+StorePath: /nix/store/8x7wa2ankff2i7hx6db6awnkxh2mmc2z-cargo-package-allocator-api2-0.2.21
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0c3qy4x9nfzwxhh8fnxix0g71k0ba62prhq8np8lddd21h5319mq.nar.zst
+Compression: zstd
+FileHash: sha256:0c3qy4x9nfzwxhh8fnxix0g71k0ba62prhq8np8lddd21h5319mq
+FileSize: 67388
+NarHash: sha256:0rq319rzbwahf21psp2wb5h4l02mmw0faci8z3872g9xbvkhipga
+NarSize: 299920
+References: 
+Deriver: 4pzng4mwll6fhw70yj2pvxmbi09gvm8i-cargo-package-allocator-api2-0.2.21.drv
+Sig: korri-cache-ci-1:Q9uEzvIAuJ0ca6KqzEfBpx37PO7vliBAg7k+h48xlVAh2Ud6gsFUGF+tFR2xNipEu2H6aRsiw3JVOmRkRhfJBA==

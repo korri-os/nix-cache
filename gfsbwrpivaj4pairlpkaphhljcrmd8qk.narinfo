@@ -1,0 +1,10 @@
+StorePath: /nix/store/gfsbwrpivaj4pairlpkaphhljcrmd8qk-X-Restart-Triggers-korri-plugin-admin
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1mdphrbs66d4lhip57w2m63r5abp95jbfhrskihhjh09yhfi7hwg.nar.zst
+Compression: zstd
+FileHash: sha256:1mdphrbs66d4lhip57w2m63r5abp95jbfhrskihhjh09yhfi7hwg
+FileSize: 153
+NarHash: sha256:0v98pncxiwiqc81cm311q6ccynjvr3600dkw32250c41a89mpc1a
+NarSize: 200
+References: 636ipswqd8lapsgn2k73d6pb8rclccdq-etc-korri-plugin-host-publishers.json
+Deriver: vk78vb91g6p877hgdjb5zz13z0iknkzf-X-Restart-Triggers-korri-plugin-admin.drv
+Sig: korri-cache-ci-1:GlBl+Q9DZOSYO7JQQgauHwCDv3GidlPlUowmjEoqdjt2ynhgG0+Ph5Fv4J1v47xsEFu9H+Syl3pGa1whZZLlCA==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/b4s5ib3fa4lnnd8l4frjy6ks4dplmwv1-unit-plymouth-poweroff.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1qy32k258x4p33nvb1w4370nxy9gm5lciwwylnq1lbq836nlfvbx.nar.zst
+Compression: zstd
+FileHash: sha256:1qy32k258x4p33nvb1w4370nxy9gm5lciwwylnq1lbq836nlfvbx
+FileSize: 564
+NarHash: sha256:04dx1ldgrclj2ng8zx0n4qh62qc0wx1ap3rh2c9yqx380mijvcch
+NarSize: 1224
+References: 1nwgsy4c5862g44s9lkf50643p3nbwm5-gnused-4.10 3b3k72bbr01bgff7bdkiz6r05gmlx5s9-gnugrep-3.12 i8an849ir6g3f4n2wrsm88s2qgrzjayq-tzdata-2026c k8as1kdn16q5w6zq6z3vih70qby9l40i-glibc-locales-2.42-84 p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11 x0iv5hlpqfrpykdckbj8jdxy78clbjpz-systemd-261.2 xqx65i7cwacw7rsnj3dlbqas27mwvpn2-findutils-4.11.0
+Deriver: qq79sslwr6vj7gmzxkzl3bccwkalnlqk-unit-plymouth-poweroff.service.drv
+Sig: korri-cache-ci-1:g9vx4AUrjIuNsRt3OjTAKxyacc3OpBZPKiMQvpeBFmNXXDow/cLA4bawrBjPeLezHC676ylex0vjwvBrOFWuCw==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/y8jmzf3719gba0sil6bd733q3vaq8qa6-cargo-package-crossbeam-channel-0.5.16
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0pz8lsv2fqi7s5ahrb5311k4d0a603v83m0zdx7wdhl6aw1w8yzi.nar.zst
+Compression: zstd
+FileHash: sha256:0pz8lsv2fqi7s5ahrb5311k4d0a603v83m0zdx7wdhl6aw1w8yzi
+FileSize: 97628
+NarHash: sha256:1hxd151bq49nxiwnafhacn3m8zsh9w9avzk3hv4n2wjmb7lhny85
+NarSize: 613416
+References: 
+Deriver: gs5qk3ybhzxa3l5vjp1j3swlz3kpmv9q-cargo-package-crossbeam-channel-0.5.16.drv
+Sig: korri-cache-ci-1:4dVeUcdgaoR/cwlhGxXQ20NIrW0B7OVJj2IMJp1u240t+bo1w2ZhZu1kyXVrS6D2MEygwRPgBKvkjeuFJxT/Cg==

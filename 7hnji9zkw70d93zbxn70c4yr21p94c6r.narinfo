@@ -1,0 +1,10 @@
+StorePath: /nix/store/7hnji9zkw70d93zbxn70c4yr21p94c6r-cargo-package-async-recursion-1.2.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/13zbn0m604chxfisjflby1ifc3wm1biw86bifw0mbcj2s3n2i9bp.nar.zst
+Compression: zstd
+FileHash: sha256:13zbn0m604chxfisjflby1ifc3wm1biw86bifw0mbcj2s3n2i9bp
+FileSize: 18910
+NarHash: sha256:0fx9x4n1bdxib1ni6j43fb9af1cvx40p191z2ixpa2j4hhq0b4f9
+NarSize: 76568
+References: 
+Deriver: hma0gpdyg0mqxbhpc7bnwb4ld6gbcsfq-cargo-package-async-recursion-1.2.0.drv
+Sig: korri-cache-ci-1:/Uqx+gQc66XpjoTbLbE86v5Dcqyf+PJRp013u8UQx9jGIw3ogL/PV/FcSotIulpOty+F7QpFo3vSkdZOirZAAw==

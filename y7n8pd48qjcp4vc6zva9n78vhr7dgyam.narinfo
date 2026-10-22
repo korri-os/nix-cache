@@ -1,0 +1,10 @@
+StorePath: /nix/store/y7n8pd48qjcp4vc6zva9n78vhr7dgyam-cargo-package-textwrap-0.16.2
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0l6r42d2wm05qqbrkgplmvgbhpjwy26fk6lba0zdb0mwjixdxdi9.nar.zst
+Compression: zstd
+FileHash: sha256:0l6r42d2wm05qqbrkgplmvgbhpjwy26fk6lba0zdb0mwjixdxdi9
+FileSize: 58603
+NarHash: sha256:05placzp3zdlhfnr9rp80h2hbzz8hya5f457g3w6zqzbq00vw9yg
+NarSize: 218848
+References: 
+Deriver: 9barlsk82lriambcg6arh7p95al0bxw5-cargo-package-textwrap-0.16.2.drv
+Sig: korri-cache-ci-1:1UMB26LYWHoyWJ/YExVgJy3NMunwzNQ/oQAEKNpR6bqPmjuCNcVHAmdD8Q0YGoFTAG+Y++vPQ9A4ekfh8rfTAw==

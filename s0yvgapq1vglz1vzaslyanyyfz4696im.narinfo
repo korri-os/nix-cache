@@ -1,0 +1,10 @@
+StorePath: /nix/store/s0yvgapq1vglz1vzaslyanyyfz4696im-system-generators
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/03ymz06ga61krj4dm531aay3gb26b5j8hcxcaq9ybaaczn6c0fzv.nar.zst
+Compression: zstd
+FileHash: sha256:03ymz06ga61krj4dm531aay3gb26b5j8hcxcaq9ybaaczn6c0fzv
+FileSize: 223
+NarHash: sha256:1j4p2pbnlqkv4pi0db1155i9qq18ldlrh9vphnsvnjvh1g6pw25n
+NarSize: 416
+References: bh7karc6ky6iyrzicn2adjl19aczwgcf-networkmanager-1.58.1
+Deriver: wm66nb59kd2wcvvirm5k8nfa606wyj0i-system-generators.drv
+Sig: korri-cache-ci-1:ArRh1pSsP4RL3eAbbXmgpo2zmNl83zOPi8AM3Zh7Bc0qhFP0c5tTtDhPrChtKzRmCTzkT/ILjTbgiBOtU+/VCA==

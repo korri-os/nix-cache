@@ -1,0 +1,10 @@
+StorePath: /nix/store/k1kcwl9bvvw8jch9qvznlna3k2r5f8ar-unit-korri-games.slice
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0q8dlpp5xspnmad50dvyzfk9ncq0vvd6canx2hxwwmx7cwwgfad9.nar.zst
+Compression: zstd
+FileHash: sha256:0q8dlpp5xspnmad50dvyzfk9ncq0vvd6canx2hxwwmx7cwwgfad9
+FileSize: 236
+NarHash: sha256:0d6qf999apya6rikynxjc83axibf0ifm9h4vkgg51kphp8gikp0d
+NarSize: 416
+References: 
+Deriver: bcckax99g6b3rqr1p74vm3zhfywhs08j-unit-korri-games.slice.drv
+Sig: korri-cache-ci-1:o04sazdrR8MKa+SvLh7eU5soHUgzBWOpnO7RjOpFwuhA5NpWMmwQG5yBK0v5Y/aPwvgHhwm9LlGYwrV7JDKnCQ==

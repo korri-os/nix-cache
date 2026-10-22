@@ -1,0 +1,10 @@
+StorePath: /nix/store/qjgdhykjvk8sb9m9rkzlhqnpzk9vrsd8-cargo-package-bytemuck-1.25.2
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1bmibwhibslsmxzkq76i82n9abshqiwcb223786pnwvp24ifzx61.nar.zst
+Compression: zstd
+FileHash: sha256:1bmibwhibslsmxzkq76i82n9abshqiwcb223786pnwvp24ifzx61
+FileSize: 55110
+NarHash: sha256:0x8m2hrxh6qhyvswg99qblynvxx0l40xfdqn0qsyifb1fk84dd47
+NarSize: 240256
+References: 
+Deriver: d4f51l6pyl5ibr7lrxvlkms7rfqvasjq-cargo-package-bytemuck-1.25.2.drv
+Sig: korri-cache-ci-1:hKL5kTT5pwxl/t47TU1y+4hjR/yZF6RRQeZ0cOdiCO7jA1Q4qU7o4a9+XM3pRBpQ5Y+e5WKfbZUIxgLtSZjWAw==

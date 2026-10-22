@@ -1,0 +1,10 @@
+StorePath: /nix/store/imrxczq3777wk4yh1ypki1f3sm4fas36-cargo-package-toon-format-0.5.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1s4app2rcl49xx8mwlpfxbr4cqzxr8wpsa9i274nm8lz72c0qkl9.nar.zst
+Compression: zstd
+FileHash: sha256:1s4app2rcl49xx8mwlpfxbr4cqzxr8wpsa9i274nm8lz72c0qkl9
+FileSize: 111181
+NarHash: sha256:15yi67mq9hdwwlr79pw70lhmjrma6gxl460v0cszn5rzafr9lm6y
+NarSize: 547152
+References: 
+Deriver: 60xhk6fgf8sqza3bvc8dpw0qrv3kbcdd-cargo-package-toon-format-0.5.0.drv
+Sig: korri-cache-ci-1:U3OvzIYpx3Fj5DpvsmFejzrhBdaKlB89B+QZy3wji+qCzsd2GhchCWbBSW06e7ogNCJ2wmSYGam6jjZHpVphCw==

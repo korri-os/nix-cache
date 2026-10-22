@@ -1,0 +1,10 @@
+StorePath: /nix/store/51yz1xd5qrjy9lm00cxvmm4ylp5gwj71-unit-korri-clock-governor.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1ayi8qvmlwwi04qp0gy87rn421i8sj3n70qsbcp9728hlgczjwv0.nar.zst
+Compression: zstd
+FileHash: sha256:1ayi8qvmlwwi04qp0gy87rn421i8sj3n70qsbcp9728hlgczjwv0
+FileSize: 920
+NarHash: sha256:0srcnqryjxwiswhvnpm9x8sldkc634k25g8hqjbj0l0x7mzn43w6
+NarSize: 1784
+References: 1nwgsy4c5862g44s9lkf50643p3nbwm5-gnused-4.10 3b3k72bbr01bgff7bdkiz6r05gmlx5s9-gnugrep-3.12 i8an849ir6g3f4n2wrsm88s2qgrzjayq-tzdata-2026c k8as1kdn16q5w6zq6z3vih70qby9l40i-glibc-locales-2.42-84 p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11 v63zw10my1ddq0gbzwxcmma088h6i9aa-korri-clock-governor-loop x0iv5hlpqfrpykdckbj8jdxy78clbjpz-systemd-261.2 xqx65i7cwacw7rsnj3dlbqas27mwvpn2-findutils-4.11.0
+Deriver: j7c49jlavbb77lj3kg28n3sldm92r26a-unit-korri-clock-governor.service.drv
+Sig: korri-cache-ci-1:O8mxMce0jg+HRXzx56oHGlQQ7dIAgPfPIxDM1LV4RfPquY2+5EvVeQ1Zr3aHewUfUdjxlAS9PXDtgXjDD7wrAg==

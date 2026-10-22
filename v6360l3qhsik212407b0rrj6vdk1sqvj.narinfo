@@ -1,0 +1,10 @@
+StorePath: /nix/store/v6360l3qhsik212407b0rrj6vdk1sqvj-unit-post-boot.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1bb7s5n0kayymabzfkv30l0b8r6dhp5h2n5bf27sgxr449hbn0lm.nar.zst
+Compression: zstd
+FileHash: sha256:1bb7s5n0kayymabzfkv30l0b8r6dhp5h2n5bf27sgxr449hbn0lm
+FileSize: 730
+NarHash: sha256:157ykx7m9z6ysq1ca64dn15q79nvh6bf5qiyhp0arrmzdqhq2sai
+NarSize: 1512
+References: 1nwgsy4c5862g44s9lkf50643p3nbwm5-gnused-4.10 3b3k72bbr01bgff7bdkiz6r05gmlx5s9-gnugrep-3.12 i8an849ir6g3f4n2wrsm88s2qgrzjayq-tzdata-2026c jdp1khz30lhmm3607hx45x6wk42qsxxf-unit-script-post-boot-start k8as1kdn16q5w6zq6z3vih70qby9l40i-glibc-locales-2.42-84 p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11 q6hka815mzl8q1hx0j6flcqn1ijgfi45-unit-script-post-boot-pre-stop x0iv5hlpqfrpykdckbj8jdxy78clbjpz-systemd-261.2 xqx65i7cwacw7rsnj3dlbqas27mwvpn2-findutils-4.11.0
+Deriver: a0wm3h69vs30r96vv35z81bbnc6nkxpb-unit-post-boot.service.drv
+Sig: korri-cache-ci-1:GIoCxDGRnbmAeBlkPqhQJedZWPEqCghB+9llaY2m7XOulTKnKLs2ovmTgaYWWtnJaK+FDo4zL7QoJzWSjHFMBA==

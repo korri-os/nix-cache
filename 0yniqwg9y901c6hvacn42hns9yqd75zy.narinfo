@@ -1,0 +1,10 @@
+StorePath: /nix/store/0yniqwg9y901c6hvacn42hns9yqd75zy-cargo-package-scrypt-0.12.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/05xxf3rx56q4kw5rldmn80hga19vxny83bnlv8yxxhzy8zxkd3cb.nar.zst
+Compression: zstd
+FileHash: sha256:05xxf3rx56q4kw5rldmn80hga19vxny83bnlv8yxxhzy8zxkd3cb
+FileSize: 25964
+NarHash: sha256:1f67cbwi7prhlz36yc96jarih12qkr43s4pg0n4qakhsnj871a20
+NarSize: 89272
+References: 
+Deriver: dq4nzsdyyp9iya3lcsxrizdyzgjxrqf8-cargo-package-scrypt-0.12.0.drv
+Sig: korri-cache-ci-1:hiUSo7B+rui5HpZWrDoc8k7ZEpUO229AhbMjkcjbEXTznbIzsnbtILP1DjoNIubKMJ3dBS5GzHkoguNTtF2vCA==

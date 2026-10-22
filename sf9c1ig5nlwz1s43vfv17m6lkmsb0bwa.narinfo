@@ -1,0 +1,10 @@
+StorePath: /nix/store/sf9c1ig5nlwz1s43vfv17m6lkmsb0bwa-cargo-package-tokio-macros-2.7.2
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1k6c17dxbnx9ldwbdh9yv57bv04lqvwjz0jxva5cxlz3q8j2grld.nar.zst
+Compression: zstd
+FileHash: sha256:1k6c17dxbnx9ldwbdh9yv57bv04lqvwjz0jxva5cxlz3q8j2grld
+FileSize: 17048
+NarHash: sha256:0bbgai1qxnfn7922fgc8mkkdag2n0mq7hzj4bick1j9pppv0bq3j
+NarSize: 68072
+References: 
+Deriver: z0ppcg0ly6ygkbd981d8y1xal0ig7qlb-cargo-package-tokio-macros-2.7.2.drv
+Sig: korri-cache-ci-1:h6p31JSvkOuqJP+8iY4DpXyRCr58PP9hRqDsUWK4P8p3KrfBC9kly4p0PsEdhOUAnirDV30m6e3F95bU696bDQ==

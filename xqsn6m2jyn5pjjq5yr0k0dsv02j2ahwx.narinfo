@@ -1,0 +1,10 @@
+StorePath: /nix/store/xqsn6m2jyn5pjjq5yr0k0dsv02j2ahwx-cargo-package-rustversion-1.0.23
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/14z4lymisa69lr6zsmm3qxs9ivgmvzizs3ymmb44nsypl0jg9zr0.nar.zst
+Compression: zstd
+FileHash: sha256:14z4lymisa69lr6zsmm3qxs9ivgmvzizs3ymmb44nsypl0jg9zr0
+FileSize: 21499
+NarHash: sha256:0vb7s26kypsbb2pkqqsi1xcwbbxx358sqq4dnigf0n2ciarq2y9n
+NarSize: 87104
+References: 
+Deriver: zd52syvj5h00gmg8mmvp7aigyy5xkwv8-cargo-package-rustversion-1.0.23.drv
+Sig: korri-cache-ci-1:zvpAqEAu8hTTKO16dMRCorNPvPzwkcMHWUtP9R5ktMTe0kdpsE38T7dkomtfg5dqS1NaTIcaeU1SG2TcMXe1Dw==

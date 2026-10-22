@@ -1,0 +1,10 @@
+StorePath: /nix/store/zbn4qcm4krp7x3z5yy292sl6crbn2h23-cargo-package-ropey-1.6.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1xq2qgdmqr8kv8wi9n1b8xdz1nrxax8p0gfdg5767c2nc3qirkb2.nar.zst
+Compression: zstd
+FileHash: sha256:1xq2qgdmqr8kv8wi9n1b8xdz1nrxax8p0gfdg5767c2nc3qirkb2
+FileSize: 113637
+NarHash: sha256:1m936czjgfxpmj0k3dq0l46kmg7y847s94l030gqy2xdrg2l7b0x
+NarSize: 1004328
+References: 
+Deriver: 9rnyxm24jgx2wy780whb9mbk1hypsf3g-cargo-package-ropey-1.6.1.drv
+Sig: korri-cache-ci-1:hqG4r31tKWrEUNxOaZhHYRlT5WsN2AjDYzrmyf8+29q6DHHfQUln2VhZMnr7gJWPgjuE49o3WWL8CXq+qQUPBQ==

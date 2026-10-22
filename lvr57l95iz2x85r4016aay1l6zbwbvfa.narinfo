@@ -1,0 +1,10 @@
+StorePath: /nix/store/lvr57l95iz2x85r4016aay1l6zbwbvfa-cargo-package-tokio-tungstenite-0.29.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0i98ha8500vrydf8xygbalrsc32xcbpmqc4cnfmv5flxakkwzkss.nar.zst
+Compression: zstd
+FileHash: sha256:0i98ha8500vrydf8xygbalrsc32xcbpmqc4cnfmv5flxakkwzkss
+FileSize: 31527
+NarHash: sha256:1zkinx14p4drd2s4b9ic1wz3vzlvwxzpvsrii19rwd9vbr2gv22r
+NarSize: 122928
+References: 
+Deriver: 8dqami6384r05lqv1s7qb860v5pkm2lh-cargo-package-tokio-tungstenite-0.29.0.drv
+Sig: korri-cache-ci-1:WT1XCWKVoWNDuzoPcoGAQJbtnJnI4b0rWX0E40NfuRIshgdQqisMuZY4qudK/5Agzq2CrH22lVLf5WUuwWlBAA==

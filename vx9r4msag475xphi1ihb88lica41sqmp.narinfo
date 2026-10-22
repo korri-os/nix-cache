@@ -1,0 +1,10 @@
+StorePath: /nix/store/vx9r4msag475xphi1ihb88lica41sqmp-cargo-package-bitcoin-io-0.1.101
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1c71ycxajjpvkppmnfzyijfz33air5j4n2cvs4q6sap0bpx6y4ik.nar.zst
+Compression: zstd
+FileHash: sha256:1c71ycxajjpvkppmnfzyijfz33air5j4n2cvs4q6sap0bpx6y4ik
+FileSize: 13203
+NarHash: sha256:0sppz420ysw5xh4rdjs7qrlz165wdsjf620q7jpms3jpcwps67xl
+NarSize: 54312
+References: 
+Deriver: fq10sar3c1padhhnlxp591ggghzjv703-cargo-package-bitcoin-io-0.1.101.drv
+Sig: korri-cache-ci-1:aVau7ijIdNQiGQBtLgVxBsB3vDtDWmmw1G+fGlpbRpXKY3Uu7pbQIixxkHl9sz+iQnZv2Lb8DZUllad/ouYOAA==

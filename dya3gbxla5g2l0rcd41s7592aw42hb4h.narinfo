@@ -1,0 +1,10 @@
+StorePath: /nix/store/dya3gbxla5g2l0rcd41s7592aw42hb4h-unit-systemd-ask-password-plymouth.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/010idy2qsfygq0v6ksmvmixrgja3xp6navwv1m2wz29b3fc37n1v.nar.zst
+Compression: zstd
+FileHash: sha256:010idy2qsfygq0v6ksmvmixrgja3xp6navwv1m2wz29b3fc37n1v
+FileSize: 575
+NarHash: sha256:0zncvcj8b82jyy4kc9m16lgs25000vgsfsj675s4czsd13bqgjnv
+NarSize: 1224
+References: 1nwgsy4c5862g44s9lkf50643p3nbwm5-gnused-4.10 3b3k72bbr01bgff7bdkiz6r05gmlx5s9-gnugrep-3.12 i8an849ir6g3f4n2wrsm88s2qgrzjayq-tzdata-2026c k8as1kdn16q5w6zq6z3vih70qby9l40i-glibc-locales-2.42-84 p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11 x0iv5hlpqfrpykdckbj8jdxy78clbjpz-systemd-261.2 xqx65i7cwacw7rsnj3dlbqas27mwvpn2-findutils-4.11.0
+Deriver: blyn69y95kn394gf3pzfkgg9fy76cmj1-unit-systemd-ask-password-plymouth.service.drv
+Sig: korri-cache-ci-1:7shaCLkyYFGY3p9vVurpXi2v1R3ymKDgP3oeJHt+JcJlLz3IHYpfVuNboZcs6zaVTmvQaR/C3cKZcOhTPJgYBg==

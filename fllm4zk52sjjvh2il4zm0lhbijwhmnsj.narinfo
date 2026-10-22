@@ -1,0 +1,10 @@
+StorePath: /nix/store/fllm4zk52sjjvh2il4zm0lhbijwhmnsj-cargo-package-tower-layer-0.3.3
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/02w7mfb7dbxwdvr99is97fqpkfm4qrpfgzs7m8sjpflp5vjyzdfm.nar.zst
+Compression: zstd
+FileHash: sha256:02w7mfb7dbxwdvr99is97fqpkfm4qrpfgzs7m8sjpflp5vjyzdfm
+FileSize: 6628
+NarHash: sha256:1c2f96yk7dwr61fzcs6npwcgg6w2zmnl4a64bz760k9a6rpq1062
+NarSize: 26832
+References: 
+Deriver: pgq5m7cvg4vnxba9j78v3n6gag3czdrx-cargo-package-tower-layer-0.3.3.drv
+Sig: korri-cache-ci-1:hVV4vVnc59OqKgIMGFnoKYwFvLgrmVlRcI/y/Qjof5enwdo1aGUDnoCAUtWzFSWoc8uwmdNQO80NZg6Jtow2Aw==

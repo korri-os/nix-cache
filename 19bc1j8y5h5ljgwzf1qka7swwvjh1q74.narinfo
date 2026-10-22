@@ -1,0 +1,10 @@
+StorePath: /nix/store/19bc1j8y5h5ljgwzf1qka7swwvjh1q74-unit-korri-backlight-down.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/067r70j22fh67bbhjgcx4k4smy4idnmwb2cd19hrrv5g45129l1c.nar.zst
+Compression: zstd
+FileHash: sha256:067r70j22fh67bbhjgcx4k4smy4idnmwb2cd19hrrv5g45129l1c
+FileSize: 804
+NarHash: sha256:0wmyjq1fx4yzdg3mycrzn4flv0yk9aw9xa5fnf0vqvxfrgsvjya4
+NarSize: 1640
+References: 1nwgsy4c5862g44s9lkf50643p3nbwm5-gnused-4.10 3b3k72bbr01bgff7bdkiz6r05gmlx5s9-gnugrep-3.12 fplk9cif3lr34d11k1j11vpc0xcxp4a7-korri-backlight-step i8an849ir6g3f4n2wrsm88s2qgrzjayq-tzdata-2026c k8as1kdn16q5w6zq6z3vih70qby9l40i-glibc-locales-2.42-84 p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11 x0iv5hlpqfrpykdckbj8jdxy78clbjpz-systemd-261.2 xqx65i7cwacw7rsnj3dlbqas27mwvpn2-findutils-4.11.0
+Deriver: cpcb0gy30vpipnxk6w7fr2pmyg0gli5c-unit-korri-backlight-down.service.drv
+Sig: korri-cache-ci-1:8jrpvfdW0r9WSjHw84XyibxOQwPZroSXmiUtV3SYi+LhO7raHcnqAr5OuCS7kKZB7mPhRA5HACDpKKRzOxnDBA==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/clss9kzazhz6a1wfn3z8svnz30yzza0z-cargo-package-atomic-waker-1.1.2
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1v13x3akkpmv8s2ayix2i23rcmw8bz9jxbaklx2i47glcnym94y1.nar.zst
+Compression: zstd
+FileHash: sha256:1v13x3akkpmv8s2ayix2i23rcmw8bz9jxbaklx2i47glcnym94y1
+FileSize: 13264
+NarHash: sha256:1gcmbqxj3sc136j530bksigndji4lsx8cdq6sawr0wgwgaab25dq
+NarSize: 42128
+References: 
+Deriver: 7w7dwzghqk1f48z2z2x611zyxhfx453b-cargo-package-atomic-waker-1.1.2.drv
+Sig: korri-cache-ci-1:Mv184g5tRpcNLlWfDsbcPpatQMo6YCGFom9Ci1F/kxIGzuITNUdRssakI/F+oh8m6kgFAOPCzcIQd2aklfn1Aw==

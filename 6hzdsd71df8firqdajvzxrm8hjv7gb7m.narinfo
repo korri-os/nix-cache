@@ -1,0 +1,10 @@
+StorePath: /nix/store/6hzdsd71df8firqdajvzxrm8hjv7gb7m-cargo-package-wasip2-1.0.4+wasi-0.2.12
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0kfw03nh1c2i58ik8ii1v7hydr4xcpcclfslcf58ryhgy0z73rms.nar.zst
+Compression: zstd
+FileHash: sha256:0kfw03nh1c2i58ik8ii1v7hydr4xcpcclfslcf58ryhgy0z73rms
+FileSize: 109180
+NarHash: sha256:0dzbja8vn82mc574d56zl3yhg7a6dpzrknid25lziwkbjrj0g526
+NarSize: 1220448
+References: 
+Deriver: jml3d36sqch0ps2r3q9k2m0p9mg7l92z-cargo-package-wasip2-1.0.4+wasi-0.2.12.drv
+Sig: korri-cache-ci-1:erpwZXj9TQD33ZYS7btzzYeiyBJzeEYSgd7Y59jYBVKV63sCgGAJfUJQ02AEwgyKpN0sRJotse5HWyBL4vGGDw==

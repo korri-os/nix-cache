@@ -1,0 +1,10 @@
+StorePath: /nix/store/g86h0aw0r88zdn2l6rrhyvkfvywpsxvs-unit-lastlog2-import.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/010jczq9qbrqcn9j26q40qr07ra5469lzjlqvixm6kw8vdh2bjdk.nar.zst
+Compression: zstd
+FileHash: sha256:010jczq9qbrqcn9j26q40qr07ra5469lzjlqvixm6kw8vdh2bjdk
+FileSize: 633
+NarHash: sha256:0dc9yfaybxldcc04as153j1gi4nf1hmyyx4wv28h1nb9pm3skb1n
+NarSize: 1400
+References: 1nwgsy4c5862g44s9lkf50643p3nbwm5-gnused-4.10 3b3k72bbr01bgff7bdkiz6r05gmlx5s9-gnugrep-3.12 i8an849ir6g3f4n2wrsm88s2qgrzjayq-tzdata-2026c k8as1kdn16q5w6zq6z3vih70qby9l40i-glibc-locales-2.42-84 p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11 x0iv5hlpqfrpykdckbj8jdxy78clbjpz-systemd-261.2 xqx65i7cwacw7rsnj3dlbqas27mwvpn2-findutils-4.11.0
+Deriver: ymml1dmj20g9yx5bd4gm94s7slscvc8p-unit-lastlog2-import.service.drv
+Sig: korri-cache-ci-1:bYNXr8QZYBef1F0hg/bVkW/rnhGUVZ2YukxsBW5ijh6XeFhkZqFiTkIg/9W7KzSavO0n+D2g64bPywhbWGn5Dw==

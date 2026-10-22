@@ -1,0 +1,10 @@
+StorePath: /nix/store/931bkhcjidbrkx7nd8idmimzqbh28ag4-cargo-package-adler2-2.0.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1ydb5pgx4ldiliv95j8a8n463in8sc89b1khva9ma6019krcdazv.nar.zst
+Compression: zstd
+FileHash: sha256:1ydb5pgx4ldiliv95j8a8n463in8sc89b1khva9ma6019krcdazv
+FileSize: 14152
+NarHash: sha256:08badkf71xplwzik74xkmbljbwqbdl4y9bg254knva68dvd0mwhs
+NarSize: 42088
+References: 
+Deriver: lx3n6fj0fijkgypy7fan6f9p9pnf485z-cargo-package-adler2-2.0.1.drv
+Sig: korri-cache-ci-1:Wq3/KwAS6o3UaRosLMlXV+oQW30ELohZ8lL3ijnEiEbQg1wVaJNgpyEoVJBPpATbwDZVJtkExyuLlsNCXKtQDA==

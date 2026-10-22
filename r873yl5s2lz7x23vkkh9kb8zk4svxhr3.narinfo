@@ -1,0 +1,10 @@
+StorePath: /nix/store/r873yl5s2lz7x23vkkh9kb8zk4svxhr3-cargo-package-async-trait-0.1.92
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/00px78cdjqax43flns83ac8vcx4yayyj172kmscsmrgcnpd5nnxv.nar.zst
+Compression: zstd
+FileHash: sha256:00px78cdjqax43flns83ac8vcx4yayyj172kmscsmrgcnpd5nnxv
+FileSize: 34465
+NarHash: sha256:0alh45z1hjfih2qapmisb9792v17hv5jbfs2yhshw2nybq99cm3b
+NarSize: 142440
+References: 
+Deriver: si5jfn258hr7yp1p1fj7ngyml4gmll85-cargo-package-async-trait-0.1.92.drv
+Sig: korri-cache-ci-1:w+0uLBWjkxC/bcXYYMVWm20/ekBhE/Q008Gi30JaOmpsa6dILp3JonhrlklYHWOsQ516P/ouhn1jpCSEC2r0Dw==

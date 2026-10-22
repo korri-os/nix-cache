@@ -1,0 +1,10 @@
+StorePath: /nix/store/wx4ahm9c4zzfgrswdw72z3ld0sqi12g6-cargo-package-unicode-segmentation-1.13.3
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/147bpw0qk7r8c47sg3i2i39jqxxp3m16bsnn1rb4slylm5crrj6p.nar.zst
+Compression: zstd
+FileHash: sha256:147bpw0qk7r8c47sg3i2i39jqxxp3m16bsnn1rb4slylm5crrj6p
+FileSize: 112818
+NarHash: sha256:1la1j0v9q0vzjvcpfyclrsx9i6y8vapbalmg5sgcsxn101ahbb3l
+NarSize: 679016
+References: 
+Deriver: c09d7blsmhw7jf4c4rfhsmyw43b1h5jx-cargo-package-unicode-segmentation-1.13.3.drv
+Sig: korri-cache-ci-1:XU39Y7QT1o/omeTAKz2cvj/oRtm8CXkbZuFU0QrNGeOa/RZlCHKriiHPyde+1c+humPMLeGyuUTJN+SHtBDkBg==

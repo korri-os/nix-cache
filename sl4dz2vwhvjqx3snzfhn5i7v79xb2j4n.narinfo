@@ -1,0 +1,10 @@
+StorePath: /nix/store/sl4dz2vwhvjqx3snzfhn5i7v79xb2j4n-cargo-package-universal-time-0.3.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/11sgygq08nh7f90231gibx78cinjbw6wzx0iglqnd5sbzb70yiav.nar.zst
+Compression: zstd
+FileHash: sha256:11sgygq08nh7f90231gibx78cinjbw6wzx0iglqnd5sbzb70yiav
+FileSize: 8235
+NarHash: sha256:0gf1596pnqifddjlv0rnrb4n43wr3hyisnv8b55s2slgx6kh1va7
+NarSize: 30816
+References: 
+Deriver: 2p4lcm6dbrvvw30gij29j6kpkgn3350s-cargo-package-universal-time-0.3.1.drv
+Sig: korri-cache-ci-1:PylW9nz23gaoEyhEajXKsht4V0hH7G1zOVVlCcZCogwO0l1auEkkzO/u6ub+ekUP0eDLK1H7KH6Cjntm3Xi3BA==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/qb76akamvx0pq4wk1hw0nw9l8wwhmn9p-cargo-package-fsevent-sys-4.1.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/16m8a40xym4mqrd80rbmnfgphdv4z02n3ch8izxpd6jdcm5bxjvf.nar.zst
+Compression: zstd
+FileHash: sha256:16m8a40xym4mqrd80rbmnfgphdv4z02n3ch8izxpd6jdcm5bxjvf
+FileSize: 5028
+NarHash: sha256:0kb1c37gaamn055g9969d8shl2j2sg5jap0lv1abs8p2rcdfv4fa
+NarSize: 19256
+References: 
+Deriver: a8z538fhnnwrgsivsm8k53xi4ywvj4af-cargo-package-fsevent-sys-4.1.0.drv
+Sig: korri-cache-ci-1:nsDo6Ygeh7gxc9bb64mhUpRNK1C6d0faZMCWbDlAka4HnFpfR+PouU8KjLMJQvkls+TlZki5e22aHAyFl76eCQ==

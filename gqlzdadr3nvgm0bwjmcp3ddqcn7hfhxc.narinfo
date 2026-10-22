@@ -1,0 +1,10 @@
+StorePath: /nix/store/gqlzdadr3nvgm0bwjmcp3ddqcn7hfhxc-cargo-package-heapless-0.8.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0bi5rivwqi6jnpqmzrh0jcxcszgjj8n7ycmi99532q3mpnzy558a.nar.zst
+Compression: zstd
+FileHash: sha256:0bi5rivwqi6jnpqmzrh0jcxcszgjj8n7ycmi99532q3mpnzy558a
+FileSize: 81682
+NarHash: sha256:0sfpmxbdw6lvsjcj8anhbkz9kxnzd6a2xxbdhm5ns5zf06llgdk3
+NarSize: 398840
+References: 
+Deriver: yl30dwkppmz2s804mxz2wdalp63llzs5-cargo-package-heapless-0.8.0.drv
+Sig: korri-cache-ci-1:Sw/IYtMeO/QbPydQNDWwGMqnvVURvzxVtDZVLRP2e7WwX61+DvF/LIE3NTF1uXMO3m/jee9Pu95jIoV/b2vdCA==

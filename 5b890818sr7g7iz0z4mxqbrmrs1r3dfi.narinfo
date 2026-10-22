@@ -1,0 +1,10 @@
+StorePath: /nix/store/5b890818sr7g7iz0z4mxqbrmrs1r3dfi-cargo-package-arrayvec-0.7.8
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0wmn4b2qnwbly5hjaqwwjx42ncc8phz6rs22q6xlji0a634vvpqw.nar.zst
+Compression: zstd
+FileHash: sha256:0wmn4b2qnwbly5hjaqwwjx42ncc8phz6rs22q6xlji0a634vvpqw
+FileSize: 35771
+NarHash: sha256:10avkiia9mfsx805qmfqdhpc6g4krlam44rr9wvm3s9ppwjf8wqf
+NarSize: 138000
+References: 
+Deriver: i2w0d706il8flkzbb334fgccrin99cz3-cargo-package-arrayvec-0.7.8.drv
+Sig: korri-cache-ci-1:wdj9Nw/WpQPURUF5A5XUedeNqo4J9mihE1OspTUzZYKUtEs6ZGM9MmA8egaUvr6QnVrsOAtv3Pek2m40qFePAg==

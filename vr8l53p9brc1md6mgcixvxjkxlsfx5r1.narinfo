@@ -1,0 +1,10 @@
+StorePath: /nix/store/vr8l53p9brc1md6mgcixvxjkxlsfx5r1-cargo-package-regex-automata-0.4.16
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0j4xsbs0gxnmy6cl0ggfc8b1w1qcimcls3ps0padfv53n1asxj3a.nar.zst
+Compression: zstd
+FileHash: sha256:0j4xsbs0gxnmy6cl0ggfc8b1w1qcimcls3ps0padfv53n1asxj3a
+FileSize: 574888
+NarHash: sha256:112rsp2l8zjkd5dgw0p7rns1d507xf7s804c5q4gfpyvbk3f434y
+NarSize: 2753544
+References: 
+Deriver: xfs1nqmjgmq98m184ski79sw6imhrc8s-cargo-package-regex-automata-0.4.16.drv
+Sig: korri-cache-ci-1:aGeRd+a80JYZu5kwsbfzOAwRWzp0NKF4NjuKllI3h7Nmsu0iNsSQ/vOUpbe0CyTdLm94xDSrbXwUU295Mw1gAg==

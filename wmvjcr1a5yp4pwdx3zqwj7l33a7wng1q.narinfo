@@ -1,0 +1,10 @@
+StorePath: /nix/store/wmvjcr1a5yp4pwdx3zqwj7l33a7wng1q-security-wrapper-dbus-daemon-launch-helper-aarch64-unknown-linux-musl
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0q6k62gg1djkwnyq4yklflj44r1h139655jw4irln6qiyhazl9jn.nar.zst
+Compression: zstd
+FileHash: sha256:0q6k62gg1djkwnyq4yklflj44r1h139655jw4irln6qiyhazl9jn
+FileSize: 51393
+NarHash: sha256:1rf701gjgpp8zsg5h485y87i7d3p3l9phy1h18gj3xlzwr9rsb4h
+NarSize: 149712
+References: kik5qyy1h61vkhamvi53l0iw18zfp4gh-dbus-1.16.2 zmdxg8cwhqyy8v7yd99hg4wxjm9mcxhp-linux-headers-static-7.2
+Deriver: 4lfv5gp1s7rl6vmyc7jxhw2j22cq57n7-security-wrapper-dbus-daemon-launch-helper-aarch64-unknown-linux-musl.drv
+Sig: korri-cache-ci-1:sEfPxCN2aK0KTb1ZoODIaLFKK2cu2UvaFUl7ekeVPXBjsuWJEBvi1dPxofNqcP3PnYAqOyJLef0gxV/G+BePCw==

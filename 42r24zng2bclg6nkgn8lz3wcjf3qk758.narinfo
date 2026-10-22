@@ -1,0 +1,10 @@
+StorePath: /nix/store/42r24zng2bclg6nkgn8lz3wcjf3qk758-cargo-package-aead-0.5.2
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1ka8avihc92ds1pih2yr5qvxiqzdd0ybfi3x3mfcwfimpp491dyx.nar.zst
+Compression: zstd
+FileHash: sha256:1ka8avihc92ds1pih2yr5qvxiqzdd0ybfi3x3mfcwfimpp491dyx
+FileSize: 16662
+NarHash: sha256:1gc34qspwfhqsz2qg01xjywljmpcanw0lq77sff2fyl18x6x3zz2
+NarSize: 63352
+References: 
+Deriver: x3bpcn3ln44r5fnllvvbfwkdm5b3xjng-cargo-package-aead-0.5.2.drv
+Sig: korri-cache-ci-1:UGViR+H1DnFmzO6e/xuuEnlSChPj9lqk+rucytESuf0w9zLZftrTAi97DziZPu9afhyP//JU23xcXLqo9TXdCg==

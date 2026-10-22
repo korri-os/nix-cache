@@ -1,0 +1,10 @@
+StorePath: /nix/store/y86dk7sww19h92r9aji0g1vq9yx6fnbn-cargo-package-cfg_aliases-0.2.2
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0bfxb5z91r4j7phpnzwq1183r5bp70ci7gild34lcx3bkr4w8m3k.nar.zst
+Compression: zstd
+FileHash: sha256:0bfxb5z91r4j7phpnzwq1183r5bp70ci7gild34lcx3bkr4w8m3k
+FileSize: 6858
+NarHash: sha256:1fy1swl7mn56i8azm682qm1wssxr8z5yg3rvy20ay9nw4rg3i3ib
+NarSize: 25496
+References: 
+Deriver: h43if4prz41msl8p4gg990610jxc2l8y-cargo-package-cfg_aliases-0.2.2.drv
+Sig: korri-cache-ci-1:mfAddQ8Y8o8pTvv12ui2BaHK3sAfplx9FVVDaF/g5W4ZyfEf2NsTGRHy1u5Q83ZYKaNJRwhfaCL9VC8jZJFuAg==

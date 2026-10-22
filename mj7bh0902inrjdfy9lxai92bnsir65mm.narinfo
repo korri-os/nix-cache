@@ -1,0 +1,10 @@
+StorePath: /nix/store/mj7bh0902inrjdfy9lxai92bnsir65mm-cargo-package-dragonbox_ecma-0.1.12
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1a1dajifg7r7ypvqfzjcg2afw0yiifwizgakdqd8539m6j6fjavs.nar.zst
+Compression: zstd
+FileHash: sha256:1a1dajifg7r7ypvqfzjcg2afw0yiifwizgakdqd8539m6j6fjavs
+FileSize: 46834
+NarHash: sha256:11ny38qcw5qhv932x1dlxl3im86jbfir3hyrwgga7dmm6bs731mz
+NarSize: 169192
+References: 
+Deriver: 53licavxsrfmmhhi73zi2666z3rxffii-cargo-package-dragonbox_ecma-0.1.12.drv
+Sig: korri-cache-ci-1:9nA18BA3dhbKSvER7OvC8lNg465e7s2klml/0VL+q/20HHeoJ685DkzOqRlAyaEpRqg/QeWKlteYqVK50eSiCg==

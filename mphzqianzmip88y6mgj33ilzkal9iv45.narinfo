@@ -1,0 +1,10 @@
+StorePath: /nix/store/mphzqianzmip88y6mgj33ilzkal9iv45-unit-modprobe-.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1hk0svmhvpzw9a6jcl89qm6abw6q5sifnfm9fjx2d1jfc9ydi0jc.nar.zst
+Compression: zstd
+FileHash: sha256:1hk0svmhvpzw9a6jcl89qm6abw6q5sifnfm9fjx2d1jfc9ydi0jc
+FileSize: 608
+NarHash: sha256:03mg8130g8za9zcrw1avfvdfgbyqbfk8wnh1hnsdvi6iha6yc4jw
+NarSize: 1272
+References: 1nwgsy4c5862g44s9lkf50643p3nbwm5-gnused-4.10 3b3k72bbr01bgff7bdkiz6r05gmlx5s9-gnugrep-3.12 i8an849ir6g3f4n2wrsm88s2qgrzjayq-tzdata-2026c k8as1kdn16q5w6zq6z3vih70qby9l40i-glibc-locales-2.42-84 p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11 ry7lwn1b1hvaxfshfgzgwc1260jj9rwd-kmod-31 x0iv5hlpqfrpykdckbj8jdxy78clbjpz-systemd-261.2 xqx65i7cwacw7rsnj3dlbqas27mwvpn2-findutils-4.11.0
+Deriver: 8ssyij59rqhq5pjf8rl9z016in6ci34i-unit-modprobe-.service.drv
+Sig: korri-cache-ci-1:0aC2Wr/W1Kly2/wrQlKmbuU93kFt5BaWDaiERXomUYYXhh7CqD1POIq9M/7hR2IWhelBA5wuyKAsQ6YuxnukBA==

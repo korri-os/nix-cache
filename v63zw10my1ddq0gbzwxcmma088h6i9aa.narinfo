@@ -1,0 +1,10 @@
+StorePath: /nix/store/v63zw10my1ddq0gbzwxcmma088h6i9aa-korri-clock-governor-loop
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1qzfwnfz0lq7wflwkdgcyd4n0af8kwb55dmpzv68x587myscai5i.nar.zst
+Compression: zstd
+FileHash: sha256:1qzfwnfz0lq7wflwkdgcyd4n0af8kwb55dmpzv68x587myscai5i
+FileSize: 1207
+NarHash: sha256:1878z0njrif83bs309j76y7qvv0fpddiqy29cjg83fx19w3dghd6
+NarSize: 2200
+References: 3b3k72bbr01bgff7bdkiz6r05gmlx5s9-gnugrep-3.12 idnyqaaix26szkvhs1mjgi7990jajz9a-bash-5.3p15 p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11 qbxkcbbkharkrdfbhh0wwh2zf733pzzg-util-linux-2.42.3-bin
+Deriver: bnil7qsf862jr5fjz2gzwj5g5vdpfjxi-korri-clock-governor-loop.drv
+Sig: korri-cache-ci-1:5GQJyJ7/Py421RNCwGuwyVdsCksKTWiZuRsYvlXoawPHpr+0l/PyvBUFba6lGfOrT6AeOmB6QIAEEPDujaATAg==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/8yyi2ap14nc4ap13b2jdfyfa35bwzk8r-cargo-package-icu_normalizer_data-2.2.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/00gkvac20w9ix9zbvhqpsdjfgynix0jhp5y49qzsd7was2nas9mg.nar.zst
+Compression: zstd
+FileHash: sha256:00gkvac20w9ix9zbvhqpsdjfgynix0jhp5y49qzsd7was2nas9mg
+FileSize: 52487
+NarHash: sha256:0vk9hp1ijfb7avv8fqirz01a4vpbmznwdal4bmjbp0j9y69khawg
+NarSize: 421728
+References: 
+Deriver: w6fp00fvc3b2kgxv2qd1h2xbbh1qmwqy-cargo-package-icu_normalizer_data-2.2.0.drv
+Sig: korri-cache-ci-1:wgE/Qdgh/VQILA9Y7edSVheVky8uxC97pFDrsNxH8p3bK2eZ/a6gQU3WNqJLHvJohZAp9AihBBObF6GT8/CMCA==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/1l6zyllm261zipl38hg9f989vjps479b-cargo-package-cmov-0.5.4
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0kzh9fpw7allychq081qg0allw564qj37dj9i9mxd7qfnaz6q42s.nar.zst
+Compression: zstd
+FileHash: sha256:0kzh9fpw7allychq081qg0allw564qj37dj9i9mxd7qfnaz6q42s
+FileSize: 28650
+NarHash: sha256:0q8934q1rb42nh2rgjqm8260hsfiz2qk6h4ijmqpxcj59lbdq007
+NarSize: 118840
+References: 
+Deriver: np2j1p9bd8alc9jkblvdwzyhj6mhbdc0-cargo-package-cmov-0.5.4.drv
+Sig: korri-cache-ci-1:je2l8UgZA2I/xxxGMlFgSCnofpzPLue6XCrnrRaUQflvmB6kqX/vZIobCf6KS018ne4krh5kut8dEP35Mte5CA==

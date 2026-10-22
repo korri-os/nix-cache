@@ -1,0 +1,10 @@
+StorePath: /nix/store/nsxbr7mxj2g2ghiv2la1l0wcdnhjd5kb-cargo-package-oxc_transformer_plugins-0.142.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/07s5b5rcmacc97rpir010a5gb2kawfzlmdblgh0x46arms870pys.nar.zst
+Compression: zstd
+FileHash: sha256:07s5b5rcmacc97rpir010a5gb2kawfzlmdblgh0x46arms870pys
+FileSize: 41045
+NarHash: sha256:1c298d3m2nd7hdilz249yvjhpym17wkhcam3b0vnmw13yl6jxca1
+NarSize: 179080
+References: 
+Deriver: iaccmpzy5lzqsxy3bpb3xj158s5h76sv-cargo-package-oxc_transformer_plugins-0.142.0.drv
+Sig: korri-cache-ci-1:nMxXyzCT2JQgJ+rSOSm+LkkwU9jg/qLGbg8/y6yVnvGl8ejKj77sDHMW+jH7PR/57006LsQwpGAMRtGJ2Zp1Bg==

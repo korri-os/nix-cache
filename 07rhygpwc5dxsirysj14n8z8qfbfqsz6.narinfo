@@ -1,0 +1,10 @@
+StorePath: /nix/store/07rhygpwc5dxsirysj14n8z8qfbfqsz6-cargo-package-crypto-common-0.2.2
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0j6bqvi6chhcpvv1c8gwilbbb18qlb5n4vhhdzdvq750lv0vvw4z.nar.zst
+Compression: zstd
+FileHash: sha256:0j6bqvi6chhcpvv1c8gwilbbb18qlb5n4vhhdzdvq750lv0vvw4z
+FileSize: 16246
+NarHash: sha256:0dwxbr85i7vr98s52m7lsyvqbcayjrqj20m4df63v3gihx02r2fi
+NarSize: 55856
+References: 
+Deriver: shrwx1lb9ppa1mwspp4y7xn40zlbnd4w-cargo-package-crypto-common-0.2.2.drv
+Sig: korri-cache-ci-1:VLGMTikMDfutCkuV9AWOIBZfFvdqostVc78Fp2aOPPu98o+2BEGAXcLq0cFhDBby4W94OxjJhBebjdzzBEY5Bw==

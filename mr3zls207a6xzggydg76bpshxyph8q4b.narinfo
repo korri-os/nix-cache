@@ -1,0 +1,10 @@
+StorePath: /nix/store/mr3zls207a6xzggydg76bpshxyph8q4b-cargo-package-matchit-0.8.4
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1m07cdsk7gsrkkjw4qv8myi3j87n08drhmr4q2mph8fi9y1d27jd.nar.zst
+Compression: zstd
+FileHash: sha256:1m07cdsk7gsrkkjw4qv8myi3j87n08drhmr4q2mph8fi9y1d27jd
+FileSize: 37045
+NarHash: sha256:1r9f7cipdyaqzaimgja2ryawnv6wzfqkf17jszm21lgxgljaj6g3
+NarSize: 165904
+References: 
+Deriver: 7mdxjqkiqwxck1qpr9vizqclaj219bkk-cargo-package-matchit-0.8.4.drv
+Sig: korri-cache-ci-1:JztLZboyVO3Vw3FCD0jcgIsP+P4esg218PIaItBaSGhcWDjgb9RFp5QRYOvoAhJMhOKNMtjHRCEpRQk5pn1lBQ==

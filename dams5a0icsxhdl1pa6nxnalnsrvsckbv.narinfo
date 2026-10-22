@@ -1,0 +1,10 @@
+StorePath: /nix/store/dams5a0icsxhdl1pa6nxnalnsrvsckbv-cargo-package-chrono-0.4.45
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1r6x5rvl69ghbajcw0axlqjqwybnaq5r4smv45z1gikkcqndbfms.nar.zst
+Compression: zstd
+FileHash: sha256:1r6x5rvl69ghbajcw0axlqjqwybnaq5r4smv45z1gikkcqndbfms
+FileSize: 241059
+NarHash: sha256:0yk4c8v388d8gz2xvaxsgj1qfgbz4hgd70sj2q8h17vhmcyjz9yk
+NarSize: 1378168
+References: 
+Deriver: 2ilbc0ih0rss104v3hhqyk8bfm4w7jlv-cargo-package-chrono-0.4.45.drv
+Sig: korri-cache-ci-1:5p3gNtVlH/rDO/szbIBUarR8cev5JBNqRGZYGAu1oomAz8bW0aNQICoEKPPbOUY3RujJy+2CTRlMTO+tZo7pBA==

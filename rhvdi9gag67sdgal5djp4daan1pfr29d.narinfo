@@ -1,0 +1,10 @@
+StorePath: /nix/store/rhvdi9gag67sdgal5djp4daan1pfr29d-unit-reload-systemd-vconsole-setup.service-disabled
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0nif9h1p7sd2mlkh5jlvrm15dcwgc8wbqqi8b4s3bpzfja852hka.nar.zst
+Compression: zstd
+FileHash: sha256:0nif9h1p7sd2mlkh5jlvrm15dcwgc8wbqqi8b4s3bpzfja852hka
+FileSize: 159
+NarHash: sha256:1ks0aax22942nhqipivrjqspgs69pf301mfrh8haphsrpk9ln1hl
+NarSize: 328
+References: 
+Deriver: k5qrgqjqcr2m43ifwq7cxrq76jpsv4sj-unit-reload-systemd-vconsole-setup.service-disabled.drv
+Sig: korri-cache-ci-1:dAVKWJmzn3HtZDjWNQxv4Sri5ZHG0jW0pUDrnUTzHdUNWXSQnhmvvY3/LXWR2uuVRJT2BRBAuHAcUrDk99CwBw==

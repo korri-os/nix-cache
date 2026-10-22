@@ -1,0 +1,10 @@
+StorePath: /nix/store/02ikcw0p7gzvm563jrjl0gdxl0am85w6-cargo-package-static_assertions-1.1.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/12i16a8289qmg6kqjs1a659dn6y7haayryinl979i1b7fzk75rcf.nar.zst
+Compression: zstd
+FileHash: sha256:12i16a8289qmg6kqjs1a659dn6y7haayryinl979i1b7fzk75rcf
+FileSize: 19028
+NarHash: sha256:0x1hygba6vljzx1ajqlrhf9b4ay41bd4spiawfj3rbq1i9w4p2n9
+NarSize: 68512
+References: 
+Deriver: j57adz71wwcgz65pskhg8br2x3gbm3y1-cargo-package-static_assertions-1.1.0.drv
+Sig: korri-cache-ci-1:dFB+rOC8IifuR7IgQu8bpp8pwF6Cg4B4/dypTHJ4aQYtgZ2SlZXsTW+gIoFSZLFG+FhmWltKXQp6JsQ82mdvDQ==

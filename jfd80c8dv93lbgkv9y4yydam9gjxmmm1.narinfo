@@ -1,0 +1,10 @@
+StorePath: /nix/store/jfd80c8dv93lbgkv9y4yydam9gjxmmm1-cargo-package-hybrid-array-0.4.14
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0z83zmndzn8qvrsfvgnc21a0fxz7q0ak75mjzi4w2yww59fcvlzf.nar.zst
+Compression: zstd
+FileHash: sha256:0z83zmndzn8qvrsfvgnc21a0fxz7q0ak75mjzi4w2yww59fcvlzf
+FileSize: 37067
+NarHash: sha256:1mlzxmn31sjc57nqr58aj9474497glp1v8s5hys9zw6as7b8la2g
+NarSize: 151648
+References: 
+Deriver: lr7qgpzfql8b4lli6l44xafp9qy7rfb8-cargo-package-hybrid-array-0.4.14.drv
+Sig: korri-cache-ci-1:XHvqHm8SdYkJKIGB8+4/W2xW7qfxcqqc3Y4y7aKcUIDgR9bPQW51hhK/UPzS0HyUmUCJxaNTwuiuvoH0/XgiDw==

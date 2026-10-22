@@ -1,0 +1,10 @@
+StorePath: /nix/store/83ykvm59s9xfmv3m3v2dwbbc6bgvgvjz-cargo-package-bumpalo-3.20.3
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1akp4v89xdivaragi88hw1sxcpkx65gm5lg1vrn1yvh0arnqjcx8.nar.zst
+Compression: zstd
+FileHash: sha256:1akp4v89xdivaragi88hw1sxcpkx65gm5lg1vrn1yvh0arnqjcx8
+FileSize: 101329
+NarHash: sha256:0l105lz1z68fzfikhfwb2m0sbs5cq5w8llzcjx2ngv079hdbsl5h
+NarSize: 429104
+References: 
+Deriver: zmjlmvpi9rwl0zss4p1yzjcdmv657lyp-cargo-package-bumpalo-3.20.3.drv
+Sig: korri-cache-ci-1:stpAOjozAHpzFMQyKdMzsghYUxzITNfwtLyNiNLwXlN0Q/GJAaeIRRVrJEAF5cnUTFeMA+/kRjxDvCtIa4jUBg==

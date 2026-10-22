@@ -1,0 +1,10 @@
+StorePath: /nix/store/n4a4gc096b8pdswava60f91535rfg9yv-cargo-package-rustls-webpki-0.103.13
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/05iaa9y8ck51ibyip4znsy439321iag3qiz3j3wadzrvbrch86si.nar.zst
+Compression: zstd
+FileHash: sha256:05iaa9y8ck51ibyip4znsy439321iag3qiz3j3wadzrvbrch86si
+FileSize: 87069
+NarHash: sha256:13806l6py6k0nwbb86ig3ifgqaan9qll6b1ypddknq3d94z1d5gs
+NarSize: 422928
+References: 
+Deriver: 7bchw7jrx2jnx8f8rad1n4wawpiykr93-cargo-package-rustls-webpki-0.103.13.drv
+Sig: korri-cache-ci-1:gMNmra/iLDYGM8VoLb3WuaDaQGP5+dgWLueSNKwmvY3I4oT6TrNHxnlzdI5PNbLOygnwVMZLs0G8+X0fKniFCw==

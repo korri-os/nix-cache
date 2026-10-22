@@ -1,0 +1,10 @@
+StorePath: /nix/store/a35v5f9ccsb1wb399mv7g76mn2gmpacx-cargo-package-toml_edit-0.25.13+spec-1.1.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0m5pdca8ks1ay9jairrkgfcp5ba9flmxlwhfwfv72cj3370q368c.nar.zst
+Compression: zstd
+FileHash: sha256:0m5pdca8ks1ay9jairrkgfcp5ba9flmxlwhfwfv72cj3370q368c
+FileSize: 69436
+NarHash: sha256:07d8qwz8c8xy6ivmpafmnxg3kjgl0iwk61999cagxgbpar5hrfpv
+NarSize: 368120
+References: 
+Deriver: cg8ivhqhcvw6vmpp00zw0zsc34ixri2g-cargo-package-toml_edit-0.25.13+spec-1.1.0.drv
+Sig: korri-cache-ci-1:LriZvntCPi+fvHOnANe2e5/+QHAvXA9WkC1GrLfMg5CcWuY2T/ibdQY9+eeYFv9hZBlUrV1jGcHUBq6tvGY8AQ==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/07r1kpvl50jv3a8q40ci071004m1b24v-cargo-package-proc-macro-crate-3.5.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1w5z9lqgwzbx3rp269q7zxlyxwkw4nadk6b2k1igh50ac70v1255.nar.zst
+Compression: zstd
+FileHash: sha256:1w5z9lqgwzbx3rp269q7zxlyxwkw4nadk6b2k1igh50ac70v1255
+FileSize: 13498
+NarHash: sha256:0dlgqnh5x04c00j92qvvly4q8i96q7brcddrz01hdf3ymh1xkp5n
+NarSize: 45392
+References: 
+Deriver: s9hh5s2l7apvaamgiavzkzw3lhkjsb5a-cargo-package-proc-macro-crate-3.5.0.drv
+Sig: korri-cache-ci-1:xWng2+zXkl0xUxC/f9i8/jTsH2zZLo6dZ5U2n9TgEkBdlnCslr/DEBjtAEwDj2sYfDYbOdjh35c2OXPNXvn4CA==

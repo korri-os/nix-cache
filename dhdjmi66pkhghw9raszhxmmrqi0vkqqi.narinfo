@@ -1,0 +1,10 @@
+StorePath: /nix/store/dhdjmi66pkhghw9raszhxmmrqi0vkqqi-cargo-package-byteorder-lite-0.1.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1a4bk7rsx66zvg2hydad4c5k8k4vm6lhxs5p3yrz1fh56qm57ixi.nar.zst
+Compression: zstd
+FileHash: sha256:1a4bk7rsx66zvg2hydad4c5k8k4vm6lhxs5p3yrz1fh56qm57ixi
+FileSize: 16738
+NarHash: sha256:13902jgnp4q7yin8ljf3n0f2sc5wajm3496xyc7p7681y8p947g3
+NarSize: 147296
+References: 
+Deriver: q4jbm9hknfxmvlngfnihlaf7k0a6wl2f-cargo-package-byteorder-lite-0.1.0.drv
+Sig: korri-cache-ci-1:FPLcIxQ9OHRiGdEtoRRzQgFu06uoIw512kk12KuYKueBHGIlfNW4NKcT393+X3rjx6ajAUOAu1nUtX1251jnBQ==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/iqc47029wdrwf47pn9yvyd8g31i05aiv-cargo-package-ipnet-2.12.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1dy0622i74smxfk0gs97is3m3pv2bcbvd86amp4v8fd39s7s5rwd.nar.zst
+Compression: zstd
+FileHash: sha256:1dy0622i74smxfk0gs97is3m3pv2bcbvd86amp4v8fd39s7s5rwd
+FileSize: 33669
+NarHash: sha256:1h750sbx2my0hv74dcdnka9l8afph08vxr8q89jiziw9ndid3zra
+NarSize: 169104
+References: 
+Deriver: 7rrks3f2fqa5z1gcj1i93s40r9v7hb29-cargo-package-ipnet-2.12.0.drv
+Sig: korri-cache-ci-1:NVka+SpK4qoLAWr09lChzCAg+oRQwlGltg+zdmTpx4uhR/L9hAWYiqH/Q1uc/CVXDo6pvD1bLTgIhvdeJpBJDQ==

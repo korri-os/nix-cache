@@ -1,0 +1,10 @@
+StorePath: /nix/store/jib9l7w14myv7ss8vw5s8qr0n4v9jg6n-cargo-package-rand_chacha-0.3.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/124kgr99wy0lzy80npnkm1sqb502xdxcy3hm95mkrffwr7k1gn9j.nar.zst
+Compression: zstd
+FileHash: sha256:124kgr99wy0lzy80npnkm1sqb502xdxcy3hm95mkrffwr7k1gn9j
+FileSize: 16447
+NarHash: sha256:0md41yfhfvf32zjvjqzn8d3nshvqa18wmfsz5rhwjxgg7fm0igbc
+NarSize: 55064
+References: 
+Deriver: xp17rv3djv10vqkp4ldnkcknisa22lbq-cargo-package-rand_chacha-0.3.1.drv
+Sig: korri-cache-ci-1:0dt8FuKmW5PskZeHjxxi2XEAfugn5TmKt0wwYVR+ZRDSzKCWRYcqNxcb9bnOsbFkY9/RbIQdynT9mAsmk6QqBA==

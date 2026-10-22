@@ -1,0 +1,10 @@
+StorePath: /nix/store/cqck2nsqxg5swmrylaxmdbwikzvhsl1k-cargo-package-uds_windows-1.2.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0p90sj7i3mq8591009rcsjb6wr3wrmn74wdky96psfha7ndiipq1.nar.zst
+Compression: zstd
+FileHash: sha256:0p90sj7i3mq8591009rcsjb6wr3wrmn74wdky96psfha7ndiipq1
+FileSize: 23640
+NarHash: sha256:09rhqpgcd37rjd4my05hgadpl6wjmqsp82zb440k41jmqbdl94i3
+NarSize: 92600
+References: 
+Deriver: vgsw0yl32ch5hpl2q3l6vgdid5rkrsv1-cargo-package-uds_windows-1.2.1.drv
+Sig: korri-cache-ci-1:ubENSRMrNPhfeseRZBIbUMjnRzby4rtXYvXCyRu6g4g2HdsmflMoZG7RstAwMZU8K2enjes0MKoMESl3lyGMAw==

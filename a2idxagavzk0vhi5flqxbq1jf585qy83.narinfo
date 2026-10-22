@@ -1,0 +1,10 @@
+StorePath: /nix/store/a2idxagavzk0vhi5flqxbq1jf585qy83-cargo-package-windows-implement-0.60.2
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1w2amhqcwlgyxhkg5hkmddflp7k9hky4bd0c8zgysc5scaizg45i.nar.zst
+Compression: zstd
+FileHash: sha256:1w2amhqcwlgyxhkg5hkmddflp7k9hky4bd0c8zgysc5scaizg45i
+FileSize: 16636
+NarHash: sha256:16nq939qzhqph8virj9kjl9xfdll61nfsqkglqja5ixx72xx3946
+NarSize: 57904
+References: 
+Deriver: 5d78qa5rl641z4sfadmcp5waprikirxq-cargo-package-windows-implement-0.60.2.drv
+Sig: korri-cache-ci-1:hXI4W1Tjv4HxsTnzXNfKtjZufVXwk01IKIjfszO9pbb51TmnqUABwGgoGpZNNtzHgb5t6lFKfcBs+DId+lInBQ==

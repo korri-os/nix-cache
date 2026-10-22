@@ -1,0 +1,10 @@
+StorePath: /nix/store/w0r2xgmjf0h6zmbzpg8ylmwmv5lhqyk7-unit-korri-fan-control.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/1662wjyraldbs71kisflx107sp5b3xfhhljb341zmjrk54flzdz1.nar.zst
+Compression: zstd
+FileHash: sha256:1662wjyraldbs71kisflx107sp5b3xfhhljb341zmjrk54flzdz1
+FileSize: 891
+NarHash: sha256:1lgihq89mjq3rg3w18ajazf74sfjpjc8spc5zbf2j58rx1bnhz2c
+NarSize: 1776
+References: 1nwgsy4c5862g44s9lkf50643p3nbwm5-gnused-4.10 3b3k72bbr01bgff7bdkiz6r05gmlx5s9-gnugrep-3.12 5aawr2mrq6a1plakwv0b4b6qzkqzardc-korri-fan-control-restore i8an849ir6g3f4n2wrsm88s2qgrzjayq-tzdata-2026c k8as1kdn16q5w6zq6z3vih70qby9l40i-glibc-locales-2.42-84 nnn9w8gnaa3aqxhffzc7pdidi8r1mxfw-korri-fan-control-loop p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11 x0iv5hlpqfrpykdckbj8jdxy78clbjpz-systemd-261.2 xqx65i7cwacw7rsnj3dlbqas27mwvpn2-findutils-4.11.0
+Deriver: 576qk8nh4as4d6miawzs2rr1rb65v4w9-unit-korri-fan-control.service.drv
+Sig: korri-cache-ci-1:o1c+/coQxt4HXxpwfiKU0L56YKvihvNym2vnsreCfkMwhFISQhxLhsprEMIxTicOvOxQDTkIftFt0VZ5nfhnDA==

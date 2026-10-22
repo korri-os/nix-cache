@@ -1,0 +1,10 @@
+StorePath: /nix/store/p3hvji3ilyffgd92fvhrj6izk0dczvb3-cargo-package-tinyvec_macros-0.1.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0bjaclysa1641gr0s7cwrpd1f5lhc9v87wfnq7nkqfigx313ir8v.nar.zst
+Compression: zstd
+FileHash: sha256:0bjaclysa1641gr0s7cwrpd1f5lhc9v87wfnq7nkqfigx313ir8v
+FileSize: 6145
+NarHash: sha256:1vb21915mg764qh5kb7pnm1wcqm25g0ald996xykaql2k15vamgz
+NarSize: 17104
+References: 
+Deriver: mjnhrkxk0la8dh3v7h1zzxsj1n6069bl-cargo-package-tinyvec_macros-0.1.1.drv
+Sig: korri-cache-ci-1:Fb955K6R7OQ1a2aFCRqntXVB5JB4PaN3qSaFBAMRy3acX4F6DqZQhcXmU4/R1C3iDjrdn0SLLzQTNX7iPV52Aw==

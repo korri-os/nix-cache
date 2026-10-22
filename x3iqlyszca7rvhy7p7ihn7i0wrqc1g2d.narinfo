@@ -1,0 +1,10 @@
+StorePath: /nix/store/x3iqlyszca7rvhy7p7ihn7i0wrqc1g2d-cargo-package-windows-link-0.2.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/0svsbg0y6wajm4kpd75zmim4a19z9y6yma24ij4cj4zilgfsr8qh.nar.zst
+Compression: zstd
+FileHash: sha256:0svsbg0y6wajm4kpd75zmim4a19z9y6yma24ij4cj4zilgfsr8qh
+FileSize: 6411
+NarHash: sha256:0ibq2bnx99bki123a1vs1czn97qy0f8kyb9nx4lwhxm5r67v6wjn
+NarSize: 18328
+References: 
+Deriver: w2zawqxawnpa3c2q7dql6n9a88n2j191-cargo-package-windows-link-0.2.1.drv
+Sig: korri-cache-ci-1:2ixtmuOqHLYQr0OUVBt6WIVbYKAJ4gxIsqtWDq49NkPO1Q05UNqPuGehqiqLe0F2RLOhv2JJDNXQU4I/PUXYBA==

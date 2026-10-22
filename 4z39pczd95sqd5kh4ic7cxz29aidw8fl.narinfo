@@ -1,0 +1,10 @@
+StorePath: /nix/store/4z39pczd95sqd5kh4ic7cxz29aidw8fl-cargo-package-block-buffer-0.10.4
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/00y0kknz0kvzvryl451h2lcj0cr6cki1zp1x93hr6ragqhac0zzg.nar.zst
+Compression: zstd
+FileHash: sha256:00y0kknz0kvzvryl451h2lcj0cr6cki1zp1x93hr6ragqhac0zzg
+FileSize: 11338
+NarHash: sha256:1i0mb4cfszaaja6ja10aw5nzvbzg06vrswvzh7sasp1fgdx0jwyb
+NarSize: 37720
+References: 
+Deriver: 49lxmpdmz60z4n4krpl99znfjakc33vl-cargo-package-block-buffer-0.10.4.drv
+Sig: korri-cache-ci-1:M+shsJ0ulDUQCDAf9faj/3rakNOFMq5PC6y0EepGkG+DQl4XsBDEfh6WvLL2MY8Rq9Ck1y84bhAjwSAn/2mYDg==

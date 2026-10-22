@@ -1,0 +1,10 @@
+StorePath: /nix/store/5w8zhp79csif1iv8rbs9y3m56gl1hf17-inputplumber-korri-resolved-0.75.2
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/04g98f0zh2cx6vi70rmn5xi6bqmaq5xafv3ggpidhy4zj61idnfm.nar.zst
+Compression: zstd
+FileHash: sha256:04g98f0zh2cx6vi70rmn5xi6bqmaq5xafv3ggpidhy4zj61idnfm
+FileSize: 4570292
+NarHash: sha256:09hpy0m7nvv9rqbdwqfa8s95x47fygf9k176vwngclphdkdgh2k8
+NarSize: 12546752
+References: 99al6q9wd3jg1qs43fvmllx7vakazm8x-glibc-2.42-51 biihsjk1ndvj6sf06wv5rai9v4jsnzba-gcc-15.2.0-lib m8l7z00nzzza78hsmva18q60yq11rc3c-systemd-minimal-libs-259 ws16vr6j08yvzzbwvqbxwn8smqnd1h3s-libiio-0.26-lib
+Deriver: 7bx6z6g2z331r8rmbqhgxdlg5vs9pchb-inputplumber-korri-resolved-0.75.2.drv
+Sig: korri-cache-ci-1:ImLOMuFGVtLdeTdlNOf4si3DXKpEq0Dvp5XyjCbdZF27sdmsgGX1jUXYoXkbQQGJwxZkJgGUSeMyhI1Pj/uJBA==

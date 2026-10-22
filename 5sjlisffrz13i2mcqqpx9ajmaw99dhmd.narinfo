@@ -1,0 +1,10 @@
+StorePath: /nix/store/5sjlisffrz13i2mcqqpx9ajmaw99dhmd-cargo-package-zbus_names-4.3.4
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22/062344sh51hliagi1kidpmpmm9w6izd1sn5ks1bk8ji93qi573wr.nar.zst
+Compression: zstd
+FileHash: sha256:062344sh51hliagi1kidpmpmm9w6izd1sn5ks1bk8ji93qi573wr
+FileSize: 19471
+NarHash: sha256:09ay79cvj2i9ypqv2wxq8b4k3nlyq683kd2xvswq15jjsb2k69df
+NarSize: 87240
+References: 
+Deriver: 2dbjyg4ym3676apbknf428sd7yx010b9-cargo-package-zbus_names-4.3.4.drv
+Sig: korri-cache-ci-1:OG+gV++vhUblLe0eJ44E0U1GY0ZE0BleyP7u5fjGMtQrlu5VnykWG+xFLwMqf3yYNhKKziwPdoe723RKBwICDw==
