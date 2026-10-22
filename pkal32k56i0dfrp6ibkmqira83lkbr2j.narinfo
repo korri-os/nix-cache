@@ -1,0 +1,10 @@
+StorePath: /nix/store/pkal32k56i0dfrp6ibkmqira83lkbr2j-boot-media.sh
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-14/0g3a9pf3q6ad252akjvl7d3l6q5x9g21wh83wxq20qd68mz9xgrl.nar.zst
+Compression: zstd
+FileHash: sha256:0g3a9pf3q6ad252akjvl7d3l6q5x9g21wh83wxq20qd68mz9xgrl
+FileSize: 479
+NarHash: sha256:0m275jyx3hkvricalq0036ccd0i5nhb8fim9icz6zkxzgpdf9i0b
+NarSize: 712
+References: 
+Sig: korri-cache-zao-1:IPvuatPpl1wmoGsjVoceUhxqgh738ToxXDTBZr/HX6sGVrx0D+yuIgmffs09hnDbg59sqwtrE3effeHgVmOLAQ==
+CA: fixed:r:sha256:0m275jyx3hkvricalq0036ccd0i5nhb8fim9icz6zkxzgpdf9i0b

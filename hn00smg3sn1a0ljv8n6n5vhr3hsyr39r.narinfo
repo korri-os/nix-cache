@@ -1,0 +1,10 @@
+StorePath: /nix/store/hn00smg3sn1a0ljv8n6n5vhr3hsyr39r-graphics-drivers
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/0ljmb5ml0pwjyvjaimjxmpka30qg9pllc0wm640d88i251nv74yv.nar.zst
+Compression: zstd
+FileHash: sha256:0ljmb5ml0pwjyvjaimjxmpka30qg9pllc0wm640d88i251nv74yv
+FileSize: 2295
+NarHash: sha256:1n089942g6p83wz9b5y9yd0fvgfb773j8fmagygsc80q8l8jb653
+NarSize: 32576
+References: g5x9afvyls9yc8l67phhpzwsy545kfqc-libva-vdpau-driver-0.7.4 jqr5bd0qqwq14pzi6jf0c1y9ljbkqgj7-mesa-25.3.2 kvhipkpd6icacpyggfm8jjcr8zwb96ix-libva-2.22.0
+Deriver: nn1dnkr3yzajaj0n2ycjgssk47qwwis5-graphics-drivers.drv
+Sig: korri-cache-ci-1:VVIVrU58W0apTgHqG259C6+wFcnb4oCmyezTG/UsxPtVa4kkJkuj6948KIczFfK82Zv18JrBOx1UX3p8xsvPCQ==

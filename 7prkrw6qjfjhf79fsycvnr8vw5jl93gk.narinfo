@@ -1,0 +1,10 @@
+StorePath: /nix/store/7prkrw6qjfjhf79fsycvnr8vw5jl93gk-unit-flight-recorder.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-15/18v83057saqgdgn7dy3pxx4h3czpkmiijj04m87n3fmjjh1a4sn0.nar.zst
+Compression: zstd
+FileHash: sha256:18v83057saqgdgn7dy3pxx4h3czpkmiijj04m87n3fmjjh1a4sn0
+FileSize: 992
+NarHash: sha256:14sms9l8iar0ig0w8gd9sc0xad8p1sa5x427lyhz7yq3g4z3zy9q
+NarSize: 2640
+References: 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 59d87n4d81lca0hr8ijiim6dn1n8gqh7-util-linux-2.41.2-bin cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 mf305kkwjli8860gm68ckyynczk5sqyg-alsa-ucm-conf-1.2.14 n9dcvlma462mg3zqw3fcg61ig4b7jf6h-busybox-1.36.1 ppx881swn6nkphbn7yq51f2gb5zgqwll-alsa-utils-1.2.14 qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b rkyd8isxqd2bpn3lca4arjjznjcggrhs-iproute2-6.17.0 xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2 z15sqbpqk3alibvsmacgw5i4czbywijm-unit-script-flight-recorder-start
+Deriver: 26ir8ixmj3fawdf92kpd4h2mmnq63yzd-unit-flight-recorder.service.drv
+Sig: korri-cache-ci-1:Slinc31BKSpaOLAXpnDWKw3pO+wbOOQvU0uZxBiywNGnjAC/+fNSXXO0XGX2Hae4qIP/C7OAsr4Pw6RORWAbAg==

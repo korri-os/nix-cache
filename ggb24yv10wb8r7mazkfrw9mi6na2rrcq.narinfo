@@ -1,0 +1,10 @@
+StorePath: /nix/store/ggb24yv10wb8r7mazkfrw9mi6na2rrcq-wireplumber-extra-config
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/0z5bkavfix38m6vs4f7cxrvjiq3jiakwppcmgjxn5f235h6ziwsj.nar.zst
+Compression: zstd
+FileHash: sha256:0z5bkavfix38m6vs4f7cxrvjiq3jiakwppcmgjxn5f235h6ziwsj
+FileSize: 249
+NarHash: sha256:1a7rfh3gcivvp3gw6n47bl68hmj014zrkgl2sz0j4y6wyxrh10xi
+NarSize: 976
+References: bxrpplx0dypp915vb70r2hsqfijmv6mv-51-rg353m-default-audio.conf
+Deriver: v8ynhljv5pn78rwglsga3y851ylk9nal-wireplumber-extra-config.drv
+Sig: korri-cache-ci-1:kY6bwJa6eJ7jIjVOHYOJlNGWcey+/MpAx64CRfY9KwW8eRvntHD9KjhMFCagu2NL3Yp8DoXSc1xDxDp7kjatDw==

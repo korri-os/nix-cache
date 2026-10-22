@@ -1,0 +1,11 @@
+StorePath: /nix/store/z15sqbpqk3alibvsmacgw5i4czbywijm-unit-script-flight-recorder-start
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-14/0i12qkkf29j7a6v2llvvd5wj61yl3rbx95sksyfj5vwq1668bkaw.nar.zst
+Compression: zstd
+FileHash: sha256:0i12qkkf29j7a6v2llvvd5wj61yl3rbx95sksyfj5vwq1668bkaw
+FileSize: 575
+NarHash: sha256:1ga364zbn1ha56nvraida68mpavvwfy5mmrgw02a4fidyjc6fxfp
+NarSize: 1192
+References: 6cankpvayjgidrbx5sj1gms2s13nvfvh-bash-5.3p3 pkal32k56i0dfrp6ibkmqira83lkbr2j-boot-media.sh s4yryqq9hcsdc4ac18b49pzgvvrvkwrb-rocknix-autostart.sh
+Deriver: crh476vjfrzaj1r6j580na8afhwanp5j-unit-script-flight-recorder-start.drv
+Sig: fuji-1:HjodrjO/FrOereoDgBqkC+99VqKqSNNGUE59C/zKkF3hFDKpeJotnzZjZJzZyZCRawD14aLs6Z89z/yPL84FDA==
+Sig: korri-cache-zao-1:ZF6p92ssa4Vt+vmz63FANJWM3d36bx9xgBTL6pYqZ/QYtewP6EaYbEFVb6didOowKTH9UxLDdWVOZM2vhiF+Dg==

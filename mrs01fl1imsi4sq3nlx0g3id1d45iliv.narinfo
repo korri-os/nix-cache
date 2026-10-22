@@ -1,0 +1,10 @@
+StorePath: /nix/store/mrs01fl1imsi4sq3nlx0g3id1d45iliv-unit-systemd-tmpfiles-setup.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-15/1xixfn071fsbf2sfn80aisjf1dn16khlbqq8cnwmg0hdw52ny0j5.nar.zst
+Compression: zstd
+FileHash: sha256:1xixfn071fsbf2sfn80aisjf1dn16khlbqq8cnwmg0hdw52ny0j5
+FileSize: 651
+NarHash: sha256:1m2pr5pyjjrgknjy6cjrpr0kjrxq1n1i653czpqjvapfi9qb9hr2
+NarSize: 1328
+References: 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 mf305kkwjli8860gm68ckyynczk5sqyg-alsa-ucm-conf-1.2.14 qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2
+Deriver: c4xgy150wnwl2f4wm40g4l2paryma84i-unit-systemd-tmpfiles-setup.service.drv
+Sig: korri-cache-ci-1:1F74bP9hvOfEYsirIsLS3hX5lLEhy2ag1gI9aSQjvzM0DEYn7pCJZ5QBDqkPT0tooP54wdWDXZOIb4sRrkzvCA==

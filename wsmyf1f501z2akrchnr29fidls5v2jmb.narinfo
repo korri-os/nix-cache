@@ -1,0 +1,10 @@
+StorePath: /nix/store/wsmyf1f501z2akrchnr29fidls5v2jmb-unit-systemd-timedated.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-15/00hvgqngg3s1m0cxca0n9pafl0i7zbgrp7khxxmyags65i4vj877.nar.zst
+Compression: zstd
+FileHash: sha256:00hvgqngg3s1m0cxca0n9pafl0i7zbgrp7khxxmyags65i4vj877
+FileSize: 619
+NarHash: sha256:050ag3v65z43ll7ljc3hgrgj2cz81r75k8khcbddfcsq0d290kqy
+NarSize: 1296
+References: 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 mf305kkwjli8860gm68ckyynczk5sqyg-alsa-ucm-conf-1.2.14 qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2
+Deriver: 80cfkwd5zjsgxsy3sk86lsp71673afhk-unit-systemd-timedated.service.drv
+Sig: korri-cache-ci-1:tfO77OjQ3O1v4LL2vZk3UNDHpoSNrox4Wz5WCINPp0EECkCv4f44jnoDhDz6OcmESvxHpEOgWW3qUzrB+iu5DA==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/z04wm0vmzyfc095phwiv03n4mzpx0pdr-unit-serial-getty-ttyGS0.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/02pqkajcg5zgx35fc746314nvnfn8wi7q0wvv1yrhmyy7jd822h3.nar.zst
+Compression: zstd
+FileHash: sha256:02pqkajcg5zgx35fc746314nvnfn8wi7q0wvv1yrhmyy7jd822h3
+FileSize: 599
+NarHash: sha256:1zjz7qypxx24przqq5fgk70026c9j10x1365gzjh90zy3zkh4y5x
+NarSize: 1264
+References: 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2
+Deriver: wxhrr6kv2yii3ns6v5icphkz24wi4xah-unit-serial-getty-ttyGS0.service.drv
+Sig: korri-cache-ci-1:peuhU9yCfSrXEQex+FnG/sS5Lu592u8CH3BrT5PhK6pO2s/jfhRD/7zqvGBdG2qE5NBTOUP+SPSE+WPA/un8Cw==

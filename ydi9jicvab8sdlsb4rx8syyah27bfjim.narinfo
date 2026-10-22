@@ -1,0 +1,11 @@
+StorePath: /nix/store/ydi9jicvab8sdlsb4rx8syyah27bfjim-unit-generate-shutdown-ramfs.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/0wzdndyczywrj1m2nmvvcx0g6jqrxzmm83mqvxkq16449gzgmldd.nar.zst
+Compression: zstd
+FileHash: sha256:0wzdndyczywrj1m2nmvvcx0g6jqrxzmm83mqvxkq16449gzgmldd
+FileSize: 884
+NarHash: sha256:1lr29yc20ab1xclksy4612rds7bk046pq3lw4sj27npbdpg85hs1
+NarSize: 1856
+References: 0vxjf6rbv7h6l7hmba6i114z8i6hnnw4-make-initrd-ng-0.1.0 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 7nyaxs5dkxdqsy90gyvwxdzwfa5zwgjn-shutdown-ramfs-contents.json cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2
+Deriver: mlmg2zsfbkwg8al36pnphz7ikg17bg39-unit-generate-shutdown-ramfs.service.drv
+Sig: fuji-1:h+w+yhTwBcWh99CPGE3iLxq6hQ+enCloGb9zhIJwDHgyWj97dz+gAboIwqnY6RV7WfAsGyk7kvm91qxNq02DAw==
+Sig: korri-cache-zao-1:KBG7cztwBIVwJwe8N4oQvIqCRIVob/b1ifX3sC3tdM8TCr0k91enzYQzybjKJBYdjpS20ezmZyT/LumRAz7vAQ==

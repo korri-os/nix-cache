@@ -1,0 +1,11 @@
+StorePath: /nix/store/n021piy8z8dd20djcpc8nhp7m1m6fmrp-unit-korri-input-source-guard.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/1plvxx1k22w3q7a8akxxp0hakbx24iw4pmvd6ij5myi9wz8527al.nar.zst
+Compression: zstd
+FileHash: sha256:1plvxx1k22w3q7a8akxxp0hakbx24iw4pmvd6ij5myi9wz8527al
+FileSize: 719
+NarHash: sha256:19q8j825c89islsh08s8r1mqfwx4qz68dbxfx03w7lv0zcg4154k
+NarSize: 1632
+References: 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2
+Deriver: 746gjy1lm6kh1iyagcpmzhjvvw21mzlk-unit-korri-input-source-guard.service.drv
+Sig: fuji-1:g0zTfDlbJo9nkVtX/1eVyYqcI7pS05gTRG46WvMy2Lcz/QHqolroLIQfTQvwPf/cuTOfPUO9JT9zs3ZE/GjVCg==
+Sig: korri-cache-zao-1:Adp7DBLb5mNdKcZkKyTnwyCL6WYUDmnTcqMPsO8nHSfGwQsiUJKs4oPG96usGrhfoXbtO/Dh5FVpmijmxFkTCw==

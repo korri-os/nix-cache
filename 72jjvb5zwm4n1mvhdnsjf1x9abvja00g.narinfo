@@ -1,0 +1,11 @@
+StorePath: /nix/store/72jjvb5zwm4n1mvhdnsjf1x9abvja00g-initrd-linux-6.12.63
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-14/0012bg3byvjwajjknzihmq8mffb3yfyl678bx09iyb4w7c6pq6hz.nar.zst
+Compression: zstd
+FileHash: sha256:0012bg3byvjwajjknzihmq8mffb3yfyl678bx09iyb4w7c6pq6hz
+FileSize: 11572827
+NarHash: sha256:195gnvx1m5g8rnnzxcbp5j2j0ydz60460lr41spl2lwxlfmwb0kv
+NarSize: 12633760
+References: 1c567xg2kn1rwrh70m1r7w5r40s6xykr-udev-rules 2s0471fchmxxs0gd0pr6pql82wr5vy7s-initrd-fsinfo 8kn58y3n4m30maf7n6zqd29i1kgqiwkq-extra-utils hkrpzp184cxzlj42gz2wqhmq4nffqz0f-mounts.sh kjfl9nv95wlmjg12z4zv0grr3qd4p363-kmod-debian-aliases.conf-30+20230601-2 sqjbxx5m07spz54p2khwj8wsn4d0zghr-linux-6.12.63-modules-shrunk v82ndmhs3xbnmzbqc0jm4zwmqnkvia1k-kmod-blacklist-31+20240202-2ubuntu8 x7a9lg955hcj22llp025k5cvqkfs7kjk-stage-1-init.sh
+Deriver: vvsh17i0jhn24268bh3jy0v03fa1zv6a-initrd-linux-6.12.63.drv
+Sig: fuji-1:BWUscWDNZCS1gGdtK0qoAtQTUEN6XuKItH27wn/H9tqgCWnSvHD/iLhj1O+lEDqvhOMxMYuAxn2k3IzybMHXCQ==
+Sig: korri-cache-zao-1:drF0zYXUMFZHM1cWMtJ5D+Wt8TqwqxsjPwZ6nG/z0OnQ60Ic4D1bZF3kHLuJsp/1mUWxTBBmKDg5RxWAu4xWBQ==

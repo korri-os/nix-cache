@@ -1,0 +1,10 @@
+StorePath: /nix/store/i1n590ps3skhmw9c31kq5xcd7wn46l3x-unit-nginx.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/0msviwhgswfkbhmxj8bgla4h5gxi3d172kj1jk10n61prrh9p95a.nar.zst
+Compression: zstd
+FileHash: sha256:0msviwhgswfkbhmxj8bgla4h5gxi3d172kj1jk10n61prrh9p95a
+FileSize: 1287
+NarHash: sha256:0fi55adx4qh9c957h9a4wwn5f7wfcv2s3c95j3j6dl2ydx9rxvd4
+NarSize: 2848
+References: 2jiz5y56ws5yjw2prdpaias0gqvjvc14-nginx-1.28.0 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 7x3wa8ma15ncpg0hg2v4i7yxhrnl2dj4-nginx.conf cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 dd4adihrv924l1fkwhjsbnan9vl7lz4g-unit-script-nginx-pre-start fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2
+Deriver: jxbzi6kpkfp5qalj1fdwcrywn7xmpzn3-unit-nginx.service.drv
+Sig: korri-cache-ci-1:ZPLYzhXLmDTqdBulDXyTkp1qU8iaTffKI2yeNXf11o0jhZp0jsfxkkpiDh2j8XBNTzx60ldFnYS60JkczpWJBg==

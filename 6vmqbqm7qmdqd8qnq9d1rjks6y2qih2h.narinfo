@@ -1,0 +1,10 @@
+StorePath: /nix/store/6vmqbqm7qmdqd8qnq9d1rjks6y2qih2h-unit-systemd-makefs-.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-15/1fgfqcjmziaz6hrz3fbnwayjjrzpr6xh0vszdn4508xwp73i36xa.nar.zst
+Compression: zstd
+FileHash: sha256:1fgfqcjmziaz6hrz3fbnwayjjrzpr6xh0vszdn4508xwp73i36xa
+FileSize: 802
+NarHash: sha256:0l3qah7ki9vmiwgcr7bnmqbnvi5i6d92x8yk5kj8rs9sl31nih7f
+NarSize: 1968
+References: 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 59d87n4d81lca0hr8ijiim6dn1n8gqh7-util-linux-2.41.2-bin 65mi0y8cdkqh71w4cmj16j9qb7j0g14j-dosfstools-4.2 cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 mf305kkwjli8860gm68ckyynczk5sqyg-alsa-ucm-conf-1.2.14 mp2nq2cf512m6b6dr3ifpghs65h5b07z-e2fsprogs-1.47.3-bin qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2 zr6x083p3h8xz3y6kqw3lz683qaz423x-mtools-4.0.49
+Deriver: 9kgwllq2nzs1zhzn75jqlx1aan0kf1jn-unit-systemd-makefs-.service.drv
+Sig: korri-cache-ci-1:rq7usWyTopAL9qlS3hkUjeuSfkn//1tydttHsr0ypxA7M1rji8P9gbFyweByAtuWnroS6tvFmZCOH5WYe2CDDQ==

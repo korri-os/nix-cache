@@ -1,0 +1,10 @@
+StorePath: /nix/store/3inwsi43ijkgiv7qlmphi4z2f7s2jczl-unit-systemd-nspawn-.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-15/0aq64yp89m2x6872grzg2nfzc7kpxpkzyqnm5aviksshjb4ij98m.nar.zst
+Compression: zstd
+FileHash: sha256:0aq64yp89m2x6872grzg2nfzc7kpxpkzyqnm5aviksshjb4ij98m
+FileSize: 637
+NarHash: sha256:0f0sr089liycniq5f5wbj1jxl77h31nm8i8w56p8b85sy0pw3gp8
+NarSize: 1336
+References: 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 mf305kkwjli8860gm68ckyynczk5sqyg-alsa-ucm-conf-1.2.14 qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2
+Deriver: fx1clbn3zyi9x05w8xbgix49gl4lhs8b-unit-systemd-nspawn-.service.drv
+Sig: korri-cache-ci-1:6gUZDK0OPtWfZohUceVOSa2iQnKZA1cuShCo+fYdYFYX98cbmUn3V20/5PW5Uz0hZnnw/JF50cfUgCrWeAmwDw==

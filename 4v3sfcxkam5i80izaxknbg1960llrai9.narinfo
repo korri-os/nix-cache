@@ -1,0 +1,11 @@
+StorePath: /nix/store/4v3sfcxkam5i80izaxknbg1960llrai9-install-systemd-boot.sh
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/1h9k0x33dsggrmyfmih1vkadbcaghka9h562l7vv5q0359z3889g.nar.zst
+Compression: zstd
+FileHash: sha256:1h9k0x33dsggrmyfmih1vkadbcaghka9h562l7vv5q0359z3889g
+FileSize: 215
+NarHash: sha256:11jwdm7f1wfym4b4k29wn6018l7dljny2m09b2yzi1aa279grxir
+NarSize: 296
+References: 6cankpvayjgidrbx5sj1gms2s13nvfvh-bash-5.3p3 r9vx7pf63sby22zamvj4iwb8jbnf995x-systemd-boot
+Deriver: kzgh6vw0mqng57qrshq78z448msrbi7l-install-systemd-boot.sh.drv
+Sig: fuji-1:QGQTqtt5L4Akw2+0DYdC8T4YHoeE6pHuJNZ3XtlIX35wqeh16z4gjgCRYQ6tNgOwCf+VOooKyz9CluzYhQgWAA==
+Sig: korri-cache-zao-1:9GbhRb2p/JYPOfiOsosObLW+yGX0NZT1FHRmDEhoKSC6WqxE+RurfwAFu+gSVZ2+lqmTkTwT/5Y3jJ2yWOB5Aw==

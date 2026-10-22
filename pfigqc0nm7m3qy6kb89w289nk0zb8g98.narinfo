@@ -1,0 +1,11 @@
+StorePath: /nix/store/pfigqc0nm7m3qy6kb89w289nk0zb8g98-firmware
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/0vn2kw2fr7rc2bbja1ab9nxd165ll3ndzmqpy67y4i2mkqn5wf4s.nar.zst
+Compression: zstd
+FileHash: sha256:0vn2kw2fr7rc2bbja1ab9nxd165ll3ndzmqpy67y4i2mkqn5wf4s
+FileSize: 18111
+NarHash: sha256:1ljlvwvk0yimafhkgpdad9f6imchb8jv5pcznfk9ycnwa4pi2vhr
+NarSize: 384312
+References: 16icrkbldnksibbj9aj8jk5x65miznmc-alsa-firmware-1.2.4 1bn0p6c35rd1ky330lcq6ckhb3gf90ib-intel2200BGFirmware-3.1 5bhzdk8z3p7cm3q37zwvf9xcz42kfbvj-rtl8761b-firmware-rtk1395 5gllac6vbcxwsvbqr2baxnqzh03xi163-rt5677-firmware-4.16-10 7rhiqkfp69qml4vfx5f4kwyk2kb9m525-libreelec-dvb-firmware-1.5.0 a14plz5wha5bw06w8z8kr80fbkz66ywr-zd1211-firmware-1.5 alhbw88f9qxgrsym8vpcw5dyssgahql6-raspberrypi-wireless-firmware-0-unstable-2025-04-08 dwjcamk4lyqq1mk9fq358gabz6r471hf-rtl8192su-firmware-0-unstable-2016-10-05 gn0ranbk4wqf8cda35ipfpkfw3isvrdb-odin2portal-firmware p52hgpapmzlqyqzqzfdcfdf3fygn7gxg-wireless-regdb-2025.10.07 rif6c0il6h4abscspqf56ikz6wg4xr72-sof-firmware-2025.05.1 xkk8gvjvzks1gza8hjizvvkvwfpd7a79-linux-firmware-20251125
+Deriver: dg3x8q8h5zz8520mq7z5pdwsfywj1xsz-firmware.drv
+Sig: fuji-1:jBjilgfGLPnmd+7Rvzcnlfy80oHXLJbQIZ9PqeqQYYkIYtOq81isV8O+DSUgH7TgeDdNRHsjWX9PPNnQqgS9Bg==
+Sig: korri-cache-zao-1:IHlo4OgsNoRUB1n21QHnJSXmFYUuIn5KM8zq7nVFzXeOJCRyG7rIcqrK2luUTJk9dRzM9gDaq1Qmi+9142b1Bg==

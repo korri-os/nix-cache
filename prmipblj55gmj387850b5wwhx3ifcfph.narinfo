@@ -1,0 +1,10 @@
+StorePath: /nix/store/prmipblj55gmj387850b5wwhx3ifcfph-unit-systemd-networkd.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/0qkx6ic6jfgc8rdjln5y569zm2dpv7544gk1ibjqk0d6gga64g2z.nar.zst
+Compression: zstd
+FileHash: sha256:0qkx6ic6jfgc8rdjln5y569zm2dpv7544gk1ibjqk0d6gga64g2z
+FileSize: 682
+NarHash: sha256:110pxzz9cx08kvxk1a3x5bybg3xshy59p16m02q9xp9x3bm274la
+NarSize: 1456
+References: 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 ap1vnl2xfhzqzylrmi3zp5g0xgp1zp3k-X-Reload-Triggers-systemd-networkd cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 ggfra69ncvsj6rhdsnii9bzfgdz5vq97-X-Restart-Triggers-systemd-networkd qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2
+Deriver: b8hb7d4lyk2iswfg8a83kmrc69q3cfsm-unit-systemd-networkd.service.drv
+Sig: korri-cache-ci-1:x0DrwNddlSODORKsfqRDOtiEuOAX85HWYAO67TDeeBsOPDYMciEgQt7zSzu/oRk0KtwXYe93lNsW5IrttuH3Dw==

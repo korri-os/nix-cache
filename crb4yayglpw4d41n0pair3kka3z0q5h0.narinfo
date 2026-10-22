@@ -1,0 +1,10 @@
+StorePath: /nix/store/crb4yayglpw4d41n0pair3kka3z0q5h0-unit-pipewire.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/1kg8p0vz2v0jhjfmk0ifr57phfqsvrmzq73cvmh6zxx4282jld5r.nar.zst
+Compression: zstd
+FileHash: sha256:1kg8p0vz2v0jhjfmk0ifr57phfqsvrmzq73cvmh6zxx4282jld5r
+FileSize: 615
+NarHash: sha256:0zzq7hlghcglv3k8rmq54db64y3swzlfkpm54sb93rk325vgcynx
+NarSize: 1320
+References: 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 njpyh6z5rkr23wzbl0jzlq8d6w8sqfy6-pipewire-lv2-plugins qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2
+Deriver: wfniv8lfk2s0ihlhhnxj1qbr5qlc6q2s-unit-pipewire.service.drv
+Sig: korri-cache-ci-1:E2oiFpsadbtlQnZbC+4brQ0tgZe1gw2yA09OPw2OmryBFVd5/lyvQnjiEOedE/yZtqBnSAqUdWEX3Od1yoDVCg==

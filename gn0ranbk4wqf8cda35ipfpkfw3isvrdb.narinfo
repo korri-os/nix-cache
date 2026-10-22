@@ -1,0 +1,10 @@
+StorePath: /nix/store/gn0ranbk4wqf8cda35ipfpkfw3isvrdb-odin2portal-firmware
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/19xybnvkwd6q0ag7v4sdml9cc7cixzyscrd6h1vyybq3prah8jic.nar.zst
+Compression: zstd
+FileHash: sha256:19xybnvkwd6q0ag7v4sdml9cc7cixzyscrd6h1vyybq3prah8jic
+FileSize: 15662756
+NarHash: sha256:0lzc7csqh3kpyfkqrww0kc6i3b0id3mj2hxfbpwpxvpdgbzh40hw
+NarSize: 38231744
+References: 
+Deriver: 09zdlh751yrvax2xh90ppqhfxa2lsx37-odin2portal-firmware.drv
+Sig: korri-cache-zao-1:NOJicQKqRpGJ1plteIud77bAatZQnplkHwzYK221d1huGfnW7OB3NU5MIM5b/yr/ELD3/+niRHaQa+VPuu7MBQ==

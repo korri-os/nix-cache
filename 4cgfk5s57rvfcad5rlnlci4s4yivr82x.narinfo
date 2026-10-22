@@ -1,0 +1,11 @@
+StorePath: /nix/store/4cgfk5s57rvfcad5rlnlci4s4yivr82x-korrid-remove-stale-browser-runtime
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/0jb267z7ir0x4p5m4xdmjzmsqh62zf2niv0wlis01ksr58n39ryj.nar.zst
+Compression: zstd
+FileHash: sha256:0jb267z7ir0x4p5m4xdmjzmsqh62zf2niv0wlis01ksr58n39ryj
+FileSize: 186
+NarHash: sha256:0zzjmyn9aabpx9mlif0jkync6n9dam5vgicclbqjz62j61xhmr50
+NarSize: 248
+References: 6cankpvayjgidrbx5sj1gms2s13nvfvh-bash-5.3p3
+Deriver: 583g40dk5157brnfvi0j3rbdhv7fk7ym-korrid-remove-stale-browser-runtime.drv
+Sig: fuji-1:lcfytchwzSpVHL8TeKPLrtMJuX4/AitHlb2zRbt5jZTPcejo7NlyZ7U7MVP/xPoHg3cgKh9tnrbvmNT/R/HjAw==
+Sig: korri-cache-zao-1:VAhdsgeNZpU+xOLZg9i3LxKkv+kGZfmWSHjgGVMfcQSCYlMgXuHwHlbKJVgT7Os1w4a2W7EZSpE/530k03crDQ==

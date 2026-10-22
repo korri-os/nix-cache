@@ -1,0 +1,11 @@
+StorePath: /nix/store/81xcl1jgzg959haqzhm1ds2g0cd29kcp-unit-script-NetworkManager-ensure-profiles-start
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/077bi9x5f8k1pdbd5xc1i0s72xz2shbmn1l7yw5rzvkhhhwzrjij.nar.zst
+Compression: zstd
+FileHash: sha256:077bi9x5f8k1pdbd5xc1i0s72xz2shbmn1l7yw5rzvkhhhwzrjij
+FileSize: 418
+NarHash: sha256:134vy5zdsnpl6b4g595gv43cc0ih0r004j7208lzckhmi6zvx5y4
+NarSize: 920
+References: 6cankpvayjgidrbx5sj1gms2s13nvfvh-bash-5.3p3 a7axqk2rliqswi258igibgcf8021fs6h-networkmanager-1.54.3 qdvjrnp7z34am0jrkps5nhaj5f46jwkx-envsubst-1.4.3 ynz9w9f2hrscdsyqwjmpilvzbxafqwbk-korri
+Deriver: ryq8wz3b3misszmdp5dkzryhrvn5l1z0-unit-script-NetworkManager-ensure-profiles-start.drv
+Sig: fuji-1:NMACO7dtwUzefkVbsnO2kRL+LiqZbYsM7ILtfbiyREWi5cPr8HIs5vxaT6jCBav2+UETz5aRbpmXigQvBK5yAA==
+Sig: korri-cache-zao-1:ylCsGmvvL9HpbjNyG+d0T3vAAFV+jvU+WiYo+cgy7oOMlv3qUJd8Zfy9658sNahpu/XupvKq+yf/McaJEyifDQ==

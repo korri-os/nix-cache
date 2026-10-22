@@ -1,0 +1,10 @@
+StorePath: /nix/store/n2hwm6izfgddcvhd4w3a726pfyfdydhi-unit-script-usb-gadget-pre-stop
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/1alxa8zs731k13w3nrm0csjlh6q61iv7gwn3722ibhv02syhh9gv.nar.zst
+Compression: zstd
+FileHash: sha256:1alxa8zs731k13w3nrm0csjlh6q61iv7gwn3722ibhv02syhh9gv
+FileSize: 328
+NarHash: sha256:0qnkbnfqfshpkim45iv96n6is2q4lzj43r1wj3xvhlkx12b2f6i9
+NarSize: 688
+References: 6cankpvayjgidrbx5sj1gms2s13nvfvh-bash-5.3p3
+Deriver: sl88vsxnmkdr931gnvdlbpaai58iamny-unit-script-usb-gadget-pre-stop.drv
+Sig: korri-cache-ci-1:4VhoXs9LHY0EpmEWzoWj4iBL+1Ws7pTTOsddr40Dy84o173I5WuSY9O3Jv5JhRN/zsrJsMphzQoY+8xYtBC+CA==

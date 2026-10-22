@@ -1,0 +1,10 @@
+StorePath: /nix/store/nv6j41k7zdh1dxjn2bk97k454mk16dzx-korri-inputplumber-retroarch-autoconfig-1.22.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-25/17d6294yw9m726z97k3b6iwvc22311rd0rw280mkla4q8gbw4qi0.nar.zst
+Compression: zstd
+FileHash: sha256:17d6294yw9m726z97k3b6iwvc22311rd0rw280mkla4q8gbw4qi0
+FileSize: 624
+NarHash: sha256:0dppcd54didrixhfbc4wi99zpy6bwsl5y7glng7gj6d6n02djih1
+NarSize: 2608
+References: 
+Deriver: h15b2qvdn0h5rbi33psg8p459yy31754-korri-inputplumber-retroarch-autoconfig-1.22.0.drv
+Sig: korri-cache-ci-1:VZBngSnC/KbdIv9PJjxxy3YsVM3X/ILRPRuL34J1YHX+9KO8O7a8CkPq+lMtVRRBZEnb0pPkaTpTBGKxoh4WCQ==

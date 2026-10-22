@@ -1,0 +1,10 @@
+StorePath: /nix/store/klrv1c82afx97jqcib19h0jvx9w106vv-unit-autovt-.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-15/1sjjl9g79g02kiz0imh93dqsriimn1ff5yx2q4c23pnfb5asxq11.nar.zst
+Compression: zstd
+FileHash: sha256:1sjjl9g79g02kiz0imh93dqsriimn1ff5yx2q4c23pnfb5asxq11
+FileSize: 764
+NarHash: sha256:10yr3qqj3b8amcb5kqig566m974287g20dxcb29n6n21gv9ikhzb
+NarSize: 1520
+References: 2m01an4zz5683cq46l8sy5z6xsz9r57m-shadow-4.18.0 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 59d87n4d81lca0hr8ijiim6dn1n8gqh7-util-linux-2.41.2-bin cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 mf305kkwjli8860gm68ckyynczk5sqyg-alsa-ucm-conf-1.2.14 qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2
+Deriver: mb0g2scdnxzgj51xjs421glfla3qrngk-unit-autovt-.service.drv
+Sig: korri-cache-ci-1:avX5yEWW+S9BXbmAmyEDX/pz0XWtvtCFyuTW/TpQx6PTt1/7+Y06Is5yBai1TkarK3AW3pEGyBL7K8IgAXz1Cw==

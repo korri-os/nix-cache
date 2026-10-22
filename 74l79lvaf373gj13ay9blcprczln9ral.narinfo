@@ -1,0 +1,10 @@
+StorePath: /nix/store/74l79lvaf373gj13ay9blcprczln9ral-unit-plymouth-halt.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/10lfgxpjx1zv23kay0n7yqc7b2s6r5kaj76pfvma6xxs25l3m51w.nar.zst
+Compression: zstd
+FileHash: sha256:10lfgxpjx1zv23kay0n7yqc7b2s6r5kaj76pfvma6xxs25l3m51w
+FileSize: 565
+NarHash: sha256:12bp8yrisbzmdasvy6y1ihwxx7wp9cq477l6hk3dzn4kq1irhczp
+NarSize: 1208
+References: 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2
+Deriver: 34cf399s76bl7563vg3a4d1i8mx9rrxy-unit-plymouth-halt.service.drv
+Sig: korri-cache-ci-1:tKQzp3y4kYbqPLFSJ3sH5sx6RpoGeZPzMpS7jiZpnOTJf6MFln0FUPBTZpuwAoex25iVkn64BcrZTlqqcrh0AQ==

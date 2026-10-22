@@ -1,0 +1,10 @@
+StorePath: /nix/store/s4yryqq9hcsdc4ac18b49pzgvvrvkwrb-rocknix-autostart.sh
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-14/1s7lr0svksbza7bny2dcdzsj2jc15ygsdpik0yw63pwj0wxs5k7n.nar.zst
+Compression: zstd
+FileHash: sha256:1s7lr0svksbza7bny2dcdzsj2jc15ygsdpik0yw63pwj0wxs5k7n
+FileSize: 3438
+NarHash: sha256:0s5m060j78np9amv9dkam0ywir59p87887iylk1x0krqwspw65fh
+NarSize: 8888
+References: 
+Sig: korri-cache-zao-1:kRFEjZQ5o+/9Tf5cX8MCCz5U0gGkKqZEWH3FgdSVRp7DJOp074i8SulQWIwmOr2HU0xjg0lTTpJPXaFaGq4ECA==
+CA: fixed:r:sha256:0s5m060j78np9amv9dkam0ywir59p87887iylk1x0krqwspw65fh

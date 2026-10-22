@@ -1,0 +1,10 @@
+StorePath: /nix/store/gsccd3cy04b1va2if1n4kndlalw5hmhg-rg353m-usb-gadget-configure
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/1hhwq6daj6gc226m9ljay9cmirf6qbbf8mflj7zzk9d99frigxl6.nar.zst
+Compression: zstd
+FileHash: sha256:1hhwq6daj6gc226m9ljay9cmirf6qbbf8mflj7zzk9d99frigxl6
+FileSize: 946
+NarHash: sha256:0jmm0af7x3swjaicdhp704ags856bdh12ns4ksl8b3gbni1vd75x
+NarSize: 2184
+References: 6cankpvayjgidrbx5sj1gms2s13nvfvh-bash-5.3p3 cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8
+Deriver: 8cfdv21pm8x3vlnl5hxif2hpvpa9crl2-rg353m-usb-gadget-configure.drv
+Sig: korri-cache-ci-1:VwzwJiISAWwLcAOm8iJ89ZmTGgY/xv2jD3kTH785Gll3OIrmZzIinxTijxQ/ECaVBjQ3rjqSz9XvM92Cw9EjBg==

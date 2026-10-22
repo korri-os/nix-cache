@@ -1,0 +1,10 @@
+StorePath: /nix/store/kiqm5cs2y1f3a3x4658b8b7cr4paalri-korri-wait-for-render-device
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-24/07aksv4mkycpsilxy3qz3sqf0j8s0fyazbfzixa5nal6hh8jq502.nar.zst
+Compression: zstd
+FileHash: sha256:07aksv4mkycpsilxy3qz3sqf0j8s0fyazbfzixa5nal6hh8jq502
+FileSize: 368
+NarHash: sha256:0y40rark06whzr3nbmikr2qhdvjq3jkrnn7ak9cin1d61hh9xilj
+NarSize: 544
+References: 6cankpvayjgidrbx5sj1gms2s13nvfvh-bash-5.3p3 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8
+Deriver: ar1p846kbsqch5pgmbdb8wwknf8174va-korri-wait-for-render-device.drv
+Sig: korri-cache-ci-1:Tpq6zyayLTn9Ri1cL3JqFR+7tc2NPArfSKFs9ZNJtwBf3ygVnO8QEyvOCVfANXPRkN7BKEb815jz4U4LarAfAQ==

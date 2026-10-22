@@ -1,0 +1,10 @@
+StorePath: /nix/store/93c4czzhr8rfavx562alv1v0h59b6kx7-unit-korri-boot-splash-handoff.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/0adqvkskb4v8vgbl8aa1rvx27f8nx2an9fhwf55pv4h8p4iyqpsm.nar.zst
+Compression: zstd
+FileHash: sha256:0adqvkskb4v8vgbl8aa1rvx27f8nx2an9fhwf55pv4h8p4iyqpsm
+FileSize: 702
+NarHash: sha256:0hqfgjlz235ns4girw8jsx3rzb2rnni3kv0yhbgqi97lkmmvph3c
+NarSize: 1464
+References: 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 9a5b3vg1f0kzjzk32xvplp1q804vwd7f-korri-boot-splash-handoff cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2
+Deriver: 82zhsgyxv3f140ycjnjn0cb8nn7mwshk-unit-korri-boot-splash-handoff.service.drv
+Sig: korri-cache-ci-1:TWH8nGfIVTHyr28xoKGkWeTQOgjH50f8E7mq1prrk6Vwg6bdx+K1N1QEZ1oK9VytfqWcPUbRsA5HERGZrI4GCQ==

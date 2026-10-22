@@ -1,0 +1,10 @@
+StorePath: /nix/store/mijyv4gdw1y1mpj3kynil17wwxzl3rl1-unit-NetworkManager.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/1wm3dxc7qfg9qm5jh0l3818552z8qn4sk1ya4n1n7z72hxizdy8j.nar.zst
+Compression: zstd
+FileHash: sha256:1wm3dxc7qfg9qm5jh0l3818552z8qn4sk1ya4n1n7z72hxizdy8j
+FileSize: 629
+NarHash: sha256:1h8llw0pvp9fplfk2c8fvlz6zndv4y0azyc6alvlg07sghafw1mi
+NarSize: 1360
+References: 2aq7ffaar9xld68d4vcknx5hfh16yg90-X-Restart-Triggers-NetworkManager 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2
+Deriver: h3v6k7mzglg8s2644kq6yk7qrf4cry7n-unit-NetworkManager.service.drv
+Sig: korri-cache-ci-1:ZCVb0+v7EyH30U4Ln5OvNuPmMCDnffWutjFV1BBWS0+fM2ySRINA/hMtgOzhfAmaQHZ0WE4B4xI6AKg3JPG3AQ==

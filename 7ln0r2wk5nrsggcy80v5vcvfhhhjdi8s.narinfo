@@ -1,0 +1,10 @@
+StorePath: /nix/store/7ln0r2wk5nrsggcy80v5vcvfhhhjdi8s-unit-korri-local-signer.socket
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-24/0p77l1jjxm862mwgdfx8sk3s3q7mp7cr5m7s5ylam1lbn8vrc8sh.nar.zst
+Compression: zstd
+FileHash: sha256:0p77l1jjxm862mwgdfx8sk3s3q7mp7cr5m7s5ylam1lbn8vrc8sh
+FileSize: 362
+NarHash: sha256:036r256wsq843xijxgclv4z7z25y8kn7i3vqpv4z1i3cns3xrdga
+NarSize: 744
+References: 
+Deriver: 5nyql7njr14saa5sbbsv3ikraxr46mp2-unit-korri-local-signer.socket.drv
+Sig: korri-cache-ci-1:pGm3hEdYrAT3UdxerwJZi5qpo6jeg3898Jd6yqkkAmZVuSdFGj6qockikitGwRLY9Duagn4px+420N9Jk0DaDg==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/05gw8gsl8pbwa555yiclmhaxyw3n2y0c-unit-systemd-journal-flush.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-15/0qywin8146z51p3rj5d5sikxrs4vf0wky8qn836q59dc7lqhf0h2.nar.zst
+Compression: zstd
+FileHash: sha256:0qywin8146z51p3rj5d5sikxrs4vf0wky8qn836q59dc7lqhf0h2
+FileSize: 645
+NarHash: sha256:0ip2lq26dkl5xvjh5h5cwb9hm6d3dfq4kp4d3d5gq3zjbazpsz0g
+NarSize: 1320
+References: 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 mf305kkwjli8860gm68ckyynczk5sqyg-alsa-ucm-conf-1.2.14 qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2
+Deriver: v47hvavlnqhh74ajgvj6bw1xmdlwc2mh-unit-systemd-journal-flush.service.drv
+Sig: korri-cache-ci-1:TCCR7d22ftubGVqelKkhjCEIC54/qCm+zEphs3pDATOMc2WzXkU/I3ywGOy3RVD28QQJonY06bKa5Tp/BsE5DA==

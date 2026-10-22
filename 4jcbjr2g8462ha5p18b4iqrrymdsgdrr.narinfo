@@ -1,0 +1,11 @@
+StorePath: /nix/store/4jcbjr2g8462ha5p18b4iqrrymdsgdrr-korri-sway.conf
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-14/11vsd4j9ja0rqdvg0fnyqw0q0n4lmazrcxsgb41zc67y5nfhsk2c.nar.zst
+Compression: zstd
+FileHash: sha256:11vsd4j9ja0rqdvg0fnyqw0q0n4lmazrcxsgb41zc67y5nfhsk2c
+FileSize: 242
+NarHash: sha256:12bzd1kyaa4l1xkxhfm2zihrrbmxl1aphn6wnfjw3zw3v36f4bf0
+NarSize: 368
+References: 
+Deriver: vh1y2x800hnyy2agyg1zxlf3a9l6nxrz-korri-sway.conf.drv
+Sig: fuji-1:a3Ttbr6FhkKMeanRlMNajgiS4iKP61nkWF8A2nocur+7gzijGvLNMAJsDPhjJ3FHEZmelIMHfJF+LCL5cPPGDQ==
+Sig: korri-cache-zao-1:h5yNB/sezJUTiLzIAfpkMFnElnulqmjUmWiiSEQm+eMzjTQivAQkdPeZxAB2eHifStfHLCZcGcXwJsg4RAgLAQ==

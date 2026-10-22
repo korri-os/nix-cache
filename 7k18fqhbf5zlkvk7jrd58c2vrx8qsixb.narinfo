@@ -1,0 +1,10 @@
+StorePath: /nix/store/7k18fqhbf5zlkvk7jrd58c2vrx8qsixb-unit-korri-portal-credentials.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-15/1c6waahv8yiwa33iz68bi6bwakvh1mi108df54i96mkgicr5535s.nar.zst
+Compression: zstd
+FileHash: sha256:1c6waahv8yiwa33iz68bi6bwakvh1mi108df54i96mkgicr5535s
+FileSize: 788
+NarHash: sha256:02yacqrsa91kljmcm3z7d1y4jfgw40aq9ixnf0i33lqdpbl7207s
+NarSize: 1640
+References: 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 mf305kkwjli8860gm68ckyynczk5sqyg-alsa-ucm-conf-1.2.14 qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b v2jkdnrxaf85b36635ynp8g6anjcrgq3-korri-portal-credentials xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2
+Deriver: v1y9rhjayif44n7ikzwk5c6li69x3sf4-unit-korri-portal-credentials.service.drv
+Sig: korri-cache-ci-1:IONOd48cuh3gRmQPwH+Uo+xIiA0D7XS19Vrb7kaYr8kZiOXpQVmGiWu/FdY4gCb9OfpQ4Ttd9Ht01QkTSTWEBQ==

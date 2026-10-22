@@ -1,0 +1,10 @@
+StorePath: /nix/store/v4bl7zmfwahpwxw8fc4llmsf5zrp02dk-unit-NetworkManager-dispatcher.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/05kb83qwgfnvvsjib5c9r8yrn6xlxcyhlmpydbz225z1s2md124i.nar.zst
+Compression: zstd
+FileHash: sha256:05kb83qwgfnvvsjib5c9r8yrn6xlxcyhlmpydbz225z1s2md124i
+FileSize: 710
+NarHash: sha256:0x9va9yf051dri4xrdylq9mlrkyr56ir51r07nfzcf30jvpwl9lz
+NarSize: 1728
+References: 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 59d87n4d81lca0hr8ijiim6dn1n8gqh7-util-linux-2.41.2-bin cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d6d5vl092g9fpzs6g43xindhykirxwl0-X-Restart-Triggers-NetworkManager-dispatcher d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b rkyd8isxqd2bpn3lca4arjjznjcggrhs-iproute2-6.17.0 xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2
+Deriver: rjha6jxkva46jhz8sdbv56a8jaakmjhi-unit-NetworkManager-dispatcher.service.drv
+Sig: korri-cache-ci-1:KwuYMVJoA0JSAsNJEsN+TLjXIIAbUxNMVPVszGz1hPEO2wDpXl07fszDJwhLm6C74kV3mZ+DlA4yfjZ93fX8AQ==

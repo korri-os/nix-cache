@@ -1,0 +1,10 @@
+StorePath: /nix/store/57w48swwzl4is9g91ff88mfbmkpbbwgn-session-sanity.sh
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-15/1c54hib16j3445j5k7iswhjgasvfq77ghakpdyac7b1lpqbb6lm8.nar.zst
+Compression: zstd
+FileHash: sha256:1c54hib16j3445j5k7iswhjgasvfq77ghakpdyac7b1lpqbb6lm8
+FileSize: 1285
+NarHash: sha256:0qzsgakj09250s2kn079qkbsvsn8i3v5viwj7nzk6253j4x3inc1
+NarSize: 2360
+References: 
+Sig: korri-cache-ci-1:JTDqNZKQ/xcn5LeUjgYDmxglO+M4TTlgTp8sZUgK+98javmmUGyF5XiU8fWtnZZ8IbWOv9UvQRym2kyb2mjWCg==
+CA: fixed:r:sha256:0qzsgakj09250s2kn079qkbsvsn8i3v5viwj7nzk6253j4x3inc1

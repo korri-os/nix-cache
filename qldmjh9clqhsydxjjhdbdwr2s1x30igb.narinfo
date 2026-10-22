@@ -1,0 +1,10 @@
+StorePath: /nix/store/qldmjh9clqhsydxjjhdbdwr2s1x30igb-avahi-daemon.conf
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/1bf02qlmqplshmdnk0jw096z12mm41j6bqv2bwv7ycf08nmiqx82.nar.zst
+Compression: zstd
+FileHash: sha256:1bf02qlmqplshmdnk0jw096z12mm41j6bqv2bwv7ycf08nmiqx82
+FileSize: 253
+NarHash: sha256:1hhyjhir1sabaazvha2syn6dhblrp3rkl7zzsy74ifq1l4pa72zw
+NarSize: 440
+References: 
+Deriver: b2919zawm7vqgrq1y0axqjn6aq7ciwd3-avahi-daemon.conf.drv
+Sig: korri-cache-ci-1:0dmIEPUYyN8mmL2z9p9blkIYOiic1u9OozKm1Bu++YmGqGKyFH8jKWBRV9GAWXjL43Y7xPCqGGPzrTsvVkVCCw==

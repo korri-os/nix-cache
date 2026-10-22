@@ -1,0 +1,10 @@
+StorePath: /nix/store/xbwq7balmnic3hi22sp0irqrwkk9lid1-korri-sunshine-run
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-25/00kw9jlhpknlfw004jhk9vyb31ml7dmw8syc2aa30sigr1psj8pb.nar.zst
+Compression: zstd
+FileHash: sha256:00kw9jlhpknlfw004jhk9vyb31ml7dmw8syc2aa30sigr1psj8pb
+FileSize: 1241
+NarHash: sha256:1kk32kjzbb3p109igdqq2cfwcqlvi5cmazhxmw5naylaw7m3g9ix
+NarSize: 2944
+References: 3rmzb92a65vp55dmmzmh2qygq5wkdmb8-jq-1.8.1-bin 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 6cankpvayjgidrbx5sj1gms2s13nvfvh-bash-5.3p3 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 dh752ravf4jlgd1p6adyc3zy2lzpapd7-pipewire-1.4.9 jvyrvx9rfwgqw4ky86g7ig0idra8khqi-sway-1.11 k3l93wh7hy4ywk4gdhg6pnnqvs59waby-sunshine-korri-2025.924.154138-korri
+Deriver: 4vgrv7yc8hcvai9ffqm2lb2lp30apph3-korri-sunshine-run.drv
+Sig: korri-cache-ci-1:fXsY4/qTL3XaL7+A4A3lXFXXkNzsavdN+VYnU7idp+bj8fcY9JA/FWMxluA3GmW0O6N6/lrQe14R3xDVk++LCg==

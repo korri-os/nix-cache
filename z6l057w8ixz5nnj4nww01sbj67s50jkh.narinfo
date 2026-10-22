@@ -1,0 +1,10 @@
+StorePath: /nix/store/z6l057w8ixz5nnj4nww01sbj67s50jkh-korri-chromium-kiosk
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-24/01k1jyqzm740iqr0858qy9i7jzshk0fixvalbhg2m65b84jk0vcv.nar.zst
+Compression: zstd
+FileHash: sha256:01k1jyqzm740iqr0858qy9i7jzshk0fixvalbhg2m65b84jk0vcv
+FileSize: 724
+NarHash: sha256:03z2w6fvzaqviar0rl25gpd2vf4p067wr4ga5q20587xfrcsrk8a
+NarSize: 1360
+References: 3rmzb92a65vp55dmmzmh2qygq5wkdmb8-jq-1.8.1-bin 6cankpvayjgidrbx5sj1gms2s13nvfvh-bash-5.3p3 c9rq81hgpcqg8dx2v1m11kj06r40dgzl-chromium-143.0.7499.169 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 wqqc9hkafwzii6za3b8c4bn1b2lxjhm0-korri-portal-shell-0.0.0
+Deriver: 3xwsr7lijqd729hwi37s2iyqkib01kw5-korri-chromium-kiosk.drv
+Sig: korri-cache-ci-1:AkHFJSsXkSAXYzdI3RfqvmcRE8l9FmAtO7sps20EiroF+wB49fSRQEBZkFvcVXoyCzbBJFSUQqrXYpAjjgZoDg==

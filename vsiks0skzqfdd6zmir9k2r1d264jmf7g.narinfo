@@ -1,0 +1,10 @@
+StorePath: /nix/store/vsiks0skzqfdd6zmir9k2r1d264jmf7g-linux-6.18.2-modules-shrunk
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/11hqgfwg4djaqaipx4zyx2wmkga48gk3bdrlclfqvbk9ibdgxx8f.nar.zst
+Compression: zstd
+FileHash: sha256:11hqgfwg4djaqaipx4zyx2wmkga48gk3bdrlclfqvbk9ibdgxx8f
+FileSize: 2481146
+NarHash: sha256:0b9slmg0znp9jfinjnf9gp02c0p81h2i9h3m3llavri76xsmr5m0
+NarSize: 2881792
+References: vsiks0skzqfdd6zmir9k2r1d264jmf7g-linux-6.18.2-modules-shrunk
+Deriver: f314ln2h3f7yn0sm415abyjjjnf8zh8z-linux-6.18.2-modules-shrunk.drv
+Sig: korri-cache-ci-1:axs0pfghOLngKHFWvLFCg5Koh620yqf0QbWhiSmc4wfxigNnL9AgpVEEFLbmEFJtG2z5Shqbe6yam9L1ZsPPBw==

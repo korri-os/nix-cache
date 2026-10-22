@@ -1,0 +1,11 @@
+StorePath: /nix/store/ly03jryvykaszxg1rv0kmiccyy10xrlp-korri-virtual-target-acl
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/06ismcpdjn8z5bd5kaxnc582m3sjx3f2za2yhxd2bkhsg2mhvc1v.nar.zst
+Compression: zstd
+FileHash: sha256:06ismcpdjn8z5bd5kaxnc582m3sjx3f2za2yhxd2bkhsg2mhvc1v
+FileSize: 395
+NarHash: sha256:19ppqhg09jr7v3k9lrfxgdx3d4gixn601hcc8yxmk9cryx0pmisq
+NarSize: 856
+References: 6cankpvayjgidrbx5sj1gms2s13nvfvh-bash-5.3p3 l7pqmw4h6rkqclkhf4a55sh8fgvqa2rw-korri-inputd-0.0.0 zdmabhyb7hhn5rvdf16kgyjbvh5z0p4z-acl-2.3.2-bin
+Deriver: g8m6gwp32mlw4xsvzz03qj1bzqy1hg2m-korri-virtual-target-acl.drv
+Sig: fuji-1:DSz8Wl3/QQTwjKlkxmTfv2Vu0DRLoVsJ/l0q9Lod774OmYMcbrByc8LRhC1TFoDQo7lcwwWSY3g2lwg5n0jKBw==
+Sig: korri-cache-zao-1:RUxbXclGCfG8TJp9+AH2XZlx5Vr1wsjt+HR191ymZ0HFebS33HpgaWlIN/aCi4fxJBinC+spGBwd140ZlqijAw==

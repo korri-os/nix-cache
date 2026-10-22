@@ -1,0 +1,10 @@
+StorePath: /nix/store/l8pxdrva53knwr8w0z9dh8pv2g4jrcrk-korrid-rg353m-host.toml
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-24/1rs168qnv0hh15fyp9p821nl3p85jkcmrkl0ays6kfai47392kml.nar.zst
+Compression: zstd
+FileHash: sha256:1rs168qnv0hh15fyp9p821nl3p85jkcmrkl0ays6kfai47392kml
+FileSize: 195
+NarHash: sha256:1c2xsq0xh7n74zc95p7x6i5wry9m37567lwhbmqg7wr45fn217i7
+NarSize: 232
+References: 
+Deriver: pw892619zpibzaq8x9s778lxg04xrrrc-korrid-rg353m-host.toml.drv
+Sig: korri-cache-ci-1:I01pHbN9yAFe9Ufk2g59lCRbXMt27I9al2hlKD6aah8tVNhs9eaE9JkAhZXTZLvIg1vmW0crFdsqQyEyF57QAw==

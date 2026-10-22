@@ -1,0 +1,10 @@
+StorePath: /nix/store/b76yb4lnc1svc7km5yngimk8h5285di6-linux-aarch64-unknown-linux-gnu-7.2-modules
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-30/1aaazdaps5pk1h1wmqn5dai4yv96nchgdbghf22ddzj3w04hl87a.nar.zst
+Compression: zstd
+FileHash: sha256:1aaazdaps5pk1h1wmqn5dai4yv96nchgdbghf22ddzj3w04hl87a
+FileSize: 3442766
+NarHash: sha256:0jw5wv710qfzpzgyxxncd24jbh8q9fy9ihd66f179rivzgm7l8q8
+NarSize: 13403288
+References: 
+Deriver: kampdm4nx2nna5h5j58kiipsglqq8q3h-linux-aarch64-unknown-linux-gnu-7.2.drv
+Sig: korri-cache-ci-1:6coapaWTnAX5diqXjd93p+H7LZlaz5Vw01DfFURjEZgZYLtqPiitOJsndYCPcCOzrhCKwJwHHmDLvnrqq+iKBg==

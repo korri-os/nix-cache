@@ -1,0 +1,11 @@
+StorePath: /nix/store/7sf4lm7ijsbs3gijfjw7l46mn2jlq5n0-unit-firewall.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-14/0y6s9ymddi2nly7bbzm0c1sy1cyc665aibpvsfhl49c827zc2k23.nar.zst
+Compression: zstd
+FileHash: sha256:0y6s9ymddi2nly7bbzm0c1sy1cyc665aibpvsfhl49c827zc2k23
+FileSize: 894
+NarHash: sha256:0l6zzx31xiiyxbghmvczhxgqxbfjgb2szgij6psb1ps6rfg3lynl
+NarSize: 1904
+References: 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 kcxxg17vj4d6cq9scgqh4d4f73wp1vz9-firewall-stop kxd75kr7m6xqx7kx6dvzc1asg7sgpil0-firewall-reload n5nadbs1s8rb3hrslsxjglnxpqym71cq-firewall-start qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b s3qcrm4k6drspc7sidahpbpyg71vrdxh-iptables-1.8.11 xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2
+Deriver: 2gch45lmsk2l98pzwh1lqdfa457plhkg-unit-firewall.service.drv
+Sig: fuji-1:gyvO1OlJDmtSuzw8jyNcd0PqO124mG3Hy6GsXalG4eFvVhXE87rGZNYLUqNJ+LET8GxHDEg5UaxCRixZCut2CQ==
+Sig: korri-cache-zao-1:T5ZXXQscgQZgf6dg90oauASNo4LLCciJAIOjJuuSkC6b8o1G6OuNzzXwoSM+hio2ji+T1fetc7wauW+QHGK9AQ==

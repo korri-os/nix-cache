@@ -1,0 +1,11 @@
+StorePath: /nix/store/76viilkbwqa5jk199dxlwgg7hg0mxsix-unit-korri-certificate-control.socket
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/0ygz3wccj7zll181nf2m9jy2knr14x83zkvxid4kc5az3c850xki.nar.zst
+Compression: zstd
+FileHash: sha256:0ygz3wccj7zll181nf2m9jy2knr14x83zkvxid4kc5az3c850xki
+FileSize: 414
+NarHash: sha256:0sfmq6ia6y59x9ps3mza4jb737anh87ix8m06snfb6p10hl59y4w
+NarSize: 816
+References: 
+Deriver: 9pyd3s6228429hvj7d9cgpp66wm579mz-unit-korri-certificate-control.socket.drv
+Sig: fuji-1:bNMrmdt4w5NSuA7uLJwndPX2q/Xgz6SslKVuBQhMZA4XRasfblYExkzMbaKgYsiaiga5tpmLhpam1wrsr/0yDg==
+Sig: korri-cache-zao-1:2gpXa56mQvX2kenNJzwCcs2nGUh6oZMbV2vF9xVPy0Nnc3gz+MpOwyn4t1RQo2Eaehl/g4+yqFwBeKhYKJEZDw==

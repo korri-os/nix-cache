@@ -1,0 +1,10 @@
+StorePath: /nix/store/3yzbjrpxzc9nlwh11flqpgnwj3wjzckc-korri-clean-compositor-sockets
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/01prahdgv44542z331bq8c5725yy64ly88gingdrvqkzccyhvs79.nar.zst
+Compression: zstd
+FileHash: sha256:01prahdgv44542z331bq8c5725yy64ly88gingdrvqkzccyhvs79
+FileSize: 753
+NarHash: sha256:0x6i1bvxx42dfj1lzmsmg2fidarlw41w89zmva0vrwfmg24562sa
+NarSize: 1840
+References: 35g0q2v5890fmls45sg4c3q5cv33bp77-psmisc-23.7 6cankpvayjgidrbx5sj1gms2s13nvfvh-bash-5.3p3 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8
+Deriver: cn5pg5gm7c6ph5n4msdqd4j558j031ps-korri-clean-compositor-sockets.drv
+Sig: korri-cache-ci-1:ODre4Z7P+vVV2JXjVy7wCVA5QBBCQGf49alQch+hRXbFlCY049PyqYInH68uyOKKU3zce6pWUvdMqS1cF+u6AQ==

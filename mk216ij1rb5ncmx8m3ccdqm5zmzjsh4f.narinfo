@@ -1,0 +1,10 @@
+StorePath: /nix/store/mk216ij1rb5ncmx8m3ccdqm5zmzjsh4f-unit-usb-gadget.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/0b85xhji5syymwlaprpg624rfa4pqwkbxybsjpkivbm26v3v3l3c.nar.zst
+Compression: zstd
+FileHash: sha256:0b85xhji5syymwlaprpg624rfa4pqwkbxybsjpkivbm26v3v3l3c
+FileSize: 780
+NarHash: sha256:1hj7xybwp8ql0allb1rk1zprkd0snj1p9g44vdfgh7p8a3lsp6np
+NarSize: 1640
+References: 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 gsccd3cy04b1va2if1n4kndlalw5hmhg-rg353m-usb-gadget-configure qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b v0rik6c9rslpmnrpx7014iywj3ilg6z3-unit-script-usb-gadget-pre-stop xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2
+Deriver: k9qpfxdcazi9b357z6pyjkq5c8y87ir5-unit-usb-gadget.service.drv
+Sig: korri-cache-ci-1:WQhATg3aFM7+uavQCfDkDubQwKK3QFB00NmCZuJ9Y+Ct3FMODuSiIxftnifi1F4E++2e6grfdITJaX/DKWzcBg==

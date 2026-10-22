@@ -1,0 +1,10 @@
+StorePath: /nix/store/42p08cfry3ijd11xmgklpa4ly7akniav-sway-unwrapped-1.11
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-30/041ld3fhxsy2g923ll8wjgqwp9dxvjh8wgvnks4kdl1vgsphkrjd.nar.zst
+Compression: zstd
+FileHash: sha256:041ld3fhxsy2g923ll8wjgqwp9dxvjh8wgvnks4kdl1vgsphkrjd
+FileSize: 5484471
+NarHash: sha256:136rv7i1wqkff4qlb9fhgsibk7c5xr55xrd6sl8xq7qv7ysdy2j1
+NarSize: 6355872
+References: 05nia3983yjxban4cf21imx762q5n0yi-pcre2-10.46 0ypx265mgr0imfa80zgs9gvap9d7cbwq-cairo-1.18.4 42p08cfry3ijd11xmgklpa4ly7akniav-sway-unwrapped-1.11 53bbslxqirqx59ic6762nm2449jc2s60-libdrm-2.4.128 64r09jfx6ka4xb6mn3jh11lq43nlxbax-json-c-0.18 89n0gcl1yjp37ycca45rn50h7lms5p6f-glibc-2.40-66 9ayfbcvarw50bypghaxbslxvr7rdric1-pixman-0.46.4 9iazikbs82h5423fxy29knixnmcqrlcv-systemd-minimal-libs-258.2 dkwh6bdkrlf6y9b0h5sqwy7smsrw3wls-libxkbcommon-1.11.0 fj83p1ls2xznvfhp9lyglh4mcsbi0vhf-swaybg-1.2.1 k9vwsjba5biwz9z4vskcsayjjhfx94vj-pango-1.57.0 mr483rflm3d1cz668d7hpyj82yh5jchc-gdk-pixbuf-2.44.4 p67xlpyfnyk2qn04lvnq41aa1z6gkmvn-wlroots-0.19.2 pgrgladp2kcpqq8gdkljv9yp6d7lqnyz-libxcb-wm-0.4.2 r8a8qsqw8rf9sdgd2nvw2qm7j6j09lkb-libevdev-1.13.4 rri5dd8gjvhk76r921rpznkv7pm5ykjy-libinput-1.29.2 wi19ii2lb0fix368ad9n6lxp5dv6lby4-libxcb-1.17.0 x1y4y34d03fjqylcjadsjbb6bqzlnkal-glib-2.86.1 xcpdzp823kbj5qp5n3qgab3h8ny098fs-wayland-1.24.0
+Deriver: 47awmzbiyi7qvjmvv9xmsjcv57nnvmm8-sway-unwrapped-1.11.drv
+Sig: korri-cache-ci-1:WuOCGkc8mLElgJnW0sTmuo+rKx+Gj4sYa0FS0LF2faN+jDcXG4BgV066ur+Qbspeg8UmaUEsRpkUYip59bqSBQ==

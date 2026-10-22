@@ -1,0 +1,10 @@
+StorePath: /nix/store/kxdax6pg27y7b2ihrds8kyfp1pxwswni-unit-serial-getty-.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-15/0bmrsrw35dlr4n0zkvrd1s4dd2ilbhaxhyjkn79lc4yi0g4qrx0b.nar.zst
+Compression: zstd
+FileHash: sha256:0bmrsrw35dlr4n0zkvrd1s4dd2ilbhaxhyjkn79lc4yi0g4qrx0b
+FileSize: 772
+NarHash: sha256:0zslsrn0yzsw3mnn0yyl82n9c46hwxm847c9f6q2c1vi6hpk84fj
+NarSize: 1528
+References: 2m01an4zz5683cq46l8sy5z6xsz9r57m-shadow-4.18.0 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 59d87n4d81lca0hr8ijiim6dn1n8gqh7-util-linux-2.41.2-bin cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 mf305kkwjli8860gm68ckyynczk5sqyg-alsa-ucm-conf-1.2.14 qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2
+Deriver: v2cjvyd5v022addvsafjv29gzmcbrwm8-unit-serial-getty-.service.drv
+Sig: korri-cache-ci-1:gFa+L2no8sRAhj7LnhuPtHbj1Tm2mGIjntrPlFD6Ssaj/7APBLWhcv7AC7GsuQiH4vSDcA09Yjch4AUdEYjVAg==

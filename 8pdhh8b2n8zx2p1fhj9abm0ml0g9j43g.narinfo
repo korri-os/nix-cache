@@ -1,0 +1,11 @@
+StorePath: /nix/store/8pdhh8b2n8zx2p1fhj9abm0ml0g9j43g-unit-linger-users.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/19yfjqdar3p1y3nl0qyn8dz55lwn2ga24if9afmvdbfl8fc9cp1x.nar.zst
+Compression: zstd
+FileHash: sha256:19yfjqdar3p1y3nl0qyn8dz55lwn2ga24if9afmvdbfl8fc9cp1x
+FileSize: 682
+NarHash: sha256:17ij378bgxhmsmb5zjkzrrhwfnslj528irjwiynpid7gfhwb6rln
+NarSize: 1464
+References: 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 5vv8yj6mfzs281f1sd3p13735njndfmq-unit-script-linger-users-start cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2
+Deriver: dmywmn8151gdq9gk5p0cqqskm56j2wwm-unit-linger-users.service.drv
+Sig: fuji-1:EZ9tqKxTy3OlR17I6xZ2AaPSRemPAHLLMuRmHCSc5Q7sC4Wi9U79LJSVY7B/4XfSyxF1yem93cqjQgk5msqsDw==
+Sig: korri-cache-zao-1:bYfcmxuwVSMkFLwpyjlVcXaueUiowaDYpbxH25kcIxT19+gdtka8yTmJScF1msEzPza6e5I+yS2Q6FNoRqXNDQ==

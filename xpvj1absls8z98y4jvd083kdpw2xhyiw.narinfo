@@ -1,0 +1,10 @@
+StorePath: /nix/store/xpvj1absls8z98y4jvd083kdpw2xhyiw-unit-korri-compositor.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-25/0cpgvznw900lrq9dxa6hva18247j5cqfi85q8x46g5h7cpi2ya5r.nar.zst
+Compression: zstd
+FileHash: sha256:0cpgvznw900lrq9dxa6hva18247j5cqfi85q8x46g5h7cpi2ya5r
+FileSize: 1705
+NarHash: sha256:13ra8qk2vxd6pb3gzjnqxa330wxxc3cfh0b64vd1ngj6c5cjk775
+NarSize: 4000
+References: 4ycgqxjkkcwz7hv4hp0daw4p6hmwva1a-korri-clean-compositor-sockets 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 ba77b2jhhajdm2v373vqrivdzxszh055-dbus-1.14.10 cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 f2zn3ibcwlwq0c5zszhzrpsmjhspgqc4-korri-resolve-drm-device fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 jvyrvx9rfwgqw4ky86g7ig0idra8khqi-sway-1.11 kdwfgkn2z7xv9w9lqhx24g3hhifdl883-korri-sway.conf kiqm5cs2y1f3a3x4658b8b7cr4paalri-korri-wait-for-render-device lxyj937b9mgliip4q1x88v4vp64r53wp-korri-publish-wayland-socket qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b v5mydn1nzs1vigjwkrvpjy3wiv3hkbs8-xwayland-24.1.9 vr771pqlmcfc7hw1h2rwf2i0bjsx60l8-korri-wait-for-compositor xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2
+Deriver: qjkrxxda4wy3w3zk7xcgkc6nzv8plfcl-unit-korri-compositor.service.drv
+Sig: korri-cache-ci-1:2kg6clQnYc42oPb1js/trZBdBiKLWDE0fAx8oMzJ1HQP2yVAoGDV8h99ZnaDoctjb8I1NHRh3OBi4/KoQcZkCw==

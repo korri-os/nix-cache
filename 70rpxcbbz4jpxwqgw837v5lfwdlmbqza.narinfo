@@ -1,0 +1,10 @@
+StorePath: /nix/store/70rpxcbbz4jpxwqgw837v5lfwdlmbqza-unit-prepare-kexec.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-15/09smh03d7gczd8k8gvs89753ig56bmzym6gnqmi8d7c9kcrxi42n.nar.zst
+Compression: zstd
+FileHash: sha256:09smh03d7gczd8k8gvs89753ig56bmzym6gnqmi8d7c9kcrxi42n
+FileSize: 784
+NarHash: sha256:1wxwrjfh9iljsf61s4j4az9snn6hi19zl33c1fkr0mw5zjijfdqm
+NarSize: 1664
+References: 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 gjm5sk9i91w2xcx4why2w0i7zai7f88s-unit-script-prepare-kexec-start mf305kkwjli8860gm68ckyynczk5sqyg-alsa-ucm-conf-1.2.14 qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b v3fihm929c9zcy15qgkd0gqfks2zn9vf-kexec-tools-2.0.32 xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2
+Deriver: iw5mnb3f7j9jg9syhac7ps2gl0kbiiy5-unit-prepare-kexec.service.drv
+Sig: korri-cache-ci-1:wzpYeHccwO9sXEXbLxz06ZjNCVUf9lyUz9Uv+4EFxiO8p1VV2Mw4JCaSY2DjvmG7z5ejarCC8Avj7nJSV/3UAw==

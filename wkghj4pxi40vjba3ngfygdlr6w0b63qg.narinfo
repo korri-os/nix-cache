@@ -1,0 +1,11 @@
+StorePath: /nix/store/wkghj4pxi40vjba3ngfygdlr6w0b63qg-korri-inputplumber-dbus-policy
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/1j80w485qndzd7rxylx3hfxl32nb6xipi80sdd82ppdqbhwprnpq.nar.zst
+Compression: zstd
+FileHash: sha256:1j80w485qndzd7rxylx3hfxl32nb6xipi80sdd82ppdqbhwprnpq
+FileSize: 500
+NarHash: sha256:19whc51hc36q8hwi2126mqvhvnc2njiv8jgfc097q0l9xrfk46r2
+NarSize: 1912
+References: 
+Deriver: h2va8z9za95cbbrww92sbhw49ikxw053-korri-inputplumber-dbus-policy.drv
+Sig: fuji-1:PoKhOm5gdrQWFqiiTBVQpIrsc3TMfJVwAQSRCZxVjU5QTJ6byLoypiZa6GDzBKkD39uV2L/6+kIAlYdpHdt/Bg==
+Sig: korri-cache-zao-1:Hx8kuyX793DR4fTzlaVJg83tuZMLmYThbG09GEAvsJLOcfDb7mcq263RclNOWKtl3Jg2NB1jjssbeeZxfK1GCw==

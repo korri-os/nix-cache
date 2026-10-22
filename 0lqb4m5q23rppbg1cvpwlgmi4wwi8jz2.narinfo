@@ -1,0 +1,10 @@
+StorePath: /nix/store/0lqb4m5q23rppbg1cvpwlgmi4wwi8jz2-unit-systemd-timesyncd.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-15/0n03ghb03rdz75b9sa1z572jbb8i24w169m42yxmfkv29lvq8lrj.nar.zst
+Compression: zstd
+FileHash: sha256:0n03ghb03rdz75b9sa1z572jbb8i24w169m42yxmfkv29lvq8lrj
+FileSize: 707
+NarHash: sha256:1yj4mpk64m95s6mxn027sz54svwq36gzn5735jhpvwx9fn92addv
+NarSize: 1520
+References: 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 74w585s78ldza93gc62jdz74qspxl675-X-Restart-Triggers-systemd-timesyncd cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 mf305kkwjli8860gm68ckyynczk5sqyg-alsa-ucm-conf-1.2.14 qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2
+Deriver: 6y581k7w0a2mwrlg05z037310va5rir0-unit-systemd-timesyncd.service.drv
+Sig: korri-cache-ci-1:MR0iq6y1AUw/aBT1zxpLGiTyLC4xLiXsLi2DwY07NIoJLLuc4FQoCmbQXi7a3lmSMwJy1Pb143e4keUC0/dvDg==

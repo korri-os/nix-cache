@@ -1,0 +1,10 @@
+StorePath: /nix/store/wy5a3qwyx2xpalc0qa6yf4ki34hy84rw-unit-systemd-fsck-.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-15/0vac4j2vvxf2nj901yf5an001mlxbvjl2rq3l9slcrlmx0142y7y.nar.zst
+Compression: zstd
+FileHash: sha256:0vac4j2vvxf2nj901yf5an001mlxbvjl2rq3l9slcrlmx0142y7y
+FileSize: 800
+NarHash: sha256:1wsixxl1fgnbvdviff5qg47mfxiflnbjzlbrdnwriv92rwi1dh7c
+NarSize: 1968
+References: 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 59d87n4d81lca0hr8ijiim6dn1n8gqh7-util-linux-2.41.2-bin 65mi0y8cdkqh71w4cmj16j9qb7j0g14j-dosfstools-4.2 cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 mf305kkwjli8860gm68ckyynczk5sqyg-alsa-ucm-conf-1.2.14 mp2nq2cf512m6b6dr3ifpghs65h5b07z-e2fsprogs-1.47.3-bin qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2 zr6x083p3h8xz3y6kqw3lz683qaz423x-mtools-4.0.49
+Deriver: 9iwp8a4zcsr3ggq4lwxhid3k0wv6vhk6-unit-systemd-fsck-.service.drv
+Sig: korri-cache-ci-1:rUAFPftpRhMyb6e1tpzNH2nMg5j/n1W9NX3+1wVDmNBeDMASE586GXFiva6e/HxfZeSmipICgtBqlQWexp2iCw==

@@ -1,0 +1,11 @@
+StorePath: /nix/store/7ab0nbrjs4z30yjgqwyfgd11n2d9kqjn-unit-wireplumber.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/0dqdjriv3374y7z6ga26mhp853vw1myvr68qjzwl26xbzpwn1gvm.nar.zst
+Compression: zstd
+FileHash: sha256:0dqdjriv3374y7z6ga26mhp853vw1myvr68qjzwl26xbzpwn1gvm
+FileSize: 778
+NarHash: sha256:0hhg2pkf8s8qqz34wi1q7slj43rnx87iiszivmsjc8cyycryzgdx
+NarSize: 1592
+References: 14zrwsgrbnj7s8wwqvfjmd682dh995rm-wireplumber-0.5.12 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 6yavkg59whynasdywvv431m715vgbjp4-wireplumber-lv2-plugins cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 klfm5lxla8ssnqdlixpx1cxymh0s2p1z-wireplumber-configs m3lg4by8fbpkpgck9n1qnaxd2pwl0kyx-ayn-odin2-ucm-2026-05-11 qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2
+Deriver: bk9x23fjgjj36ys4lvhsch7q5l6052di-unit-wireplumber.service.drv
+Sig: fuji-1:JySCoP9IaRStY/P4I/I1qoWZyDZtJ3EsNeXMzfdaxLvL20AHNFHlZDQr0Y77lC86FS5o6Z/vQdqOztftf+1qBQ==
+Sig: korri-cache-zao-1:3ql2bxQajfSrB8rCDjIQ8HmsP560DD1u/5Ts2TEPFJrdRg6bRhKmU+bGHNBAYAxbjcFeoZuoGo7h58F5MGowAw==

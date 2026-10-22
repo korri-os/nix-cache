@@ -1,0 +1,10 @@
+StorePath: /nix/store/yxhndgmyb52syyizcrfbyiqzzz7pnhkk-unit-systemd-tmpfiles-resetup.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-24/14ibdravbs9lakbc6h7w8lqyd4wy196mj5bfr2cz2fajivdj1lp5.nar.zst
+Compression: zstd
+FileHash: sha256:14ibdravbs9lakbc6h7w8lqyd4wy196mj5bfr2cz2fajivdj1lp5
+FileSize: 903
+NarHash: sha256:1zg814d4yq7pqyc5x2fp3x2kny7dlab8axwvidjdq25nga3fl1k5
+NarSize: 1848
+References: 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b v05w8hincaa977d466q2fx623cdhzbfs-X-Restart-Triggers-systemd-tmpfiles-resetup xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2
+Deriver: pbdp22siwwivwg52gbnffvd13f4vi42j-unit-systemd-tmpfiles-resetup.service.drv
+Sig: korri-cache-ci-1:bB19vN54fHnIZueY9B090WOxE6snxSRz0lQlYrKouwa6P4sczH6W/LKl8derRL3yyEledOC1TiWQk1PkqwQ4AA==

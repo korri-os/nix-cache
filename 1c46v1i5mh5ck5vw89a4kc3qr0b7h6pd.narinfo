@@ -1,0 +1,10 @@
+StorePath: /nix/store/1c46v1i5mh5ck5vw89a4kc3qr0b7h6pd-panel-sitronix-st7703-rg353m-6.18.2
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/0kfvpjddx47grjccmajnrfqf4dgqi91hgshd24anaxa564b79izl.nar.zst
+Compression: zstd
+FileHash: sha256:0kfvpjddx47grjccmajnrfqf4dgqi91hgshd24anaxa564b79izl
+FileSize: 8561
+NarHash: sha256:1qn7avhky3jc2d8zcf5skadhr28vshaj2r2jkj0j74qkapygsa4p
+NarSize: 35880
+References: 
+Deriver: 9rixv4pc8cqkpnpzfhm02c2643sr4bqi-panel-sitronix-st7703-rg353m-6.18.2.drv
+Sig: korri-cache-ci-1:YhPxHxkAHuckPTfsrZhi1hTtwUHcrlvt7DYZaIm5/+KvHCoBsf58JB2FOtCOAjxgDmiJPKzKq7VotlOrQBt0BQ==

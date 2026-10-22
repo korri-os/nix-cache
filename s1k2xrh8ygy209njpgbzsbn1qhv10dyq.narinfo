@@ -1,0 +1,10 @@
+StorePath: /nix/store/s1k2xrh8ygy209njpgbzsbn1qhv10dyq-rgds-usb-gadget-configure
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/0si0g42fiw28jn2jg81rpz9axcpdqpzarnjm8qhymjqns40481kl.nar.zst
+Compression: zstd
+FileHash: sha256:0si0g42fiw28jn2jg81rpz9axcpdqpzarnjm8qhymjqns40481kl
+FileSize: 1200
+NarHash: sha256:179ydz78dif3gwkhwpld2wjqpa1lpfx8ff5j8sav7pxxjrisysb9
+NarSize: 2688
+References: 6cankpvayjgidrbx5sj1gms2s13nvfvh-bash-5.3p3 cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8
+Deriver: qkhf5b1wx2xzn55s3g02nmbnxgv2n112-rgds-usb-gadget-configure.drv
+Sig: korri-cache-ci-1:m6RN1EyiZUTToza1t5EQ2NM5xv9YwMIEBTMsZBIzKYKEGNwBq2/d9GpW3ocioxmY4sdgpXO3fZ1CIsdcau0yAg==

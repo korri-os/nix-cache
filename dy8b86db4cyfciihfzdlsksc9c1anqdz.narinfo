@@ -1,0 +1,10 @@
+StorePath: /nix/store/dy8b86db4cyfciihfzdlsksc9c1anqdz-unit-korri-bundle-selector.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-15/0lg5r3sifiwqq4r5l9rrmyrf42qhys2xfhzyjxl1xxanck71ywi0.nar.zst
+Compression: zstd
+FileHash: sha256:0lg5r3sifiwqq4r5l9rrmyrf42qhys2xfhzyjxl1xxanck71ywi0
+FileSize: 838
+NarHash: sha256:07sz0nwh1770mw6zql4rcnzgsgzy3p95z4kj7wnnfqrjhfp0ibx4
+NarSize: 1712
+References: 4l0vqxx0gc45ar0gicmhiz0lzvan4pv2-korri-bundle-0.0.0 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 l7pqmw4h6rkqclkhf4a55sh8fgvqa2rw-korri-inputd-0.0.0 mf305kkwjli8860gm68ckyynczk5sqyg-alsa-ucm-conf-1.2.14 qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2
+Deriver: f4hh4bizk499n4499c5fy9xl24bjri0q-unit-korri-bundle-selector.service.drv
+Sig: korri-cache-ci-1:YG3GDaxe0BHvfYu2ZZsJZ0YdQUuaT4Px3pureS+E5ICUfCJP5t+f76Q8fTSY6/IJL4NUSrwTqSclwPopsDg4BA==

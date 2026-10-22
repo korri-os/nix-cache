@@ -1,0 +1,10 @@
+StorePath: /nix/store/frp7f4s1dq2hpjfxlz6rg2rgighkr0vr-unit-systemd-resolved.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-15/1xbnxx42z2cr40i5fcj8qj39g46xndv4w7w1vq6n4msaqlrxz21z.nar.zst
+Compression: zstd
+FileHash: sha256:1xbnxx42z2cr40i5fcj8qj39g46xndv4w7w1vq6n4msaqlrxz21z
+FileSize: 688
+NarHash: sha256:0agyzpw71p6q6gkjxlqljz98y0xn9827f3gv1831ack7rc07zdb1
+NarSize: 1440
+References: 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 mf305kkwjli8860gm68ckyynczk5sqyg-alsa-ucm-conf-1.2.14 qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b x68f1gwlizwqjvz6nxy618k87br42621-X-Reload-Triggers-systemd-resolved xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2
+Deriver: 0ps11xghw44632jbgxq506i22n871s8c-unit-systemd-resolved.service.drv
+Sig: korri-cache-ci-1:OWSAWLVMns7Ux74ZgUw0d/v/t0ntLSsJXmzdhr7Ih1ZyQ4jhENJxsZJS+IVOly7FDOlilcEjzl5luhLSUNf+Bg==

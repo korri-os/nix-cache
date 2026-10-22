@@ -1,0 +1,10 @@
+StorePath: /nix/store/3s3kf2c0q789s03mkizd3dz7b3f4n12x-initrd-linux-6.18.2
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-24/19miplinn7w90ypskp98b1lh5lrmcfxn2ncwrgjwklvihjp6pm7n.nar.zst
+Compression: zstd
+FileHash: sha256:19miplinn7w90ypskp98b1lh5lrmcfxn2ncwrgjwklvihjp6pm7n
+FileSize: 19853418
+NarHash: sha256:0qq4i5n7pjss1vvwcyc6yypp8b4l0kk5330jljhhmdnjp94295ka
+NarSize: 19852952
+References: 80bwbvx287qgf4b1lhyjirscdc9sk37z-linux-6.18.2-modules-shrunk 8jczdhyrfqz0nvf2knkwbzx4mhk0xczv-stage-1-init.sh kjfl9nv95wlmjg12z4zv0grr3qd4p363-kmod-debian-aliases.conf-30+20230601-2 rpyal8m5b6f6v86w1py1y8nw8kfk9svj-etc-modprobe.d-nixos.conf v82ndmhs3xbnmzbqc0jm4zwmqnkvia1k-kmod-blacklist-31+20240202-2ubuntu8 z1i8b82j5gy8n3mv9fhb4nqqc7kmxxpn-udev-rules
+Deriver: y5gpknmz6cfh1w3gygis1hy7n59h3mnb-initrd-linux-6.18.2.drv
+Sig: korri-cache-ci-1:0lXyNwBT4h9STtBXYtFkEWVRO0bMeisQvf/8WIb8cH36bZnO1PICh8UQx4ekSXOunDHqSWEl3dAESje32RfDAw==

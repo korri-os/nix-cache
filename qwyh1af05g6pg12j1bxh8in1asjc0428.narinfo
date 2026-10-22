@@ -1,0 +1,10 @@
+StorePath: /nix/store/qwyh1af05g6pg12j1bxh8in1asjc0428-system-shutdown
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/1nafjdw49k3jh36msnrnidhzv0758hbxjv5szi8iglbq9ms2qnvg.nar.zst
+Compression: zstd
+FileHash: sha256:1nafjdw49k3jh36msnrnidhzv0758hbxjv5szi8iglbq9ms2qnvg
+FileSize: 84
+NarHash: sha256:0sjjj9z1dhilhpc8pq4154czrb79z9cm044jvn75kxcjv6v5l2m5
+NarSize: 96
+References: 
+Deriver: kp1b4zr4db6y4n913y1ibqzwxwp707sx-system-shutdown.drv
+Sig: korri-cache-ci-1:DRXvhwLAwF2+gokbuG3Wa6nxOnmAi9ITvoynYutXbp2+tlB5BOkE7AjqqyADZrj1b1yQEieVOU8ReqLQKUDFBA==

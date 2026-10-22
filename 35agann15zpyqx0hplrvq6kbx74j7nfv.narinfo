@@ -1,0 +1,10 @@
+StorePath: /nix/store/35agann15zpyqx0hplrvq6kbx74j7nfv-user-units
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-30/0cgkaldwmj0xkzkfq3cg7lq6l7rndyqgm7rl5zc22j67jyn29hkm.nar.zst
+Compression: zstd
+FileHash: sha256:0cgkaldwmj0xkzkfq3cg7lq6l7rndyqgm7rl5zc22j67jyn29hkm
+FileSize: 2020
+NarHash: sha256:0dra6rss139s1fg94i1wh3y1nhrkqgrx4425bkhrdy976pi21a18
+NarSize: 17760
+References: 14zrwsgrbnj7s8wwqvfjmd682dh995rm-wireplumber-0.5.12 2hbj9i3ndann9ml26cxf91rbz6lz6kcb-unit-nixos-activation.service 7ab0nbrjs4z30yjgqwyfgd11n2d9kqjn-unit-wireplumber.service 93va3lphh5fm6ngmqcm9jfv4blacyali-unit-pipewire-pulse.service a6n4jrjky0bwr1phsgarwcvg05hv363x-unit-pipewire-pulse.socket agb1rhgi5mhvlzf3hq7yyxd30p9p8216-unit-filter-chain.service ba77b2jhhajdm2v373vqrivdzxszh055-dbus-1.14.10 bmz9yy76rmv6ynflmz0q2f890vd2b5vd-unit-dbus.socket dh752ravf4jlgd1p6adyc3zy2lzpapd7-pipewire-1.4.9 hgk23465qc0yw1d18z2ph8578jdmnc8h-unit-systemd-tmpfiles-clean.timer pkrlmmcjk0bv8fgp1pgi5vr1c11p92wr-unit-pipewire.socket rdf9a1gczsfz88qd699cncvi5yj03927-unit-pipewire.service ryg3kbpdilanhpwy57k29z8cyllb6s6i-unit-dbus.service snkqg8bj6lvlr8x5bmw20j27f2539z76-unit-systemd-tmpfiles-setup.service vvn0c5si4hjymzwi2didvlgdg2iv5wq7-unit-nixos-fake-graphical-session.target xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2
+Deriver: nf17cdhirxr1bz0x7bp81l3jflmahx1c-user-units.drv
+Sig: korri-cache-ci-1:mURR+U+Urn5ugiO8Ytb0/ijMRSmhE/1k+F4+WsbMTg7rXlu0br2T/hE1Hg+iohO4uuZcx177HTGWM1s6bCYTBQ==

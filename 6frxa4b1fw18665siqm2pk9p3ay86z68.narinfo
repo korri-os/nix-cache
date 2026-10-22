@@ -1,0 +1,10 @@
+StorePath: /nix/store/6frxa4b1fw18665siqm2pk9p3ay86z68-unit-emergency.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/13j4zhvahhlsrdnkxxqinnh544d6dp3c03drg2q2rsbrrxjnxqfg.nar.zst
+Compression: zstd
+FileHash: sha256:13j4zhvahhlsrdnkxxqinnh544d6dp3c03drg2q2rsbrrxjnxqfg
+FileSize: 613
+NarHash: sha256:0i4dzdxbv4mv9ghbsy86vqn86jjpcg258fzl0lxclmgmq3f405p8
+NarSize: 1288
+References: 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2 y3ay5zgqbbhrij9ppj1c1mk4ir3kal3s-plymouth-24.004.60
+Deriver: za968lvc1mv13qjg1jsiz416aicx2068-unit-emergency.service.drv
+Sig: korri-cache-ci-1:vyTS5CZjEHGCRiy2Bgqk/jV6fqAal9pCpkIDhlnC800UHnF8e/+vHGaCj02Ne3cJlA1t8cMW8OBOOtPj15dmBQ==

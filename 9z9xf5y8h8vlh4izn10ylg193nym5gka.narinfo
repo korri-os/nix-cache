@@ -1,0 +1,10 @@
+StorePath: /nix/store/9z9xf5y8h8vlh4izn10ylg193nym5gka-uboot-anbernic_rg35xx_h700_defconfig-aarch64-unknown-linux-gnu-2025.10
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-02/0swpaim4b9hs204wi2dkgckyhl0ysibkaa8b7wzkgxm964cb2y5x.nar.zst
+Compression: zstd
+FileHash: sha256:0swpaim4b9hs204wi2dkgckyhl0ysibkaa8b7wzkgxm964cb2y5x
+FileSize: 298779
+NarHash: sha256:0w5s11s5nzgraypdd32jknbsc6gg4rdg9bbc4qpbbhklkxq09sw9
+NarSize: 631184
+References: 9z9xf5y8h8vlh4izn10ylg193nym5gka-uboot-anbernic_rg35xx_h700_defconfig-aarch64-unknown-linux-gnu-2025.10
+Deriver: kj0yfl8s2k91n1zxsw91ly4hzq76gssq-uboot-anbernic_rg35xx_h700_defconfig-aarch64-unknown-linux-gnu-2025.10.drv
+Sig: korri-cache-ci-1:lNHH1IgSGKyy7zPXGaY9pI3mZhrAtsy7BmdefvtaW8h4BxdvSgCreREfwBTeEOF7J2nhQoMLv1Z1s1fmeXUACQ==

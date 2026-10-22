@@ -1,0 +1,11 @@
+StorePath: /nix/store/dl2zrjggi14bmf1c8ky7d42vkvl27a6r-etc-systemd-logind.conf
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/1iczvbj6pq6p0jd40p37biwcbcyzyyjqiam5sb2b4afkmc9hmjvd.nar.zst
+Compression: zstd
+FileHash: sha256:1iczvbj6pq6p0jd40p37biwcbcyzyyjqiam5sb2b4afkmc9hmjvd
+FileSize: 143
+NarHash: sha256:0b8s1z60vyyznv1pvz33hnrrc4w8vcwjxn4pvz6zd6rxqlmiss8j
+NarSize: 192
+References: 
+Deriver: cy5dl54fpg9fa0ry8ijb89p5dgxbv505-etc-systemd-logind.conf.drv
+Sig: fuji-1:q8vMbVOOY/oZ+JZm41ttEBmUmWA0HlxMYTm2h3SZGSarUPwd4KY/H0glGzqV8qJdouRipxzI4xni6QX7D2bSAA==
+Sig: korri-cache-zao-1:lN53HC7L9JbMDwfr+5oRM4/MGJKAUT5lm7cOCm03eYRht5QLtdkzEdUxcLVFW/NvZQJAS+Nlvyfoe02RTsfZCg==

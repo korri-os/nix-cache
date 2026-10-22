@@ -1,0 +1,10 @@
+StorePath: /nix/store/sd2j0dif2d9hwlbfpc242xskad24ca36-unit-NetworkManager-ensure-profiles.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/1ldm50fkzzy1nqkzx8q4hwv59dzh8z4jx8n95kzsdl27z8z6bvlp.nar.zst
+Compression: zstd
+FileHash: sha256:1ldm50fkzzy1nqkzx8q4hwv59dzh8z4jx8n95kzsdl27z8z6bvlp
+FileSize: 746
+NarHash: sha256:1i7ff7qba8wfw6hbmls1yjrf8csq17av3wilfi3h2a645zmzvas9
+NarSize: 1560
+References: 2c4jkmx08xxzk9k4d54bfdz4b4c2l4gg-unit-script-NetworkManager-ensure-profiles-start 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2
+Deriver: d7n2syj5nmrvvz9m9w2xmhqr3cfd8dx1-unit-NetworkManager-ensure-profiles.service.drv
+Sig: korri-cache-ci-1:HuNY+7WjenNxwlIMsjM/VOcLss040kpiS+nnPYhsN0USI7abh1QHkuP2VN+6afEyPBrpcWOemctlQYTiDfTaCA==

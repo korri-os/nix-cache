@@ -1,0 +1,11 @@
+StorePath: /nix/store/dz62d68gsxl34gp48j6awqcbcm42faws-offline-metadata-aarch64-linux.tar.gz
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-26/19gh9a2xhrmcks57f21lgc71phjn270nb9dlmn4w2f26bn65kby5.nar.zst
+Compression: zstd
+FileHash: sha256:19gh9a2xhrmcks57f21lgc71phjn270nb9dlmn4w2f26bn65kby5
+FileSize: 175024
+NarHash: sha256:0lqxhl10bdrrqx59mfb0mjhqxxi5yl7h5qinnx3xz27avw0i0wsh
+NarSize: 175008
+References: 
+Deriver: x7axwqcl56sqilmkg889zwqpyr0w26h6-offline-metadata-aarch64-linux.tar.gz.drv
+Sig: korri-cache-ci-1:h0r28VPk2qIgy84Vnl+062fgJserp/k5bX913qgu9d0y76KWh3iW5376OranzeuGZc6flkCCFUJBOSBRs/9UDQ==
+CA: fixed:sha256:1jisszn7hb0p3rp9ibbagq1rdbdzrhiy5ac2gr5ikhxk90gsjm9s

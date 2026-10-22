@@ -1,0 +1,11 @@
+StorePath: /nix/store/1zls3p1vsj70g49ajfm6ccb0c3cv7925-unit-systemd-modules-load.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-14/123757bydmwwrxhdln101c1p4sfy3l7b23935bnp6gnlgw9hqxav.nar.zst
+Compression: zstd
+FileHash: sha256:123757bydmwwrxhdln101c1p4sfy3l7b23935bnp6gnlgw9hqxav
+FileSize: 628
+NarHash: sha256:1qjashqv7c8zkcpnqhvaabzkccagv76q4qdf6130d1yj07r9h95r
+NarSize: 1344
+References: 1izlcdwy8jdzvqr6rn3f016y40kh2vgn-X-Restart-Triggers-systemd-modules-load 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2
+Deriver: vig7lbhsgqak2nq0w1f8iq6dv075r241-unit-systemd-modules-load.service.drv
+Sig: fuji-1:bS2uJFaMfo2xa16iZ7/+I8hVbzhbiqI6egTJ+FCcpcL5UyljvMiJZ8eiMCkQU5AY9iWDxQy5bkTJ5zHDtTTyBg==
+Sig: korri-cache-zao-1:ZZkxtbqp9ZPvu8u0B6ZBBZQrfTBuOztubg3ebmOFXv4l4BuxUAhgA5aYOl6BbOOOlMscDEs0hQqrND3gpiVZBQ==

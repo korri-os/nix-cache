@@ -1,0 +1,11 @@
+StorePath: /nix/store/y8slgyl9imcbk85zp0b8nzj9j06cr9qh-korri-resolve-drm-device
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/1fqkkl4l7jrqarsgzxj7pwcamd0mvpamcf5pabaxn5qp8sz3bjf0.nar.zst
+Compression: zstd
+FileHash: sha256:1fqkkl4l7jrqarsgzxj7pwcamd0mvpamcf5pabaxn5qp8sz3bjf0
+FileSize: 501
+NarHash: sha256:1dyksgbx7c0w12g35hvskdrj19kx2aj7lmd2xkcvqbpyjvlwkp1p
+NarSize: 816
+References: 6cankpvayjgidrbx5sj1gms2s13nvfvh-bash-5.3p3 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8
+Deriver: if6c05v9882xz8s5wpx5xywcfifch9n2-korri-resolve-drm-device.drv
+Sig: fuji-1:eem4w8RTGmcbJ2XZG6tTqCoSEiY6ZkABtauCxcJyNKxmVM2m9vY0yJ5aXTRxl1hBhgXv3/hcGvR13Z+qhuyQAw==
+Sig: korri-cache-zao-1:qy0VVyYdOuHKU0vDW4sGHYPrnM214PE7JUPjV0+/C9XD0MY8/G6rR73lzZlNkDsIyBAwanvOvDFWewNNKD/qCw==

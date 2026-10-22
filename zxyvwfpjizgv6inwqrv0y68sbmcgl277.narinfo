@@ -1,0 +1,11 @@
+StorePath: /nix/store/zxyvwfpjizgv6inwqrv0y68sbmcgl277-unit-nix-daemon.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/0da35xqmwxypf922gjdph3qr9ilkqq7sbcl855a15pi6cd2hxml1.nar.zst
+Compression: zstd
+FileHash: sha256:0da35xqmwxypf922gjdph3qr9ilkqq7sbcl855a15pi6cd2hxml1
+FileSize: 912
+NarHash: sha256:14qfnmls9zs0q2jxacczq9lgr9fds150a8l9gg2s6llqfy8i5r7c
+NarSize: 1968
+References: 3fwa74qr304x8x8z6xxcw9xj8r56xzs5-nix-2.31.2+1 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 59d87n4d81lca0hr8ijiim6dn1n8gqh7-util-linux-2.41.2-bin 5nn718glxxf6hbk3s1gji28drxdc78my-nss-cacert-3.115 cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xdjdv0h842iclwlh0cqj2as51lr527cn-X-Restart-Triggers-nix-daemon xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2 zj0bk3ch8mc90j9wq8cq3qb0c4vv425q-openssh-10.2p1
+Deriver: z208da0nmdx9plgh8sdcv4i42g747dg8-unit-nix-daemon.service.drv
+Sig: fuji-1:tLuTVswjli9vlap7O4j2n0gXPV5muVf7zbBVerv8OoPnDAXrhUTwuHjNTr5AQemOzS25IUrsY5sdzunxInLqAA==
+Sig: korri-cache-zao-1:iO9PiRboHLcsU2TfD9lt2uLuPaVBJ1x64rNNeKBDlaEIz/mzUIw3mF+onuiiujmZYiSdnCk29uYVRYSwI31hDw==

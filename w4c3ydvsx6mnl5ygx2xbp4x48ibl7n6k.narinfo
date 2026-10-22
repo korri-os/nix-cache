@@ -1,0 +1,11 @@
+StorePath: /nix/store/w4c3ydvsx6mnl5ygx2xbp4x48ibl7n6k-unit-korrid-control.socket
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/1q2a5rxnggqzc39i1jqn31sn4l7qg160j2r31y5zi1rxvi0q9sdd.nar.zst
+Compression: zstd
+FileHash: sha256:1q2a5rxnggqzc39i1jqn31sn4l7qg160j2r31y5zi1rxvi0q9sdd
+FileSize: 360
+NarHash: sha256:02pylv9jww5na2g7npd5dvzkdd78chwbb5b93p6b7p25762z1kgk
+NarSize: 704
+References: 
+Deriver: gilpjzqa8895zmqgqlzyasxnyylljrkw-unit-korrid-control.socket.drv
+Sig: fuji-1:QQablsXEvQPPQUZUbWb2Zekbht2h9pbK60aXD51pI8HO7GGgqYvaoHOUT9bEZ24Zzpg4Gi4TlTmDNYBH+A5zAw==
+Sig: korri-cache-zao-1:lUzPXMY5qwb1OP9C5+J1lf0mtnh0qPgla9Nt04JhaZ3fzfQHvj8GjWmPjwzx9hy3ghK16C/5RHsz7yM1rEx0BA==

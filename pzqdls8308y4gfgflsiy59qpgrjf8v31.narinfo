@@ -1,0 +1,10 @@
+StorePath: /nix/store/pzqdls8308y4gfgflsiy59qpgrjf8v31-korri-portal-select
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/1l3yc5rd6sw55q89dmkbvb86km419lh23sqzrld56pp2ki8w3jdw.nar.zst
+Compression: zstd
+FileHash: sha256:1l3yc5rd6sw55q89dmkbvb86km419lh23sqzrld56pp2ki8w3jdw
+FileSize: 665
+NarHash: sha256:03p9vhpidd4h0rkvckqd53q2bxdh1cak55z1zaginiv95a0355mv
+NarSize: 1304
+References: 3fwa74qr304x8x8z6xxcw9xj8r56xzs5-nix-2.31.2+1 4x19j6zihdl6pya63xs8g360f2r614sx-curl-8.17.0-bin 59d87n4d81lca0hr8ijiim6dn1n8gqh7-util-linux-2.41.2-bin 6cankpvayjgidrbx5sj1gms2s13nvfvh-bash-5.3p3 6lg6462h2vj0xihmhykrvc8ccj45gjr8-diffutils-3.12 9ifraby9hyh9mycwm3krfhi7q88hh6d5-bash-interactive-5.3p3 cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 paia0k8mw4r6lfcwncn5r4v96nmd5ycs-select.sh xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2
+Deriver: lvwb2hp1ajl5kx4kf4vgnyhb38mjgdpf-korri-portal-select.drv
+Sig: korri-cache-ci-1:XWOI7nFCjBreRE6X3E0c7FbpdF+PqGJZVToWegq3xvo63z/ik208XqS1EcAWaV7RHKj/YJw4R4XDTvSoZ93RBg==

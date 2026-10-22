@@ -1,0 +1,11 @@
+StorePath: /nix/store/2hixymvl881pfq5fiqlzp1cvd2qm8zck-unit-korri-kiosk.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-14/05jnvk1ifhw4kki7lgmclfh1wk93n7ym7hb9779kmzrg01pm79xa.nar.zst
+Compression: zstd
+FileHash: sha256:05jnvk1ifhw4kki7lgmclfh1wk93n7ym7hb9779kmzrg01pm79xa
+FileSize: 1186
+NarHash: sha256:1p59hk7p7h0g6d97ddizx42kzk6la9qv2v0x8x4m87wkjv4i3n87
+NarSize: 2608
+References: 2xk8rp1w3xrk74vwmr2vbc2xhw7v7f3p-korri-kiosk-0.0.0 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 cqcmdy3fr8mzddv46lk6076w8j3d6q08-korri-chromium cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2
+Deriver: shqdfljqmqg2ixxsmv1qwflnrr951ds0-unit-korri-kiosk.service.drv
+Sig: fuji-1:n5yiyNFBtr0EPOJECrhbxobACTx5sy1i2IzUl8oxqLfuNv/mLriFkaLWFOrrtOs2m+sQ/rc6r7LlwDBuHi/SCA==
+Sig: korri-cache-zao-1:UUbWOAIhYV36Vt+PBMvM7l8e6S12BErW9HVUAo/wxk6Q+3Sz2/JE1unOEEghp2pptaOH3QhF7ByW6topYSjcBw==

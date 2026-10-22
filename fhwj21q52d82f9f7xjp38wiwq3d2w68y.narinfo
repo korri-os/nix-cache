@@ -1,0 +1,10 @@
+StorePath: /nix/store/fhwj21q52d82f9f7xjp38wiwq3d2w68y-unit-ModemManager.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-15/053jgnrz7lmb2bci310wlszwhlsrzl6km2yz1w12s36lkrlcbdxg.nar.zst
+Compression: zstd
+FileHash: sha256:053jgnrz7lmb2bci310wlszwhlsrzl6km2yz1w12s36lkrlcbdxg
+FileSize: 619
+NarHash: sha256:0m7dpwrjdn5sqhj0xsl4lyxdhmhhk3hcn4hn7pg95rdj26q7073c
+NarSize: 1288
+References: 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 mf305kkwjli8860gm68ckyynczk5sqyg-alsa-ucm-conf-1.2.14 qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2
+Deriver: wh9ifnkqvhqjxhjarqnk65wrj0w7w7fd-unit-ModemManager.service.drv
+Sig: korri-cache-ci-1:jh4dbMoOS2IZbzIvOuoezRIq82BJIAM5ifi9ra5eWhSD5fc2LY2OB7+iuz7vt/k3gAY1n8zM6re5V/YxjJFbDA==

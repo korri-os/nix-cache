@@ -1,0 +1,10 @@
+StorePath: /nix/store/w13wl3v6rpfzrpcnviyk5khw5rb9zwbb-unit-korrid-identity.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-24/193dj3a05p9xmdc5n09bxwz59njcyiwm5jqxxyhp72kw981si2cb.nar.zst
+Compression: zstd
+FileHash: sha256:193dj3a05p9xmdc5n09bxwz59njcyiwm5jqxxyhp72kw981si2cb
+FileSize: 1107
+NarHash: sha256:0gq92ldfd97f0nhfqc4c0c5ybykmwn5y3fkicljq2g6azhfddfra
+NarSize: 2344
+References: 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2 z84fpnkc5zlw4k0aadfcz727yvdmyn96-korri-inputd-0.0.0
+Deriver: yzr8nb65ihql433pxihji7mvs02af15p-unit-korrid-identity.service.drv
+Sig: korri-cache-ci-1:fQ88BRU3URn4dOssjgZZbxmsyz5MyOZn8AYmuwXIYYVMa0jGOLuEOmsRJGqmo/xesTjsSiX68cXh656Vl5lxAw==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/0scbqn2qj0prnrb0hh6f1gybmlxs8120-korri-korri-sunshine-certificate-control.socket
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-25/15jq806x4md0ps1ss0pq9prvk8bfd394a6k86pd7br29cssqv7qp.nar.zst
+Compression: zstd
+FileHash: sha256:15jq806x4md0ps1ss0pq9prvk8bfd394a6k86pd7br29cssqv7qp
+FileSize: 394
+NarHash: sha256:0f82jddgs2xhwmfjjzpshhg06wnilzs9bc7ibr84vw63bfp0jmgd
+NarSize: 1232
+References: 
+Deriver: r5a7cpyjwlld04jq8h88hilpk7x64r5z-korri-korri-sunshine-certificate-control.socket.drv
+Sig: korri-cache-ci-1:jjVOix2H0UI5Rky/omgzuw9W15QOMKgsli3fDwbxZICNFgYXq6ZgSsLK9JcY6/AIfvT05aUF6wEJFZwf6yaqDg==

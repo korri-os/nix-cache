@@ -1,0 +1,10 @@
+StorePath: /nix/store/sygzgrfcr1l8i9znji3jvhklfnfi153j-device-tree-overlays
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/1rs8kjamhmqydjjp9s5s2xvjmfgbb520z3vgqd1n5rv11lcbh1y5.nar.zst
+Compression: zstd
+FileHash: sha256:1rs8kjamhmqydjjp9s5s2xvjmfgbb520z3vgqd1n5rv11lcbh1y5
+FileSize: 24612
+NarHash: sha256:01ra9wmv69xcnnzcx73cp0zk37321zk43i4gbvd20jlh39561zcy
+NarSize: 122032
+References: 
+Deriver: 51430d3w1xfs40h7w9x2hq13gafd3b74-device-tree-overlays.drv
+Sig: korri-cache-ci-1:94Yb3rsp0pdCTIO+6oECPkSDLJlqmLGcy8Yt/yIqiZHaY4yb5/tL+f+LAJzlHVdql0joW7GeF5RsQ8mz7tbuAw==

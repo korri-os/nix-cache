@@ -1,0 +1,10 @@
+StorePath: /nix/store/w0zi32md5i5cr1v1l1dqaqk2dzj4r9qb-linux-7.2-dev
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-13/1bn9k4qvlkzjs8lcnnqihs70bqrx8n8aznh8df62s0i0j66zr0b9.nar.zst
+Compression: zstd
+FileHash: sha256:1bn9k4qvlkzjs8lcnnqihs70bqrx8n8aznh8df62s0i0j66zr0b9
+FileSize: 324619518
+NarHash: sha256:06d2lpb2qibwcjchqa3xf9q16rd7b9qbq3gbybp5bli00r937qjp
+NarSize: 892829016
+References: 35f3jqq1xw3lk9cpg7sb99nbrbgxd9ag-gcc-14.3.0 48ywmq5vl4jld47z5f1p662vwi0anw6y-gcc-wrapper-14.3.0 4wdz42ns29ys6fm1xak68bnp51nxhd2s-zlib-1.3.1 6b4p79kw3f3axy42y28ckhqqyh2akqfh-gawk-5.3.2 6cankpvayjgidrbx5sj1gms2s13nvfvh-bash-5.3p3 89n0gcl1yjp37ycca45rn50h7lms5p6f-glibc-2.40-66 9hwfark8a5lw5pmyh0hqw532cxgvgzli-zlib-1.3.1-dev d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fhmb82a3q7nbsz3w9yj28nyscykrj87p-binutils-wrapper-2.44 g4m5i2n5h1pfpijc6z88yp5gbkcp1rqq-rust-lib-src hf48sa5ghnzq4b0m80g2cplh34s5jvqj-gnumake-4.4.1 jkqdwnd0ifr3fkjif3lz003an2fhbh17-glibc-2.40-66-dev kz0f11m81la9h1wj71n34r0sbn4i9r09-rustc-1.91.1 mb3n2j8kr153vl941vyd9q3afiph1h0y-linux-7.2 n1l1nwjyqkjn1jb3g1i6b5ik6i4f0k5m-elfutils-0.194 qipd93x9gjyiygqk673rd2ssnf8y7jj0-gcc-14.3.0-lib rf3a6l6g6znqisap475d515lpv9a3pqx-elfutils-0.194-dev w06ydhs1q0d9csz3qsfpi2jfbqs8zqnz-binutils-2.44 w0zi32md5i5cr1v1l1dqaqk2dzj4r9qb-linux-7.2-dev xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 z57ywphll385rs5v3w2svy5rhhq0hdj1-python3-minimal-3.13.9 zrl1jx5k8jsmp8ry4g8vn010mnkd0h1i-perl-5.40.0
+Deriver: 4aj3944a9srvqs7ha07g77avnmfw287x-linux-7.2.drv
+Sig: korri-cache-ci-1:b7CsvBk/Afj6sXbB861phHKLRy+V41wGCW1KFo1SRED3AQOqGvlfM0fTw2udtkro1uIwIB7khiT4UGEmjA3JBQ==

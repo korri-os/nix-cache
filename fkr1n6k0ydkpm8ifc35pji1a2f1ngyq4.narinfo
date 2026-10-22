@@ -1,0 +1,10 @@
+StorePath: /nix/store/fkr1n6k0ydkpm8ifc35pji1a2f1ngyq4-etc-pam-environment
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/1lg1635sxgcls5wjlxj1hwzwfz0nfzk9m3g16r73ddk174qsdjdg.nar.zst
+Compression: zstd
+FileHash: sha256:1lg1635sxgcls5wjlxj1hwzwfz0nfzk9m3g16r73ddk174qsdjdg
+FileSize: 832
+NarHash: sha256:0vz380196l3v07m5wy0ra5rw95a78ycr1ja3cg9gmsii26a45mqf
+NarSize: 3760
+References: 
+Deriver: kihnim2is6f1kpgjjj544cyw3mr7b9z7-etc-pam-environment.drv
+Sig: korri-cache-ci-1:7ZhpeEd1d/ojzFytIOGSEl2GPN5COVAz36USPx/mjCwOc6LrSpx41Ixd/NnQV2j4VhLU6zb3TNtxAWBabClyDA==

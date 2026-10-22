@@ -1,0 +1,10 @@
+StorePath: /nix/store/s22ipcrwpnqn6d1hs466q2kw6pzbrpf5-extra-utils
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-24/14nadin429h93fxvd6za3lkrji5vpw1vchr3p1di1dr5p8dzrl6n.nar.zst
+Compression: zstd
+FileHash: sha256:14nadin429h93fxvd6za3lkrji5vpw1vchr3p1di1dr5p8dzrl6n
+FileSize: 19312326
+NarHash: sha256:0aasamwgvvpglxjw9p3hbvl55s6h0wkqmc1h15h1jr2zx5gsjzqp
+NarSize: 50068848
+References: s22ipcrwpnqn6d1hs466q2kw6pzbrpf5-extra-utils
+Deriver: w3ch17b3fcynxl97wzvg2568kv6sxysh-extra-utils.drv
+Sig: korri-cache-ci-1:ENGH7JRlQ8cnB09fUEmv6WeOS/BEqJ06h28B6XL9quOgRupqdNRcsOcX7xfjTb7vw75ET8KdIZrjK0mPrTqMDA==

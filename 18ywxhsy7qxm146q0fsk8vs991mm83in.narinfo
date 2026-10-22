@@ -1,0 +1,10 @@
+StorePath: /nix/store/18ywxhsy7qxm146q0fsk8vs991mm83in-unit-systemd-journald-.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-15/167clm4s41xpc8nk71kvfx10g2vldwj140q8kx2bsqvx7vzaryam.nar.zst
+Compression: zstd
+FileHash: sha256:167clm4s41xpc8nk71kvfx10g2vldwj140q8kx2bsqvx7vzaryam
+FileSize: 667
+NarHash: sha256:036mjnhfrc52jcail3b2a43j0nidjqix276wxadfnc61r925jb8b
+NarSize: 1416
+References: 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 i4jk83z88w6qj4hfhnmqksd4nicdrp8s-X-Restart-Triggers-systemd-journald- mf305kkwjli8860gm68ckyynczk5sqyg-alsa-ucm-conf-1.2.14 qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2
+Deriver: yf7fia465a7xkhzlw9apaa8akpvnqgan-unit-systemd-journald-.service.drv
+Sig: korri-cache-ci-1:iDenBKSQqTJvoa11vv0ApGHGjg+YxVDtTk51BHyQDcrd7mp+fYa46GexNfjeYoTOXEIJ0AHnqdVA+jG0ts0jAw==

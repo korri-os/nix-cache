@@ -1,0 +1,10 @@
+StorePath: /nix/store/r0m4rgk21n03v0xjnlh01m38rzpgpvff-unit-rescue.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/1h43wrxxbmixsi50d4a24pmdx3wyjzq4vvi5bhfj34ks5xjm7pgm.nar.zst
+Compression: zstd
+FileHash: sha256:1h43wrxxbmixsi50d4a24pmdx3wyjzq4vvi5bhfj34ks5xjm7pgm
+FileSize: 605
+NarHash: sha256:0qjgpjzx5ijg27xwr3srdxplwvr3can2q84dmbmwkhzxl2bz1nii
+NarSize: 1280
+References: 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2 y3ay5zgqbbhrij9ppj1c1mk4ir3kal3s-plymouth-24.004.60
+Deriver: jlqnmli2448azr4qvl4zgzkrjy4psn1m-unit-rescue.service.drv
+Sig: korri-cache-ci-1:3lenIGduMHLi+fWcW/5jO2p0ApO+f0ipJ7tYaSafXMkLtPwDOmDHtW3md5sL0TNNvnFEQ8Xc08bMpOST9OVfBQ==

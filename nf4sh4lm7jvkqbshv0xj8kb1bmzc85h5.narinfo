@@ -1,0 +1,11 @@
+StorePath: /nix/store/nf4sh4lm7jvkqbshv0xj8kb1bmzc85h5-linux-6.12.63-dev
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-14/00j03zs227q8hd13a64aa2saqcck8gjqrxraacr1c20152gygdk6.nar.zst
+Compression: zstd
+FileHash: sha256:00j03zs227q8hd13a64aa2saqcck8gjqrxraacr1c20152gygdk6
+FileSize: 28783894
+NarHash: sha256:0w7mkz4qfs759s7by98fc6h7hraw16g6mlkk4fbd6sjgjksqqhb4
+NarSize: 108375016
+References: 35f3jqq1xw3lk9cpg7sb99nbrbgxd9ag-gcc-14.3.0 48ywmq5vl4jld47z5f1p662vwi0anw6y-gcc-wrapper-14.3.0 6b4p79kw3f3axy42y28ckhqqyh2akqfh-gawk-5.3.2 6cankpvayjgidrbx5sj1gms2s13nvfvh-bash-5.3p3 89n0gcl1yjp37ycca45rn50h7lms5p6f-glibc-2.40-66 hf48sa5ghnzq4b0m80g2cplh34s5jvqj-gnumake-4.4.1 nf4sh4lm7jvkqbshv0xj8kb1bmzc85h5-linux-6.12.63-dev sxc0f9nz7c2a2mhm6rwpnif8y7pcrwpg-linux-6.12.63 w06ydhs1q0d9csz3qsfpi2jfbqs8zqnz-binutils-2.44 xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 z57ywphll385rs5v3w2svy5rhhq0hdj1-python3-minimal-3.13.9 zrl1jx5k8jsmp8ry4g8vn010mnkd0h1i-perl-5.40.0
+Deriver: r05208hrczzz511li91r75gywd56nwzp-linux-6.12.63.drv
+Sig: fuji-1:Xw83oJAFCFOoQgFeZWEPi39GqhlQtgGBbB1bh/ovZu+6KudDXyHOz/72zMGHfAnvlfedcs7KxlxL3SdajeqgDA==
+Sig: korri-cache-zao-1:GAqLRY3gRnDsC/Du2/skHUQ2jSENplhWIU9vPbwiTQ+QIAtRZ52mrU8SVVx0RlZZiKIvFLTylZOSIL2PCiknCA==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/a60li1z7jj5kw45j9z0jifd5bf810ryf-unit-seatd.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-15/0vy64nc64x5r0jsq4wivj4qzdwmdp2dv80ik7qsgv42ixi6pbcq7.nar.zst
+Compression: zstd
+FileHash: sha256:0vy64nc64x5r0jsq4wivj4qzdwmdp2dv80ik7qsgv42ixi6pbcq7
+FileSize: 848
+NarHash: sha256:1dg0w3m6108sc6dfwmmg76dkzm6ixx7scgs8s4sklxic8745jwqr
+NarSize: 1680
+References: 4b5vy51k2bilqh74cj3m3wkbaac499cs-sdnotify-wrapper-bin 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 jyfisr4qc6fkhinw93xvypybn9acfalw-seatd-0.9.1-bin mf305kkwjli8860gm68ckyynczk5sqyg-alsa-ucm-conf-1.2.14 qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2
+Deriver: rryi9ljzcxncb076c63052izvwx91b1b-unit-seatd.service.drv
+Sig: korri-cache-ci-1:GP7YDM86+50tftDHn2Lo+K82zEWBGLQpIfsV0caVQUZfhW/xR1DOaQ+bt/xMvraVhqT/vPrSX0xZERhiusjhBw==

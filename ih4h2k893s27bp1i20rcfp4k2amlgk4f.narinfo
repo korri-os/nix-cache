@@ -1,0 +1,10 @@
+StorePath: /nix/store/ih4h2k893s27bp1i20rcfp4k2amlgk4f-unit-cpufreq.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/02jhxyy1rg4gp5yc2m4ar8m4d52a9z71fivx73kpxrbi4piivhap.nar.zst
+Compression: zstd
+FileHash: sha256:02jhxyy1rg4gp5yc2m4ar8m4d52a9z71fivx73kpxrbi4piivhap
+FileSize: 795
+NarHash: sha256:0y3nlv37c0ahp57y9nrcjj9ik522x9xci2r92sjrjnpgjdp6hff1
+NarSize: 1728
+References: 2ssrxjazi7sbxlas8knamq63a8dbidj9-cpupower-6.18.2 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 gy2im52dyn3jrrl9nb5vhbq0yrbs3hy5-kmod-31 qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2
+Deriver: xdv2pnywkr727fn12gr8g4580a2d41kc-unit-cpufreq.service.drv
+Sig: korri-cache-ci-1:8kIxvY/r/RQoj+cEy3uIbYQWNXoRk78MCE/35VEC+NP37RoC5Xf1+HrBzp4u18rhw2/LMjEAPxdrRt+5Bhb/Ag==

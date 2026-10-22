@@ -1,0 +1,11 @@
+StorePath: /nix/store/sa9p5q2kf45z39npfpzalx9zzyqy8q5v-nixos-system-r36tmax-sd-card-26.05.20251221.a653104
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-14/07mcvyjfl41nacbjvwkik8r7lss9ydqkkiip329sfwjbpb41ps02.nar.zst
+Compression: zstd
+FileHash: sha256:07mcvyjfl41nacbjvwkik8r7lss9ydqkkiip329sfwjbpb41ps02
+FileSize: 5646
+NarHash: sha256:0kxlyg7vivyv700knhi53ac51cgsa3drj53idfjai3spxcv39hn0
+NarSize: 18832
+References: 2m01an4zz5683cq46l8sy5z6xsz9r57m-shadow-4.18.0 2v1297b520yynwkwxchay0hd4fqz64ky-system-path 34z4ihrb9d6sfffw0x6sw0yaasc3f3lj-perl-5.40.0-env 3hbbxvfx1a288svg8316dbnjd7c2dijg-dtbs-filtered 3ml07rbg0dhm8cyx4hjy0zvrdy1z1xc3-firmware 4yn7394gjfsh6d8c43mhsnvqnisal6aa-etc 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 59d87n4d81lca0hr8ijiim6dn1n8gqh7-util-linux-2.41.2-bin 6cankpvayjgidrbx5sj1gms2s13nvfvh-bash-5.3p3 72jjvb5zwm4n1mvhdnsjf1x9abvja00g-initrd-linux-6.12.63 9ifraby9hyh9mycwm3krfhi7q88hh6d5-bash-interactive-5.3p3 bc32rcryxjhrx30jvh3s7r5jpggddp8y-perl-5.40.0-env bzlg0pxcp75wfncrfbf0i5dsirygyhfm-getent-glibc-2.40-66 cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 dl9wmsqfq21gjbxrb4sczjjqyx0b6zjl-users-groups.json dyx8qsmgnsz2csfzwn723gbd2jvp0j7g-update-users-groups.pl fi39a9al1dqyi268bjs7xdi96lvz6fnq-pre-switch-checks fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 g6c7ls0wk2v61bh24625mrm20lqkm5dr-switch-to-configuration-0.1.0 gy2im52dyn3jrrl9nb5vhbq0yrbs3hy5-kmod-31 hkrpzp184cxzlj42gz2wqhmq4nffqz0f-mounts.sh ji77q25vs75rhvxap8i6fnc8fidw28bx-r36tmax-image-only-update mhxn5kwnri3z9hdzi3x0980id65p0icn-lib.sh rg5rf512szdxmnj9qal3wfdnpfsx38qi-setup-etc.pl sa9p5q2kf45z39npfpzalx9zzyqy8q5v-nixos-system-r36tmax-sd-card-26.05.20251221.a653104 sxc0f9nz7c2a2mhm6rwpnif8y7pcrwpg-linux-6.12.63 wzkcv0vqj0fm914h5vl9xzzain0ifpj3-glibc-2.40-66-bin xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2 ykrp05h0k6q3kdnciz6sxc4zwa79ig5g-linux-6.12.63-modules ys2sllyk41i9hz04f0i9g1lzzjr6nf4p-local-cmds
+Deriver: aaq3s0qa6g912z38hndcbk7pf8fh9gw4-nixos-system-r36tmax-sd-card-26.05.20251221.a653104.drv
+Sig: fuji-1:rfg3X+m8+gw+nv9jt0+fR76nJcKBrxdCR9+a1QqwKBzKHeEDk1EqIzTf0gkmXzSlG1jtLcfJ+LloZfEF0TRBAg==
+Sig: korri-cache-zao-1:zcPO5HDKduZxjy+nbmMES88JCjMP7JCxq6VIf3xADwpQTnvTWw+w2g+k3UyU+vZUMyDMz6vQTSswrXOUunz7CQ==

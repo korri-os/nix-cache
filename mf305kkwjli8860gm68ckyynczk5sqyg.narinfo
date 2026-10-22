@@ -1,0 +1,10 @@
+StorePath: /nix/store/mf305kkwjli8860gm68ckyynczk5sqyg-alsa-ucm-conf-1.2.14
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-15/0d5k0vxjlbn1mzjic9k8m1qb5zpksmrc3shrsd5r7w6mwj4mjlny.nar.zst
+Compression: zstd
+FileHash: sha256:0d5k0vxjlbn1mzjic9k8m1qb5zpksmrc3shrsd5r7w6mwj4mjlny
+FileSize: 98582
+NarHash: sha256:1gf4sh0vj92i469xkm4xh8j7lxb5qjwyd01sjhp9qbqa5p5vwzka
+NarSize: 762400
+References: d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 gy2im52dyn3jrrl9nb5vhbq0yrbs3hy5-kmod-31
+Deriver: 5bxchmwrg6ciqr8w14qpxb6q5fyz0kdf-alsa-ucm-conf-1.2.14.drv
+Sig: korri-cache-ci-1:d1i/MFOAm9mhxw+XqZijI0a4+jU6i59ri82CUe4nCvoTBYu7Im2XSoORictSjlQ2fSTf/LxnzLMeunSKSlE+BA==

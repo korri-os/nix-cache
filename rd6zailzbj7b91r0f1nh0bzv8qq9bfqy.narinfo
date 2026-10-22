@@ -1,0 +1,10 @@
+StorePath: /nix/store/rd6zailzbj7b91r0f1nh0bzv8qq9bfqy-linux-7.2-modules-shrunk
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/0z1lmm789z41nrcsi04ppf8fw2a7x9hlbfyw3nspgjqmvw3369hb.nar.zst
+Compression: zstd
+FileHash: sha256:0z1lmm789z41nrcsi04ppf8fw2a7x9hlbfyw3nspgjqmvw3369hb
+FileSize: 950095
+NarHash: sha256:1i3y9z880k66xravnpia7hxn3iwzmr74wpq74gqzv7p54wa7mi9z
+NarSize: 1112816
+References: rd6zailzbj7b91r0f1nh0bzv8qq9bfqy-linux-7.2-modules-shrunk
+Deriver: a3w6i70awri7ri9wcwmly3qn4q4viz12-linux-7.2-modules-shrunk.drv
+Sig: korri-cache-ci-1:9sNl2N5CtjOVxCsTrJl2J4yZ33JWDhVfE3X0FOZEPV0IkATK21+JWNYDQfNpdjOWVHTux1M2IQxqBWoXhNLfCA==

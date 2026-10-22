@@ -1,0 +1,10 @@
+StorePath: /nix/store/7p37ygzvgq39qbi0g3h6fb22h26qfkpf-unit-korri-input-source-guard.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-15/0zxj83izv2n2yr7sm27g3dk3gp2pf3aagn022brlvx2yq6zb41n8.nar.zst
+Compression: zstd
+FileHash: sha256:0zxj83izv2n2yr7sm27g3dk3gp2pf3aagn022brlvx2yq6zb41n8
+FileSize: 796
+NarHash: sha256:00xvf5j3119cjlyaikwz2gclwcbxs8i7m54rd0h7as6mvgai8nax
+NarSize: 1744
+References: 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 mf305kkwjli8860gm68ckyynczk5sqyg-alsa-ucm-conf-1.2.14 qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2
+Deriver: rm2dwsn8mk5r48vmfics5zmhwvp7q4b6-unit-korri-input-source-guard.service.drv
+Sig: korri-cache-ci-1:Oo+ml3vsLl00P+NJazMAM7RD+jrcnO1KhqJAvPcQv3yDmPFESoNsT55PwrFuxOdnde/7LFEnT4rppble1TOgCQ==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/yd7vxd0dnmmvqmjm67ydc4kl0sgs3cm8-rpminiv2-rocknix-20260901-baseline
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-24/1g02m0bfmwa3nni7yv88ss0np9472jaz8z05vi8crxd6p7wfvfsb.nar.zst
+Compression: zstd
+FileHash: sha256:1g02m0bfmwa3nni7yv88ss0np9472jaz8z05vi8crxd6p7wfvfsb
+FileSize: 413447
+NarHash: sha256:0l784fdlgdl1r7f73yqk5q2lpcvlsdjy3r7w2pjij7k60wld5lyb
+NarSize: 1354912
+References: 
+Deriver: vqp3k0qh7vmn94ibhi4kyvw11d5y3yf4-rpminiv2-rocknix-20260901-baseline.drv
+Sig: korri-cache-ci-1:QgVhOC0SFx8cLcpknE/CNLR3VZF0QUj8qojoiig0pyn7uSo/IWCJlxAjMkfDKLkLif89avo8MhEGo0E2xKmACA==

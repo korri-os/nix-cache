@@ -1,0 +1,11 @@
+StorePath: /nix/store/n70lxzgpj5jfx05dvg594avnf7ljldfk-security-wrapper-sunshine-aarch64-unknown-linux-musl
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/1d1p9dxwmdvvy3aym8y36rcl86a760bq8kvdxxs3479kr05bf80h.nar.zst
+Compression: zstd
+FileHash: sha256:1d1p9dxwmdvvy3aym8y36rcl86a760bq8kvdxxs3479kr05bf80h
+FileSize: 50784
+NarHash: sha256:1z7aap9b16srka7nsn1csfaxcl7686gfddlf0k6waqx43pbkhrsy
+NarSize: 149680
+References: f3bpbcl2ag0sanf6yykn146s3iz1agxr-linux-headers-static-6.16.7 swqy3fk6y61bifksb587kx3qkc739c87-sunshine-korri-2025.924.154138-korri
+Deriver: 7b64zrnpkc9jagrkj6yvfaxpiidzjh3r-security-wrapper-sunshine-aarch64-unknown-linux-musl.drv
+Sig: fuji-1:TsUu7xslowAU8ShpupcljNb4fM8+E3trJqMT1yOsCKXB5uPGArXwgvDkmQiERs1buv1BzBpSQQippknwnvPzDw==
+Sig: korri-cache-zao-1:/uF4P3YsrFBVu9vEhHcTteulxRRhkc5iXyPWJM79dZlCJlNGLAI0C/tj5eW09W7J2N2qp7XZnOww5njEaeT1Cw==

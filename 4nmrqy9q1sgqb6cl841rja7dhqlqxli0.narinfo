@@ -1,0 +1,10 @@
+StorePath: /nix/store/4nmrqy9q1sgqb6cl841rja7dhqlqxli0-unit-post-resume.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-15/12k7j4f58hcjmnmlg57h063mnlpb9f4gbkr4gssh3wxgbjgy2j4m.nar.zst
+Compression: zstd
+FileHash: sha256:12k7j4f58hcjmnmlg57h063mnlpb9f4gbkr4gssh3wxgbjgy2j4m
+FileSize: 743
+NarHash: sha256:10f8ss86h4p5kgl5aq3qz84xvvxd8iirl5acls08lyr9nadiiprd
+NarSize: 1528
+References: 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 mf305kkwjli8860gm68ckyynczk5sqyg-alsa-ucm-conf-1.2.14 qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2 y9n541ag6vkc5vzdiml6vhk3jvsn2rg4-unit-script-post-resume-start
+Deriver: 6nfx7a4ydx4gmblvp9c9yivywank1yai-unit-post-resume.service.drv
+Sig: korri-cache-ci-1:hsRNdl6h8iCHeM06NE4f/ZixQQljjIe//OfJR1Tt1hQhzmqEd0rCYu3DfUkMMM+dJ/Vx3v0FGvQtk5RcX39rCg==

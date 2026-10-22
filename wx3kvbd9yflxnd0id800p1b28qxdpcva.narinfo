@@ -1,0 +1,10 @@
+StorePath: /nix/store/wx3kvbd9yflxnd0id800p1b28qxdpcva-unit-korri-chromium-kiosk.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-25/0wnh88yr94rxd3lria2k9nmxjvc8i22iq5ll3mr9k54rs6aids76.nar.zst
+Compression: zstd
+FileHash: sha256:0wnh88yr94rxd3lria2k9nmxjvc8i22iq5ll3mr9k54rs6aids76
+FileSize: 1277
+NarHash: sha256:1m6kivi4w5cd62d4h8iab0nq1yvd5m3pn2n0rldz3m4apdsgjqzh
+NarSize: 3040
+References: 1q62vwad78scnv9bb6v21x4l4nbh7vdw-korri-portal-wayland-access 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 piq7gi2x39favn2zcqxgvhi615182qcc-korri-chromium-args.json qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2 z6l057w8ixz5nnj4nww01sbj67s50jkh-korri-chromium-kiosk
+Deriver: 409lvnqmvnxlmfliya8rchda2jixczwk-unit-korri-chromium-kiosk.service.drv
+Sig: korri-cache-ci-1:mrubzVbCvX1MeBGd1+DlaxpfRdQ+T0hClyP8te0pxTsF5NjtL8na6wH3fZqodsdJoeU6LiyUiwnZFex2ACSmBA==

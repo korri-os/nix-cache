@@ -1,0 +1,10 @@
+StorePath: /nix/store/l4p3jvh6galfb7l8lbg2zq3yhlgh4fqn-unit-systemd-backlight-.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-15/0acaincpfbhh2g6k8kd57llfdq30vbb46v5wallrc1nv1dirym4n.nar.zst
+Compression: zstd
+FileHash: sha256:0acaincpfbhh2g6k8kd57llfdq30vbb46v5wallrc1nv1dirym4n
+FileSize: 645
+NarHash: sha256:0gbfkkch7pmll9f17ixhhxd4xvxwd74rqhkqrbng4vynlq1nx4d6
+NarSize: 1320
+References: 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 mf305kkwjli8860gm68ckyynczk5sqyg-alsa-ucm-conf-1.2.14 qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2
+Deriver: jrkxk89yns3n8g0zzy2lkgvglpvdqc3k-unit-systemd-backlight-.service.drv
+Sig: korri-cache-ci-1:bpIrbggZAAgCF6/i3YrvqykPgaGfH6+h1mVl0NPnsEefUbOE+0fsCT2lAnyUZvhCacFvU/Q5xzZ+tLWvrmwTAg==

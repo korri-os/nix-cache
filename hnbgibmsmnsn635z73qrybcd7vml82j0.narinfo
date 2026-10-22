@@ -1,0 +1,11 @@
+StorePath: /nix/store/hnbgibmsmnsn635z73qrybcd7vml82j0-etc-systemd-system.conf
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/0w6zbv318lnp2002821gkc992vgh2rnkqknwgs17kda1xrf25vk1.nar.zst
+Compression: zstd
+FileHash: sha256:0w6zbv318lnp2002821gkc992vgh2rnkqknwgs17kda1xrf25vk1
+FileSize: 410
+NarHash: sha256:1xa7a2ggl8v4xpxs2k1bzwgpsmdycizmnnidsyks46aspr1i0kwj
+NarSize: 616
+References: 65mi0y8cdkqh71w4cmj16j9qb7j0g14j-dosfstools-4.2 mp2nq2cf512m6b6dr3ifpghs65h5b07z-e2fsprogs-1.47.3-bin sa87bcn9z73qk5bj7b8g4hjxryhpkdhx-util-linux-minimal-2.41.2-bin zr6x083p3h8xz3y6kqw3lz683qaz423x-mtools-4.0.49
+Deriver: 3alkw6wd6zazmz066rbjpdry3xp6116a-etc-systemd-system.conf.drv
+Sig: fuji-1:I9v1BjvURZKA7vbazr2Lh3zDWJRovn4hO2v4YSCkr/OoKOzU30IB8y9XO0P1pIBlUVmEAgTCEV96u5Ify5DcDg==
+Sig: korri-cache-zao-1:DRZFavadZl+I6i1Kiao0DIqBJuaTMmj39Puj77w2zIbWtRz8Y3N2JxvNdgHPzwIF/e8LIGErw5SzUK54LYvvBQ==

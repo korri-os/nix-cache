@@ -1,0 +1,10 @@
+StorePath: /nix/store/63lj14b68a8aznl1i0z1ycnhnk8067mz-unit-systemd-udevd.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/0q7hqprjahf8ww687y07wr51l297vj91fph55amp1j1zvhy2w04n.nar.zst
+Compression: zstd
+FileHash: sha256:0q7hqprjahf8ww687y07wr51l297vj91fph55amp1j1zvhy2w04n
+FileSize: 630
+NarHash: sha256:0pakbaf15v2sry4wbvn0rhifiq3l2jmg0qyjn7qwjrprha2q7xwg
+NarSize: 1320
+References: 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2 zy1alsl752ndq1kdcih1fx8r88ag515i-X-Restart-Triggers-systemd-udevd
+Deriver: ly7yc9s9sm3l9wh1xdvz8c795yqw4lsf-unit-systemd-udevd.service.drv
+Sig: korri-cache-ci-1:QC9TIZJP00Kz3o/fwb8c5ysrztJG0A9++6Wom/0TemciHXPfRsAJW4L91HrUfMRc4Yrx0ulCFB0bKF9cwz6/Cg==

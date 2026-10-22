@@ -1,0 +1,10 @@
+StorePath: /nix/store/alkvb78dgbg9c7hv3gnrk7622g5sp8gg-rockchip-mpp-1.1.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-25/10z9h11vmip230lnkbhn9ml900x0wam09cx2pq4q0xn215s1wa7k.nar.zst
+Compression: zstd
+FileHash: sha256:10z9h11vmip230lnkbhn9ml900x0wam09cx2pq4q0xn215s1wa7k
+FileSize: 3028098
+NarHash: sha256:1rsz6nfs23m4krccnh63abcxhqw6y6h4kkilg51qlb26pxcqipnb
+NarSize: 9066824
+References: 89n0gcl1yjp37ycca45rn50h7lms5p6f-glibc-2.40-66 alkvb78dgbg9c7hv3gnrk7622g5sp8gg-rockchip-mpp-1.1.0 qipd93x9gjyiygqk673rd2ssnf8y7jj0-gcc-14.3.0-lib
+Deriver: ijvzidqhyl5qlmw90n7qs1v13agvq223-rockchip-mpp-1.1.0.drv
+Sig: korri-cache-ci-1:etoEXTn2svwijv5sjLOPfFtH0PNcMa1GBhVSUKpB0Qq0mvgcZkwqOprvAbQbC2Wn1vhsNBXU1ziIvgN5QOqKBg==

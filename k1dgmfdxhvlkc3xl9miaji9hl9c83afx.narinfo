@@ -1,0 +1,10 @@
+StorePath: /nix/store/k1dgmfdxhvlkc3xl9miaji9hl9c83afx-unit-sunshine.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/1l7zy6zgz2lk1i80z9gfnryl9lngh56xilm3s28lbw2giykvg4yl.nar.zst
+Compression: zstd
+FileHash: sha256:1l7zy6zgz2lk1i80z9gfnryl9lngh56xilm3s28lbw2giykvg4yl
+FileSize: 1506
+NarHash: sha256:1g7ra5sdjyrjyyngvdlyld1l4baawwnvvpvd1sf6jivd8gs56gzy
+NarSize: 3480
+References: 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 b886dv5ck0jrrmwl95z8sr6h7pxiflbm-korri-wait-for-audio cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2 ziqd3cw8rwa58b2994bvk9rph111ibk7-korri-wait-for-compositor
+Deriver: qhzqs5khvdi92h3ppyvgwzsrclnvppa7-unit-sunshine.service.drv
+Sig: korri-cache-ci-1:SaVdPRmKeXU2GL6eZxubJ+he1yrOnnuf5ZvXKNedmfRso2M3ocg8AmjsV0iaJ4jmV+R0RiGdr+/6Ob2iHzoiAw==

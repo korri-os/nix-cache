@@ -1,0 +1,11 @@
+StorePath: /nix/store/kqhza3bdg1f06yvkgrp44z1vddblswh7-r36tmax-usb-gadget-configure
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-14/0kzy4drziw8274qjk90gh8nbrych057glj5xjqc1y8j3kp1jz4ks.nar.zst
+Compression: zstd
+FileHash: sha256:0kzy4drziw8274qjk90gh8nbrych057glj5xjqc1y8j3kp1jz4ks
+FileSize: 1224
+NarHash: sha256:08dwajc0hq4842zxxzn4bmv577763wgi1ac75xln5q1r8qkrlmy5
+NarSize: 2696
+References: 6cankpvayjgidrbx5sj1gms2s13nvfvh-bash-5.3p3 cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8
+Deriver: 6hbf897i0qlnv75jqfyb924l868hvl17-r36tmax-usb-gadget-configure.drv
+Sig: fuji-1:Q4yfwPl5QQ0hbq0rX8aUUWD5LksoZMd0bHV/AjPYIw5siDkh7svDDffRFyFdGO7LWBtkNEVweBOgxTwTUmh3CQ==
+Sig: korri-cache-zao-1:2SQ72e/DgXrDbsRTzF5RjPZAWf/W+XjF1elAb0uxm5+OVduhwbCc0hmcnA/y0MPElknWq5U8A2vvWQuj8k9IBw==

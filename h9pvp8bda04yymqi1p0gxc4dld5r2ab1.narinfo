@@ -1,0 +1,10 @@
+StorePath: /nix/store/h9pvp8bda04yymqi1p0gxc4dld5r2ab1-install-extlinux-conf.sh
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/02yfnq0rkn92j8znm1jdkzdf2i5whv8bipkyv5l5b6jh8bwq5nrx.nar.zst
+Compression: zstd
+FileHash: sha256:02yfnq0rkn92j8znm1jdkzdf2i5whv8bipkyv5l5b6jh8bwq5nrx
+FileSize: 276
+NarHash: sha256:1kypwym160lrjikxlygl1gqd2f2gdn11lymdz12v0b82q3xxw0id
+NarSize: 360
+References: 6cankpvayjgidrbx5sj1gms2s13nvfvh-bash-5.3p3 ghwwmfcgadpr080pp91w1wniqb6wldvw-extlinux-conf-builder.sh
+Deriver: da96d5nw59f6bgyd8xgpc4dqzqp6wymd-install-extlinux-conf.sh.drv
+Sig: korri-cache-ci-1:WrFuy9M5TxB8WeIm0xWUHdj43tC/tYLZ236GbxUuj03zwAdx3W7bxedRneXOTmsumfngCT2laG+G28dT56snDA==

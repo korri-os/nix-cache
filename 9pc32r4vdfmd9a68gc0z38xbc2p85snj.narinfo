@@ -1,0 +1,10 @@
+StorePath: /nix/store/9pc32r4vdfmd9a68gc0z38xbc2p85snj-unit-lastlog2-import.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-15/1k7m4lzm5jsln7g89zm2g9hvg57yxifdgy14sccqkwplhajsh1nw.nar.zst
+Compression: zstd
+FileHash: sha256:1k7m4lzm5jsln7g89zm2g9hvg57yxifdgy14sccqkwplhajsh1nw
+FileSize: 713
+NarHash: sha256:1qvlglgcn5jj2pmkgrm92k9w9drw1i1hhms1a7azq77d18jy0clj
+NarSize: 1512
+References: 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 mf305kkwjli8860gm68ckyynczk5sqyg-alsa-ucm-conf-1.2.14 qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2
+Deriver: q7zi1qd6b7afb9x78xy8f2in756rk4fw-unit-lastlog2-import.service.drv
+Sig: korri-cache-ci-1:O6zbstNbktxWdHVkDkSHjhcMn3Q+98B/McZkDWKJa5aiLjizEY3BZdtEFVLv9ZLBQwnY5e/4qNkmDeWUq0OMAw==

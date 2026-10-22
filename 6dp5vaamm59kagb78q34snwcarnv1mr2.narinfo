@@ -1,0 +1,10 @@
+StorePath: /nix/store/6dp5vaamm59kagb78q34snwcarnv1mr2-X-Reload-Triggers-polkit
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-30/1sd6mmwqdgxs45kraf9z4pvqrzc7hs2jabgj9vkhz1rf3hlvwqx8.nar.zst
+Compression: zstd
+FileHash: sha256:1sd6mmwqdgxs45kraf9z4pvqrzc7hs2jabgj9vkhz1rf3hlvwqx8
+FileSize: 151
+NarHash: sha256:0s53r0r430qllhyza39x47m8lycv5a82rnib50w57scyvpgvx74c
+NarSize: 192
+References: irxn7sh53ir1pcck81hspx4mzq6rrjak-etc-polkit-1-rules.d-10-nixos.rules
+Deriver: cq3p8pb53fk39zjyg0nmfx3pms09kd0w-X-Reload-Triggers-polkit.drv
+Sig: korri-cache-ci-1:UhIJfjwyZyzaoQ0j+NYzbs4KHzDrVB86E1vlrF9yEWDwtcirzY0G07Pii82cJi56LdP6hWmtDqH3qcwIPABOCw==

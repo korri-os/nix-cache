@@ -1,0 +1,10 @@
+StorePath: /nix/store/h2sp2h2fqxhsc9r0pnsxjphzl17pg4yh-libretro-fbneo-0-unstable-2025-12-11
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-25/0pgczyh24g2xrcmb0bh2qr0w36b7lmdr70209cfs3k47p7xardfz.nar.zst
+Compression: zstd
+FileHash: sha256:0pgczyh24g2xrcmb0bh2qr0w36b7lmdr70209cfs3k47p7xardfz
+FileSize: 19060119
+NarHash: sha256:1hgqdg545zb7xrnw3ilbbqf38f4qv8vq6yjvig588w7gnsn8v08r
+NarSize: 81617504
+References: 6cankpvayjgidrbx5sj1gms2s13nvfvh-bash-5.3p3 89n0gcl1yjp37ycca45rn50h7lms5p6f-glibc-2.40-66 h2sp2h2fqxhsc9r0pnsxjphzl17pg4yh-libretro-fbneo-0-unstable-2025-12-11 qipd93x9gjyiygqk673rd2ssnf8y7jj0-gcc-14.3.0-lib ybnc2kzrsa2ijsy2hxqb4hdcwxwjhqfv-retroarch-bare-1.22.2
+Deriver: 7xlw8dggn9gzalwh1ijj7liawsyzr6fk-libretro-fbneo-0-unstable-2025-12-11.drv
+Sig: korri-cache-ci-1:jSKYUz4pGadl0hDzEPEc8In5B5doxM7PlDg/i28uvrHkpf/+1qlFpCvUkOSR/lyULnKFwJp0XAM6GHUkUIeqBg==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/5fna8ld41zxjncakj6xxxk1m354kv3qm-ffmpeg-rockchip-8.0-unstable-2026-08-10
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/1cj348vdm71lhvv2zbdg3icbjkjxbqxszvnssfwqyf9s5kd3z9sl.nar.zst
+Compression: zstd
+FileHash: sha256:1cj348vdm71lhvv2zbdg3icbjkjxbqxszvnssfwqyf9s5kd3z9sl
+FileSize: 13330218
+NarHash: sha256:00hmbgjfxkq8j8b0gnsfkx6yq4dp3i2anqx5452fxm07xij9b8h5
+NarSize: 27935064
+References: 4wdz42ns29ys6fm1xak68bnp51nxhd2s-zlib-1.3.1 53bbslxqirqx59ic6762nm2449jc2s60-libdrm-2.4.128 5fna8ld41zxjncakj6xxxk1m354kv3qm-ffmpeg-rockchip-8.0-unstable-2026-08-10 6xjsxpkv9mfmfqyhy3imv52ybcjb1sx6-bzip2-1.0.8 89n0gcl1yjp37ycca45rn50h7lms5p6f-glibc-2.40-66 iq82gsi39b4nvs6ns70b57f81k1khswc-xz-5.8.1 yix20jrlcmynj4p8jnj1fgfjn27pa3h0-rockchip-mpp-2026-08-25-0986d012
+Deriver: jd02hlzcdvg0nrqr0cn8pacivg13ni9l-ffmpeg-rockchip-8.0-unstable-2026-08-10.drv
+Sig: korri-cache-ci-1:uxGv4L1wdg1jqJeta4b7uvwfguGEM2VaOlz5ORIflHDzA4mmGBF4p0/7o8uD+qnVQ2nUfVIySZ1MQFJhjHh4AQ==

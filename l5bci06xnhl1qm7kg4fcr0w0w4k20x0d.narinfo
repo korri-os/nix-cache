@@ -1,0 +1,10 @@
+StorePath: /nix/store/l5bci06xnhl1qm7kg4fcr0w0w4k20x0d-unit-systemd-remount-fs.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-15/1a34y5k97ipn77h5r4lli0wyhg2ywkdv82a2793aa22n7lvwsj4n.nar.zst
+Compression: zstd
+FileHash: sha256:1a34y5k97ipn77h5r4lli0wyhg2ywkdv82a2793aa22n7lvwsj4n
+FileSize: 650
+NarHash: sha256:1dxf7yr7r6zm2y7csyqw33gbf2mn7lhdmlh8n6n0y5csifhgmaxk
+NarSize: 1352
+References: 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 mf305kkwjli8860gm68ckyynczk5sqyg-alsa-ucm-conf-1.2.14 qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2
+Deriver: ijxcp15461jngzpdarx11mwdqh773ccm-unit-systemd-remount-fs.service.drv
+Sig: korri-cache-ci-1:0/vAGxTAYIhXGEhlHYcU0rqOu0ZZOFFCjUtQMnPFBNoZbM1N+BIta6LKvfggXQ4SEht2bmaS+ymAmCjJlkKPAw==

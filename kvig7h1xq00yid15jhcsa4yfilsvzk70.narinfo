@@ -1,0 +1,10 @@
+StorePath: /nix/store/kvig7h1xq00yid15jhcsa4yfilsvzk70-unit-avahi-daemon.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/06mrm2dmg01jz2n7szvs4wjl9sjihj9gh3aaj4q1id31rz1v4iw7.nar.zst
+Compression: zstd
+FileHash: sha256:06mrm2dmg01jz2n7szvs4wjl9sjihj9gh3aaj4q1id31rz1v4iw7
+FileSize: 1202
+NarHash: sha256:0x1yyx1zv638kl8nwkb5dk2vvvjxbvcvmbqsjyg18gv18jprn4c4
+NarSize: 2776
+References: 4p3nq19wzpv5a21ip8xmdqzbcbmcnfxb-avahi-0.8 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 qldmjh9clqhsydxjjhdbdwr2s1x30igb-avahi-daemon.conf qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2
+Deriver: cqpjahvylva1fzn1ccfa6khdfl4qwz0p-unit-avahi-daemon.service.drv
+Sig: korri-cache-ci-1:bE47xSPKC701E7GoQtm/LAEufBAGiZyrVsrglLGfgR/NenNG/odPIM0q4WEzu8zF9U0rC6p004h+OXB8sEhaBg==

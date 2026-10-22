@@ -1,0 +1,10 @@
+StorePath: /nix/store/m75gypgrwnx6wcpqmzd4mrli13z7pf85-unit-suid-sgid-wrappers.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/1scfb7msbfc8wqh941vlw4dinafy58j3c4jb3s6l1i0z3yxrlyav.nar.zst
+Compression: zstd
+FileHash: sha256:1scfb7msbfc8wqh941vlw4dinafy58j3c4jb3s6l1i0z3yxrlyav
+FileSize: 756
+NarHash: sha256:1yr12l4bvkhllnsk268gr561j0cpv9qlijm114cl9hk73dkdhacl
+NarSize: 1592
+References: 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 gbijfpf43z217l1xkciacz55fz7pxalg-unit-script-suid-sgid-wrappers-start qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2
+Deriver: 8qgfyjan9rj5nz67ll594m9jk92w56jm-unit-suid-sgid-wrappers.service.drv
+Sig: korri-cache-ci-1:Cgg8J+vEcOXRYUrNdiPZtFgFwRiBMEGwoIpomUSwKTXDb86zi6rXflX/x1voXaP6Z+Pln0rF4iUDOPF0J0elBw==

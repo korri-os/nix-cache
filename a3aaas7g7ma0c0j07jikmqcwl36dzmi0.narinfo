@@ -1,0 +1,10 @@
+StorePath: /nix/store/a3aaas7g7ma0c0j07jikmqcwl36dzmi0-unit-korrid.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-25/1vpp4x9q8c37lb91mrak2aa9p1mhqc6k39n388mm0h1amvqv74cb.nar.zst
+Compression: zstd
+FileHash: sha256:1vpp4x9q8c37lb91mrak2aa9p1mhqc6k39n388mm0h1amvqv74cb
+FileSize: 1845
+NarHash: sha256:1lqpbcxf3ys54i02jfjvq72rslvlq1w2r7y4ncmarwhiypc7xwcf
+NarSize: 4920
+References: 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 jvyrvx9rfwgqw4ky86g7ig0idra8khqi-sway-1.11 l8pxdrva53knwr8w0z9dh8pv2g4jrcrk-korrid-rg353m-host.toml qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b vs7rzqdn6hzblgks7q2aw8y6zyws9mah-korri-inputd-0.0.0 xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2
+Deriver: x6dv37ny3mqh8yxkms961zzc7ykj8ch6-unit-korrid.service.drv
+Sig: korri-cache-ci-1:NWrjzT6Xd4wV5qynR7HrFMQtuOonseFUCoRNm7KI6nwaaMZADZTzhdAtKd4ZLSjwTiQ3r5c7+o192f47cdHrDQ==

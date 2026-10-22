@@ -1,0 +1,10 @@
+StorePath: /nix/store/m9k4gh56kfn91gr45npc8yp3apkjlkik-unit-sunshine.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-15/19fk1hrqxrix88hargwiwmwmhc564blpn3alzm4bx4h3ccxks954.nar.zst
+Compression: zstd
+FileHash: sha256:19fk1hrqxrix88hargwiwmwmhc564blpn3alzm4bx4h3ccxks954
+FileSize: 1403
+NarHash: sha256:01h83lvi69b6808g1csgg53fxag0kczkzxqw4z29ckbiiwh0493q
+NarSize: 3184
+References: 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 mf305kkwjli8860gm68ckyynczk5sqyg-alsa-ucm-conf-1.2.14 qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b swqy3fk6y61bifksb587kx3qkc739c87-sunshine-korri-2025.924.154138-korri xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2 ydc1gm267rs2cl53i0v3z7ddp6py7pyi-korri-wait-for-compositor
+Deriver: 4ijab19vba12xplsp6ypjrjr15m5xk9x-unit-sunshine.service.drv
+Sig: korri-cache-ci-1:AzgPYkqpp4n3SEZOlZ8mcZgQisk2Gx44o0ZWf9UrBtmGXvUOLh0FBzuKz5ghs+Jnf1OZiiv6Ve0VO6LHDtYADQ==

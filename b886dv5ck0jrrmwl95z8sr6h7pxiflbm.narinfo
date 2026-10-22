@@ -1,0 +1,10 @@
+StorePath: /nix/store/b886dv5ck0jrrmwl95z8sr6h7pxiflbm-korri-wait-for-audio
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/1h9df38sp8210dlifv1109a302ynk6rgqxyz1a284mxm0na9mmpb.nar.zst
+Compression: zstd
+FileHash: sha256:1h9df38sp8210dlifv1109a302ynk6rgqxyz1a284mxm0na9mmpb
+FileSize: 568
+NarHash: sha256:1asljhakpf3pa1rrdfi9n5yf9m1mmgdp1k6dkx4msqzs0g56qs0b
+NarSize: 960
+References: 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 6cankpvayjgidrbx5sj1gms2s13nvfvh-bash-5.3p3 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 dh752ravf4jlgd1p6adyc3zy2lzpapd7-pipewire-1.4.9
+Deriver: 994lhvn9gh6n6v3n37ffxniksqp4kiln-korri-wait-for-audio.drv
+Sig: korri-cache-ci-1:mqKrg58331OTnfz5yETahloZt6d6iZx9Vb8B+2uzYNuBAo4mBw1kJcfZtMhSsvDR0kFpHuuCZr1IfW83vEzVCw==

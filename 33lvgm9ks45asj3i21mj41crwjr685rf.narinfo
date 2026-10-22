@@ -1,0 +1,10 @@
+StorePath: /nix/store/33lvgm9ks45asj3i21mj41crwjr685rf-linux-firmware-rg353m-20251125-zstd
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/0k1dr29gm789dvv42frvhngslishkx7shma2nlln27cl7wqcdgmp.nar.zst
+Compression: zstd
+FileHash: sha256:0k1dr29gm789dvv42frvhngslishkx7shma2nlln27cl7wqcdgmp
+FileSize: 1365225
+NarHash: sha256:19p2zg6qfv5phpx32l78734yrjra6k5mbkrzx55j5fma1shrfpmx
+NarSize: 1377328
+References: 
+Deriver: 9dqrl80k4054rwbpcq8xpic335ih567r-linux-firmware-rg353m-20251125-zstd.drv
+Sig: korri-cache-ci-1:dEU+HsPx+K/tkjiZu/7idSom6Sf7c3s2xmfYuB0GVT9g4igTrePJi/PRXA38Xzn4tNKIQJp+3JJrJPnodAQlCQ==

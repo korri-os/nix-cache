@@ -1,0 +1,10 @@
+StorePath: /nix/store/zwqn7ppka9lkd69nrfnn5vsxxswcy98n-unit-systemd-tmpfiles-resetup.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-15/0fqd4vh6znx1wv71haxafhrr9j9fzkaip4id9qhn48vxmcpgiyds.nar.zst
+Compression: zstd
+FileHash: sha256:0fqd4vh6znx1wv71haxafhrr9j9fzkaip4id9qhn48vxmcpgiyds
+FileSize: 974
+NarHash: sha256:1x3nwqb68y53iw0hadhal8a2nahz0s5aa6lx0qg0p0b8c3zpihgz
+NarSize: 1960
+References: 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 jm7lw4fdi1zdqj41w6bg8qkbcv60wln8-X-Restart-Triggers-systemd-tmpfiles-resetup mf305kkwjli8860gm68ckyynczk5sqyg-alsa-ucm-conf-1.2.14 qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2
+Deriver: mca5pjccrph8cj5rxgpgaflcxnb03xw8-unit-systemd-tmpfiles-resetup.service.drv
+Sig: korri-cache-ci-1:2lIFcILKudQdd+PuVFhr7gZ9V9JywKMQ3QZcwX1yoqM7ZSwXKSV5lm/YL3+Pe4Tineh8oZi3XAIUz/L9A4BLCw==

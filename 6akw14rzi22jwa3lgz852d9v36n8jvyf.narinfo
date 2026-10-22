@@ -1,0 +1,11 @@
+StorePath: /nix/store/6akw14rzi22jwa3lgz852d9v36n8jvyf-firewall-start
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/00nf3gbn1f19c2lgqj4zx38n8mqg6r56xr7lx1lpnjnjk9sr34v1.nar.zst
+Compression: zstd
+FileHash: sha256:00nf3gbn1f19c2lgqj4zx38n8mqg6r56xr7lx1lpnjnjk9sr34v1
+FileSize: 1306
+NarHash: sha256:0sidmwq3f53zxjnk916yp9gnm9h07kb6yrylzysms1y7mi3722iw
+NarSize: 4056
+References: 6cankpvayjgidrbx5sj1gms2s13nvfvh-bash-5.3p3
+Deriver: gi8kv0g60hahmg31rg3g81bsldfpjsi7-firewall-start.drv
+Sig: fuji-1:AiJjNlo3GAk7ni3/0UurwCd+TNw/cQjmxP0r+tSYJCmS2BZKSMlDNcRkSE7Dj4U7wkHUIY2KwILh0LvKZCcACA==
+Sig: korri-cache-zao-1:+kfKdTXhFhZyO9+zNtE7OJ2B8gfRhA43Jg/CUVCCfPRSbElduzI3d6yGibnUYd74enI3sqKKP+LMzGpP6OIeCw==

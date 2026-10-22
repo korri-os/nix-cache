@@ -1,0 +1,10 @@
+StorePath: /nix/store/13sp5q6m0ks5n8w0hwnyr3v22f0rrwjf-unit-NetworkManager-wait-online.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-15/0ycr3smnb5f1aalrk07kv0549x4l47s7w6kr9in8zl3giapq4i1f.nar.zst
+Compression: zstd
+FileHash: sha256:0ycr3smnb5f1aalrk07kv0549x4l47s7w6kr9in8zl3giapq4i1f
+FileSize: 640
+NarHash: sha256:1jklw6sf32js337x2m64s6dqrbi7cag7k5yfa0fbdx5gl8jz57z5
+NarSize: 1344
+References: 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 mf305kkwjli8860gm68ckyynczk5sqyg-alsa-ucm-conf-1.2.14 qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2
+Deriver: k2l2hbacm1ph4w2ia6jlpyp8sjwjjifc-unit-NetworkManager-wait-online.service.drv
+Sig: korri-cache-ci-1:9KzaDNudok/wTbgyKzOt/UPF5+N50uHDmT5xsNVxFSn6DLoJnKL4PzQg/5fLC3HpbzAfxI2ayqd/aeTEm8gnCg==

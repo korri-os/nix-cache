@@ -1,0 +1,10 @@
+StorePath: /nix/store/i6h1mb2zpzwk176k7hsvb2hvs93s8h1l-unit-user-runtime-dir-.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-15/15ydm3pshv1qr00az5n6s9wx9iln4m216m5xxgly03nqffivx2aj.nar.zst
+Compression: zstd
+FileHash: sha256:15ydm3pshv1qr00az5n6s9wx9iln4m216m5xxgly03nqffivx2aj
+FileSize: 628
+NarHash: sha256:0lnda0z5hpl52dcg6wwgjjxdlk7ajv4wlinksgkhzixr1y2f1f8r
+NarSize: 1336
+References: 5728bdap49nsnk1c8zq96fqsm4b7ihj6-gnugrep-3.12 cy7aqw5j5rjk2pza5p2j2jcdm3vjy12q-findutils-4.10.0 d9jxdwalyr5qzmyz9m5avmzn7w40h7iy-coreutils-9.8 fxcf3lz7hwyz5z2r25bkhs3mg1pl3si6-glibc-locales-2.40-66 mf305kkwjli8860gm68ckyynczk5sqyg-alsa-ucm-conf-1.2.14 qzx55k27rdhpg9f792fg7dwcbwz78mc8-tzdata-2025b xcjag3jcsfdmixjcm3xckkrkcl5r48b6-gnused-4.9 xn64fgz1z7jz4nnhln9nkdkd4p1bparg-systemd-258.2
+Deriver: 7l4ridn9gi5c4jvryia2s3z2ybdppik5-unit-user-runtime-dir-.service.drv
+Sig: korri-cache-ci-1:lhbmPhNaTffJkLpOmcA/2OlPACcTg7itdmXI0dl6fDlH6zelEWR2kjQntmLpIgdPIFQcsD7J79UR8gSzCD/3DQ==

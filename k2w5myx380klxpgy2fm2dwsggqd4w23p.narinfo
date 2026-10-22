@@ -1,0 +1,11 @@
+StorePath: /nix/store/k2w5myx380klxpgy2fm2dwsggqd4w23p-nix.conf
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-09-12/100hiwsg0r8gzhr4hjffvcn1yc2wli7akjp2kwwhx1blyvwz26h5.nar.zst
+Compression: zstd
+FileHash: sha256:100hiwsg0r8gzhr4hjffvcn1yc2wli7akjp2kwwhx1blyvwz26h5
+FileSize: 607
+NarHash: sha256:0klbsbsdnm38qkzlv2gzqdzsxy5dwpwa0lqdr7d46iwdw79jk0bf
+NarSize: 992
+References: 
+Deriver: 6s61ppjqy8ybax5pw6d0hmqcn6d2gyki-nix.conf.drv
+Sig: fuji-1:PzHcfIVJYhJvKeVjez/W92yXekCZu42S26SsCMghmrB5zHxIeuQHWSDju34XFM7GvRMO4KZnYRN6vvaCe9eGBw==
+Sig: korri-cache-zao-1:TH1yDPYrkdozOkU/UKdw9gEXn9G64iM+Djc/PFoVb8xFC/zXXMZ1SLIfO+DbHkl00/bLwXFtQfEjCTl7gBMiAA==
