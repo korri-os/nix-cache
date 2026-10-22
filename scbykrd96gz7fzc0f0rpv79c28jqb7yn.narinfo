@@ -1,0 +1,10 @@
+StorePath: /nix/store/scbykrd96gz7fzc0f0rpv79c28jqb7yn-korri-udev-coldplug-modules
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22-1123/1zingxb4r0iqslpp5by91a6xiai20vc20qhhmw1czfcly7w1jzq6.nar.zst
+Compression: zstd
+FileHash: sha256:1zingxb4r0iqslpp5by91a6xiai20vc20qhhmw1czfcly7w1jzq6
+FileSize: 114
+NarHash: sha256:1vc4p9j9v74v1hzaxgmdnynynj4597w0jix44k60w6fnwd67pgfb
+NarSize: 144
+References: 
+Deriver: clzr5qr5n3wmnf9k59xj4jqwpp5bqhb0-korri-udev-coldplug-modules.drv
+Sig: korri-cache-ci-1:sxsSJyLNNpOWWr3jTb4zIVGS0lqrIqxgOtQmtIy5nKXzM22EHiuf82/RB7PDfhaj+c9AyMpv9UQZTF+1+TZmAw==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/kbik5gjzk1ksxz60xsjzgrwzv8wkffyp-unit-10-usb-gadget.network
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-22-1123/0w3w43na16dakyz5n9mdj6rm9ic3l7xy0zsvbm84kxxi6jqmbrbv.nar.zst
+Compression: zstd
+FileHash: sha256:0w3w43na16dakyz5n9mdj6rm9ic3l7xy0zsvbm84kxxi6jqmbrbv
+FileSize: 292
+NarHash: sha256:1rk5zjr9xwl5lqa5mlxnr2gaj3zcv58jadvhfds31115jpl0cwvr
+NarSize: 488
+References: 
+Deriver: r1xpy33bcmc4ar4pqhf3j3igcs8qznyw-unit-10-usb-gadget.network.drv
+Sig: korri-cache-ci-1:hhcT4Fj0NnwRAK4a/obq9eePsyE3Q2sVe51ojinP+O/yt8usbLheL2lTfXvsvthoCUGVBiHKVgO8Mz1Ef7x1Bg==
