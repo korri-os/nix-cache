@@ -1,0 +1,10 @@
+StorePath: /nix/store/j4n7vam8flmygv8zyf65svk68g2g7z9d-unit-korri-local-signer-device-credential.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-23-1427/0hjfcjxj756s1qq7afz84m8scgap0bk68vvmd1yjknjy3kaqaj8y.nar.zst
+Compression: zstd
+FileHash: sha256:0hjfcjxj756s1qq7afz84m8scgap0bk68vvmd1yjknjy3kaqaj8y
+FileSize: 1108
+NarHash: sha256:17gksd06h2hn04gfw8sbx0m4gj8js721ksayki081h6lrdw0apcl
+NarSize: 2432
+References: 1nwgsy4c5862g44s9lkf50643p3nbwm5-gnused-4.10 3b3k72bbr01bgff7bdkiz6r05gmlx5s9-gnugrep-3.12 6cpmy2pa0zilkbxg44bkgvyjzkwqmpn0-korri-local-signer-device-credential i8an849ir6g3f4n2wrsm88s2qgrzjayq-tzdata-2026c k8as1kdn16q5w6zq6z3vih70qby9l40i-glibc-locales-2.42-84 p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11 x0iv5hlpqfrpykdckbj8jdxy78clbjpz-systemd-261.2 xqx65i7cwacw7rsnj3dlbqas27mwvpn2-findutils-4.11.0
+Deriver: bfpj7qj3nx6p4af5p9zws1vrnzp316xc-unit-korri-local-signer-device-credential.service.drv
+Sig: korri-cache-ci-1:ExIBScxuFngbzNIP//FK1qGS3VXIsNEddvgsw789h9wLudCZZmHXUr1p70tik4n/i8eY8SL7vJEO3Fgc3pqRAA==

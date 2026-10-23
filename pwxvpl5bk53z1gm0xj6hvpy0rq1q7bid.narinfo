@@ -1,0 +1,10 @@
+StorePath: /nix/store/pwxvpl5bk53z1gm0xj6hvpy0rq1q7bid-unit-korri-inputd.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-23-1427/0l29hiryljls64m0rq5928awpgnr43pc7j44an8l1k3klhb85a1a.nar.zst
+Compression: zstd
+FileHash: sha256:0l29hiryljls64m0rq5928awpgnr43pc7j44an8l1k3klhb85a1a
+FileSize: 1906
+NarHash: sha256:171k63jpwhf1jwa96ds5jhi7ahkpl10wbyrf9pa3ky7wc3p3qsk4
+NarSize: 4960
+References: 1nwgsy4c5862g44s9lkf50643p3nbwm5-gnused-4.10 3b3k72bbr01bgff7bdkiz6r05gmlx5s9-gnugrep-3.12 8b4bglwrxmmdbrgqhxhcy64f4zf2l6w5-sway-unwrapped-1.12 i8an849ir6g3f4n2wrsm88s2qgrzjayq-tzdata-2026c ja30y86an13dnrhyw657ab48jc3sa80k-inputplumber-korri-resolved-0.75.2 jsj1ha5ii82m4l17kk9cmpcl0748mz5c-korri-inputd-0.0.0 k8as1kdn16q5w6zq6z3vih70qby9l40i-glibc-locales-2.42-84 m69qv3fs65lmjvzg8dqfzz7mbba29r5g-korri-virtual-target-acl p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11 v5v21yi01lvanrsj8ilraxncvzffdsg7-wireplumber-0.5.17 x0iv5hlpqfrpykdckbj8jdxy78clbjpz-systemd-261.2 xqx65i7cwacw7rsnj3dlbqas27mwvpn2-findutils-4.11.0
+Deriver: lxpyy44cyipvqdq3sy8adj856nmif4v1-unit-korri-inputd.service.drv
+Sig: korri-cache-ci-1:Vr9lAUj1r1KRX0LHCX6PovTbjCnxjnzIhswKDFJkkWCvNEQPctdwYoZ6iZGO816iPIoHdiKV4tcR4no2vsBfCg==
