@@ -1,0 +1,10 @@
+StorePath: /nix/store/fqmlgfng58hdsj8xymqcaz8kdwp5z4a9-unit-systemd-networkd-wait-online-.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-23-1215/04g92zm8w0mlc0k1fsnfarvp5s9msry3iz3zivksp4y4s4mp5gl7.nar.zst
+Compression: zstd
+FileHash: sha256:04g92zm8w0mlc0k1fsnfarvp5s9msry3iz3zivksp4y4s4mp5gl7
+FileSize: 655
+NarHash: sha256:0gzl85yradgy7kwwz6plihsjd3fhqgw4vv87wbcfbyq0bv4hcybd
+NarSize: 1448
+References: 1nwgsy4c5862g44s9lkf50643p3nbwm5-gnused-4.10 3b3k72bbr01bgff7bdkiz6r05gmlx5s9-gnugrep-3.12 c0dxfpyx3wqibfipmghpay1rqmni05m6-alsa-ucm-conf-1.2.16.1 i8an849ir6g3f4n2wrsm88s2qgrzjayq-tzdata-2026c k8as1kdn16q5w6zq6z3vih70qby9l40i-glibc-locales-2.42-84 p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11 x0iv5hlpqfrpykdckbj8jdxy78clbjpz-systemd-261.2 xqx65i7cwacw7rsnj3dlbqas27mwvpn2-findutils-4.11.0
+Deriver: 32vm0prmm5spp6yzqijqr7q6kccv1wya-unit-systemd-networkd-wait-online-.service.drv
+Sig: korri-cache-ci-1:fo0hOBfLHjNZJxQ3IMnI5f9QEVhsyrdZaJb2TELEplwPlHJxlJ5aHC6zTp/ififnjg9Gz55SnjT8xjk7RupMCQ==

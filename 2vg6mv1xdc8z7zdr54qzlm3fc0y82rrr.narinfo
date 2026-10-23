@@ -1,0 +1,10 @@
+StorePath: /nix/store/2vg6mv1xdc8z7zdr54qzlm3fc0y82rrr-unit-systemd-random-seed.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-23-1215/0838qw688lsw3q0i3a8slbzimhqfdi5fabm5h5s64csc1kddg8bf.nar.zst
+Compression: zstd
+FileHash: sha256:0838qw688lsw3q0i3a8slbzimhqfdi5fabm5h5s64csc1kddg8bf
+FileSize: 643
+NarHash: sha256:0fkik80h8w8gxjf2s6110mn1kndrf2vxsxiqwcfasj3xdjnxfqhn
+NarSize: 1320
+References: 1nwgsy4c5862g44s9lkf50643p3nbwm5-gnused-4.10 3b3k72bbr01bgff7bdkiz6r05gmlx5s9-gnugrep-3.12 c0dxfpyx3wqibfipmghpay1rqmni05m6-alsa-ucm-conf-1.2.16.1 i8an849ir6g3f4n2wrsm88s2qgrzjayq-tzdata-2026c k8as1kdn16q5w6zq6z3vih70qby9l40i-glibc-locales-2.42-84 p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11 x0iv5hlpqfrpykdckbj8jdxy78clbjpz-systemd-261.2 xqx65i7cwacw7rsnj3dlbqas27mwvpn2-findutils-4.11.0
+Deriver: kznr7fzjc2lrg23zkzppsv5dx58iwcrx-unit-systemd-random-seed.service.drv
+Sig: korri-cache-ci-1:waOSXi8OpT/PzUZ5tpn4jhYmsfzKscJiZougzgP4v14ospzTb0t66fExDbOAvl8zrDMQUZf6kAi5eOYKB7eeDg==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/pbp74037za33bskj8wfkaxcyd1imp596-X-Restart-Triggers-systemd-udevd
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-23-1215/10syvdpia4q1rll4822lsni2w2xscwsql0jnidxxa6mk7gqgpwi2.nar.zst
+Compression: zstd
+FileHash: sha256:10syvdpia4q1rll4822lsni2w2xscwsql0jnidxxa6mk7gqgpwi2
+FileSize: 135
+NarHash: sha256:14cynbf5kgfb577bndqmin7rv2irh1ccwzvfw234zq1lkc1lrpqh
+NarSize: 168
+References: x44qqlqwm9gqj9b934a8ypnx2j62vv6d-udev-rules
+Deriver: hccl34p2b8s8d9mzlncj77vnnmwwmxaz-X-Restart-Triggers-systemd-udevd.drv
+Sig: korri-cache-ci-1:IyLEA/P+wLKc91me4dqrLQapU4XFy53jVKH40jw2WIpkHrqFSAPhNh6agnkbjPcs1etr+F3pMr86OWCZ4INODg==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/y91zhkp4msmngr47ddw8sc7s6fqqig0k-unit-sleep-actions.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-23-1215/08z55byfhnyad8hkxc6n4w49gpx5ayybs8nalvx6fka3dnzwgswc.nar.zst
+Compression: zstd
+FileHash: sha256:08z55byfhnyad8hkxc6n4w49gpx5ayybs8nalvx6fka3dnzwgswc
+FileSize: 787
+NarHash: sha256:1allnn6ar6i381g4d9sk38209yh7f004hgcaawyb1lkd8mf1a806
+NarSize: 1648
+References: 1nwgsy4c5862g44s9lkf50643p3nbwm5-gnused-4.10 3b3k72bbr01bgff7bdkiz6r05gmlx5s9-gnugrep-3.12 c0dxfpyx3wqibfipmghpay1rqmni05m6-alsa-ucm-conf-1.2.16.1 i8an849ir6g3f4n2wrsm88s2qgrzjayq-tzdata-2026c k8as1kdn16q5w6zq6z3vih70qby9l40i-glibc-locales-2.42-84 p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11 x0iv5hlpqfrpykdckbj8jdxy78clbjpz-systemd-261.2 xqx65i7cwacw7rsnj3dlbqas27mwvpn2-findutils-4.11.0 yqb5klv6qqq4mf6k4nyj6f55ycdxpqr4-unit-script-sleep-actions-pre-stop zyfjp0yq1hllcswfhm13djmqjjr48j3r-unit-script-sleep-actions-start
+Deriver: m7f5xzmh13m3c6ninc9jcy7c68zmigac-unit-sleep-actions.service.drv
+Sig: korri-cache-ci-1:sK/TX1F+DyR/PQbhBdheh1eAMDW7402FeMMbevU1n+X8cukTYacBFNXANa8SvNPzlcXcAFLqoHgxbTclsrtxCA==

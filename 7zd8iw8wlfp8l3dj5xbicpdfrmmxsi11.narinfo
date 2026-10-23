@@ -1,0 +1,10 @@
+StorePath: /nix/store/7zd8iw8wlfp8l3dj5xbicpdfrmmxsi11-set-environment
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-23-1215/1zvvc045fikk8d4pxd9iwklvjp6mb5lndjn8r5l46fsz58dv7sjx.nar.zst
+Compression: zstd
+FileHash: sha256:1zvvc045fikk8d4pxd9iwklvjp6mb5lndjn8r5l46fsz58dv7sjx
+FileSize: 1295
+NarHash: sha256:1ajmxj9x5al5dskpdr096q2ingvxzgfz4clsgwkz7093wfgy4hyi
+NarSize: 4600
+References: c0dxfpyx3wqibfipmghpay1rqmni05m6-alsa-ucm-conf-1.2.16.1 nghcm7446fi3az2zjkgrc84y26mhqrp3-lessconfig
+Deriver: s860igdahz1sdmms3zcf6iaclny365ns-set-environment.drv
+Sig: korri-cache-ci-1:vR/1Eb3mooHWN116dXawCZEEDAhkxMpgnZpn+COrPIQbwPoSZ6FX5qJYMqkaj4mYakzHaBwzHuUxDyF4xrebBg==

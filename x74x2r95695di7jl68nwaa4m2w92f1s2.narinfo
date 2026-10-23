@@ -1,0 +1,10 @@
+StorePath: /nix/store/x74x2r95695di7jl68nwaa4m2w92f1s2-unit-wpa_supplicant.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-23-1215/1mbkmbvnncv09i44d89pclim79clfw74bz5xfdzq1724hc6g251r.nar.zst
+Compression: zstd
+FileHash: sha256:1mbkmbvnncv09i44d89pclim79clfw74bz5xfdzq1724hc6g251r
+FileSize: 1387
+NarHash: sha256:152f3riirqsfhrk2h6jw7q52mj7s1iih04jxszgqh96bcm533dbj
+NarSize: 3520
+References: 1nwgsy4c5862g44s9lkf50643p3nbwm5-gnused-4.10 3b3k72bbr01bgff7bdkiz6r05gmlx5s9-gnugrep-3.12 akkqp8q9rx2qnmcji5wfghbbvc32kf38-X-Restart-Triggers-wpa_supplicant c0dxfpyx3wqibfipmghpay1rqmni05m6-alsa-ucm-conf-1.2.16.1 i8an849ir6g3f4n2wrsm88s2qgrzjayq-tzdata-2026c k3mrmm1n4alf9d2nalvpxjh29ikp7ldr-unit-script-wpa_supplicant-start k8as1kdn16q5w6zq6z3vih70qby9l40i-glibc-locales-2.42-84 l2z82zivkv459y49f81anb5x2jzhx5vy-wpa_supplicant-2.12 p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11 x0iv5hlpqfrpykdckbj8jdxy78clbjpz-systemd-261.2 xqx65i7cwacw7rsnj3dlbqas27mwvpn2-findutils-4.11.0
+Deriver: 4igm9hld87vg94xfjppr39m3l9pmr3jj-unit-wpa_supplicant.service.drv
+Sig: korri-cache-ci-1:Ef61pXIdUyCx6OXS89Sr4KDAr9uL79n9cE4B66LKfe0WQikSUj2MYhVqPUuO1hhLoedL4b1YlbxMU6cwAzCeCw==

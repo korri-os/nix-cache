@@ -1,0 +1,10 @@
+StorePath: /nix/store/3r0s5jh7ih779d0xpf2pxwyf2b6zjym8-unit-emergency.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-23-1215/02ljaqdw9sx7li0m2bpah62il9bqlhp4j8aky06sxaczmc22lbzk.nar.zst
+Compression: zstd
+FileHash: sha256:02ljaqdw9sx7li0m2bpah62il9bqlhp4j8aky06sxaczmc22lbzk
+FileSize: 668
+NarHash: sha256:15lpzvr7qd6fsj2vnl0nbmcmrrfhjfyrf7qx0a27nyh4dgaaljvw
+NarSize: 1408
+References: 1nwgsy4c5862g44s9lkf50643p3nbwm5-gnused-4.10 3b3k72bbr01bgff7bdkiz6r05gmlx5s9-gnugrep-3.12 c0dxfpyx3wqibfipmghpay1rqmni05m6-alsa-ucm-conf-1.2.16.1 hdjg1cgqcrs57x2rng7jkk0l94xf8i4y-plymouth-26.134.222 i8an849ir6g3f4n2wrsm88s2qgrzjayq-tzdata-2026c k8as1kdn16q5w6zq6z3vih70qby9l40i-glibc-locales-2.42-84 p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11 x0iv5hlpqfrpykdckbj8jdxy78clbjpz-systemd-261.2 xqx65i7cwacw7rsnj3dlbqas27mwvpn2-findutils-4.11.0
+Deriver: ln3jpxg8a48g6g2090l0k5vv0jidbjfd-unit-emergency.service.drv
+Sig: korri-cache-ci-1:l1WQ3dTu+1DGL1ukXtjhVeQIF7FSlufoyhRRqPXs04E9DwnScf1FFySfGwRh57o+t3rYZzcWIe7B9UqTUMZ9DA==

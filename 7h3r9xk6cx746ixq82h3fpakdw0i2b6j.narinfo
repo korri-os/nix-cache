@@ -1,0 +1,10 @@
+StorePath: /nix/store/7h3r9xk6cx746ixq82h3fpakdw0i2b6j-linux-7.2.6-dev
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-23-1215/0w4npmq14djk3vgpzgp134qsy26hrs95qz4af1nbq15l0rpmpviv.nar.zst
+Compression: zstd
+FileHash: sha256:0w4npmq14djk3vgpzgp134qsy26hrs95qz4af1nbq15l0rpmpviv
+FileSize: 31455783
+NarHash: sha256:087amwbkwq3ij34id3h5g9m9rj58xqa4gjhjl5hfl3bgkiz3clws
+NarSize: 121292512
+References: 1nwgsy4c5862g44s9lkf50643p3nbwm5-gnused-4.10 7h1qw3czy317fdqxnv4fnrfl864gmxp6-linux-7.2.6 7h3r9xk6cx746ixq82h3fpakdw0i2b6j-linux-7.2.6-dev cc9ybj8h0b8aj85j6m8lh4nj24l1w4dq-gawk-5.4.1 havg05vfa2g9ksbcsnk0hx9z1mlgfbhi-binutils-2.46 idnyqaaix26szkvhs1mjgi7990jajz9a-bash-5.3p15 m54cs0m994hc3n9lax7sg98sgy729qsa-glibc-2.42-84 mhx6dmg6whr7c85krk9rjwjsxrp9iggs-gcc-15.3.0 p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11 rwg4kyj336j35csibciqh5z0qx0n7sxv-python3-minimal-3.14.7 wlnxy8mxf0dgsk8qn14z0s6qs9j5idyp-perl-5.42.3 z2qkl46kv87zcs2sfwfjgc75nq0hbzhf-gcc-wrapper-15.3.0 zb29r6g2h9pvsc2bl5vr4j4ad1q6dvx1-gnumake-4.4.1
+Deriver: fdnkvbb0mgpgfq99gnm0m69fk3fk33dh-linux-7.2.6.drv
+Sig: korri-cache-ci-1:NYf92cZzuKAZCJHTzGUS1+4X2UnWgVNXXoi7U7AevgP+fz3s4emqot2dMqSFcfQxM2Xtw0c0B0kUbM0Qwy0cBw==

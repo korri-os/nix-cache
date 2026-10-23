@@ -1,0 +1,10 @@
+StorePath: /nix/store/la92n7jwv58biydb3n9nwyyw9wjj4qwg-r36tmax-session-sanity
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-23-1215/1sc81rz31ghy3wdyjvhm4qidacrw3vnkgx3c6nirrnqgil6wmxk6.nar.zst
+Compression: zstd
+FileHash: sha256:1sc81rz31ghy3wdyjvhm4qidacrw3vnkgx3c6nirrnqgil6wmxk6
+FileSize: 664
+NarHash: sha256:0dxdn7gwxda17k5wy1d3ki2qgdlj15lq0dx8b834mczfn8i7amj0
+NarSize: 1240
+References: 3b3k72bbr01bgff7bdkiz6r05gmlx5s9-gnugrep-3.12 57w48swwzl4is9g91ff88mfbmkpbbwgn-session-sanity.sh gnadg5slifq2r638xvz4pv6vrsdl9xkj-systemd-261.2 idnyqaaix26szkvhs1mjgi7990jajz9a-bash-5.3p15 p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11 rivsjh5plkn9y7fs4b3wbyi720727nxd-procps-4.0.7 xrpn2mzijwrl6rvi8h1rg73c3dr8i4d0-curl-8.22.0-bin z9nkwcylvgcrn4dvvd91jp8blv3mx38v-bash-interactive-5.3p15
+Deriver: gvxfd08n0whqzjlrddraihlk0wwlpax4-r36tmax-session-sanity.drv
+Sig: korri-cache-ci-1:rSSH/ZLcgQUbfz/vR6CW69pQ4S7yhuUNidMwk6JleGBg9tuPV1zscLW5VezG/hEzp/7WKX17KSxoeEK7xqT8DA==

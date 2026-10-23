@@ -1,0 +1,10 @@
+StorePath: /nix/store/zjs8dl8qksmkni0xb9aijzg64yj6s6xm-r36tmax-image-only-update
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-23-1215/1l1jj41lc5hq752shavsddaa9ks56bb88lmfiizajzhdh1qs8yjk.nar.zst
+Compression: zstd
+FileHash: sha256:1l1jj41lc5hq752shavsddaa9ks56bb88lmfiizajzhdh1qs8yjk
+FileSize: 264
+NarHash: sha256:0y8maj8b526gasxmwmj6vl9kdy1g2wcpz11gc6mm1rd7ki54sw86
+NarSize: 336
+References: idnyqaaix26szkvhs1mjgi7990jajz9a-bash-5.3p15
+Deriver: r06rvdbgwfb5fhwpjddsvjhiz9y8814r-r36tmax-image-only-update.drv
+Sig: korri-cache-ci-1:iv+2Kv0K5LWnv1707DRsdgL68VPZ7OdZoCEOyBUvCD6Ha+788lPFRbaU8eGQawfJ4EfhS1OsORHFENWd/nxrBg==

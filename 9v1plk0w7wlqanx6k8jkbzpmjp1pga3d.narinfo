@@ -1,0 +1,10 @@
+StorePath: /nix/store/9v1plk0w7wlqanx6k8jkbzpmjp1pga3d-unit-nix-optimise.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-23-1215/0cq7fi4z9jmfnllk567r30vfcbs9jbzgmsw4lnwbajp1bgyrn3ww.nar.zst
+Compression: zstd
+FileHash: sha256:0cq7fi4z9jmfnllk567r30vfcbs9jbzgmsw4lnwbajp1bgyrn3ww
+FileSize: 794
+NarHash: sha256:0gyvaysi1sd5d2i5dicgb4q46rmapxzl3b0wqrz5mm7lkhl29r80
+NarSize: 1568
+References: 1nwgsy4c5862g44s9lkf50643p3nbwm5-gnused-4.10 3b3k72bbr01bgff7bdkiz6r05gmlx5s9-gnugrep-3.12 c0dxfpyx3wqibfipmghpay1rqmni05m6-alsa-ucm-conf-1.2.16.1 i8an849ir6g3f4n2wrsm88s2qgrzjayq-tzdata-2026c k8as1kdn16q5w6zq6z3vih70qby9l40i-glibc-locales-2.42-84 lz2w1as1p0c2lajnvy2iif1i3vqh189a-nix-2.34.8 p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11 x0iv5hlpqfrpykdckbj8jdxy78clbjpz-systemd-261.2 xqx65i7cwacw7rsnj3dlbqas27mwvpn2-findutils-4.11.0
+Deriver: 12bpi3blmk1nmvidlihb4w5hjb3jvp53-unit-nix-optimise.service.drv
+Sig: korri-cache-ci-1:uhJI4xZUKGYK8BnMfPZN6HP38WsSijfgmLirUhFkHko+f3MeAHq1nSLu0rDostKSNJkZMj/WjFs2B+WSvVPECQ==
