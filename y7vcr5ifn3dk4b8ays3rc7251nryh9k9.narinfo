@@ -1,0 +1,10 @@
+StorePath: /nix/store/y7vcr5ifn3dk4b8ays3rc7251nryh9k9-unit-korrid.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-23-1352/1s9s62pbj1darz1zs8q945b0d4549g6kmm1kv32aijyk3na95w97.nar.zst
+Compression: zstd
+FileHash: sha256:1s9s62pbj1darz1zs8q945b0d4549g6kmm1kv32aijyk3na95w97
+FileSize: 2128
+NarHash: sha256:0g7glbbg2wm6gzyc8ybr8k9shvaq4vwnrjhrybj4njfmvyhgi07g
+NarSize: 5696
+References: 1nwgsy4c5862g44s9lkf50643p3nbwm5-gnused-4.10 3b3k72bbr01bgff7bdkiz6r05gmlx5s9-gnugrep-3.12 50prbg3q5yv0y5dwrbyjz44xadp6qi0y-korri-inputd-0.0.0 7zasm3vcbxnnhvkq72byjkyng7rsrlpz-korrid-rg353m-host.toml gnadg5slifq2r638xvz4pv6vrsdl9xkj-systemd-261.2 i8an849ir6g3f4n2wrsm88s2qgrzjayq-tzdata-2026c jp7dhfn6fa363iv5707dgmpcqigp07xw-sway-1.12 k8as1kdn16q5w6zq6z3vih70qby9l40i-glibc-locales-2.42-84 p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11 x0iv5hlpqfrpykdckbj8jdxy78clbjpz-systemd-261.2 xqx65i7cwacw7rsnj3dlbqas27mwvpn2-findutils-4.11.0
+Deriver: g7c82gdh12h29732gi6g09b09jwvvmmc-unit-korrid.service.drv
+Sig: korri-cache-ci-1:l+LDTrcEPM+f2YPKEorF8NNEuW2Ui1Zm6XpxaP1b4IWR1dAY/RzgaI3DHBqDRzAVoUMjjVE2tFg7tGdqXACwCw==
