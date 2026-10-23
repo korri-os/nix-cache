@@ -1,0 +1,10 @@
+StorePath: /nix/store/q2l6vw9d22vcl9kl56jqg8abdagjvprs-cargo-package-tracing-log-0.2.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-23-1421/1j3hm5mywdhkmzh4qfqm50r3qfcvwvqh8qb58b94ib6dxh7v4cdr.nar.zst
+Compression: zstd
+FileHash: sha256:1j3hm5mywdhkmzh4qfqm50r3qfcvwvqh8qb58b94ib6dxh7v4cdr
+FileSize: 18904
+NarHash: sha256:1wvajywi7j1228lccwpv4rczqwqwk1mr5m5afxlyc10k97c3b2nq
+NarSize: 69816
+References: 
+Deriver: fawn0lfxh3r2rqxxq6k6xpd9vz5ii9ap-cargo-package-tracing-log-0.2.0.drv
+Sig: korri-cache-ci-1:DgNvdhU4MIOA259yctwplUUVdcMz6pkzVXZItowRfezeiS+ywjiExzE9W87xGdJ54hAG9ukb+yUpcHh3fMKKAw==

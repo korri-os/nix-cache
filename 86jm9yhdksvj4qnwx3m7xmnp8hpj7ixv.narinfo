@@ -1,0 +1,10 @@
+StorePath: /nix/store/86jm9yhdksvj4qnwx3m7xmnp8hpj7ixv-cargo-package-evdev-0.13.2
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-23-1421/13nirjg33gavnzw1wnycpcrg34r4xgr4p3bdki6j9a952f6v8mfv.nar.zst
+Compression: zstd
+FileHash: sha256:13nirjg33gavnzw1wnycpcrg34r4xgr4p3bdki6j9a952f6v8mfv
+FileSize: 63566
+NarHash: sha256:16q1vvfncl3r6kkbgi4glwqa7zvi3wx4fjkpmdiv5jmp7pgx787v
+NarSize: 252640
+References: 
+Deriver: 71h5mhvfnqmm8ryvy123hhvs5vhvpqgx-cargo-package-evdev-0.13.2.drv
+Sig: korri-cache-ci-1:tZmujIhatJjt8Pr4JXsSv+fX3ec3oetea222RVj6WTdze0aL5y6NJ0WouTVCb11yiEtzkNLw5t+gIzBw8zCfBA==

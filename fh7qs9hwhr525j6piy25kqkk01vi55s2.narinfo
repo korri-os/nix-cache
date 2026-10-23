@@ -1,0 +1,10 @@
+StorePath: /nix/store/fh7qs9hwhr525j6piy25kqkk01vi55s2-cargo-package-bitvec-1.1.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-23-1421/1hyy5zhd6zlcz2h52jv36n6dq77blazclk4rha322s20ppx0mv49.nar.zst
+Compression: zstd
+FileHash: sha256:1hyy5zhd6zlcz2h52jv36n6dq77blazclk4rha322s20ppx0mv49
+FileSize: 222539
+NarHash: sha256:0m8g1smrlrcmc35sny1ff90nbkrzk9yp4psv9shiyzrk9shs5401
+NarSize: 1080648
+References: 
+Deriver: jzsh31i5pdybqs2hkia4fq784cq931s7-cargo-package-bitvec-1.1.1.drv
+Sig: korri-cache-ci-1:jxyjukDmXWBDY5xBZSzBQ6/uE1KdYO/8HKQkMoP2UXSuePCpfb+Fq9ZIiYJRLIVYPMUf85L8Uq23oaR4rS5hAw==

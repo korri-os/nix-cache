@@ -1,0 +1,10 @@
+StorePath: /nix/store/8w5r8q89g31my1zayk5hj500jnmcwlwh-cargo-package-radium-0.7.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-23-1421/0w8l83xm2pqlqfnxda12gpssz63irj4834m22bwx379fbdkn8mlm.nar.zst
+Compression: zstd
+FileHash: sha256:0w8l83xm2pqlqfnxda12gpssz63irj4834m22bwx379fbdkn8mlm
+FileSize: 11538
+NarHash: sha256:1ncxpxj54lvwijwrah5l5w2j4svwnv88pd3sd42i7msyr02cy5s1
+NarSize: 52352
+References: 
+Deriver: s4ij2dsjwz2vh0psij3jm4nr00j4pdcl-cargo-package-radium-0.7.0.drv
+Sig: korri-cache-ci-1:aK9chJNmF3HpmxZQPCY85YAO2q+964pBTrwe9Hu3nUqbsNCv2hWUKihU9cqIuvaS3PZz1JyzKvx/RNMsSXq4AQ==

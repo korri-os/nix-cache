@@ -1,0 +1,10 @@
+StorePath: /nix/store/ll9fvg9hd0lj6k7h49xpjb345x0wjf82-cargo-package-tap-1.0.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-23-1421/0m8ifgbq90j6ajcw0c2azn1084qnr6kkg277rb65q94kycyb6bfw.nar.zst
+Compression: zstd
+FileHash: sha256:0m8ifgbq90j6ajcw0c2azn1084qnr6kkg277rb65q94kycyb6bfw
+FileSize: 11925
+NarHash: sha256:0jzs7zxg4zb3hys6f9nl5f6acnwra0hlfcwsyc1mzc13hh370zcv
+NarSize: 41640
+References: 
+Deriver: rik2xfjcskb4i1pgiwb330azs478a3ys-cargo-package-tap-1.0.1.drv
+Sig: korri-cache-ci-1:oMz4I+7FuoejfzOY2OC445PmYTv8FRRLcW15H3gm5jAKUBw65Lu9bakdH2Qsh8rlwQEjiZ4ZZQcrh2rIsgTPBg==

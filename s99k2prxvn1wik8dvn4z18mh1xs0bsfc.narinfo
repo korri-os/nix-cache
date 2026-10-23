@@ -1,0 +1,10 @@
+StorePath: /nix/store/s99k2prxvn1wik8dvn4z18mh1xs0bsfc-cargo-package-wyz-0.5.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-23-1421/12zmvn93czlfc4s7y87pd7xny9jqq0qpbbjf5q5nn5bslb6d2pz4.nar.zst
+Compression: zstd
+FileHash: sha256:12zmvn93czlfc4s7y87pd7xny9jqq0qpbbjf5q5nn5bslb6d2pz4
+FileSize: 19748
+NarHash: sha256:18sfb7sjaza3b3gmmf6nmhqr9qq1czcgjap1rglp0w7jbwz3hkkf
+NarSize: 64656
+References: 
+Deriver: vn2mjgjvpivagj38mk1rlxk372jpv19z-cargo-package-wyz-0.5.1.drv
+Sig: korri-cache-ci-1:lr9egj/j1gRw2pDWYVT2bq3oXKZunp3mxsPmJR3gWdA4GaRED/C7GJwOHXhE/wK7sW1+vOclJMDTQbXvjhvfBQ==

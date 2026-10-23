@@ -1,0 +1,10 @@
+StorePath: /nix/store/31jc3myxy5czh9gzzmkrpr2x93ak7nbp-cargo-package-nu-ansi-term-0.50.3
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-23-1421/0vxhn9xvdq1cfs521kx1r8wggc5q6y228rzi857cxw8p2ay7ajkk.nar.zst
+Compression: zstd
+FileHash: sha256:0vxhn9xvdq1cfs521kx1r8wggc5q6y228rzi857cxw8p2ay7ajkk
+FileSize: 30043
+NarHash: sha256:19jrs5xypf8y3g14x0qwdx4lz57liqzm8nk7wn7rmin4b2g06l07
+NarSize: 132792
+References: 
+Deriver: pvsip0awd08jhc00gflw35cf59xlcfrs-cargo-package-nu-ansi-term-0.50.3.drv
+Sig: korri-cache-ci-1:w1x9OtPiOrxSnjfM9U4Lkia5lP6TTsOtf2U+v5uPTdZ3eHhh4VzDX8wS102p/klXctAgOr3AZXuhrIrNpauMBQ==

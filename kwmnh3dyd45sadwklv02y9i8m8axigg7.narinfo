@@ -1,0 +1,10 @@
+StorePath: /nix/store/kwmnh3dyd45sadwklv02y9i8m8axigg7-cargo-package-funty-2.0.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-23-1421/1s0i0i0yxzxbiyp7lpm8kvy7ir5y890zwyzd6avz8qr9q9kagjlz.nar.zst
+Compression: zstd
+FileHash: sha256:1s0i0i0yxzxbiyp7lpm8kvy7ir5y890zwyzd6avz8qr9q9kagjlz
+FileSize: 13997
+NarHash: sha256:1gm0n69cgpqdwz7swa977kwdq5sssc1vrvpiq29zl65yc4dy1avs
+NarSize: 58888
+References: 
+Deriver: 9l7pi5qnpsnp2f8xmxvlqllmzdd76vd1-cargo-package-funty-2.0.0.drv
+Sig: korri-cache-ci-1:hYL6EPsSDb2WhNEyP0FO+MuQg5yI4qCEhijm/ge99fkalJfrQMF/sbJ0/elgYU0L93bxu6juRnq/YknUltyHDQ==

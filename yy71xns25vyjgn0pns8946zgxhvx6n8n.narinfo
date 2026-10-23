@@ -1,0 +1,10 @@
+StorePath: /nix/store/yy71xns25vyjgn0pns8946zgxhvx6n8n-cargo-package-tracing-subscriber-0.3.23
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-23-1421/0y8dkp0b26zyiwyd0iwq20mc4imnrf955achaggl611vhcgwz6q5.nar.zst
+Compression: zstd
+FileHash: sha256:0y8dkp0b26zyiwyd0iwq20mc4imnrf955achaggl611vhcgwz6q5
+FileSize: 213363
+NarHash: sha256:1nr37n13nf09nxag8nss4qbfn20vfzpxnmqz22y3jy923k1r750y
+NarSize: 1102728
+References: 
+Deriver: nd6f2p2las6p5yikb30cf1j9i37s4f35-cargo-package-tracing-subscriber-0.3.23.drv
+Sig: korri-cache-ci-1:FN9tsDYJWvW005XgMOE6b89eeGISsQQB18DCE0YRVALt0sebYB3/laUVfGuUG0zhT+FFySIdAiZCLCsv68wlBg==

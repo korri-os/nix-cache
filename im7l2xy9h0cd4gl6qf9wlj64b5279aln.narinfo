@@ -1,0 +1,10 @@
+StorePath: /nix/store/im7l2xy9h0cd4gl6qf9wlj64b5279aln-cargo-package-tracing-serde-0.2.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-23-1421/02kkslqzn58lz2gmglp05794d2ydn7ml0pvlxslqg3apjhn5n11i.nar.zst
+Compression: zstd
+FileHash: sha256:02kkslqzn58lz2gmglp05794d2ydn7ml0pvlxslqg3apjhn5n11i
+FileSize: 8387
+NarHash: sha256:0xq1am1rcp9f1cm978p9j0g6rhg54s4rdyvpx9yg6rpqwqipp6wz
+NarSize: 32664
+References: 
+Deriver: 276mzz7agym01x8mx0rjgj0d6424nklv-cargo-package-tracing-serde-0.2.0.drv
+Sig: korri-cache-ci-1:e56RJfaZd1DiXcmSwurnCOSlNhg2urWZ6xkK5/k1NL7VvCbQmU3GAikILUxsfg/FUKIlIFP5DDGuJrDYlJfRBQ==

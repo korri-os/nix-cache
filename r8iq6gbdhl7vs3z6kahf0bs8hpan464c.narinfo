@@ -1,0 +1,10 @@
+StorePath: /nix/store/r8iq6gbdhl7vs3z6kahf0bs8hpan464c-cargo-package-sharded-slab-0.1.7
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-23-1421/0sg5n8123p4mbczhf70zwah85qxvfkxc61aki3h8xy26mg6n26zp.nar.zst
+Compression: zstd
+FileHash: sha256:0sg5n8123p4mbczhf70zwah85qxvfkxc61aki3h8xy26mg6n26zp
+FileSize: 57616
+NarHash: sha256:0szx82c8p71487376gzd81b1gncmizi0wpf4hm5d0wnqw3g1yklg
+NarSize: 278896
+References: 
+Deriver: mby7kn6k144aw9g93gq3bcvnngdzd56z-cargo-package-sharded-slab-0.1.7.drv
+Sig: korri-cache-ci-1:+UriEUHFbRA6/YuUj5bf33JbnTdHoT3SJZc1PJHZQtuDSXIXh1VAy7PB+IMU4p8vF2iT3xkQH8Ayke5gd4DlBQ==
