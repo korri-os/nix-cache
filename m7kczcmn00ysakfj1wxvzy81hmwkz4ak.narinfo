@@ -1,0 +1,10 @@
+StorePath: /nix/store/m7kczcmn00ysakfj1wxvzy81hmwkz4ak-cargo-package-libbz2-rs-sys-0.2.5
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-23-1311/1f1hgqf48mp3ya61i8mkykwv93rxqara18sfx857gy1r0lial5ih.nar.zst
+Compression: zstd
+FileHash: sha256:1f1hgqf48mp3ya61i8mkykwv93rxqara18sfx857gy1r0lial5ih
+FileSize: 53995
+NarHash: sha256:1z1cijmxv1x53rq7yg5cmj2v2ihzr4hq313s62kl9d611jpcdgrk
+NarSize: 245520
+References: 
+Deriver: 51473b5wh0pa91v5rdlxz50i2mivy3vq-cargo-package-libbz2-rs-sys-0.2.5.drv
+Sig: korri-cache-ci-1:WeQDQr/DMZ90+aqHOgQ9ewQB3A1TbSjh4tMCWVAR5brB6KfCV1a2dDE62u+PxSh92R4namEo234J9zNjoZWgCg==

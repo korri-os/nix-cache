@@ -1,0 +1,10 @@
+StorePath: /nix/store/vlvbzjx48qijr4kazzd3v2va2xbh87vn-cargo-package-cpubits-0.1.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-23-1311/162w8sjf8pr3719f2kjsmx69g6xpn1qv5kmv5s1ch2pc2cjj6mwv.nar.zst
+Compression: zstd
+FileHash: sha256:162w8sjf8pr3719f2kjsmx69g6xpn1qv5kmv5s1ch2pc2cjj6mwv
+FileSize: 10902
+NarHash: sha256:12fwn8ay7rzwpfpp02fv8zbwl7l95rrw04i6m87d4q6si00xvy79
+NarSize: 33432
+References: 
+Deriver: ifyrhk31lzpdh4xhnlyzhzlvxs1nhnkc-cargo-package-cpubits-0.1.1.drv
+Sig: korri-cache-ci-1:7ea8kUCwDB1ONlqQGZEKsJOk0akLkdP12hgCWYEBNHtHr5K5JbG5aREvdkb3sKsfSLW1KaWUNMfEdB1yb6HyCA==

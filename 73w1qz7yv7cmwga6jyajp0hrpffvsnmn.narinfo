@@ -1,0 +1,10 @@
+StorePath: /nix/store/73w1qz7yv7cmwga6jyajp0hrpffvsnmn-cargo-package-block-padding-0.4.2
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-23-1311/1i7xyhzksy12dk5jk26nhynnbcj89b079ximnfh8mmrha2wad7f5.nar.zst
+Compression: zstd
+FileHash: sha256:1i7xyhzksy12dk5jk26nhynnbcj89b079ximnfh8mmrha2wad7f5
+FileSize: 10355
+NarHash: sha256:18c358xpkqfaax6cshr6v60a6kmddcwbf0ihhl0m3qkvv8278b17
+NarSize: 33992
+References: 
+Deriver: rln0hzifffijlw3hxbrnl8gvyzfynj7v-cargo-package-block-padding-0.4.2.drv
+Sig: korri-cache-ci-1:Up70ogS8Uui00VDzQAEULAuPZ3uRPGpOXI4HvKq9jTcXfeK6egR8sYfPZRn4cWQWpW7FgB77dZ3dALCa1xr+CQ==

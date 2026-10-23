@@ -1,0 +1,10 @@
+StorePath: /nix/store/6q52admp5xw97lqca3zlg2xd30f5a4l2-cargo-package-sevenz-rust2-0.24.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-23-1311/0n9srhp81g3j8f5pk0gkn5qx8mjg622wk5brva9mb4da4129mzaj.nar.zst
+Compression: zstd
+FileHash: sha256:0n9srhp81g3j8f5pk0gkn5qx8mjg622wk5brva9mb4da4129mzaj
+FileSize: 865162
+NarHash: sha256:0xm04bx4cbdrvm33lyyy2jkd5iw5v1s834isdxmb8x7gwbgda5by
+NarSize: 1970096
+References: 
+Deriver: nkqngkgh7q5v3ifsw3qad59xc6k5sw2b-cargo-package-sevenz-rust2-0.24.1.drv
+Sig: korri-cache-ci-1:58K6DU57L0JyRQOf52Ct4m17YwZbCfckfTh4q/D7oaeOr26KNDlyxrPCygfGo2m352dUq1I6aMlMuex+GmoPAw==

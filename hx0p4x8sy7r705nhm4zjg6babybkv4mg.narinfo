@@ -1,0 +1,10 @@
+StorePath: /nix/store/hx0p4x8sy7r705nhm4zjg6babybkv4mg-cargo-package-cbc-0.2.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-23-1311/0l2vmp17sw8h9mfxk20xyim5bi7c0ddxx282cvk9kxywnz797bx3.nar.zst
+Compression: zstd
+FileHash: sha256:0l2vmp17sw8h9mfxk20xyim5bi7c0ddxx282cvk9kxywnz797bx3
+FileSize: 26088
+NarHash: sha256:0npqf6n4d9adk931qfc340hfci9p322z81q1db178y15a24ccjgi
+NarSize: 55352
+References: 
+Deriver: zwljb1x9054rxnsdnzcp16lrfsrhn02k-cargo-package-cbc-0.2.1.drv
+Sig: korri-cache-ci-1:tmdEu4jOHvaevglhQ2ypjE1adIPtlWhz5/HLjZQVRJTibrL2PU1gZqkaYBsTq7tYldloeBXWYuTyd5e8AbQ4CA==
