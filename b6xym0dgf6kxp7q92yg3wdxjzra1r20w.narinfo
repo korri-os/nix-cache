@@ -1,0 +1,10 @@
+StorePath: /nix/store/b6xym0dgf6kxp7q92yg3wdxjzra1r20w-X-Restart-Triggers-dbus
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-23-1304/03r9qqrcik55ahxkx370s2kgq1yrzl5j6prczlpqpdnimy7ip8ry.nar.zst
+Compression: zstd
+FileHash: sha256:03r9qqrcik55ahxkx370s2kgq1yrzl5j6prczlpqpdnimy7ip8ry
+FileSize: 135
+NarHash: sha256:1xrlmgrbip2r9sfs98x56zpswxf1jhnbfrf77nkiz41ybsvfbmid
+NarSize: 168
+References: xhz48m3j6c4ifl4nl19i3acwbj0lnzx5-dbus-1
+Deriver: 4vwj4c9awwd29ll0a51bid8psbmgbmnz-X-Restart-Triggers-dbus.drv
+Sig: korri-cache-ci-1:kkiRJ1tgwkYlmlBqpxvS1fZibL3T0yTClNjcI96I0GgXR4u5xJJYgiMmzBNYnbtZuzOkHIMtS8um7NhYe3GLAA==
