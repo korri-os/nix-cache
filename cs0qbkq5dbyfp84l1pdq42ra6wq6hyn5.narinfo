@@ -1,0 +1,11 @@
+StorePath: /nix/store/cs0qbkq5dbyfp84l1pdq42ra6wq6hyn5-libretro-fake08-0-unstable-2026-06-13
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-23-1325/0z185h61x2yxlczip2v8rxn52whqp5p9zpbyz54lzcxw6380ynsd.nar.zst
+Compression: zstd
+FileHash: sha256:0z185h61x2yxlczip2v8rxn52whqp5p9zpbyz54lzcxw6380ynsd
+FileSize: 730996
+NarHash: sha256:159ggbsakdmwk86rf8mzgsr1k2p1ya4yd205y899yfwpbanwpjqg
+NarSize: 2403704
+References: 89n0gcl1yjp37ycca45rn50h7lms5p6f-glibc-2.40-66 qipd93x9gjyiygqk673rd2ssnf8y7jj0-gcc-14.3.0-lib
+Deriver: 6h5ad9609yfl5n6s8z4ipvw7n37acsc8-libretro-fake08-0-unstable-2026-06-13.drv
+Sig: korri-cache-ci-1:QIou7a4ZvsJSauttP+UFLCcelEsBN6KbGFzRpGDFf4hHNacpZLzyHB+/RfJNLfixIJrivi1+vRe9VbiYiOhMBw==
+Sig: korri-plugins-1:CRAluTHjDn2VOvqOBVSn1TdkL228grTRMimw+E0iXYjDZ2B5jGOcsBeOewjWRyi4i7JdDDg0hFipZm9JxPu0Ag==
