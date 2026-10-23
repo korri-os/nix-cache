@@ -1,0 +1,10 @@
+StorePath: /nix/store/pz80qm79rk3pj4iidazqvq745hdp1skq-unit-korri-portal-initialize.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-23-1355/0iiyd4kna2kjpc3r1p4ig48wi8h6zn8gyvbsbxgs4nm48wxcl8nm.nar.zst
+Compression: zstd
+FileHash: sha256:0iiyd4kna2kjpc3r1p4ig48wi8h6zn8gyvbsbxgs4nm48wxcl8nm
+FileSize: 809
+NarHash: sha256:09ydd8wkpbxhixqkjqz16qyz3wx4r55f9k394hd13r104q4pbk1m
+NarSize: 1640
+References: 1nwgsy4c5862g44s9lkf50643p3nbwm5-gnused-4.10 3b3k72bbr01bgff7bdkiz6r05gmlx5s9-gnugrep-3.12 c0dxfpyx3wqibfipmghpay1rqmni05m6-alsa-ucm-conf-1.2.16.1 f5vkxh1qm0p56rdd7rnifv0jl98193g1-korri-portal-0.0.0 i8an849ir6g3f4n2wrsm88s2qgrzjayq-tzdata-2026c k8as1kdn16q5w6zq6z3vih70qby9l40i-glibc-locales-2.42-84 p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11 pwk08likb0l49li766jmx54321k398c8-korri-portal-select x0iv5hlpqfrpykdckbj8jdxy78clbjpz-systemd-261.2 xqx65i7cwacw7rsnj3dlbqas27mwvpn2-findutils-4.11.0
+Deriver: lra9c2bikwfwq6icl4l9crpv8zp6i6a9-unit-korri-portal-initialize.service.drv
+Sig: korri-cache-ci-1:Izs7JnYdUjeyt6s8WaCV49zALtFapDCk1jqwMcjICkX7D8b1IPNbf3lM7U/CRhouEcrQokYkBh8Mf6dEk3HACg==
