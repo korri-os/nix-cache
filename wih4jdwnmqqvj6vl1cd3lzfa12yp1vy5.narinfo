@@ -1,0 +1,10 @@
+StorePath: /nix/store/wih4jdwnmqqvj6vl1cd3lzfa12yp1vy5-cargo-package-foldhash-0.2.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-23-1251/0wpl1qk7v2j781akfgqfczyqi6mvaza9x8i2mxb26w598lrags9j.nar.zst
+Compression: zstd
+FileHash: sha256:0wpl1qk7v2j781akfgqfczyqi6mvaza9x8i2mxb26w598lrags9j
+FileSize: 24241
+NarHash: sha256:1xlb9xgqsdk3b17isj98kb2hkjir8nv8zv2i2yy1jp657h0naj8c
+NarSize: 87784
+References: 
+Deriver: vzch0pvhs577w4lp8jxz8a8jf0kp51fd-cargo-package-foldhash-0.2.0.drv
+Sig: korri-cache-ci-1:XSd8E7fZQSlGTVUxH7crS8Kd24ykddxQYfbK4VC2iYUgdZ8QXYa8bSRHL0cdevrn99/wEweg2EnhrrTYrzppDg==
