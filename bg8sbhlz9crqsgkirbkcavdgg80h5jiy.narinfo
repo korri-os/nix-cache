@@ -1,0 +1,11 @@
+StorePath: /nix/store/bg8sbhlz9crqsgkirbkcavdgg80h5jiy-moonlight-identity-bootstrap
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-24-1452/1f8a09qxl56i1qypw8qhvh89i1skfv264d765x8nv5rknd7j09z1.nar.zst
+Compression: zstd
+FileHash: sha256:1f8a09qxl56i1qypw8qhvh89i1skfv264d765x8nv5rknd7j09z1
+FileSize: 1250
+NarHash: sha256:0p4m5bqi47abh0nwd0zz1zspcc6myy4vrc6q790ib99ml3jcjkfc
+NarSize: 2744
+References: lq2fsnmg0q3y0vlxn91w8s8wvj1m6fld-python3-3.14.8
+Deriver: cxwlxd5gldi9v9wvd3y6ibp23mba2rwv-moonlight-identity-bootstrap.drv
+Sig: korri-cache-ci-1:cjBhHx7S/3EUwUV7oZ6N8dRl+uYxopFi68yV+CZ/im17Z33ln/ZegukPd5eFX4PN6PHGoqtMYuPoVdjsF7nJAw==
+Sig: korri-plugins-1:ZXwrGDJKMo4Y2z/auRljz3uxwubw9SbzGe1RCz1zurOR07bDdiZNG/F2OCUiZ0RH8Ox4Lyl4xubIVhrzjPmNAA==
