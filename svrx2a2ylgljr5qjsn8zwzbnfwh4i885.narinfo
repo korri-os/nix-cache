@@ -1,0 +1,10 @@
+StorePath: /nix/store/svrx2a2ylgljr5qjsn8zwzbnfwh4i885-initrd-linux-7.2
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1483/1p2lcmzlc9iqx5pxfxmwihccmm9wrwsh687zya2p91lhwf7a18fm.nar.zst
+Compression: zstd
+FileHash: sha256:1p2lcmzlc9iqx5pxfxmwihccmm9wrwsh687zya2p91lhwf7a18fm
+FileSize: 16197074
+NarHash: sha256:0rh04irbfl0m98iy2kfwx1lkw5p0366vylk2cbvf3qlh13kksqjc
+NarSize: 16199040
+References: 
+Deriver: cqmyqdkgxihkhm6lrjqd1q8xs5ra8517-initrd-linux-7.2.drv
+Sig: korri-cache-ci-1:ijg+HoR5AhWPdwySXCWyLqKqYZM3fF/hNf0jsLBySKgFUCq4SPXlULywqlbLfrYh6IS+zQMDFvLugo+KtpLcAg==

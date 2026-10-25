@@ -1,0 +1,10 @@
+StorePath: /nix/store/460g48q7c77ndhajfy3lkxsp9y8y8bxh-linux-7.2-modules
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1483/0zwp666k2izfgwdwihv6qnw6263ch3j9wv9l90bw8bz43lrhxfbn.nar.zst
+Compression: zstd
+FileHash: sha256:0zwp666k2izfgwdwihv6qnw6263ch3j9wv9l90bw8bz43lrhxfbn
+FileSize: 1485665
+NarHash: sha256:04filvplc2s0fcag66c13jg1msywl2xq3h442a2sgp2r8ba0j0ya
+NarSize: 8511776
+References: 4m9ri3jwf7qcyzjaagg25f7kf9bgph7r-linux-7.2-modules zc3swnxbbmc7c210j0qih10xdcp0fsk0-rk-mpp-service-rkvenc-7.2
+Deriver: 7gi4f08y03mhcximm7d3vx3l3hzjn56n-linux-7.2-modules.drv
+Sig: korri-cache-ci-1:ugEhsdgRixPl+g3jj2lYCCBHrwyQ8zp1CjzIpuMFAC7VG6d9gf+nApVKPFjeeH6PKoBDBB3UyThFN9JyX4Q1Dg==
