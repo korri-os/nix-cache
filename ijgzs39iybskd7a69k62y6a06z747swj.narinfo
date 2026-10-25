@@ -1,0 +1,10 @@
+StorePath: /nix/store/ijgzs39iybskd7a69k62y6a06z747swj-rk-mpp-service-rkvenc-7.2
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1472/0a7f0bfwzspbwiri7hpqm4jw0nbbs8z1jb67gs8v6rqhxq0npxx0.nar.zst
+Compression: zstd
+FileHash: sha256:0a7f0bfwzspbwiri7hpqm4jw0nbbs8z1jb67gs8v6rqhxq0npxx0
+FileSize: 55733
+NarHash: sha256:0735bi8v157ngzkyw4y1r5x27z9k2x2g83q3rwnbwylqnqq5b0cg
+NarSize: 212800
+References: 
+Deriver: mg1k686p14zkdqig36wg8wvsxidxlqyp-rk-mpp-service-rkvenc-7.2.drv
+Sig: korri-cache-ci-1:Q8/KjtG3OcExJPP9WetbbmWiBzw+W/NSmyUbGxoygoyZcHoWMrFKFyzP4/Im3VELVSA003w5kDy/1MDUMyDkDg==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/y3wjimm0vnbi1xh37256nmwjqxvxjs34-X-Restart-Triggers-systemd-tmpfiles-resetup
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1472/1qwnqcf9ky4kh741n1blcxpgrzi6q6frddpy9cpl2ggiwkj7jjax.nar.zst
+Compression: zstd
+FileHash: sha256:1qwnqcf9ky4kh741n1blcxpgrzi6q6frddpy9cpl2ggiwkj7jjax
+FileSize: 138
+NarHash: sha256:1bnzypwgv1951xjfamvcz9bm359rqsnbfpffsw0vxhmavwvdclx2
+NarSize: 168
+References: y194gnc79174w2f1l2azjsbzrc0x8gvd-tmpfiles.d
+Deriver: snnlbv82lrv00ahrcy6xpibpyjxzd92k-X-Restart-Triggers-systemd-tmpfiles-resetup.drv
+Sig: korri-cache-ci-1:99EKAqmc60yhdX1XEe4IDFyc2IcEMprgjbhhhFXVji1KEpIiixU0vZHdnpJMkJRGlR8WG0s35B1tRHbbew+dBw==
