@@ -1,0 +1,10 @@
+StorePath: /nix/store/9knwngpy77fv4lhydma15q0r7jjk1lgb-cargo-package-signature-3.0.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/1rk5g3rl5rp1015ycr6n9gsxcmyrah1r7ffk03y7kkh4a1p5ynhf.nar.zst
+Compression: zstd
+FileHash: sha256:1rk5g3rl5rp1015ycr6n9gsxcmyrah1r7ffk03y7kkh4a1p5ynhf
+FileSize: 16030
+NarHash: sha256:1cpjd6p6hhl7qsl5zp7d5jwawbcqzs6dp8can0g229wwjxfbifpg
+NarSize: 62008
+References: 
+Deriver: asaa8sanjyag2j0s16vxdl9mg9bjs8g5-cargo-package-signature-3.0.0.drv
+Sig: korri-cache-ci-1:1gd5+8qZk8g95IecQw/QBvHsowUdzxnEs8gwcbQ1iXkjTMWrSOLuyZv5Trq97tmhR3Uu0jEtVYkpU7sOLqDyDA==

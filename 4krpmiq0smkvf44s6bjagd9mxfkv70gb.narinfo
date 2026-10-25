@@ -1,0 +1,10 @@
+StorePath: /nix/store/4krpmiq0smkvf44s6bjagd9mxfkv70gb-cargo-package-strsim-0.11.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/14y0il8fk5ik381k6d6gsdl9dm5lhkpfn8vpiqpfyid9ipddsjg4.nar.zst
+Compression: zstd
+FileHash: sha256:14y0il8fk5ik381k6d6gsdl9dm5lhkpfn8vpiqpfyid9ipddsjg4
+FileSize: 15166
+NarHash: sha256:1crkdfnpx9wyz4gf92qpp8nqb1pzyim5yl6agly9fp0w7ggf8nna
+NarSize: 58360
+References: 
+Deriver: 6sfaamdf3f9bg0x4y80qz3mgq1sib9ih-cargo-package-strsim-0.11.1.drv
+Sig: korri-cache-ci-1:XWNa7Gox+VUuzVQplpFO5lQmeH1ku52f0gzPQGGx9MxQKV1o5mcYWTwG33fe6b0yEZpCOFHou7dfObUrgedoAw==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/5w30fw61x1adxpkap92cpddwa7zqxwpl-cargo-package-papaya-0.2.5
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/1ihwawi6cwn57ic17j0sfrb4myqbxrcnfwy3hgwnidbklm7fcxyc.nar.zst
+Compression: zstd
+FileHash: sha256:1ihwawi6cwn57ic17j0sfrb4myqbxrcnfwy3hgwnidbklm7fcxyc
+FileSize: 69654
+NarHash: sha256:120y9aqw7rqc5z1c5c6hd0d2c444wib99clzkwm2mk8fc1syj8dj
+NarSize: 364880
+References: 
+Deriver: hv738vbcfg9jqp0xc3752v1y12lz026s-cargo-package-papaya-0.2.5.drv
+Sig: korri-cache-ci-1:wmdc8xs5rzvdH5sYxnkmI6oSyfZVO7Goakq34Hp4cXHi3rC9KMWho5KITfXTAXxmHWMp+CpBHyxseyk3xnJRCg==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/2yydjac3ckn2n6i0mph17jg8ffxkkl3v-cargo-package-mac-addr-0.3.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/17fscs22s40yfznapkb6pjqfsgy102wgjczzn8hxbiyz5m299pzr.nar.zst
+Compression: zstd
+FileHash: sha256:17fscs22s40yfznapkb6pjqfsgy102wgjczzn8hxbiyz5m299pzr
+FileSize: 10095
+NarHash: sha256:0xg0dzksg1irs9jd9n5b170zchnpfybz9nh5h1vvvg5x7b01mzax
+NarSize: 40440
+References: 
+Deriver: xwr6s9kksi7bbc1h19kr84lv3scagdhb-cargo-package-mac-addr-0.3.0.drv
+Sig: korri-cache-ci-1:rJqXdMNutE+lz+/mElzbRg9kCA2wJP23L/EOF7h/mY4iXVlPaJ/KCrEHlC+owhQBBsjfqnVTeOGJ+rWUkzPWBw==

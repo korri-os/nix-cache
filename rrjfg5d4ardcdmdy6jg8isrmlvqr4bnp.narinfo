@@ -1,0 +1,10 @@
+StorePath: /nix/store/rrjfg5d4ardcdmdy6jg8isrmlvqr4bnp-cargo-package-rustls-cert-file-reader-0.4.2
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/12mcd06kkzfvrpd65q4gkbwvkzda55f816z7hcym5jz9mbh3vaiq.nar.zst
+Compression: zstd
+FileHash: sha256:12mcd06kkzfvrpd65q4gkbwvkzda55f816z7hcym5jz9mbh3vaiq
+FileSize: 3881
+NarHash: sha256:1sj5k8p6arxkdc4dan6fv90dkk144q5y9lx08xra69j1qvxz2rci
+NarSize: 12336
+References: 
+Deriver: m3b0bcjvfnkiapz1mkr1icx4zbgypbcq-cargo-package-rustls-cert-file-reader-0.4.2.drv
+Sig: korri-cache-ci-1:aDFJ8BYj3E2Krot0ggbnTpGlQNYkoEf4rwTUlHPzpgcTcBWB1X0l/oB9FDCNWPQ3T3bndm98sA6VrpuKzBwZCA==

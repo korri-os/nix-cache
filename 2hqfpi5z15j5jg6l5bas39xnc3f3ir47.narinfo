@@ -1,0 +1,10 @@
+StorePath: /nix/store/2hqfpi5z15j5jg6l5bas39xnc3f3ir47-cargo-package-attohttpc-0.30.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/16nbg3m68jhvmmvc0s4sa5ddvfbfgn9crfd9nflf3p58na3xzrkg.nar.zst
+Compression: zstd
+FileHash: sha256:16nbg3m68jhvmmvc0s4sa5ddvfbfgn9crfd9nflf3p58na3xzrkg
+FileSize: 72551
+NarHash: sha256:1hm7k6g6z0wyly8rxy49dkf4yc1hnma80fqjcr6aa6h16s1mcr81
+NarSize: 305824
+References: 
+Deriver: 2xq81qc1w6z15nwmcgs163pssf54nfnn-cargo-package-attohttpc-0.30.1.drv
+Sig: korri-cache-ci-1:snTNhUNJ+flhQ+G/Gtx5ZZ8H/FDu9gOkxssb5ut5K7zFbPx4GJQe7+C4MHpUDAmXLZD7tqEbzIw8I0YunXzmDQ==

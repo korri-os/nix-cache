@@ -1,0 +1,10 @@
+StorePath: /nix/store/vay83fv5gd8f8dy2zc5fsa6sjy6g344a-cargo-package-cordyceps-0.3.5
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/0hrr085k1i076r98x832cjm4hf9yi1rx63jg47i0bd82rwjiaiwl.nar.zst
+Compression: zstd
+FileHash: sha256:0hrr085k1i076r98x832cjm4hf9yi1rx63jg47i0bd82rwjiaiwl
+FileSize: 64792
+NarHash: sha256:1ihqyjm4sk0g3kg6b3hbyigsr4swhv0rdad2y3raxmknwaqdb5dx
+NarSize: 300928
+References: 
+Deriver: mbr8nn574hbggcc3z1s8azfds5j2xy3j-cargo-package-cordyceps-0.3.5.drv
+Sig: korri-cache-ci-1:HBHqtt+ogtsCR7Y/Y1Mik2JEw3P1brwb6MrPhhUNUA8FjU7pTl9VgFJXuw0+Ov81hGl+B/19DgqUX4ZzR4UvDQ==

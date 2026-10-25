@@ -1,0 +1,10 @@
+StorePath: /nix/store/ylcz6x8a6r38zrjq894ck8mwsjwfvz7j-cargo-package-rustls-cert-reloadable-resolver-0.7.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/02cp983ncaxs215d695gvvkj9sfszizwki0ik1923nhjbqhc970k.nar.zst
+Compression: zstd
+FileHash: sha256:02cp983ncaxs215d695gvvkj9sfszizwki0ik1923nhjbqhc970k
+FileSize: 3234
+NarHash: sha256:1zvvf0rgm7735jk9s8mn4nqayhxdxsx0xd231pccns0qi48m2r62
+NarSize: 11928
+References: 
+Deriver: 7imgzwvkig3xz8z2fi0hzwz2n8ak8fjg-cargo-package-rustls-cert-reloadable-resolver-0.7.1.drv
+Sig: korri-cache-ci-1:+qIkmG2s/oiJygWz0uSmALwkdHXNzplGqBIFT+7/uH6Tu2TdX74WPhZBe5C6Z61Fszd86PK44sCsxMYVPJn7Bw==

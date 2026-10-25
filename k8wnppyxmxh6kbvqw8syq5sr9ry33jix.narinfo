@@ -1,0 +1,10 @@
+StorePath: /nix/store/k8wnppyxmxh6kbvqw8syq5sr9ry33jix-cargo-package-jni-macros-0.22.4
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/199lnvzv7k8ain4ji77nh87yljnikjs18bi2kwhaqg7sa12pddgr.nar.zst
+Compression: zstd
+FileHash: sha256:199lnvzv7k8ain4ji77nh87yljnikjs18bi2kwhaqg7sa12pddgr
+FileSize: 67847
+NarHash: sha256:1y217kghbnrw31z4j0qiab1abxv1xs8476qanagh5gq7m1zv6rq9
+NarSize: 334704
+References: 
+Deriver: fdbdql7jhd2laifznkk2qydkms5xy26l-cargo-package-jni-macros-0.22.4.drv
+Sig: korri-cache-ci-1:BsYYwx0bpEAnZ7Yk4AtL8vXJ7jBWKMXdtSBzvA5NdZdpn82+0inKs3nZCifyBRBYfAuMpTEW+yk0LStrfCQRAQ==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/7x2fhi7cmzykbimv2kh9lzlfivwi6vqn-cargo-package-diatomic-waker-0.2.3
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/0ap626ynahzj0p0212l669haj6s3c4yjn3aa1rkcba104sj6y23a.nar.zst
+Compression: zstd
+FileHash: sha256:0ap626ynahzj0p0212l669haj6s3c4yjn3aa1rkcba104sj6y23a
+FileSize: 19520
+NarHash: sha256:1rjidbln6krs3wjw1mkshvic5pwha2i6a2977a4x9j987k130ybc
+NarSize: 73424
+References: 
+Deriver: 37jn5n7025q9pb1asq3qrqyf4hp9gmfr-cargo-package-diatomic-waker-0.2.3.drv
+Sig: korri-cache-ci-1:a8buu1U+1YblGF+opoHR9WBLxL97NMDly5N6mjErw0f48KdknXsQVmwaId+ehOeRG2ytdNeh2eFPKxIZvawkAQ==

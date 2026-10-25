@@ -1,0 +1,10 @@
+StorePath: /nix/store/n3xfznpxpi11rcz1ch9ahdc1jgk8cn7m-cargo-package-objc2-encode-4.1.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/1y0xpvqhp1vvr2fy86mhwixc9w39sw00ni50xyyg0vwvqs2g75ia.nar.zst
+Compression: zstd
+FileHash: sha256:1y0xpvqhp1vvr2fy86mhwixc9w39sw00ni50xyyg0vwvqs2g75ia
+FileSize: 23013
+NarHash: sha256:05f5ngsqjxc7shivp2cn88awwxj7pcjz5sa0yds5sklf8n83rcpv
+NarSize: 97256
+References: 
+Deriver: pi9vdb440dnn3f906v1wrlnlb7h0kz5m-cargo-package-objc2-encode-4.1.0.drv
+Sig: korri-cache-ci-1:a+ySDi6/g6vWHewBO2xVcEGt8b8VN3RtqGEz2A1SF5vz5d9EDHv6hhRfqRwQnjZ7NX/CwORxlEAckt8emRkVDg==

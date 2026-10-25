@@ -1,0 +1,10 @@
+StorePath: /nix/store/a0mbyaw13gja54n40nn2822332gc3q9r-cargo-package-n0-watcher-1.0.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/0ydyf5dfnsm66dibrjjns19znamq450gdhsqm3y8g20xg22xq5yp.nar.zst
+Compression: zstd
+FileHash: sha256:0ydyf5dfnsm66dibrjjns19znamq450gdhsqm3y8g20xg22xq5yp
+FileSize: 41960
+NarHash: sha256:07gx0bsjpzr0wmirlmcx3jixi5jd0w3lh1p77hcjif6bcvxawrqx
+NarSize: 152864
+References: 
+Deriver: nz08vdh2g3cla1isc2ayl12cq7pssabi-cargo-package-n0-watcher-1.0.1.drv
+Sig: korri-cache-ci-1:iLrQvS29PIfKfizcyL/a/eF/VJByqNG0G2p1wHxKPlow5zbXKOG9V+dl1+kQFKw1puxNhlxQDyg/T7VACr/xAQ==

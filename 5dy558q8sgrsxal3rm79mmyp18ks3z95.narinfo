@@ -1,0 +1,10 @@
+StorePath: /nix/store/5dy558q8sgrsxal3rm79mmyp18ks3z95-cargo-package-is_terminal_polyfill-1.70.2
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/04b2nbx7w5z1ybsaix22xy5p2223a675mxkvjjjd8km4dl3lljjp.nar.zst
+Compression: zstd
+FileHash: sha256:04b2nbx7w5z1ybsaix22xy5p2223a675mxkvjjjd8km4dl3lljjp
+FileSize: 7863
+NarHash: sha256:12bwhnbxg2yvszpcxmzwry7w4rmn7s1bywx9a69x0s27hssyrlcw
+NarSize: 24336
+References: 
+Deriver: k9gnay35q67vpzikqiv237m79md34cil-cargo-package-is_terminal_polyfill-1.70.2.drv
+Sig: korri-cache-ci-1:h5BxfWxzTvHod8wSKFqSK0R6f+FkdSsh26+A3A7jy6r7o4SeQWvvEZmZKcm9jSKzRkdfr+Wvljhn+BnLA+JKAg==

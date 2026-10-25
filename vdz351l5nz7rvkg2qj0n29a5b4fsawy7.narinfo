@@ -1,0 +1,10 @@
+StorePath: /nix/store/vdz351l5nz7rvkg2qj0n29a5b4fsawy7-cargo-package-polyval-0.6.2
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/1dz4xlyxnd5an9dhzphn5q1dhrwld93afyrxwg4sn6fcpwqc1hv4.nar.zst
+Compression: zstd
+FileHash: sha256:1dz4xlyxnd5an9dhzphn5q1dhrwld93afyrxwg4sn6fcpwqc1hv4
+FileSize: 19173
+NarHash: sha256:0l9pnffrz5iks2d26hb8n6rflbs040rmr2605wkrmli02fbj51j6
+NarSize: 70920
+References: 
+Deriver: q5iz86y2nffirz9b8xjsxkxfr37rj4kr-cargo-package-polyval-0.6.2.drv
+Sig: korri-cache-ci-1:k44Wx9dhD5jU739hSDEXAjqPSGe/nmR9K1OJkJ+Quij3LLmchmkKyychH4tYOHsjtDTAyIQTxdPVm50kZgHPAw==

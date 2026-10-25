@@ -1,0 +1,10 @@
+StorePath: /nix/store/fwi1nfac1vpmjnls1w8j3m7vhk6jqdlx-cargo-package-tokio-websockets-0.13.3
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/09ssqdw7bbx3413gha7mn2389yx3j5x7arazkzix12ls6fv7l3gm.nar.zst
+Compression: zstd
+FileHash: sha256:09ssqdw7bbx3413gha7mn2389yx3j5x7arazkzix12ls6fv7l3gm
+FileSize: 395252
+NarHash: sha256:06ldazgjw3hbz8fygy0z9xcf44kgdxb55vsavy1dkkjv04d9p679
+NarSize: 640208
+References: 
+Deriver: 6zagc1bi5qq77ybj7iamjlqaipsg0y27-cargo-package-tokio-websockets-0.13.3.drv
+Sig: korri-cache-ci-1:O6wnOgf1qquoTKqWPczutQzX4Sv6R3/VlRapKk/4ZlsCqBUQLZlWeq6UzbLlC6OjyDrfNp97pqFeuWSCTKrlDw==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/yhirpbizgidf7p2qmakzv2jf0ldkkzps-korrid-deps-0.0.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/1fq0mls6g848s5fgdrpfs44q04qxrx36d2nar7hih9pr2pysvlw7.nar.zst
+Compression: zstd
+FileHash: sha256:1fq0mls6g848s5fgdrpfs44q04qxrx36d2nar7hih9pr2pysvlw7
+FileSize: 549646964
+NarHash: sha256:02xxrn8jlhwazrz7a3yr6n2f1yxcny1xkikfhidn6kg21bk49ddx
+NarSize: 552451376
+References: 5wfy5d63rz9g8wg0ssz37pqs45y1yick-cargo-package-memchr-2.8.3 6rgkfqr5mcjr39irv7wlbhfih2r5s2nl-glibc-2.42-84-dev 826sfsbjq099phqlwdnkb3vhgq4b0j4l-cargo-package-hmac-0.12.1 mhx6dmg6whr7c85krk9rjwjsxrp9iggs-gcc-15.3.0 msawl8iwp49hnyk7ngb5fbfa8xpcb90b-vendor-cargo-deps sphg65agsd4p0as2w0gxda1g4jn4ih2r-cargo-package-pem-3.0.6 vaxk9k4gi52516ilyxi9w4n9pdy5xg9v-cargo-package-winnow-0.7.15 vvkmfczh0csxx540d5djzbrp53q3ls2s-cargo-package-webpki-roots-1.0.9 z2dg2c8j4jz1010qpqizgmhfhw05giyj-cargo-package-ring-0.17.14
+Deriver: sypjkpx0v886bdfi6z48hfk45cqaihkk-korrid-deps-0.0.0.drv
+Sig: korri-cache-ci-1:s92WBumr8n4VvauPP48xu5x6CWV9ODXXPcJmIYF5sW8D9ghzjO49NhjEQksaRdAKvTTpR4t6+676OCcl9zh0CA==

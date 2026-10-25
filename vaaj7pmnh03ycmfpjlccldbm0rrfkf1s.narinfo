@@ -1,0 +1,10 @@
+StorePath: /nix/store/vaaj7pmnh03ycmfpjlccldbm0rrfkf1s-cargo-package-netwatch-0.19.3
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/1iqspwfv2cl4xw2i1vy9747fbid4q4idhxyyrz4fzk98c5s0fxxs.nar.zst
+Compression: zstd
+FileHash: sha256:1iqspwfv2cl4xw2i1vy9747fbid4q4idhxyyrz4fzk98c5s0fxxs
+FileSize: 63487
+NarHash: sha256:0bzlvw246k46q5254s5ihyb7935i5qcd1sqnizhnfpb6qgjdkqnw
+NarSize: 268560
+References: 
+Deriver: d6jcasyj0620dg7rhbxzc7fbn24a7c7w-cargo-package-netwatch-0.19.3.drv
+Sig: korri-cache-ci-1:zWpR8C2NykK/aDeukYhMNmKdLG9Anj9TK2Qotqea7294qLCfeEKu3S+ilZWCB2hoW3otrEOWC00W17BA/D8LBA==

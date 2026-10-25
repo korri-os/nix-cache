@@ -1,0 +1,10 @@
+StorePath: /nix/store/453ldww0qhnhh8zjw7gjbv6llnjix96s-cargo-package-ed25519-dalek-3.0.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/1j57is6q5b055v0vg5bc17mjsbpp3q735wxdhlf854gnc53jhg8b.nar.zst
+Compression: zstd
+FileHash: sha256:1j57is6q5b055v0vg5bc17mjsbpp3q735wxdhlf854gnc53jhg8b
+FileSize: 106937
+NarHash: sha256:0qiigsg0dz6fvhlzbhmy95i152mr6iy6kgpm1j2zqzsrdl3l7hj0
+NarSize: 287456
+References: 
+Deriver: hblg0af3vfnmrf1la3320xsgld79kfrb-cargo-package-ed25519-dalek-3.0.0.drv
+Sig: korri-cache-ci-1:bF6BhlyGdOO83ensKPN1D6VWOSM2udSeZaaenUf94LCyHp0t6ZCqM+xXNXxEpyhMrixPYifPkyqjTSIcdstGBA==

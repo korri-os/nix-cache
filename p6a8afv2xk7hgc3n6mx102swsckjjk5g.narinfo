@@ -1,0 +1,10 @@
+StorePath: /nix/store/p6a8afv2xk7hgc3n6mx102swsckjjk5g-cargo-package-noq-proto-1.4.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/1mfmnaypi0p0chxsan445y2bb9g8pgzl4fqb3fbxb82kvqf1hbdg.nar.zst
+Compression: zstd
+FileHash: sha256:1mfmnaypi0p0chxsan445y2bb9g8pgzl4fqb3fbxb82kvqf1hbdg
+FileSize: 496659
+NarHash: sha256:1y005615q6wb43nyqqai0sl7rzzhq5pcqszr1zns15r9yy8qz9sf
+NarSize: 2290448
+References: 
+Deriver: r4hcmfmq3fglfz2nw7s1nym1fgj3mwi6-cargo-package-noq-proto-1.4.0.drv
+Sig: korri-cache-ci-1:iY3WETkdgFsC2a803SzlkeXtBCkU1d6GEoNSw7yBFmYEoHCKa8ZaGdMB+xSiCo1Y40RQcOxEnc3x0O0pKoBlAQ==

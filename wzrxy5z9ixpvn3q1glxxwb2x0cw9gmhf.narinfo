@@ -1,0 +1,10 @@
+StorePath: /nix/store/wzrxy5z9ixpvn3q1glxxwb2x0cw9gmhf-cargo-package-slotmap-1.1.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/177klifcvdappgryzigmqrpkw7r9avs4vdixi9dapl77x437jg43.nar.zst
+Compression: zstd
+FileHash: sha256:177klifcvdappgryzigmqrpkw7r9avs4vdixi9dapl77x437jg43
+FileSize: 46378
+NarHash: sha256:0hqb15jvvjf6z5dw3fh67d7bibhs10d4d4jsm6vxj518xpcs6fdi
+NarSize: 305712
+References: 
+Deriver: 91l56ajc6wpa3k0xjx4j321vgdaxfs0f-cargo-package-slotmap-1.1.1.drv
+Sig: korri-cache-ci-1:1kJAhfTjomEFmPKil94fMlhzot1LUaaGiBoHgF+hz7/2yiNu+vipvGymWyA2rUuQuh3iYr2NIVIA/EEDnEbpCA==

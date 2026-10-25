@@ -1,0 +1,10 @@
+StorePath: /nix/store/8ppv1cqaxfw2rljglif7v2fg96lw1r3z-cargo-package-hashbrown-0.14.5
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/0iw524snv2wq0aiz86fq45myklk7kj5f6yjm6i54a4d4zdj6126r.nar.zst
+Compression: zstd
+FileHash: sha256:0iw524snv2wq0aiz86fq45myklk7kj5f6yjm6i54a4d4zdj6126r
+FileSize: 141763
+NarHash: sha256:1dx4imbxc2ggfcdgd6dx1rhfqh0syjfnbd3kbvyhcnnz1ad4qn3j
+NarSize: 842032
+References: 
+Deriver: hzcf8wvi1dsza9l6r7apr7b6a38aam67-cargo-package-hashbrown-0.14.5.drv
+Sig: korri-cache-ci-1:LN7dcp3yJFap9MzoXNeFIiKRi8oL2T0upvuJY4AKGeox5MvQ5Fi1bW9irduvmMKQxSi5csYW9EMExJsm5vWeAQ==

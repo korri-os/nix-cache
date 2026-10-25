@@ -1,0 +1,10 @@
+StorePath: /nix/store/ynkzg9jyc55izcvxvaz3i6ma5742bwjs-cargo-package-rusticata-macros-4.1.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/08da63bx9ymiz18pk0mb077c4iv6k6ig2gi8bm8ailgvrbj5hiar.nar.zst
+Compression: zstd
+FileHash: sha256:08da63bx9ymiz18pk0mb077c4iv6k6ig2gi8bm8ailgvrbj5hiar
+FileSize: 12587
+NarHash: sha256:1hiwspbrdarffl5sgpp5vbz7rrdnsl3g1kjh6x0bizk0av9yaniv
+NarSize: 42736
+References: 
+Deriver: miswsw8c8gbfkzvf2licdy8dcfkgz3gz-cargo-package-rusticata-macros-4.1.0.drv
+Sig: korri-cache-ci-1:1htBv0rKkFxxiaervkFzKKpkzd9LKEsu7PXltsJf+JVBaXpBc5VKY7aW5ei2kKWECJkZuKo6deC9HDIfyTVMBA==

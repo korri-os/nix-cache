@@ -1,0 +1,10 @@
+StorePath: /nix/store/18nydkm1awsx9d3rxjkymvl38fbfw73q-cargo-package-fiat-crypto-0.3.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/03n2rg6hjw08zyv0pagjw2n5sn0f0frgyzz2r35pkr62kkjc4k4l.nar.zst
+Compression: zstd
+FileHash: sha256:03n2rg6hjw08zyv0pagjw2n5sn0f0frgyzz2r35pkr62kkjc4k4l
+FileSize: 357586
+NarHash: sha256:1rsxqnn4q3accrfiq46vyfbqr3hlfxzmwkmam1369i2ki8va4hc7
+NarSize: 4697104
+References: 
+Deriver: jh4f2w6z842szjsjdssdm1q2k7lc11f3-cargo-package-fiat-crypto-0.3.0.drv
+Sig: korri-cache-ci-1:xem0fwY5BmDa9XVAwaQYIoHweWLNHtcMZKFFxDZQr+rKU4AuzskDNhn2sLtf9/lNjNfT28ZUL/FoxyXcGdvSBg==

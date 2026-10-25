@@ -1,0 +1,10 @@
+StorePath: /nix/store/pmqzxc383983q3q6a4mh3qr9rwqssqyv-cargo-package-powerfmt-0.2.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/145gcsj9418kx7w2qq6pk4mz0y5hv14y5bgigibqjclym7qsdglp.nar.zst
+Compression: zstd
+FileHash: sha256:145gcsj9418kx7w2qq6pk4mz0y5hv14y5bgigibqjclym7qsdglp
+FileSize: 17244
+NarHash: sha256:1jk7p7pn9ybdhald2agcinzk3yixisy3alnxs7f0y29baizkkvwz
+NarSize: 63464
+References: 
+Deriver: pbayjrdpg7sbj18q58z8jbshg38ch5bx-cargo-package-powerfmt-0.2.1.drv
+Sig: korri-cache-ci-1:VZ6T+PFt0wfFu/UXlzkA7wKOxBuU6AOo5qcDpAl4eBzDXKd7LqtahVVNkjuwut9npn3Wrrpu+zBhhvNQ/RnRBw==

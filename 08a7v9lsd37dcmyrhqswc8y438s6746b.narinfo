@@ -1,0 +1,10 @@
+StorePath: /nix/store/08a7v9lsd37dcmyrhqswc8y438s6746b-cargo-package-ws_stream_wasm-0.7.5
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/13rv4fwfhm1ckws218cs2ws9sk1mijgig9f58jbghzli79q4vfz0.nar.zst
+Compression: zstd
+FileHash: sha256:13rv4fwfhm1ckws218cs2ws9sk1mijgig9f58jbghzli79q4vfz0
+FileSize: 31809
+NarHash: sha256:0vz2bgpzc2805r2zgdpzsp145snn84plz1rmpv2y6qrwd4r1xgj4
+NarSize: 105448
+References: 
+Deriver: 4s4yvkr1b2j4miacnj8wb4p820dyp7qy-cargo-package-ws_stream_wasm-0.7.5.drv
+Sig: korri-cache-ci-1:oiLE5LfXefopqF1IpvRUAAdhq086AWJxB2Snil+9mZL+T1nnWnxm+36/OzSEMTL+P0GCc3nR8mm6sU70OnigAA==

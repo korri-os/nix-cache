@@ -1,0 +1,10 @@
+StorePath: /nix/store/xb1prxzksym99pxyn7d73gkd44sq1skq-cargo-package-clap_lex-1.1.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/10h1xx4p243000n5xpaiwx2av5gbps028z6f1wmnbiqgkd8jq7hc.nar.zst
+Compression: zstd
+FileHash: sha256:10h1xx4p243000n5xpaiwx2av5gbps028z6f1wmnbiqgkd8jq7hc
+FileSize: 14476
+NarHash: sha256:0brxsyjrpvfcycsasf2hhbbqxn4yzi7b6lvd3ar88ml3znm0xfkr
+NarSize: 48280
+References: 
+Deriver: zlkv33mdrx6mh2m9q9lq4n1yjjxr1wn3-cargo-package-clap_lex-1.1.1.drv
+Sig: korri-cache-ci-1:QY8Hned9B2gRIx7g0dnzssAEWhc8s63nD97n9lhtripvSgwDijhh9mBZCnkGiq+6Mm0dT2VP13lmRjpZDwPTBg==

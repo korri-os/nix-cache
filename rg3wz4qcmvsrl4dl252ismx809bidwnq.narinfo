@@ -1,0 +1,10 @@
+StorePath: /nix/store/rg3wz4qcmvsrl4dl252ismx809bidwnq-cargo-package-netlink-packet-route-0.33.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/14xamim414l53znfq8bjm9ryyh8kqxl4js8vy1900l37gxqy70w3.nar.zst
+Compression: zstd
+FileHash: sha256:14xamim414l53znfq8bjm9ryyh8kqxl4js8vy1900l37gxqy70w3
+FileSize: 249366
+NarHash: sha256:1hhy07w0hrda90mbqmnx6b65rr2s4k1phz9rbncya8wa4xqwdlp1
+NarSize: 1809360
+References: 
+Deriver: 613maf0wdk55ixn56njm36kcxcxlyaa4-cargo-package-netlink-packet-route-0.33.0.drv
+Sig: korri-cache-ci-1:/gpNOQ3N6+0myVIh5ZmsW5IT2VeXbyqgN/tUQRK1dKoz6A/UnbRv0LaN7JjZ3ZArlCISa4qxHzc71PYYAcs2Dg==

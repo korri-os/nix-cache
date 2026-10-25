@@ -1,0 +1,10 @@
+StorePath: /nix/store/6wjk7av2nafi8b94imzdm830h0vbdjc5-cargo-package-simd_cesu8-1.2.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/1s3dsm5x94syp34xpwn03sp7yv600xynlig7ykrjdq554fr131wd.nar.zst
+Compression: zstd
+FileHash: sha256:1s3dsm5x94syp34xpwn03sp7yv600xynlig7ykrjdq554fr131wd
+FileSize: 322314
+NarHash: sha256:10gbki5jh0sc2f5djsx961cx6s6qx9w7jq9qd7s5la2ybx2wkdnj
+NarSize: 566328
+References: 
+Deriver: sz6wb1yj3qldvp7yj8rwim8jbial7c83-cargo-package-simd_cesu8-1.2.0.drv
+Sig: korri-cache-ci-1:3gVkl8NAx092rpw3QSnaNW9laf/QaA2LttzLrxsU90YKxI2Yv5hav3Kx+ISxuN21UQvT6R0vJlHu8punRzSbBg==

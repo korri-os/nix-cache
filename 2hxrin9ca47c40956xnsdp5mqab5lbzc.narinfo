@@ -1,0 +1,10 @@
+StorePath: /nix/store/2hxrin9ca47c40956xnsdp5mqab5lbzc-cargo-package-windows-threading-0.2.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/01flybv300ix8vsaajy2bypbzsihk8wkkj3k9lwd69np551hdqlh.nar.zst
+Compression: zstd
+FileHash: sha256:01flybv300ix8vsaajy2bypbzsihk8wkkj3k9lwd69np551hdqlh
+FileSize: 10151
+NarHash: sha256:04dqgv5kv8bpg6p7cvb51155v76zc2d6b550ppbnbqlx2kj2xkbj
+NarSize: 30000
+References: 
+Deriver: 3ghyj5f694svpm3h3j2l59ny2aaqgzji-cargo-package-windows-threading-0.2.1.drv
+Sig: korri-cache-ci-1:Zzr+DcqjqvVVkKeq02YKF2p40SkRwBiOJcOws6M8s04mBYyDTD1SRy1Ki5h7h5lNPzz67znLkA3jIQJ6P6LLCQ==

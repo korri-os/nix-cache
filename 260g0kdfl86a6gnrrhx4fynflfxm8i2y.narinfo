@@ -1,0 +1,10 @@
+StorePath: /nix/store/260g0kdfl86a6gnrrhx4fynflfxm8i2y-cargo-package-iroh-base-1.4.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/1jk8bw6xgka9nqp37x9vnr0wrr7fsgqm15zk4pfjykr4075ga860.nar.zst
+Compression: zstd
+FileHash: sha256:1jk8bw6xgka9nqp37x9vnr0wrr7fsgqm15zk4pfjykr4075ga860
+FileSize: 23239
+NarHash: sha256:113lv2gvzcslfsa97ql7lb8c1id6hy64p4nx0fni814adzmz2af5
+NarSize: 82944
+References: 
+Deriver: sjyskpnp1mf4jbp1108h965lq2yavcmv-cargo-package-iroh-base-1.4.1.drv
+Sig: korri-cache-ci-1:GQ0HD/hyagd6w4gkudLzWd8Fv8pFZtHP4Wre40OssES7DaMgkINayP+fBf+weM35y7oX5W86IeVI7zG8saxWAQ==

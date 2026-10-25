@@ -1,0 +1,10 @@
+StorePath: /nix/store/qgs8q8zzmvswp8gbnd7shlxwa9f6i5iw-cargo-package-clap_builder-4.6.7
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/0jw01x58ilb40m4rv573szd5ypj0gyqxrvgr5bhmz1rwa6j3df5f.nar.zst
+Compression: zstd
+FileHash: sha256:0jw01x58ilb40m4rv573szd5ypj0gyqxrvgr5bhmz1rwa6j3df5f
+FileSize: 179878
+NarHash: sha256:1z2fh7d2sp056icsx273ji451xk7j0ll53c70m0r8fi6p4jad63j
+NarSize: 993824
+References: 
+Deriver: y7h6pyrk5vkx55a6ma3cfqgryjdw18fm-cargo-package-clap_builder-4.6.7.drv
+Sig: korri-cache-ci-1:UjZ49/y5tdkVGG0eqZ6pwA/zYZnss8XTD5VfeZoOy1PduWH67ITMMe6Bqp2c1ERvc5pchTlvie5hCs/KUPZZDw==

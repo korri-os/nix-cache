@@ -1,0 +1,10 @@
+StorePath: /nix/store/cfpinnmpdyd36nmvijb28qvf7bp095g2-cargo-package-strum-0.28.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/0pny1syj0y4wplqavblfzn15i5sjrxck6ldzd0imx4qmipsv0q2v.nar.zst
+Compression: zstd
+FileHash: sha256:0pny1syj0y4wplqavblfzn15i5sjrxck6ldzd0imx4qmipsv0q2v
+FileSize: 9009
+NarHash: sha256:1mpndkrxh7j0rsla6a4j7xb5mz8ilanbgavzfkznc818yv69vmws
+NarSize: 26168
+References: 
+Deriver: 2qmi69v4z74chb9hlb7fzwkkf6khq0pw-cargo-package-strum-0.28.0.drv
+Sig: korri-cache-ci-1:4oWjEKN1nJ85P2c+FWj8zX48hVTpc3o/ei3GDIuyElmfe+R3owNCI4QERsR654ycTaB8Q7qQO+Q6AUxdeHdABw==

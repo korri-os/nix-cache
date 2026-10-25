@@ -1,0 +1,10 @@
+StorePath: /nix/store/ld25r2bqn7p4rnjj7g3c067wmzib34yg-cargo-package-simdutf8-0.1.5
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/1pzd256zvahzzr9k15896f21g82a2rzd7xlkmji72ppbxrwab09y.nar.zst
+Compression: zstd
+FileHash: sha256:1pzd256zvahzzr9k15896f21g82a2rzd7xlkmji72ppbxrwab09y
+FileSize: 28777
+NarHash: sha256:1zjbmgayzi5snyfrxnkdhjq3rs2dq6nwdzslfdf83vimp6iz6r57
+NarSize: 136432
+References: 
+Deriver: dwkc8zw18y1cg7md711jj71hs5rjp4a4-cargo-package-simdutf8-0.1.5.drv
+Sig: korri-cache-ci-1:n1zRYAW4GgDLHq+AWXLNV8Z6GfwIwKZ9nIWL/YaQPutAN8tT4wjwjew0KXBVJOa4Tdblvu6J0TbdyvHLGHswBQ==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/vycbirba5jlvqaxclf504rpp8n032mv8-cargo-package-portmapper-0.19.3
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/16y7sw76dx394dx6jsw9fz8rc940lgigmd4dm59xinv1ib8mwxzw.nar.zst
+Compression: zstd
+FileHash: sha256:16y7sw76dx394dx6jsw9fz8rc940lgigmd4dm59xinv1ib8mwxzw
+FileSize: 40881
+NarHash: sha256:0psijzkjblaaz897msr7nnpx244n91w32pilg39mlr78hbfx9zvl
+NarSize: 172432
+References: 
+Deriver: gbr8dxxy21lw42zd03frlnkjz40cspc4-cargo-package-portmapper-0.19.3.drv
+Sig: korri-cache-ci-1:HxveBMpVNuMsH86Eg8GwurSKGWdNLwOq9z+FjFr47OkhnnMdABhDI5yUrOUk/IfQxGp7aKBFPQTnm9MvrFFQAg==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/zkf4m9p1r83v37rib646s9pd2fc8iqxz-cargo-package-security-framework-3.7.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/1pzyslcy7i9swk65k6sd1vfhmp2hc1pp9r7ggdl67p1fd38radm5.nar.zst
+Compression: zstd
+FileHash: sha256:1pzyslcy7i9swk65k6sd1vfhmp2hc1pp9r7ggdl67p1fd38radm5
+FileSize: 92540
+NarHash: sha256:01xm26dz0f21ayk03dqgn8qr9ar6is7v7llwa6gqs8zlr3dy1bv1
+NarSize: 429560
+References: 
+Deriver: w689xjrwdr4369ywv4f60wibp0p9yi0m-cargo-package-security-framework-3.7.0.drv
+Sig: korri-cache-ci-1:S0eQxsbAFMo9R/FQcrfVBRnnUEEkLKONNfo8x6JiGWLfUVgEuOvC79wwTLRih0cV0L4jN+SVuzTrhkC+lkZ7Cw==

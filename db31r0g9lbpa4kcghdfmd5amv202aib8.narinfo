@@ -1,0 +1,10 @@
+StorePath: /nix/store/db31r0g9lbpa4kcghdfmd5amv202aib8-cargo-package-time-macros-0.2.32
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/0l6h1zx7rcamqbdqsakisfmqxk3pcwkd0k22xhr0jcl77ndfqpwf.nar.zst
+Compression: zstd
+FileHash: sha256:0l6h1zx7rcamqbdqsakisfmqxk3pcwkd0k22xhr0jcl77ndfqpwf
+FileSize: 35986
+NarHash: sha256:1srz6s7v9q7lj54sky0kdin46z8iiypdsn9fwmsz7qrixdwcaiz4
+NarSize: 166216
+References: 
+Deriver: nx1bga09j007yq5772a58anv1fa8cbpy-cargo-package-time-macros-0.2.32.drv
+Sig: korri-cache-ci-1:VQMPK8oqCvaSfJSSXMLa5UXwz8UU+F/81r4mDQnLZTuuBnyIH5RTf7MyGGwMJ1fEj8rH/fN3EGJZbJYLZ+0gAA==

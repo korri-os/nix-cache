@@ -1,0 +1,10 @@
+StorePath: /nix/store/47scbmkk544r1837a28qsy3qcqjqpzry-cargo-package-pin-project-1.1.13
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/0p0b3pv12xnl6padyhzb6vyxq5lnqilawxx84kjqf6v0gqglx4i8.nar.zst
+Compression: zstd
+FileHash: sha256:0p0b3pv12xnl6padyhzb6vyxq5lnqilawxx84kjqf6v0gqglx4i8
+FileSize: 57931
+NarHash: sha256:1ikyxkllj7y2w2ywlm387v2v7mpkvrbzq3iik7j4vkc8irfv2lmb
+NarSize: 499536
+References: 
+Deriver: hya0gawamx58a8kzwjlihy1jjj6rmx6d-cargo-package-pin-project-1.1.13.drv
+Sig: korri-cache-ci-1:8stnb3OvzVf2THZY71cTXlfpvXahqMRGOItvw66FaoHdp3MxUbJcuTcfQRtJI1zZj06+FE4fXY1y6H3p5RZEBA==

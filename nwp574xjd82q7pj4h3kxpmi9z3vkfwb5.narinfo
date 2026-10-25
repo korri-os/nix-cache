@@ -1,0 +1,10 @@
+StorePath: /nix/store/nwp574xjd82q7pj4h3kxpmi9z3vkfwb5-cargo-package-redox_syscall-0.5.18
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/1vxqji3fwnlbxbva9m9rlmswwzg5cxglisykadvb61ankis3qdfb.nar.zst
+Compression: zstd
+FileHash: sha256:1vxqji3fwnlbxbva9m9rlmswwzg5cxglisykadvb61ankis3qdfb
+FileSize: 32657
+NarHash: sha256:1pi10fzrdx8gfww7gwz2g2fk6gqz3zjabp3hqzdsp25l6dg3i60z
+NarSize: 163112
+References: 
+Deriver: il3w5gkxikbvalfi9z2icqm4f3bzjb99-cargo-package-redox_syscall-0.5.18.drv
+Sig: korri-cache-ci-1:ja39l4wh3NSKB19/RHqDNKaLsi5oijwtuMkEFdQgau4qDP97WvR5YiE/37gUVpEwUCjxKlJpS+50GuU2WgBaBw==

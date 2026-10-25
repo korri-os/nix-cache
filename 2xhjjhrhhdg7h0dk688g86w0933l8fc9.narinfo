@@ -1,0 +1,10 @@
+StorePath: /nix/store/2xhjjhrhhdg7h0dk688g86w0933l8fc9-cargo-package-identity-hash-0.1.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/0a1js5440lk8m6lym0f9kd1a2ha1fjn620v2d0m9bdipzs2lcl67.nar.zst
+Compression: zstd
+FileHash: sha256:0a1js5440lk8m6lym0f9kd1a2ha1fjn620v2d0m9bdipzs2lcl67
+FileSize: 8853
+NarHash: sha256:05lxl5xxr8fvay4hv0h5xqgdb9hlmjyciyiza3d7xjql1c32i9lr
+NarSize: 30592
+References: 
+Deriver: wkj3yf4a7gbq8ygh7rfhsw6jxaw6md3h-cargo-package-identity-hash-0.1.0.drv
+Sig: korri-cache-ci-1:hRRqiLt6E3qP+j3vGckQliuKYc+Q4PvI/oWVzq+tzsyDJ3922teSAAK/I8zXUF6zltOLx3as9SePbvPLbLKPDw==

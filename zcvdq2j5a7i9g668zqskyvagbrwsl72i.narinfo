@@ -1,0 +1,10 @@
+StorePath: /nix/store/zcvdq2j5a7i9g668zqskyvagbrwsl72i-cargo-package-netdev-0.46.3
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/1ryxh1368m1hn6m5hia0pk2px3vdqb17m6dqjr7x0x36nw2vk12n.nar.zst
+Compression: zstd
+FileHash: sha256:1ryxh1368m1hn6m5hia0pk2px3vdqb17m6dqjr7x0x36nw2vk12n
+FileSize: 87040
+NarHash: sha256:1aj4n4dsbgidccl3ii3s6pp7dy56hhhp8qja44cqpv5d7kl6p0f7
+NarSize: 434056
+References: 
+Deriver: z9a8g7b45lq6a38arq4x400lzvhyx9vb-cargo-package-netdev-0.46.3.drv
+Sig: korri-cache-ci-1:iDCzElDMghV+mMPLHBKdtTrF+5TMeYaxrs8fPhj0LuK6bB+Ulee02B5fr1Q1wsjC4+G4oudHlaz9K2MSk26PCQ==

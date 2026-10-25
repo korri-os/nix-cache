@@ -1,0 +1,10 @@
+StorePath: /nix/store/k99lbg30kjmvyjyskfpyrjrrqm084ar7-cargo-package-n0-error-1.0.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/0mhvasw3rnbh8sx7w1xbnzny553m0r1knf3pkhs3cs990cacrk8z.nar.zst
+Compression: zstd
+FileHash: sha256:0mhvasw3rnbh8sx7w1xbnzny553m0r1knf3pkhs3cs990cacrk8z
+FileSize: 30792
+NarHash: sha256:07i960zjrj2vr0din32ckw87zwy2zamdafz3rb8bigp5116m90qw
+NarSize: 114416
+References: 
+Deriver: 33d2zzrgrhzgn596dqknj1pkd458nhqk-cargo-package-n0-error-1.0.1.drv
+Sig: korri-cache-ci-1:HXDtDNwyVxNNpOUh++OEEchNBn4QfOfpz3vyHjZJCIXZBip86SQ6yi7iL60JkfcN1JqusB/T3eifiEvJnMHmBA==

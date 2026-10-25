@@ -1,0 +1,10 @@
+StorePath: /nix/store/62hg4hz5wbs1jbasibs3jk64pz9mz3pi-cargo-package-send_wrapper-0.6.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/181gi90ywnyfc7wc561lzhjv663105mf2f6454irxnkp50v51pmz.nar.zst
+Compression: zstd
+FileHash: sha256:181gi90ywnyfc7wc561lzhjv663105mf2f6454irxnkp50v51pmz
+FileSize: 11181
+NarHash: sha256:1sbwbnmirrzlkjgmmm52rr0ah8wg4v5082bdrgjh1qla0dglb936
+NarSize: 36760
+References: 
+Deriver: bzcy9vwm3sklzq9ln5pld2s3yhkc9m5y-cargo-package-send_wrapper-0.6.0.drv
+Sig: korri-cache-ci-1:1WCzOdWGUoL3L2xX1HaT14Jji8/dDix8jDbHnXT+/RkC3ME0u8zAcWgSsoegpUCe9mB7/xJh823uXtAdekj9AA==

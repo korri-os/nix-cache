@@ -1,0 +1,10 @@
+StorePath: /nix/store/nbcjvnqwlzc96mki2m7h8nlf0dzh3qr9-cargo-package-rustls-platform-verifier-android-0.2.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/0mnndfa5h40xgs3ikrgkz4c8ysrrx5gwkvgy7am89cw64rgmjy2b.nar.zst
+Compression: zstd
+FileHash: sha256:0mnndfa5h40xgs3ikrgkz4c8ysrrx5gwkvgy7am89cw64rgmjy2b
+FileSize: 15822
+NarHash: sha256:0l3hddw1v2zmyjgr0bi3nwyn2n32yhxgccf9jg8w6fkmzfrc9gpb
+NarSize: 57904
+References: 
+Deriver: p6sfkbdnxbdaj5vn2qivyid2nlc7i0dh-cargo-package-rustls-platform-verifier-android-0.2.0.drv
+Sig: korri-cache-ci-1:tQ9lduE9SJH6THeeAXJ7g5SIP9NVeVsExqJ/tU10NYQmhDxmA1MxUqXqhJyNACnLqT3L6iFkmolv+JJwPrWZAg==

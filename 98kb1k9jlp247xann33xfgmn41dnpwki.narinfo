@@ -1,0 +1,10 @@
+StorePath: /nix/store/98kb1k9jlp247xann33xfgmn41dnpwki-cargo-package-time-core-0.1.9
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/0y2k36y5cmrjpxlk8kl0kxayyi2zhr5k7kv83gkj6z7nqdhd6q26.nar.zst
+Compression: zstd
+FileHash: sha256:0y2k36y5cmrjpxlk8kl0kxayyi2zhr5k7kv83gkj6z7nqdhd6q26
+FileSize: 10967
+NarHash: sha256:1fb77hgdgjv729f9han3dd3kcmx37hk92d7k63wf9jx5x2pqynzz
+NarSize: 36416
+References: 
+Deriver: 24v49saws1i5fayfn2w5vzmj976dlmh1-cargo-package-time-core-0.1.9.drv
+Sig: korri-cache-ci-1:pIr4pdkRWZ8uESuaSaBOJVfg3VEff89vFNOffR/rOe2baRCt7IqpThklJOj/TVnNE6hOSpY/T/a8wOdHnQrdDQ==

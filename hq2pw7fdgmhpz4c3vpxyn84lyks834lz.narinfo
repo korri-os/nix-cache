@@ -1,0 +1,10 @@
+StorePath: /nix/store/hq2pw7fdgmhpz4c3vpxyn84lyks834lz-cargo-package-iroh-metrics-derive-1.0.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/0zwhcyrj2k0pr82frcigajiv0viscmd70kddx22k7x75xqywhqvl.nar.zst
+Compression: zstd
+FileHash: sha256:0zwhcyrj2k0pr82frcigajiv0viscmd70kddx22k7x75xqywhqvl
+FileSize: 7008
+NarHash: sha256:1rl8qibzqbqkbmd39x9vhy74bal1w0b7g5dc0acmgzzrmmr08y99
+NarSize: 24720
+References: 
+Deriver: wh2vdj0dhx5i38ljcvn09vhmi05jl992-cargo-package-iroh-metrics-derive-1.0.1.drv
+Sig: korri-cache-ci-1:vlqxZkSTU4M3CEVWV1aX9EzYZjlyy4E1T0Ah9kvsX/7ma014/gfyYKLluWCWrsvPwnZ8ZAw6nAWGnfrD8lZECw==

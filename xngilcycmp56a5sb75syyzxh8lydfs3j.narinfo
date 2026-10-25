@@ -1,0 +1,10 @@
+StorePath: /nix/store/xngilcycmp56a5sb75syyzxh8lydfs3j-cargo-package-anstyle-1.0.14
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/0p9vrz9g5a7g7x7gjrqk3wp3y6z12r3ryvsydh7x7ypzw218y0ij.nar.zst
+Compression: zstd
+FileHash: sha256:0p9vrz9g5a7g7x7gjrqk3wp3y6z12r3ryvsydh7x7ypzw218y0ij
+FileSize: 18917
+NarHash: sha256:05l6qv61mfz5f7893446d19rdf1kq7c3p1q1g89wy3byjvc94kbz
+NarSize: 78616
+References: 
+Deriver: dfy3xzahpxpaddw79yafbsnpcyycwm8b-cargo-package-anstyle-1.0.14.drv
+Sig: korri-cache-ci-1:fT1JHvn6Ynp81bKZhtozTbjhwtANQouVhUqJMD5eFqDfkMIHj4lmz31NDdeD/EH98LCObKozyrcL2keOc4TgCg==

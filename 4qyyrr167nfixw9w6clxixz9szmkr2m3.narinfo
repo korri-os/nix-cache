@@ -1,0 +1,10 @@
+StorePath: /nix/store/4qyyrr167nfixw9w6clxixz9szmkr2m3-cargo-package-portable-atomic-1.15.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/0jjpnppn2dchprqjy5dl6ian3bj17ahgbp6x2fsv8pi90lms3b0d.nar.zst
+Compression: zstd
+FileHash: sha256:0jjpnppn2dchprqjy5dl6ian3bj17ahgbp6x2fsv8pi90lms3b0d
+FileSize: 187685
+NarHash: sha256:0fr9554rr8lxr43parkm9lsh1xqmlpxxj6d47mcczy5ibzw2r4dj
+NarSize: 1315976
+References: 
+Deriver: v8486rk537bd8rhppf895cnn3ils20ad-cargo-package-portable-atomic-1.15.0.drv
+Sig: korri-cache-ci-1:5Za9K1hC6oJnyi+ZpeEYhPBjKclRi1l9gHtuZ9PqyLyIS1vjG7eWthTfykugHayFYvU3pM2HtSdMJpyEm6cpDQ==

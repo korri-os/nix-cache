@@ -1,0 +1,10 @@
+StorePath: /nix/store/zmxkmapqlr7dlyydiqqafszsjc1mfrak-cargo-package-gloo-timers-0.3.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/0pbby4hxq1p6pvm429jm0cv8ayx5ky3pc9qvkv537zrvvnnixyg1.nar.zst
+Compression: zstd
+FileHash: sha256:0pbby4hxq1p6pvm429jm0cv8ayx5ky3pc9qvkv537zrvvnnixyg1
+FileSize: 6046
+NarHash: sha256:0clalf6nhmci5jy69y2pahwxqzk1jyz20ry17sjpjfhp0qb922wn
+NarSize: 24600
+References: 
+Deriver: v8hfx5b3nqcn8aljjmsa4xijxnc1yfw5-cargo-package-gloo-timers-0.3.0.drv
+Sig: korri-cache-ci-1:XQTyIuMSsk8S6mhfcbzN+sFwAnPC3c7CMERejJtAa/Mfcz+ypsRPz95FBNeIrgcWIxl+6Iamjyy8O1XEDTTLBw==

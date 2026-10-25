@@ -1,0 +1,10 @@
+StorePath: /nix/store/i1fx5kjxx6y5n2xdicb5kparmgrinx70-cargo-package-objc2-foundation-0.3.2
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/02gj9arih3ag6zv324rcs3vmly040l7m7zjihm03fv91xcxjwfsn.nar.zst
+Compression: zstd
+FileHash: sha256:02gj9arih3ag6zv324rcs3vmly040l7m7zjihm03fv91xcxjwfsn
+FileSize: 353907
+NarHash: sha256:0cf5b77f5kmrw48rv89bfdcx3wm0v1zchxyrqvkwmmmqg0yr3vjs
+NarSize: 3024320
+References: 
+Deriver: 5h1yzs1mvzhnr1ldppma2wih3scsbsbq-cargo-package-objc2-foundation-0.3.2.drv
+Sig: korri-cache-ci-1:JaE8o4+lNzYmVA+SDnakGB1270pOotx7SMMVMgd5hxO+MOq+wrZLkGmxpF3f/xtD19kNiYMmZdpwf6TXh3pZDQ==

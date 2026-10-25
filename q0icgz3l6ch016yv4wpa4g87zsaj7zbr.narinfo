@@ -1,0 +1,10 @@
+StorePath: /nix/store/q0icgz3l6ch016yv4wpa4g87zsaj7zbr-cargo-package-ctr-0.9.2
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/1rn014b7m9skf3r1slfrj2rya7c5klmxks07zacnb6yfnxdh79xr.nar.zst
+Compression: zstd
+FileHash: sha256:1rn014b7m9skf3r1slfrj2rya7c5klmxks07zacnb6yfnxdh79xr
+FileSize: 19011
+NarHash: sha256:0is943vy3qma6hklrdr17cxa9c3l7gv1mik58w5kkn3gsca3l2xx
+NarSize: 60336
+References: 
+Deriver: frvi9jb2sfd5p8n239gcz3z1ffvn9clk-cargo-package-ctr-0.9.2.drv
+Sig: korri-cache-ci-1:AP53RsZjG146P98SF3nCHjhqrwFXp99kHkjUgO8vr92jLi9mY7IhikAMLcg8Zt9ooikED4WCjBTZ6/h0fDqgDQ==

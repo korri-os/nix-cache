@@ -1,0 +1,10 @@
+StorePath: /nix/store/kgpsrrnpxn2iryh4171y032g2skhcn3s-cargo-package-windows-numerics-0.3.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/0zp2vlw7k1x0srygiaiy5c4vlh7r0maq5cs5ifqxgsi7gry7k3dr.nar.zst
+Compression: zstd
+FileHash: sha256:0zp2vlw7k1x0srygiaiy5c4vlh7r0maq5cs5ifqxgsi7gry7k3dr
+FileSize: 10228
+NarHash: sha256:1b4n6xrdh51vvism7zxyagybmcm933rkjsdv7z2q9xh6nmmbhyn9
+NarSize: 51784
+References: 
+Deriver: gq6d0ai254qsjyw48w5i4cbf0zihdk1c-cargo-package-windows-numerics-0.3.1.drv
+Sig: korri-cache-ci-1:V1PIoSk5B9z9hPPjgo5/8paJWddqwZ9YFvc/Pic33c8rs7efpGYE6BWXel+A6AeMlUtIifd9XFgQE+BCiTO1Cw==

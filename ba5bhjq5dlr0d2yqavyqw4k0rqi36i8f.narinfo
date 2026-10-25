@@ -1,0 +1,10 @@
+StorePath: /nix/store/ba5bhjq5dlr0d2yqavyqw4k0rqi36i8f-cargo-package-ghash-0.5.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/0xl13rfnf6n9z4gmw7z2kqnnpal736w181w8nfsx1dcjid7lqpsw.nar.zst
+Compression: zstd
+FileHash: sha256:0xl13rfnf6n9z4gmw7z2kqnnpal736w181w8nfsx1dcjid7lqpsw
+FileSize: 10035
+NarHash: sha256:1ci6cjc46z5lc4rlfc0m46dv57rdbalvxxvvcjamyvyqsigxcp60
+NarSize: 28240
+References: 
+Deriver: zcqwkkp2p8pvyr3a1jz888qmd6qmm0kf-cargo-package-ghash-0.5.1.drv
+Sig: korri-cache-ci-1:wB5r/m+d/f2+WL62xvvmDuD+79D8IUIb23+8krGgLeBzVLgDjfLgj+/77vJ7s8hIiNo8BsBrQYNDzNjORgfOCw==

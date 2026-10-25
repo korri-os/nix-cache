@@ -1,0 +1,10 @@
+StorePath: /nix/store/y6cvm86s8jx80kjf1f3wkcm7531zby8c-cargo-package-windows-future-0.3.2
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/05k82fmrq4mfxykwhbb6m2hx3i0d3l9lnfr7jdn8rh3mmd1vbz9x.nar.zst
+Compression: zstd
+FileHash: sha256:05k82fmrq4mfxykwhbb6m2hx3i0d3l9lnfr7jdn8rh3mmd1vbz9x
+FileSize: 20154
+NarHash: sha256:1k6v4rq3gld4x2arzas6aikrxfql0lhi9xbrc0bpyvkfnl7qbgxa
+NarSize: 138320
+References: 
+Deriver: q07ahvbz5b0sb61laqvzlf2bzp0yq2j5-cargo-package-windows-future-0.3.2.drv
+Sig: korri-cache-ci-1:HTcKALofC1SKeLOwYWJ3OxKRNZr17IaMVpnLl3Jhmah+resLMvqZ0VhHjHnPoTo0NsYnkwfG2DT0BTcgqwOCCA==

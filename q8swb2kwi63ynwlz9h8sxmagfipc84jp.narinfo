@@ -1,0 +1,10 @@
+StorePath: /nix/store/q8swb2kwi63ynwlz9h8sxmagfipc84jp-cargo-package-openssl-probe-0.2.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/0nhwnsxvmmy1q8g9gb9qhxyxiwvvhqs41b38y22cslab05ldamys.nar.zst
+Compression: zstd
+FileHash: sha256:0nhwnsxvmmy1q8g9gb9qhxyxiwvvhqs41b38y22cslab05ldamys
+FileSize: 9651
+NarHash: sha256:05w5flkw02439vsa4a843cfblr58avl6b95r1j8iwaad99b5pyvh
+NarSize: 28720
+References: 
+Deriver: 2z44nshg5bah23jhv8kg1f5n1vyfskll-cargo-package-openssl-probe-0.2.1.drv
+Sig: korri-cache-ci-1:6/X3jaY9kChwyDaGodxeVbob5kXvPKdQrZYG0tWOpJYA5avXbkLpuAQ4nNFcNDNnkm63CFlBs/LtwUIA97pKBw==

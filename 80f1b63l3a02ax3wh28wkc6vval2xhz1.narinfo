@@ -1,0 +1,10 @@
+StorePath: /nix/store/80f1b63l3a02ax3wh28wkc6vval2xhz1-cargo-package-rustls-native-certs-0.8.5
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/091n5sypig99vlnrhw3nn2ngwjpnr2zpcyqb45fs2mard602kgn8.nar.zst
+Compression: zstd
+FileHash: sha256:091n5sypig99vlnrhw3nn2ngwjpnr2zpcyqb45fs2mard602kgn8
+FileSize: 22172
+NarHash: sha256:18ik5z10clrmns3cfp5rxw96jhnb2lg575y26c823442j2qcbf8d
+NarSize: 69856
+References: 
+Deriver: jvn9zv5npsahh1aak62sm8v694z1qi1c-cargo-package-rustls-native-certs-0.8.5.drv
+Sig: korri-cache-ci-1:ql1qXqdNdiClEgeemJDuFk2quQIYurEBOq/G2Xp2zamkkvhjTW/lFLyXDFXbt3lTduQooSxN2xh9BTu6L+enDw==

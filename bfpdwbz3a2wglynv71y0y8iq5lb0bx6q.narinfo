@@ -1,0 +1,10 @@
+StorePath: /nix/store/bfpdwbz3a2wglynv71y0y8iq5lb0bx6q-cargo-package-netlink-proto-0.12.2
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/0hk5vs7fnclw7rjbca9dpjz87lc7kbh8ixcxsjb07m7z43g7qwaj.nar.zst
+Compression: zstd
+FileHash: sha256:0hk5vs7fnclw7rjbca9dpjz87lc7kbh8ixcxsjb07m7z43g7qwaj
+FileSize: 22652
+NarHash: sha256:1050hrp1zba0rbcjfaabdprfz81gqhgyy1mqkfw0zgcj35qm27dn
+NarSize: 86304
+References: 
+Deriver: y27npnk5iar7v3rk84qjk7i2har7x1xg-cargo-package-netlink-proto-0.12.2.drv
+Sig: korri-cache-ci-1:gxYfryICXXccWfW3zyt70V+tRnFRd3diZLniAaX/LXZuHBQhMUUz+bUkbY1wIL7OAN4Hdmq8dMUWPYhmeA1RCg==

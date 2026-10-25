@@ -1,0 +1,10 @@
+StorePath: /nix/store/ym33cdargj5y61sahsjz3xrdr62dghym-cargo-package-webpki-root-certs-1.0.10
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/0qbab3ir6z9k0mlwckvrlbfbhiqw5qrlsk3lwsa95c5lgh5hvcnc.nar.zst
+Compression: zstd
+FileHash: sha256:0qbab3ir6z9k0mlwckvrlbfbhiqw5qrlsk3lwsa95c5lgh5hvcnc
+FileSize: 156829
+NarHash: sha256:078xdlqs3g1c2b3vd3p5gbdirw4534387hcsp2rgga2azh5x6gbz
+NarSize: 552800
+References: 
+Deriver: 7gr9ind1rl3zzcwzan0q23mfikfr46s4-cargo-package-webpki-root-certs-1.0.10.drv
+Sig: korri-cache-ci-1:maPzw1hA9bt5rjh4wR2jbp55+Bq0QO7xQMo2SslE9voTBAWGAWcEuUWsZhaLhaA4dcfCnDc3wf8t32bSeIcBBg==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/sf6x7pn01zr6kb973d0fc5d8j2kk9v34-cargo-package-rcgen-0.14.10
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/0cblkqa8jcfiw34hqxi9kc0w03prbiah2r7krdkcmgjmgvgam6f2.nar.zst
+Compression: zstd
+FileHash: sha256:0cblkqa8jcfiw34hqxi9kc0w03prbiah2r7krdkcmgjmgvgam6f2
+FileSize: 65781
+NarHash: sha256:17z18s477aqdd1qknhf4ai9ryavjr3cch9q86kns2yd1hq8zrid9
+NarSize: 249208
+References: 
+Deriver: 9cx7yk7gcnw5ykjy6kx7ss9xy4m6d9pl-cargo-package-rcgen-0.14.10.drv
+Sig: korri-cache-ci-1:OotAP9vH3pOZxDsBSVDAtGaDIzAcMLrS9tJvNZtlwasSgI1K6L4IhfjI3p/MnlLc3r3Bb6OcWgzfp3UEZNEkCg==

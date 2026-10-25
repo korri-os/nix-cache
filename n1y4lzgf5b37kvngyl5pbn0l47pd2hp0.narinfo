@@ -1,0 +1,10 @@
+StorePath: /nix/store/n1y4lzgf5b37kvngyl5pbn0l47pd2hp0-cargo-package-async_io_stream-0.3.3
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/09cmrahn50xbjshgv0d5z365dak76544vzp0qj96p86k14yyv3mb.nar.zst
+Compression: zstd
+FileHash: sha256:09cmrahn50xbjshgv0d5z365dak76544vzp0qj96p86k14yyv3mb
+FileSize: 15959
+NarHash: sha256:1qmfg9f8mm0fg0gm5n079pdjz3bkk49rnivggf6mk7n8afz0ynri
+NarSize: 52608
+References: 
+Deriver: 1i2ra66fwilligagm2b54cvrq04yvl1p-cargo-package-async_io_stream-0.3.3.drv
+Sig: korri-cache-ci-1:U9UipNOiTqjBUi7NlmvAvCXJujtIfPR1CbxGxGuXfL4UFVu1PpiYLiNNvZW+5va/O8mbaEK3/pbf/yJUm7gACw==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/r2ymmzpkblls3c9xqflq2l67jh6b00az-cargo-package-objc2-core-wlan-0.3.2
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/1j7y8086044gss88gnlsbllf9f8znsrb14a5d7f3fihfscxwh0xw.nar.zst
+Compression: zstd
+FileHash: sha256:1j7y8086044gss88gnlsbllf9f8znsrb14a5d7f3fihfscxwh0xw
+FileSize: 18775
+NarHash: sha256:0wp5zw00jqbrkk531h3acgnabvim3vghsxv9fx8mrkzy4adh5a9a
+NarSize: 135128
+References: 
+Deriver: asc18vdkfgc2aa6zy3s9ghlmbwpmfgi2-cargo-package-objc2-core-wlan-0.3.2.drv
+Sig: korri-cache-ci-1:u1J8a0ZFdwjTt7Wu9rhnFmrBWYekjWJMSQE9R/k5xKuUOiil+YCupfbO9UI/DuTP4/QwIbqGHyRLoNj5xlXvCQ==

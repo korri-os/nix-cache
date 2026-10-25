@@ -1,0 +1,10 @@
+StorePath: /nix/store/vvks3px8kjq9mqgfd64kg1hsyyk1c7bs-cargo-package-oid-registry-0.8.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/05jxb8w7mrws53sg4b5nfrcvj2a1g4c03sj1mcj3rm1qmybzyl63.nar.zst
+Compression: zstd
+FileHash: sha256:05jxb8w7mrws53sg4b5nfrcvj2a1g4c03sj1mcj3rm1qmybzyl63
+FileSize: 17934
+NarHash: sha256:18b8v5hvisws7gp2l5wzlqvnha721zyapv8lg11n5zcnafny144q
+NarSize: 55776
+References: 
+Deriver: hhrwh1hz1iwj8lkjhgz4hhp4i2hm7v40-cargo-package-oid-registry-0.8.1.drv
+Sig: korri-cache-ci-1:uej27USZdtqGsbEq429ouEzAa1aqErj+NTkTAW/FKFq3pgOHxhSby8yxyhK0aAKXY0r0CZxRboXH8G8DggcUAg==

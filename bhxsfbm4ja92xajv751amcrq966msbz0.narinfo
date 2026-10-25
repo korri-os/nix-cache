@@ -1,0 +1,10 @@
+StorePath: /nix/store/bhxsfbm4ja92xajv751amcrq966msbz0-cargo-package-sorted-index-buffer-0.2.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/05ahkgsdvz473acxnlpkcg4wi1lx36fxvbsymqwa6sc5ss80d534.nar.zst
+Compression: zstd
+FileHash: sha256:05ahkgsdvz473acxnlpkcg4wi1lx36fxvbsymqwa6sc5ss80d534
+FileSize: 14772
+NarHash: sha256:0rsf1sf6vlyjhwgi8fd8xihjczxn9yj82fhg3wggnjyis8p5vq3g
+NarSize: 48544
+References: 
+Deriver: sm2bjxm2zynrjnxbd5m9dbqmcpmq6wx8-cargo-package-sorted-index-buffer-0.2.1.drv
+Sig: korri-cache-ci-1:HnZqHIZSq9BItUtD0R3NUVTSrvyowXKvawTE7OVDJPtyfYymqiMp+uTUIS7aOoJQs6l1IRsEz+lAJyllMw52BA==

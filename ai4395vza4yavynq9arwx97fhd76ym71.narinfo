@@ -1,0 +1,10 @@
+StorePath: /nix/store/ai4395vza4yavynq9arwx97fhd76ym71-cargo-package-yasna-0.6.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/0ls1lnkaxbgi45pdk03hdpqkchn4x0395zgcxac9p6x21jhdx4rz.nar.zst
+Compression: zstd
+FileHash: sha256:0ls1lnkaxbgi45pdk03hdpqkchn4x0395zgcxac9p6x21jhdx4rz
+FileSize: 41970
+NarHash: sha256:1d5qfsrfp4ys7sbzmx3a8zxfxpbgznfmh3wrk5l6b9byqza4nyqf
+NarSize: 271496
+References: 
+Deriver: 0kkl8jjx764ak8gk8qy3078g31zbwyr8-cargo-package-yasna-0.6.0.drv
+Sig: korri-cache-ci-1:PEgdS0F6tVmSUYOoO6XPPeHE9R8jaEqVlSqgZeo3FYXtSbaJyokB31TBGfja3g254xtQB9Sb0rT6HvOpRf+VDQ==

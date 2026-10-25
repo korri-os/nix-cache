@@ -1,0 +1,10 @@
+StorePath: /nix/store/bbpp1ja7d3vl3pnax2bjgdxljjh25z5c-cargo-package-scopeguard-1.2.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/1w6xij55sr1nnr9py6nnpb96x3gjxvdmahzf3vx4r8n9wj0qh6zc.nar.zst
+Compression: zstd
+FileHash: sha256:1w6xij55sr1nnr9py6nnpb96x3gjxvdmahzf3vx4r8n9wj0qh6zc
+FileSize: 12422
+NarHash: sha256:1kh2irxyjk3rl4374jxjjs6g7iw73krn0ajs2f32cp925srcanqs
+NarSize: 38760
+References: 
+Deriver: 3n13fgh0gqgrmpw3yb3b19407prx2wvg-cargo-package-scopeguard-1.2.0.drv
+Sig: korri-cache-ci-1:s7mhxwtDQ9M0HDvvR+Q2/ZN1WseFC0VW4O31kacvIdphcn/ale8jIeMQkKYhrqNahf8YzYkGPVoerzI0k0smBA==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/zsafp7zrhd019smaxknpiksnjciqlwr0-cargo-package-deranged-0.5.9
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/1cw934jn371igk6ayzr3912bc3xgaqr3afkqfbwibvf0k2hd6p10.nar.zst
+Compression: zstd
+FileHash: sha256:1cw934jn371igk6ayzr3912bc3xgaqr3afkqfbwibvf0k2hd6p10
+FileSize: 29714
+NarHash: sha256:00mqv28a00f9jc7pmr57n5mq9762hikfsd6lc385xlz3cq5ylxaw
+NarSize: 158064
+References: 
+Deriver: 9sw6s8rivsyg0l05z0ihpv3zv14hs21k-cargo-package-deranged-0.5.9.drv
+Sig: korri-cache-ci-1:vyt6+FYKk+oaTDvTzVDTn/FeEvzjXwk3u3rkTsKG/j8zOfxU5lyISeSfTboDBCpRyQp8t6LFs9M62Kg1KabIDQ==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/kzvrrhdwgvnlb0y2zjbr6fzb0knaa1k9-cargo-package-constant_time_eq-0.4.2
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/0xfkj7d1ica9924nsx1d2cfzd8lh1pkg16rpx9njim4y2g8g7xyk.nar.zst
+Compression: zstd
+FileHash: sha256:0xfkj7d1ica9924nsx1d2cfzd8lh1pkg16rpx9njim4y2g8g7xyk
+FileSize: 26875
+NarHash: sha256:1v1lihfsxbp3dnzqapfzdcmwk8fynl79i9pcc1lbxqs3ayi90rwc
+NarSize: 121776
+References: 
+Deriver: 9xvjgb3z64dhjz9pcn9kkx7hb50p3g1w-cargo-package-constant_time_eq-0.4.2.drv
+Sig: korri-cache-ci-1:BNlihx5/OSzbBcnXe6JMY/hijJftJ9thw5ETtJ4mkhOj8r+YRaYGrhTJK4LMQCrbk3SmGnjRYjqVRu0CTJZxCQ==

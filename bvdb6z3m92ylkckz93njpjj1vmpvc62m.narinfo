@@ -1,0 +1,10 @@
+StorePath: /nix/store/bvdb6z3m92ylkckz93njpjj1vmpvc62m-cargo-package-objc2-system-configuration-0.3.2
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/0cs9hnz764sbq56y52v6my1ilisf1zy8ki9d2iw03nv0vnvfhb9m.nar.zst
+Compression: zstd
+FileHash: sha256:0cs9hnz764sbq56y52v6my1ilisf1zy8ki9d2iw03nv0vnvfhb9m
+FileSize: 50137
+NarHash: sha256:0bcf00fxxx6ff2jy2d56rjahkar46gar3fgc2z25689gpqi7jqcl
+NarSize: 430960
+References: 
+Deriver: m4ajgaas130wshv4c743pm8m4ikv7z11-cargo-package-objc2-system-configuration-0.3.2.drv
+Sig: korri-cache-ci-1:i/x5LD7GlpOxpfo8c1djihUphowL/DdO0vHrseDL7uYjqJ8kSj/jjin6xJypbmT5QZPnCSYXwvNRODsyQFi7Cg==

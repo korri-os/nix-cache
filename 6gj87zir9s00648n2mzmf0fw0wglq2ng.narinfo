@@ -1,0 +1,10 @@
+StorePath: /nix/store/6gj87zir9s00648n2mzmf0fw0wglq2ng-cargo-package-data-encoding-macro-0.1.21
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/0y8mjh6hwc2qhzb0jynxyb0x5d4gmc9dmh0r7jaswvhma25adrsk.nar.zst
+Compression: zstd
+FileHash: sha256:0y8mjh6hwc2qhzb0jynxyb0x5d4gmc9dmh0r7jaswvhma25adrsk
+FileSize: 4686
+NarHash: sha256:09y6qmknq2qcbs0dc50hm8dcixcl78hzx4f8pj833mpny1fi049f
+NarSize: 15416
+References: 
+Deriver: 5xixlj2ksaai9bvky9idrkc6p2h7f70m-cargo-package-data-encoding-macro-0.1.21.drv
+Sig: korri-cache-ci-1:WY4X6TE83Wxve8YoqTky6l0wrFvbqHiC9Z9QOih36a7zl4P4lfV/rbAYhuGuouqTwj6664IrTjQz/aylwcF8CA==

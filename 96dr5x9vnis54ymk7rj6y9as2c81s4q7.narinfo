@@ -1,0 +1,10 @@
+StorePath: /nix/store/96dr5x9vnis54ymk7rj6y9as2c81s4q7-cargo-package-cesu8-1.1.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/0kmf7na880q6gwkcnk6fqbx4hdyhap6y6mipdyizxqyxjkgvinfp.nar.zst
+Compression: zstd
+FileHash: sha256:0kmf7na880q6gwkcnk6fqbx4hdyhap6y6mipdyizxqyxjkgvinfp
+FileSize: 11273
+NarHash: sha256:1r15lfr6rjbnavm3hpxrb588xpvw806ska0clkm34xbvp8h5m85g
+NarSize: 40112
+References: 
+Deriver: smn1mhh81naklby9mi141vybhh8sa55y-cargo-package-cesu8-1.1.0.drv
+Sig: korri-cache-ci-1:NNb12vf7GZ5N+ZqDoqfjQZnR2Y7fs6lqRt9qS6GxGKLYpjdCZbhEyZ+u2WoSrDOUy6g0Q5zOzi75L6fhoj5MBw==

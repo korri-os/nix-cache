@@ -1,0 +1,10 @@
+StorePath: /nix/store/zd2wgx6ac8c1hvkfypzz6ipbsdw5wdxr-cargo-package-n0-dns-resolver-0.1.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/0p5gks5gacm7vm2mjri4wxixlx4caimd0wwxc7fad6whz7m56494.nar.zst
+Compression: zstd
+FileHash: sha256:0p5gks5gacm7vm2mjri4wxixlx4caimd0wwxc7fad6whz7m56494
+FileSize: 124538
+NarHash: sha256:1rx79qap26xiimh6vs103zpmsificz6pkhpyd5vi4hjhk2zpizbj
+NarSize: 471984
+References: 
+Deriver: yzwclwg6s603ws553b2a0fgqwdfy71m0-cargo-package-n0-dns-resolver-0.1.0.drv
+Sig: korri-cache-ci-1:hJKk12my563BlVWpxE5nVSibEEo7GASsr91XDBturfDgSAc+wUYUHQHXP3FV4jWHa9zPN/ETL8W+9Rfl0LzPBw==

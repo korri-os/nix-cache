@@ -1,0 +1,10 @@
+StorePath: /nix/store/lgyyq8rymgqxglshpdfbih5vp3da9mla-cargo-package-widestring-1.2.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/0f4fbigpa15i7i89061g0pwasm8jzr89jmlrcj000qr823z2cw2g.nar.zst
+Compression: zstd
+FileHash: sha256:0f4fbigpa15i7i89061g0pwasm8jzr89jmlrcj000qr823z2cw2g
+FileSize: 86628
+NarHash: sha256:0ngibf0khkj39xhr8gphm9rwczvvjxijb1bbw7nrihi4l9l6qf7m
+NarSize: 605536
+References: 
+Deriver: ki6g4cx4nc2532q2d6x81k9naaamf9dj-cargo-package-widestring-1.2.1.drv
+Sig: korri-cache-ci-1:Dx////tuzhzc3V8/EY3mh7nOyiKi2WV/NJd8Lsq0dEo8HBkzDGGXPpqj6VE45cj324dTBKXoGSlimoQGwmVUAA==

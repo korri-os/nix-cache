@@ -1,0 +1,10 @@
+StorePath: /nix/store/rfnwsqcfj2bvm9yp06ax5bafy08k3qxf-cargo-package-der-0.8.2
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/12irgxnbvgs5xjbjniw3yjpkav2q5mr46b7g98ik6261xb0cwig3.nar.zst
+Compression: zstd
+FileHash: sha256:12irgxnbvgs5xjbjniw3yjpkav2q5mr46b7g98ik6261xb0cwig3
+FileSize: 122350
+NarHash: sha256:0wjnf6sppjr723danzxil0aspd5cc861xx1z61xnm2j4qmsn2nji
+NarSize: 575912
+References: 
+Deriver: fg086qchd8as099bkynybjvwbhvkian1-cargo-package-der-0.8.2.drv
+Sig: korri-cache-ci-1:KnglDUifIsB+dKD78qcF+UfVuMYutTOEd5a5VRYW3q8B3WGbsGjnDHdM0ThUqjaeyMmvhsJcsuw8AwA0xnjUBQ==

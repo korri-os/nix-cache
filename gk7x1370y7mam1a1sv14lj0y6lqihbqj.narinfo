@@ -1,0 +1,10 @@
+StorePath: /nix/store/gk7x1370y7mam1a1sv14lj0y6lqihbqj-cargo-package-anstyle-wincon-3.0.11
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/15p692sckdvf1saqfaxgxmkjvswlzysq96asnvh3qd4qp8r5h7as.nar.zst
+Compression: zstd
+FileHash: sha256:15p692sckdvf1saqfaxgxmkjvswlzysq96asnvh3qd4qp8r5h7as
+FileSize: 13378
+NarHash: sha256:0vmf2p0bq71kpxky0pmbbanl50blzn72pvycf2xpg6x7whhnnbph
+NarSize: 47824
+References: 
+Deriver: xjwp170lnmwk1si73dk02dzdgg2q84sn-cargo-package-anstyle-wincon-3.0.11.drv
+Sig: korri-cache-ci-1:fQVvtamAwtVShIje+qunpDbnoQEXCsUYxY5RpsQ4DE49AphUHndCz5p4jwvB3B9rGA/u1fb+JM+66iC22dsICw==

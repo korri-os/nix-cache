@@ -1,0 +1,10 @@
+StorePath: /nix/store/b6s8yypkwp3iyvgm08w7wn4zpgrycjgj-cargo-package-curve25519-dalek-derive-0.1.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/1msi91jbbj1jgzg3dj3x9vf3xi2yf84k43wj1k9fwq2zw2al44k0.nar.zst
+Compression: zstd
+FileHash: sha256:1msi91jbbj1jgzg3dj3x9vf3xi2yf84k43wj1k9fwq2zw2al44k0
+FileSize: 12563
+NarHash: sha256:0ibm4mz0qf3w0walxpgg6z7cnfr6gqsyrhbm8l3d8k3j4qi306qi
+NarSize: 43856
+References: 
+Deriver: 5rhny3q912rd3q1d9n6n7y1fpagdsc68-cargo-package-curve25519-dalek-derive-0.1.1.drv
+Sig: korri-cache-ci-1:J7NEqPxq46HVLc0F6Jlsg9QtTZPLenYRmxAi8djYoVdf8tXUrPPm/ONx4V2aSifPnsQ7N7Hgz9PRzg8tIJHfAg==

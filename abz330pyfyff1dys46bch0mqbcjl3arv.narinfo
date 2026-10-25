@@ -1,0 +1,10 @@
+StorePath: /nix/store/abz330pyfyff1dys46bch0mqbcjl3arv-cargo-package-serdect-0.4.3
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/0978i75s9w23cszlp2vhiq7vqq32jgyyb5rjwfjhz5abca9vnnn3.nar.zst
+Compression: zstd
+FileHash: sha256:0978i75s9w23cszlp2vhiq7vqq32jgyyb5rjwfjhz5abca9vnnn3
+FileSize: 20757
+NarHash: sha256:0wwxks1fkvlfpmlaicva24256bchz3yjazl4dbhkp895fvnvr8dz
+NarSize: 82296
+References: 
+Deriver: gazfi2k4a3as5sgg115dsqrgdwari95s-cargo-package-serdect-0.4.3.drv
+Sig: korri-cache-ci-1:xWZRtfzxcJzx6NF9WLAdYQryqtG0nlqVAdvelp5pzv1ykvzOByJB/dl8wE1pw1flWz8Ez3a7bys4NmW1zENgAA==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/8k2iwb1s9vnplsrvzhdnii7fva3cg1gf-cargo-package-futures-buffered-0.2.13
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/1809cqvzsxvzmx6v1xc2404bc3v6z4zwm2gd1ppbmsmzqnzh8j9d.nar.zst
+Compression: zstd
+FileHash: sha256:1809cqvzsxvzmx6v1xc2404bc3v6z4zwm2gd1ppbmsmzqnzh8j9d
+FileSize: 46144
+NarHash: sha256:0mk0ih40yn98s3kzp1iwv7vqqz934491vfkgm03gfhqgplh1sys6
+NarSize: 221832
+References: 
+Deriver: g4vk5i1wasqkh911hgfcfx2yfa6q3j4z-cargo-package-futures-buffered-0.2.13.drv
+Sig: korri-cache-ci-1:vvMNCAV83QL13OyO82woRTTcxcBeLFqzVTHumLtgwcvEzGsUu2h03QuEAX+976cUp8sYSQHRfYD1UaRhGkjiAQ==

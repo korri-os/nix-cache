@@ -1,0 +1,10 @@
+StorePath: /nix/store/3l138maj162vnlpfsa302mv8nia1pr8h-cargo-package-aes-0.8.4
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/0fzxqhy53p39z0zng5xwslxal52sbjifq3f6zf7cvgv9i5f99d85.nar.zst
+Compression: zstd
+FileHash: sha256:0fzxqhy53p39z0zng5xwslxal52sbjifq3f6zf7cvgv9i5f99d85
+FileSize: 117506
+NarHash: sha256:14lxcxskz6gywxyn03p2zwxx494b4bz2fyalfc9jsp6s3kyn1yxa
+NarSize: 349664
+References: 
+Deriver: g37ac36k5q02151x444vf34zszgvkdxm-cargo-package-aes-0.8.4.drv
+Sig: korri-cache-ci-1:tEqQnTH2AtODG+xMdB8W66Qc6WwYGD3TFeJpEorTc39SaNtDDQ3s0Ma/IZ1cqEktHLXVIw9G+xKqw0wn+AZ4CA==

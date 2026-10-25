@@ -1,0 +1,10 @@
+StorePath: /nix/store/yi6qni6whz2rf2js4cvn05dqwx6rv61d-cargo-package-thiserror-impl-1.0.69
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/178655mkqhjv536c3cg2hra42iqkrhk2f4f8l9mnh73wskignpcl.nar.zst
+Compression: zstd
+FileHash: sha256:178655mkqhjv536c3cg2hra42iqkrhk2f4f8l9mnh73wskignpcl
+FileSize: 20294
+NarHash: sha256:0hz0yvh182r4jzsh84mrbzhngsrnxq5vawjrslgrmvn5jh6sizhy
+NarSize: 85248
+References: 
+Deriver: 8bglk8yjnx3v9963pkbl5drbjkq2ypn5-cargo-package-thiserror-impl-1.0.69.drv
+Sig: korri-cache-ci-1:B9KTKmeKZSzhOBV6vKwFWpqdPX18lURsPLtj77c9habwgL43vmLbQndOmIZWPqPlodroF6q7SX1K3049BJ6bCA==

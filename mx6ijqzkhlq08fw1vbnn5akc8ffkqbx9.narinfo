@@ -1,0 +1,10 @@
+StorePath: /nix/store/mx6ijqzkhlq08fw1vbnn5akc8ffkqbx9-cargo-package-netlink-packet-core-0.8.2
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/0vldnyf803jf55zziaa5vvh7c6h4yp2drgrlai86km1lm481y000.nar.zst
+Compression: zstd
+FileHash: sha256:0vldnyf803jf55zziaa5vvh7c6h4yp2drgrlai86km1lm481y000
+FileSize: 25846
+NarHash: sha256:05z4sw9yrgk2h29wdds8spqw3ydr2mfy4jpdbgddnmii9kj44vfk
+NarSize: 110848
+References: 
+Deriver: apkqv1qw81qpdkq0fn2nzx71fs1lp5g0-cargo-package-netlink-packet-core-0.8.2.drv
+Sig: korri-cache-ci-1:59EOChKkuO/XyT1kqY8F241A2kDSuBPbfUG9nHGzRvrfA0DYzN0+LljNkzetON1a+uYlb34dPCpe/3KvPIRoBw==

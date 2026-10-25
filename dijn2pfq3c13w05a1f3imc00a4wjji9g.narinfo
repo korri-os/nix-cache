@@ -1,0 +1,10 @@
+StorePath: /nix/store/dijn2pfq3c13w05a1f3imc00a4wjji9g-cargo-package-dlopen2-0.8.2
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/0n1fma12qf9awqqy6m00pv3vax8zl4547avh5s9j9k7i7vzr9p9g.nar.zst
+Compression: zstd
+FileHash: sha256:0n1fma12qf9awqqy6m00pv3vax8zl4547avh5s9j9k7i7vzr9p9g
+FileSize: 28481
+NarHash: sha256:08cs8dhnsr9r157f7jjzzjss0icngbghyrjfk82n9wmbfyf4bk4q
+NarSize: 125280
+References: 
+Deriver: id083c10c8hx13dy5l2lz6fr72m07mil-cargo-package-dlopen2-0.8.2.drv
+Sig: korri-cache-ci-1:kFbEj3zW8nOxpRs1Cbr+Ux0FbTRPz1tJPXMjpnPwMm12NsppR/DZZ6ZNr9mDjWQWDdG8Run9i7iikJgaaEMMCA==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/0ar09yjkgj11286kp5ip5jayr0sr95hi-cargo-package-postcard-derive-0.2.2
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/0d9spdmrp239vh1kmfwb1a4q5a0yd662mwmx4ck8y7amkxkzswi9.nar.zst
+Compression: zstd
+FileHash: sha256:0d9spdmrp239vh1kmfwb1a4q5a0yd662mwmx4ck8y7amkxkzswi9
+FileSize: 11424
+NarHash: sha256:0clg2mw65v7hi6mbqqy2rciirj09v2yjwav7db33y16fl5an085s
+NarSize: 36896
+References: 
+Deriver: n5dn959hsr6lhqifnf7zalyl4h2la47g-cargo-package-postcard-derive-0.2.2.drv
+Sig: korri-cache-ci-1:74Icf5e4jEkRo2GEmPQ6tDqCfGDQ46ygkvlchsfSj8PhU9IAwE7+VCARLm3eqIObshPJIDf/G3HmLv5o3oiJDQ==

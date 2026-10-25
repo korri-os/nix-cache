@@ -1,0 +1,10 @@
+StorePath: /nix/store/9qkni69n3l872r0dq662p9gid9hg58qi-cargo-package-quick-xml-0.41.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/0rg929j5f5fwb8g60p8vagp2fd8r0mngd0xkwr0naqab6gq1qwhr.nar.zst
+Compression: zstd
+FileHash: sha256:0rg929j5f5fwb8g60p8vagp2fd8r0mngd0xkwr0naqab6gq1qwhr
+FileSize: 228663
+NarHash: sha256:0sg26m0b3icidlfdy3kxagqsb48xa8f0yndm4mlm1ka21xhc9xc7
+NarSize: 1399576
+References: 
+Deriver: yag5s3plc2rnv78yqmxjgv7q5casx1l4-cargo-package-quick-xml-0.41.0.drv
+Sig: korri-cache-ci-1:t2ju/29JpMEc0JRBPSV6sSaGKisVOsdjsaZsgUjVDN1RF0EZEcjNcJq5D+oQOTfkBP9g3YDjpXGYLdWkY6nhAQ==

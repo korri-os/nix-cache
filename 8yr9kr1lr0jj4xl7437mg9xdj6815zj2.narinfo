@@ -1,0 +1,10 @@
+StorePath: /nix/store/8yr9kr1lr0jj4xl7437mg9xdj6815zj2-cargo-package-winapi-i686-pc-windows-gnu-0.4.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/0v099y1ahwh0ax93i8jb38jq5nrlg6h0yq8a23ab2hph0bwi89cm.nar.zst
+Compression: zstd
+FileHash: sha256:0v099y1ahwh0ax93i8jb38jq5nrlg6h0yq8a23ab2hph0bwi89cm
+FileSize: 2734563
+NarHash: sha256:18glck8z2qvfvfb54hn1nyh6sxv09m1jr90i4gvsmbp07whrjq40
+NarSize: 51244648
+References: 
+Deriver: d6k8iawyc255v2p5hfmp2fpqy91fazg6-cargo-package-winapi-i686-pc-windows-gnu-0.4.0.drv
+Sig: korri-cache-ci-1:c5BGVvdC4X+f/2Ond7AtffJB5R43aVhKoVPw5o5Fy3IiO7N7VWbLyoTP5anN02+inmNgvT+cZvscF9AIz/MCAQ==

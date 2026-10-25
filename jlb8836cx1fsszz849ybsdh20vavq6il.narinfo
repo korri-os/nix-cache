@@ -1,0 +1,10 @@
+StorePath: /nix/store/jlb8836cx1fsszz849ybsdh20vavq6il-cargo-package-colorchoice-1.0.5
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/0mhj0phf6i0j8n6kx16cbl2inxmqz1zf4w2f70vq063l9iy76nl6.nar.zst
+Compression: zstd
+FileHash: sha256:0mhj0phf6i0j8n6kx16cbl2inxmqz1zf4w2f70vq063l9iy76nl6
+FileSize: 8625
+NarHash: sha256:1vk1xwgjn7qqwv1ckw6k6g5hglzfv5rxdcn75h953f40bmg3qa7w
+NarSize: 24160
+References: 
+Deriver: iq3wwfxaw4zd2l5w01q4dmgkamv3wmlw-cargo-package-colorchoice-1.0.5.drv
+Sig: korri-cache-ci-1:hoqZywLsnx7t7qPc6EJbdSAJTS98y8sHeknlzwMOfz+BA8ky83Lla5oh+L0EiqH18Efrm8W9Fn7sBPFzclhtDA==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/g0cp843ji7yimjz41v9blnybm1v45gcl-cargo-package-windows_x86_64_gnullvm-0.42.2
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/04ahr33yw55dp0csqxzv1nns0jiagwaq8w8l64gxr8agwas556v0.nar.zst
+Compression: zstd
+FileHash: sha256:04ahr33yw55dp0csqxzv1nns0jiagwaq8w8l64gxr8agwas556v0
+FileSize: 385764
+NarHash: sha256:10fccpmgnrpg899ca3bf8cyj3r320yji967f1b9plinqy7av120j
+NarSize: 3267400
+References: 
+Deriver: bn2sfri5mq0ab9q38dv6za15sv669mhp-cargo-package-windows_x86_64_gnullvm-0.42.2.drv
+Sig: korri-cache-ci-1:Lqqftn/LsoWo55kDyWztLdRnv2/+D6iOvVSl54YxjglBLb/3vU6tGO1iGWJT4I/m8iLG3ue5LrznSL+W59qYDg==

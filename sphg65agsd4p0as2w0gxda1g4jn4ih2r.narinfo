@@ -1,0 +1,10 @@
+StorePath: /nix/store/sphg65agsd4p0as2w0gxda1g4jn4ih2r-cargo-package-pem-3.0.6
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/09x4yiqvxy8api0rjxzqm0raiy0kfz13n2gpbh5fjscyhxl396h9.nar.zst
+Compression: zstd
+FileHash: sha256:09x4yiqvxy8api0rjxzqm0raiy0kfz13n2gpbh5fjscyhxl396h9
+FileSize: 19373
+NarHash: sha256:0wf68sfhsbsrs3yfwn6k9wdnfp55frgs63rimld0kz7as7cc9m6h
+NarSize: 77656
+References: 
+Deriver: wxabm34rqgwbfvil1lcn3vwvmylmxzdw-cargo-package-pem-3.0.6.drv
+Sig: korri-cache-ci-1:7UF5npzMYWJeI+cJZOLj1tlvXB3q75Ab8T+O7nIeoAbSm0xhASwTmMXIDoHhSzMt2LIa2/RtS9a4dpWERz0yCQ==

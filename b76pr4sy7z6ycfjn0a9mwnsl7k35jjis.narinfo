@@ -1,0 +1,10 @@
+StorePath: /nix/store/b76pr4sy7z6ycfjn0a9mwnsl7k35jjis-cargo-package-iroh-dns-1.4.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/1kr0qywy5sk1hi1nam63hlb0hwrhc969admfyp97krxqijz5nzl7.nar.zst
+Compression: zstd
+FileHash: sha256:1kr0qywy5sk1hi1nam63hlb0hwrhc969admfyp97krxqijz5nzl7
+FileSize: 44057
+NarHash: sha256:1j2hz38gh7njb106kf35dv767x40fagjhqscp7sx7qmi4y32fxd6
+NarSize: 165272
+References: 
+Deriver: 88s4iwgamd4891x4m28sma14wa6xagk5-cargo-package-iroh-dns-1.4.1.drv
+Sig: korri-cache-ci-1:MzjTxN1yk7p1X04Y0ye0BELAfRo8KgPEkqofJzSaaMOfg5hpDi8EzEcBG4c383dd9T8kimjVID0JfnMCyOA9AA==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/pncf6hjrnbfcx006z3p76kqqqqp5if8z-cargo-package-parking_lot_core-0.9.12
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-25-1471/1brbvjly1cfq444jl1aw6x8a1j80fgzlpf4whkjmdfcjdglwm47w.nar.zst
+Compression: zstd
+FileHash: sha256:1brbvjly1cfq444jl1aw6x8a1j80fgzlpf4whkjmdfcjdglwm47w
+FileSize: 36206
+NarHash: sha256:1c26m1jwjjyd0fbba6vv0hy5bh9q1cx6bbz2gjgks0qc8jh2s7kg
+NarSize: 149760
+References: 
+Deriver: rhgwjdkiy5y94bfqw5sgx8fri2pl75gq-cargo-package-parking_lot_core-0.9.12.drv
+Sig: korri-cache-ci-1:5osJVv9QLB5uhgsNMwL9CEK0soEHbLb5SiYtU2SfWFfl7grjO0CtCWsVqMf2A/L/Xrl6ARXxsyv68DCI2lucCg==
