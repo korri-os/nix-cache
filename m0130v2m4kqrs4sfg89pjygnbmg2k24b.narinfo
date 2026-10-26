@@ -1,0 +1,11 @@
+StorePath: /nix/store/m0130v2m4kqrs4sfg89pjygnbmg2k24b-korri-plugin
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-26-1534/0wa7p0ajl8aga6c375xzdc6hf7n4ynspcasdiskwv56slq81w4q8.nar.zst
+Compression: zstd
+FileHash: sha256:0wa7p0ajl8aga6c375xzdc6hf7n4ynspcasdiskwv56slq81w4q8
+FileSize: 6474
+NarHash: sha256:0f8zmhp1592jyhikx0qpfsxb2dwy7v38ahhgirby8xww5z70icfv
+NarSize: 20224
+References: z9y9jddlg8wsk7a6glyc857m8x57i31h-gamescope-3.16.31
+Deriver: ndwk958ad9s8ksizzp3c82qvmpm1rn7b-korri-plugin.drv
+Sig: korri-cache-ci-1:IEQVbfloHdve6JLOa/Rxfqpo6rvJidoNAuZnD0nPrmRB6TNmR2QBtjc20ySMjJkB6zVnBkpx6285KiSW6glODQ==
+Sig: korri-plugins-1:R0FetoEbtt6Hcol61xUAoUhvgL/hrJOnk814WiwgXwV5eJpTQ4qmfGmkxIuwNK/09bSihOeh6Mh+L+BKSjGqAA==

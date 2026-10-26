@@ -1,0 +1,11 @@
+StorePath: /nix/store/fqcdr3fbl8yygxk8lrx512ndzn71kbky-zquest-classic-software-midi
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-26-1534/1lwmrhd2ham6qhayndjh793v3d590n85hl8mkdq8llw44ncibzj5.nar.zst
+Compression: zstd
+FileHash: sha256:1lwmrhd2ham6qhayndjh793v3d590n85hl8mkdq8llw44ncibzj5
+FileSize: 11721
+NarHash: sha256:1j4grjar719l8mplzhcajlnd4laa9hwlfnw5by891g3p90yrjm9z
+NarSize: 42096
+References: 1nw9nyb1c5fmwl72sqsaq9kynkny5mcf-freepats-20060219 fqcdr3fbl8yygxk8lrx512ndzn71kbky-zquest-classic-software-midi
+Deriver: b4vgrj078f8qnshagdazm6cc2p8a7fcc-zquest-classic-software-midi.drv
+Sig: korri-cache-ci-1:qCArtZ0eFSVatLqNnoHQgUiu+4tZSsgYSWuVo3eb/T1YzenSxkXAa51deBA/VJN5g5yKmyf9eq3Bz21xgSO3Cg==
+Sig: korri-plugins-1:0jz00OZgYLPLnolOzTMBXhMBfKVElYp/PEFUX6BVkQ0rPJZk9wdLx8CnXrt3Xll6ru8afMe+yrfq8541pgowDQ==

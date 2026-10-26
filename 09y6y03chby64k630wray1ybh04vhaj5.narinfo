@@ -1,0 +1,11 @@
+StorePath: /nix/store/09y6y03chby64k630wray1ybh04vhaj5-korri-plugin
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-26-1534/0lpd55cvz8i7l5nl33wdv6bb97kq2imwj15fi1c9igjjcsnp0kll.nar.zst
+Compression: zstd
+FileHash: sha256:0lpd55cvz8i7l5nl33wdv6bb97kq2imwj15fi1c9igjjcsnp0kll
+FileSize: 3949
+NarHash: sha256:1phdpghj4kkyxrq6651jl27rakxq3i4i4jj5qjwbriwwmgdf5j6g
+NarSize: 11792
+References: 8rq6jv678im7q2nfbfcclw585a0fbbaj-moonlight-embedded-korri-2.7.1-korri bg8sbhlz9crqsgkirbkcavdgg80h5jiy-moonlight-identity-bootstrap yp29vicq9lrv02rbr73rfx5jj9a0md8d-korri-moonlight-setup.service
+Deriver: hmj22i3g89r4a9axlcwkmxwypg31mi3p-korri-plugin.drv
+Sig: korri-cache-ci-1:hYq6N5f47jxYTU8eQn8kn8wtFyDDFvxXXQWUqzkN39UPjtp+XtQel3CecY56EZyT1NaCi5gBXfKKaIe097kWBw==
+Sig: korri-plugins-1:hjbGSQRMbbtArxX363Q16oRHSAcl1qsabOG8y0JmB6+8LKQzEJSTHYrbu8K7vqN/hMfVpP38pjszoatFZrW9Aw==

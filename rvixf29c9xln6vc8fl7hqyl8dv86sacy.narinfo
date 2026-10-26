@@ -1,0 +1,11 @@
+StorePath: /nix/store/rvixf29c9xln6vc8fl7hqyl8dv86sacy-libretro-picodrive-0-unstable-2026-09-04
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-26-1534/1m9zmz5g1y3lrz9k2gj0zw36i22rlsqq1nqp4m4khicd3x5vspbr.nar.zst
+Compression: zstd
+FileHash: sha256:1m9zmz5g1y3lrz9k2gj0zw36i22rlsqq1nqp4m4khicd3x5vspbr
+FileSize: 918279
+NarHash: sha256:1mwkricb789miq38wdih3w2qv0585vvrv7rf1qa7dzs9kadf0mja
+NarSize: 2167952
+References: czx7cscpnqqmc9nwmbpnv2zcvck64mmf-bash-5.3p20 nhphqkv18x8fpf3flz0bsm1h554pawn7-glibc-2.44-57 rvixf29c9xln6vc8fl7hqyl8dv86sacy-libretro-picodrive-0-unstable-2026-09-04 w3gjn3lyhpiraaxvg17xjy3cwnsn59d3-retroarch-bare-1.22.2
+Deriver: n37in5b33b3mbvvbp3pp9gci9kkfbxcr-libretro-picodrive-0-unstable-2026-09-04.drv
+Sig: korri-cache-ci-1:psSMJZM9TUNNXN8jkDotUSj8FMZy1EGBi+JRqKUpdobgSuS4MkFbNx6qWLfqEvG6eG8xYw+Aoz+Z4ItVvfSBCQ==
+Sig: korri-plugins-1:dsxwkFTSU/Z5RQwFb7GDO+E6gi0vD7apEjIaoyNA3u8iCFs132HzbwHX5ZlR+mJVOsOaG7CK0nQC+MJRTuxwBw==
