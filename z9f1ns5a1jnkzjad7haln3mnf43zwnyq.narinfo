@@ -1,0 +1,10 @@
+StorePath: /nix/store/z9f1ns5a1jnkzjad7haln3mnf43zwnyq-unit-systemd-udev-trigger.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-26-1523/109ng0n8p2gri077ydxb8p2ia6jsq29f0k0gv8cqzg4l7dg340d4.nar.zst
+Compression: zstd
+FileHash: sha256:109ng0n8p2gri077ydxb8p2ia6jsq29f0k0gv8cqzg4l7dg340d4
+FileSize: 654
+NarHash: sha256:1588jphqmm392sm3bl0d49wbn5bp4ny62gnmdnab5h06xim37v7q
+NarSize: 1408
+References: 1nwgsy4c5862g44s9lkf50643p3nbwm5-gnused-4.10 3b3k72bbr01bgff7bdkiz6r05gmlx5s9-gnugrep-3.12 bqs3bl36viszfac3wzlm4zk6iifpbbh5-korri-udev-coldplug c8j5da2jd128hsbs9r9cvrd73d1ncd3r-korri-udev-coldplug-modules i8an849ir6g3f4n2wrsm88s2qgrzjayq-tzdata-2026c k8as1kdn16q5w6zq6z3vih70qby9l40i-glibc-locales-2.42-84 p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11 x0iv5hlpqfrpykdckbj8jdxy78clbjpz-systemd-261.2 xqx65i7cwacw7rsnj3dlbqas27mwvpn2-findutils-4.11.0
+Deriver: lqzqs03r6dfyic3jgwxfrxjfc8pwjlr9-unit-systemd-udev-trigger.service.drv
+Sig: korri-cache-ci-1:Ep2TXXjsJOnH0QgGenP3HveynnLTNzKX8qtIu2+/MX0TUdO2Y/iPR8jpjycNoiAJjYzmJaR8PzKRIRSQEhFoDw==
