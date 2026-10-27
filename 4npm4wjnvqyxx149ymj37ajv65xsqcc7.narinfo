@@ -1,0 +1,10 @@
+StorePath: /nix/store/4npm4wjnvqyxx149ymj37ajv65xsqcc7-rpminiv2-dt-driver-check
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-27-1560/0va9bja71bw6jrfknr3nmzdp1yn4zscm3jyksxvz51rzc5hx4mjh.nar.zst
+Compression: zstd
+FileHash: sha256:0va9bja71bw6jrfknr3nmzdp1yn4zscm3jyksxvz51rzc5hx4mjh
+FileSize: 4808
+NarHash: sha256:1098albga8n3csasw10mr1icpficasvg9snqk74rmcpqm48k0kcj
+NarSize: 28376
+References: 
+Deriver: 2j5yvmi3yi70m97mzrzzq5vjqf0faim5-rpminiv2-dt-driver-check.drv
+Sig: korri-cache-ci-1:Tp58uBXFmNf5MmMpxCAj8lmdeIfb2qr3j3pP1amQ+helIEEQS2FDYy/56TK4U60RimNyuDtmGuoWzadQUcOoCw==
