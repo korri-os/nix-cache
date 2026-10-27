@@ -1,0 +1,10 @@
+StorePath: /nix/store/05lblxhgnaknv3gdmji664ncpfda9rwj-dbus-1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-27-1734/00ah9scsxw24ds3yqlqnx7nihdiigzisa5j7hj9iza08vxfiamxp.nar.zst
+Compression: zstd
+FileHash: sha256:00ah9scsxw24ds3yqlqnx7nihdiigzisa5j7hj9iza08vxfiamxp
+FileSize: 3491
+NarHash: sha256:09k1742b90br2ap2l0xrrsygn1gacs15l2ars3axh13ky7b92dfi
+NarSize: 15688
+References: 0nbd2x9n42skjxpakw6rw6qmfs0c0463-inputplumber-korri-resolved-0.75.2 7sz8g3giks4f6d659dgr5jybs7a2skrk-rtkit-0.14 8bkqgbly9lhvfaxvd6nvj7dbkqfmy0mq-korri-portal-freezer.conf bh7karc6ky6iyrzicn2adjl19aczwgcf-networkmanager-1.58.1 dr9dflpjm2jq4gyhvqw4l0p4v85f4ksw-polkit-127 hw994708qlsmvqa1n2r6qg36xni3hpzb-system-path kik5qyy1h61vkhamvi53l0iw18zfp4gh-dbus-1.16.2 l2z82zivkv459y49f81anb5x2jzhx5vy-wpa_supplicant-2.12 nb29m4n6sgq50sylz05ljdr1lnihyh37-modemmanager-1.24.2 sxl781hkxg725b9cmwzgcvmq4fv4hnvp-bluez-5.87 xazm7bxvidwb46fk0zfvahj4md4h2y13-korri-inputplumber-dbus-policy
+Deriver: wmqqa6qz5zzyrq8cyarsxl7zi0ilmvim-dbus-1.drv
+Sig: korri-cache-ci-1:XjR/+LHNOrTM8nQakhsz9VtHH6b88bTYShvgq2pBvyfA5bSb/x+zEehvqjm4NJDfbTl3vd9pqSyw0XEVKfeLBA==
