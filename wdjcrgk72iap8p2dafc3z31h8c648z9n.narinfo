@@ -1,0 +1,10 @@
+StorePath: /nix/store/wdjcrgk72iap8p2dafc3z31h8c648z9n-unit-korri-bundle-selector.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-27-1737/0gwc5x2l6g9s2rs62q1skw0j66dh39cmrawwiqz2d03j83nha7wl.nar.zst
+Compression: zstd
+FileHash: sha256:0gwc5x2l6g9s2rs62q1skw0j66dh39cmrawwiqz2d03j83nha7wl
+FileSize: 823
+NarHash: sha256:1m3mby6bvj2idw2zqd4xqzsj5q7in5mjclmsd1hlnbg3kfndcn37
+NarSize: 1704
+References: 1nwgsy4c5862g44s9lkf50643p3nbwm5-gnused-4.10 3b3k72bbr01bgff7bdkiz6r05gmlx5s9-gnugrep-3.12 8xm041ylvylsm1jzk8q3l7bvpr9rx7ad-korri-inputd-0.0.0 9r6hhhw3rpmy1r21jfc8p4aa4wxj3bpl-korri-bundle-0.0.0 i8an849ir6g3f4n2wrsm88s2qgrzjayq-tzdata-2026c k8as1kdn16q5w6zq6z3vih70qby9l40i-glibc-locales-2.42-84 p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11 x0iv5hlpqfrpykdckbj8jdxy78clbjpz-systemd-261.2 xqx65i7cwacw7rsnj3dlbqas27mwvpn2-findutils-4.11.0
+Deriver: 1s7if72x03wgs66yiq7kvnjzs78dw0ji-unit-korri-bundle-selector.service.drv
+Sig: korri-cache-ci-1:jKQAS15fFlw4nbwWAubxBQJ4VoTBDiNan5mXvTBiqHriPwDc++miBnBahhFAtg1DzpiGbEl4N0SDrBVM88DQCw==

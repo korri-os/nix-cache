@@ -1,0 +1,11 @@
+StorePath: /nix/store/h9qbcz1xnvmgc9ss15qfmp068ira786k-libopus-1.6.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-27-1737/0dgsgywycqw38hdp1vymbr3w4a3vkarllmqi16fiz04dk2iy4nl3.nar.zst
+Compression: zstd
+FileHash: sha256:0dgsgywycqw38hdp1vymbr3w4a3vkarllmqi16fiz04dk2iy4nl3
+FileSize: 270514
+NarHash: sha256:19cnglp19x8ga7nnnz1pnpf2wgnn6r7yapg130llgq2zmc9b3icr
+NarSize: 501432
+References: nhphqkv18x8fpf3flz0bsm1h554pawn7-glibc-2.44-57
+Deriver: wccha2rgl2w634nv64rh4m235flx6x8s-libopus-1.6.1.drv
+Sig: korri-cache-ci-1:S7pW4xLgdWrZj1ENm40jPHJhv6lpmxaabCaMnDNVm8lO6nKOaMdCIaQxKBaogYRlrv+N3U07xpTZYD80VE/ABg==
+Sig: korri-plugins-1:wjdrjZ+qmkUVTDBZANrZ62MIvEWqQKuvlYY0wE0tXwj1MODNMyp/wvtG7dc/Y0vQfWjss4WOA/qjFnET91WmCw==
