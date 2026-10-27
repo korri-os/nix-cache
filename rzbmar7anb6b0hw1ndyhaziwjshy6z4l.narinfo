@@ -1,0 +1,10 @@
+StorePath: /nix/store/rzbmar7anb6b0hw1ndyhaziwjshy6z4l-unit-polkit.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-27-1626/1djr74nbaxqrd75dsgiivzphkha840g3y32aq0d0iglsxjsla3r2.nar.zst
+Compression: zstd
+FileHash: sha256:1djr74nbaxqrd75dsgiivzphkha840g3y32aq0d0iglsxjsla3r2
+FileSize: 685
+NarHash: sha256:0xxcwbx7520cv0wbcy2qfbq3lffzxk3mny0c94pdwggbpkdr12cg
+NarSize: 1472
+References: 1nwgsy4c5862g44s9lkf50643p3nbwm5-gnused-4.10 3b3k72bbr01bgff7bdkiz6r05gmlx5s9-gnugrep-3.12 dr9dflpjm2jq4gyhvqw4l0p4v85f4ksw-polkit-127 i8an849ir6g3f4n2wrsm88s2qgrzjayq-tzdata-2026c iszd1jsr5k91nc9phq1bfmznvp6gn06z-X-Restart-Triggers-polkit k8as1kdn16q5w6zq6z3vih70qby9l40i-glibc-locales-2.42-84 p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11 x0iv5hlpqfrpykdckbj8jdxy78clbjpz-systemd-261.2 xqx65i7cwacw7rsnj3dlbqas27mwvpn2-findutils-4.11.0 ycwj9m6jjv3fq4ynzwvss5ila3f449bp-X-Reload-Triggers-polkit
+Deriver: kgpplgimqpyk25c0hxpdiy2gckyzla7g-unit-polkit.service.drv
+Sig: korri-cache-ci-1:7WaP2ujF/m2vJnt4uGA6bfNt8Wfek0FEDLXf9oimfeeFK+SkJynEGYSVvUEDfDovsVAdMOCf20mQ2MyTFMVWAw==
