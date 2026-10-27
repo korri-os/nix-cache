@@ -1,0 +1,10 @@
+StorePath: /nix/store/3sddacxky1sxkmnq7jr0blh13lzjx2b2-unit-inputplumber.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-27-1615/0zkba9ikrkmq9jx1bqfc05papy7az655v197ng287r5kbpzcpq1q.nar.zst
+Compression: zstd
+FileHash: sha256:0zkba9ikrkmq9jx1bqfc05papy7az655v197ng287r5kbpzcpq1q
+FileSize: 870
+NarHash: sha256:1nfvwrswrisfi49smysxklxsz4bwfjjprxngk3lx2h11cclp9yfc
+NarSize: 1760
+References: 1nwgsy4c5862g44s9lkf50643p3nbwm5-gnused-4.10 3b3k72bbr01bgff7bdkiz6r05gmlx5s9-gnugrep-3.12 c0dxfpyx3wqibfipmghpay1rqmni05m6-alsa-ucm-conf-1.2.16.1 dqfzrfaj4qca1jm0q4l5y301pynh0nqp-korri-inputd-0.0.0 i8an849ir6g3f4n2wrsm88s2qgrzjayq-tzdata-2026c k8as1kdn16q5w6zq6z3vih70qby9l40i-glibc-locales-2.42-84 p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11 x0iv5hlpqfrpykdckbj8jdxy78clbjpz-systemd-261.2 xqx65i7cwacw7rsnj3dlbqas27mwvpn2-findutils-4.11.0 zca0lxikx44nqghvkwz6drhqwzgjzcas-inputplumber-korri-0.75.2
+Deriver: qp19ja16rpbhl9vxlc4p297kk5ga96md-unit-inputplumber.service.drv
+Sig: korri-cache-ci-1:n/p19RGy6zjMJ6mnt7lhjdeAoZHJDDXlEfYPqa4qIPcFkuaJX0UqDMFEvWV5k6/lvKPm+WIwcXsGEmbJFPjpAQ==
