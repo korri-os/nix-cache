@@ -1,0 +1,11 @@
+StorePath: /nix/store/z5was9gcwrsqhmc7bzghyapmhz0bqcwh-ffmpeg-9.0.2-data
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-27-1624/1v1y72jfr29zwkcsl2xnd99cgqqyj57myg72yg6wqv09zgfdcwgz.nar.zst
+Compression: zstd
+FileHash: sha256:1v1y72jfr29zwkcsl2xnd99cgqqyj57myg72yg6wqv09zgfdcwgz
+FileSize: 51777
+NarHash: sha256:020r8f3hbm8ic5k4yn0qgz20a1zwxy7z6s2r5c3hz4xyqz92zvhm
+NarSize: 282360
+References: 
+Deriver: 7k8s093dc8p8gg19sn9f16zzx72my310-ffmpeg-9.0.2.drv
+Sig: korri-cache-ci-1:g1/h3DnWkFWR2WY8zsuHmpMtFKyLIRkKlPYI5GXkGPUfPbvNaK18JOLPTlDvh+OI+C76/oGJ6V23e2f11oV1AA==
+Sig: korri-plugins-1:tIzgmWA9DkiM1lZ6guIu+kRHisIAdfMa5ohN/icjOI0gU+SNr9GXuX7psLrBorLZJ9fe9v7WDWQ2EwOltU1YAQ==
