@@ -1,0 +1,10 @@
+StorePath: /nix/store/zasi66v9cmgixk0hviyrikq7nh9pa1w9-wlroots-0.20.2
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-27-1685/0vjjadcfh3s7ynlpakwxsi2fnnv66zrxpyi5mzh76jbv2cn9wsc0.nar.zst
+Compression: zstd
+FileHash: sha256:0vjjadcfh3s7ynlpakwxsi2fnnv66zrxpyi5mzh76jbv2cn9wsc0
+FileSize: 705988
+NarHash: sha256:17zn7qv72nhdp3j3kmv6dybn484nvmqzgnbc8vah48zi7lz4dxp4
+NarSize: 2148760
+References: 0m41lmhklbgy5nwwr8n2dns9h8dqsi2y-libglvnd-1.7.0 308j9nmk6pm0g23g91ila08xg1pkx77l-vulkan-loader-1.4.357.0 3n1z3gi3skipccdh1n51j521q75ds3gy-lcms2-2.19.1 3r381qqfxhsh9igy6ip00rxhba6xbii2-libliftoff-0.5.0 4rhj7fy78aq162kqs6687rhnk4qh6024-pixman-0.46.4 558bbrzybch0lvlybaza3glcm7m0py05-systemd-minimal-libs-261.2 5bh86ksypayn10qh4fi30g8mpm5aipya-seatd-0.9.3 9lc2f2rx12rvf5fk4wrp3v43ardrc01f-libxcb-errors-1.0.1 a9vrd8hyg9isgd80wmpi0y2a0v3sqk80-libxcb-1.17.0 b0ml5fzg1whfc2803dgpfyd4jrwk4fpg-wayland-1.26.0 c93rd8x6zq0q07bg2yfs6lf0c8vka8ks-libxkbcommon-1.13.2 ca6p8hc8q75jn4idrsny6ff4kkg7g1fj-libxcb-wm-0.4.2 ih1qd652s6zxqdfa2lvgdgn4rwby97dc-libdrm-2.4.134 m1m9ic3a3zshlmlcfwx8f6hcz9y7j21f-mesa-libgbm-26.1.3 m54cs0m994hc3n9lax7sg98sgy729qsa-glibc-2.42-84 p6s91vq6xsrqca1p3hldzl4pfqibrkfr-xwayland-24.1.13 q1gq0ixsm3r2l6gw91qqkfjjl2lw35nh-libinput-1.31.3 s97hq5h131szzd65x25zwiibz4yf6cf9-libdisplay-info-0.4.0 x9pl15zylfjxxv41rj14ssai6nyjfr2l-libxcb-render-util-0.3.10 xifd7hhclrd6p5iw0wf3ih7sxlc1569q-libinput-1.31.3-dev zasi66v9cmgixk0hviyrikq7nh9pa1w9-wlroots-0.20.2
+Deriver: 9ak0b0am2fmk28ccymhqwkjf0r8pz89d-wlroots-0.20.2.drv
+Sig: korri-cache-ci-1:0z2lXj8+LvBwlTIcEpyPS7bRXlNtgR5Ta0H0Fbx+DzGcloovdgHL+na65N67E6gABwuWDddrmaIkycCpRRNuAQ==

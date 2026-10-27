@@ -1,0 +1,10 @@
+StorePath: /nix/store/9klis7af5sfm4ky0spc2706c3pa4p54c-korri-display-wake
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-27-1685/1gwv3n9i2nmxiz26diwa2s96xycq95rsfwhn64b4xbqjhaxzy7g1.nar.zst
+Compression: zstd
+FileHash: sha256:1gwv3n9i2nmxiz26diwa2s96xycq95rsfwhn64b4xbqjhaxzy7g1
+FileSize: 459
+NarHash: sha256:0ajc81mi6kh2wdq55ygrkixb58x0wkiglwq1vw7mqgm035q3g9k4
+NarSize: 632
+References: fgshiz9w26917l7530sfjmgfr2cnrwin-jq-1.8.2-bin idnyqaaix26szkvhs1mjgi7990jajz9a-bash-5.3p15 xrpn2mzijwrl6rvi8h1rg73c3dr8i4d0-curl-8.22.0-bin
+Deriver: 8hbl48w1bizxnq0fdq0ylkq66hq8ffc5-korri-display-wake.drv
+Sig: korri-cache-ci-1:MBiZe8pgIZkh1bnJ8/sTkJDb/H12dDZbcIEepvwUqBtF/U82RXemr33iBkZgSP51X3MN0c6YnQ8I1ocjDOmHBg==
