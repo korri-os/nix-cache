@@ -1,0 +1,10 @@
+StorePath: /nix/store/2q3ga91phgh6k1imj846cw8gryhdr7a0-korri-inputd-0.0.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-30-2045/05i7ln1zwblpg4l3y7ar0jja8p6q7kwdmclhc49zvc1kq906y874.nar.zst
+Compression: zstd
+FileHash: sha256:05i7ln1zwblpg4l3y7ar0jja8p6q7kwdmclhc49zvc1kq906y874
+FileSize: 3422010
+NarHash: sha256:0f50waslqsr3317ra76ibvfjhm4fd1gp0rzk2s9gzkqjccpbsa6w
+NarSize: 11891408
+References: m54cs0m994hc3n9lax7sg98sgy729qsa-glibc-2.42-84 n65q2br81z7a9g3hcvskd2pvr8s6a7ms-gcc-15.3.0-lib
+Deriver: jrwpzwq6pkb8lgg61kszxgds94xkv6jm-korri-inputd-0.0.0.drv
+Sig: korri-cache-ci-1:H6SjOzkAX0t4Mp+7N8YCqzSQuhpbtkSg3AVNl+aRqgjk+qZt5O0ubrXg1MNo2lAxbDjcYizTZxdE5F1BXfy4Cw==

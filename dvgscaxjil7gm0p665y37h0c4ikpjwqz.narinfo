@@ -1,0 +1,10 @@
+StorePath: /nix/store/dvgscaxjil7gm0p665y37h0c4ikpjwqz-udev-rules
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-30-2045/0kj5216s75v2qr83mkql8yjlpxlllz3pr9x7a2g6lfymnqjf57s5.nar.zst
+Compression: zstd
+FileHash: sha256:0kj5216s75v2qr83mkql8yjlpxlllz3pr9x7a2g6lfymnqjf57s5
+FileSize: 37958
+NarHash: sha256:0sh03qzjgxk3wkqllsah1b51hs8s8c6w2fpnpw0803hg58mpg4px
+NarSize: 353320
+References: 1nwgsy4c5862g44s9lkf50643p3nbwm5-gnused-4.10 cyibcb70hq6gjmz0g1glxgps549h692m-udev-path idnyqaaix26szkvhs1mjgi7990jajz9a-bash-5.3p15 p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11 vwn8xs79jf9hj1vazn2pi8nhwwmdk1dm-ethtool-7.1 x0iv5hlpqfrpykdckbj8jdxy78clbjpz-systemd-261.2 xw12qyd07wla8avg6r1fp0xvlvvvjyjc-korri-virtual-target-acl z9nkwcylvgcrn4dvvd91jp8blv3mx38v-bash-interactive-5.3p15
+Deriver: m2a16whx9w92s1giadly2x5cbfdqzwz7-udev-rules.drv
+Sig: korri-cache-ci-1:LHpB1JPYNzfTEkm84tW2JF61W1ggIIxrHm84p4yqkfNmlMLjMs3YhDpdAump05lKTQEwonlSpli6AGpddVyKCw==
