@@ -1,0 +1,10 @@
+StorePath: /nix/store/k1wf33jfkcqm3g9c98ybasfbvaby0bis-unit-script-korri-plugin-offline-proofs-start
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-30-2066/1kjpxi2m5swzdhncvxg2nlczpb5rd59zsi5y26lj0zl5b4pgfcf0.nar.zst
+Compression: zstd
+FileHash: sha256:1kjpxi2m5swzdhncvxg2nlczpb5rd59zsi5y26lj0zl5b4pgfcf0
+FileSize: 312
+NarHash: sha256:13ic3bvlnbipc88zmh9c725x93cx5fl0zrq5c12rv8za4pwbih65
+NarSize: 696
+References: 6vpic3r8lv12qlp30v9hk608cjzsv9qy-korri-image-plugin-offline-metadata idnyqaaix26szkvhs1mjgi7990jajz9a-bash-5.3p15
+Deriver: w5nssh2qyqj0al8dw364i04hppsdfljn-unit-script-korri-plugin-offline-proofs-start.drv
+Sig: korri-cache-ci-1:gIn3xQ8XsLqfExpq5uy4ZUbQhusJti2RVs7RFwbf/Ppu9DJr7NMlkATpEJPg2wV/4sLtpVAreGH35INruo18Dg==
