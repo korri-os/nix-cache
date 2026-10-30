@@ -1,0 +1,11 @@
+StorePath: /nix/store/65kdciy7mn50gxc0jybxlqi9a5b85wlr-korri-proton-cachyos-compatibilitytool
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-30-2054/1dmlv9w9wbz2mq02xwmf68nbxrbgb0spiv3lqz4i12jgr4ncxk5c.nar.zst
+Compression: zstd
+FileHash: sha256:1dmlv9w9wbz2mq02xwmf68nbxrbgb0spiv3lqz4i12jgr4ncxk5c
+FileSize: 311
+NarHash: sha256:1jcvi1xh5rf4qslsldwhvyp5lv5gj64wl8f1wcw3gfff7gq8pf4v
+NarSize: 712
+References: 
+Deriver: y15406fspa26sxa28xbk69mgx9wf6iay-korri-proton-cachyos-compatibilitytool.drv
+Sig: korri-cache-ci-1:huGP0zBzxuYRigVmX9pYmJBUdT9tdyyRasf8v4CKiVNqCxwB+OGCwP6obl332Yy5ozx2ufNsoq3LXhKxm9QNBg==
+Sig: korri-plugins-1:vwVxI4jJrpHK86v/hkFR8Z22HDJti6TI0C568MRO91quLGw3tBtTL2KWDeozPlJHD+R+8f/FDDYnYLnpIcJABg==

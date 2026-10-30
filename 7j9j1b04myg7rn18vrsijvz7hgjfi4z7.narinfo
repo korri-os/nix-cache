@@ -1,0 +1,11 @@
+StorePath: /nix/store/7j9j1b04myg7rn18vrsijvz7hgjfi4z7-korri-korri-sunshine-input-setup.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-30-2054/0ar2hx254bwlxbkyi2k4ir85mwjq94wnpw0wxvfg2d6x4l2syzjr.nar.zst
+Compression: zstd
+FileHash: sha256:0ar2hx254bwlxbkyi2k4ir85mwjq94wnpw0wxvfg2d6x4l2syzjr
+FileSize: 689
+NarHash: sha256:154scl4w7ddmfqx8kgwvykp30r2vqpw5cfmj0rk3bcckx3nd1spk
+NarSize: 1800
+References: i12l6d33xqaj2r7hr273p66q8vbiczhm-korri-sunshine-input-seat-setup m2ar7c5ylhgg8vp7dfdx9bhjfvki5xdg-coreutils-9.12
+Deriver: xphw2jlapfc5h8f1aixzjwdf2nq1093v-korri-korri-sunshine-input-setup.service.drv
+Sig: korri-cache-ci-1:t1zqQKDYNJAS+f86ixKhlkYElQSi6JOHZsUZgUY+7EUllc6WoWn5keUb2unJ3MfRBWTaNf3Xil90uQVrlmnTAw==
+Sig: korri-plugins-1:7BHszrFAZ34yL9s2JCrdo+evZ+6zjC5rsbLDsT6F+ZiqaKIwSiCprKm/dRvw3ek9RzqKEkKqjMaI887MfbI2CQ==

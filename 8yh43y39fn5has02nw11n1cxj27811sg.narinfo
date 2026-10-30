@@ -1,0 +1,11 @@
+StorePath: /nix/store/8yh43y39fn5has02nw11n1cxj27811sg-korri-sshd-start
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-30-2054/1y7j4b067dfzm0wmxfq93xqv5q57qkc0i5r31glzxs9zvmysq7ai.nar.zst
+Compression: zstd
+FileHash: sha256:1y7j4b067dfzm0wmxfq93xqv5q57qkc0i5r31glzxs9zvmysq7ai
+FileSize: 411
+NarHash: sha256:1qf4dhin77w6i25bbxarfdazz0a1a4nzcwi4g6qw1z6ppl80wn0b
+NarSize: 832
+References: czx7cscpnqqmc9nwmbpnv2zcvck64mmf-bash-5.3p20 x1db10magbzs1rn7gy7fsbk0h7p677ih-openssh-10.6p1 xbyjwg0ydv7fd9nfq1q29c0nab499ypy-korri-sshd-config
+Deriver: n3qs4bxw2zd58ah6kd8yvbrs9h9hyxrp-korri-sshd-start.drv
+Sig: korri-cache-ci-1:4ti1MAZr6rYgx29ZRPCAaugOiJMipOAOhbXbd9tqldrcNsdamn8yyig/Ji6dqoW5vIFY4MvDiAkAbcj9WtvlCg==
+Sig: korri-plugins-1:jUdXmhXwK0imldfr47Zz7BROM15v3wLw2g5M8XJOev6iNSD2d0QKBoVAC6DrRnAXrXk66yNros/miE93V0VoAw==

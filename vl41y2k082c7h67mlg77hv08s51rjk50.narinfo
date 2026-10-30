@@ -1,0 +1,11 @@
+StorePath: /nix/store/vl41y2k082c7h67mlg77hv08s51rjk50-korri-plugin-d3bd5b1ef0c51771ea6b5e3c60635bb595b9a46dbbade349e60beeed877ca8a4-build-72627749471e-plugin-direction-aarch64-linux.tar
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-30-2054/0csczyrysmcvlfkpgl0533c280w7awc68fascwk8b7vcmvf3swrc.nar.zst
+Compression: zstd
+FileHash: sha256:0csczyrysmcvlfkpgl0533c280w7awc68fascwk8b7vcmvf3swrc
+FileSize: 5390027
+NarHash: sha256:1zzw7ppx04glvl53z8dihdklviaqyka601m5c74ms1c561imb9x1
+NarSize: 5398640
+References: 
+Deriver: 6mb5y09zml5xhgp82g57vd47nfvb00i6-korri-plugin-d3bd5b1ef0c51771ea6b5e3c60635bb595b9a46dbbade349e60beeed877ca8a4-build-72627749471e-plugin-direction-aarch64-linux.tar.drv
+Sig: korri-cache-ci-1:MMocIhkhfylONzLevQVVsSW/xc6kLFYZ8imN4Wzk1V81x57osPWDQBczXdGmau0S8HbuihJjj3DtBgnSxfAJCg==
+CA: fixed:sha256:00b4pdwp0g7xi5l7x1r621l9pm5sndrncf8p9n6df742p10jq6ky

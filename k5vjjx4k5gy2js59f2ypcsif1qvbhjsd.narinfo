@@ -1,0 +1,11 @@
+StorePath: /nix/store/k5vjjx4k5gy2js59f2ypcsif1qvbhjsd-steam-session
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-30-2054/14csgqwj2p47kaqm2yhf354q7ja7z0753x68j57ki53nv47a51ib.nar.zst
+Compression: zstd
+FileHash: sha256:14csgqwj2p47kaqm2yhf354q7ja7z0753x68j57ki53nv47a51ib
+FileSize: 924
+NarHash: sha256:1zzcknpvrfsgwwr4jfj2h52miaz0nmx5vh3x5fmv35bqc84rapp0
+NarSize: 1912
+References: 39vvpvxcxqkic2jwgnf1iwkc7504h4w2-steam-session-run czx7cscpnqqmc9nwmbpnv2zcvck64mmf-bash-5.3p20 m2ar7c5ylhgg8vp7dfdx9bhjfvki5xdg-coreutils-9.12 y41f5xwsyfzmwh624a5q5xdfaslcv8vf-dbus-1.16.2
+Deriver: sf3213bnwpfmyadvynqfy4z21y0wgxfi-steam-session.drv
+Sig: korri-cache-ci-1:crCwF0ZIwCyMOu62YJBDeD57bjGObw/cXJ93JPyhBANd0ueSjBXtfx3Vy/MHCPz4/gaUQ6orIl3jiMJT9L1pDw==
+Sig: korri-plugins-1:JuFVeOZo/oiilVo+HlLwvlovUn5HbXDXtx1b0b3le8v+du0OwPavp0icFZN+wFOIWkFm0VmrllOhmBMrmCDDAg==

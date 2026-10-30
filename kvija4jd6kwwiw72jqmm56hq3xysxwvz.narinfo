@@ -1,0 +1,11 @@
+StorePath: /nix/store/kvija4jd6kwwiw72jqmm56hq3xysxwvz-korri-sunshine-input-rules
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-30-2054/1alawlzjagd1wjjszglxjgyflqry5ykk2jm6zgl2hc0qi7agbzl3.nar.zst
+Compression: zstd
+FileHash: sha256:1alawlzjagd1wjjszglxjgyflqry5ykk2jm6zgl2hc0qi7agbzl3
+FileSize: 292
+NarHash: sha256:0vx541jii09q52q8qq3j523s1sh58flhq1n15m19yi5yk6awbhj6
+NarSize: 952
+References: 
+Deriver: vl72brq1cnbmhqyvznvs14pc19m2a8g4-korri-sunshine-input-rules.drv
+Sig: korri-cache-ci-1:bu72WmlkAOH9feGwcQl5CVTQuL8Y6v5Lu0hgRHypgsVIDK5Gp9WwFNzq75FlGcuNxW+kFg7WfcuZHo0GgfKNAQ==
+Sig: korri-plugins-1:Xx+Qvklaxr3HqTZBLFcM90a+aOlUMbpNCYXz0KW9XgqUQxNOG6wBT1Z+Bl3qvlvXlnVhTJnd76ybVjsDTfImDg==

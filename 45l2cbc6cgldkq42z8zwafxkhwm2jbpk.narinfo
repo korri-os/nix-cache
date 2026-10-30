@@ -1,0 +1,11 @@
+StorePath: /nix/store/45l2cbc6cgldkq42z8zwafxkhwm2jbpk-steam-vdf-settings
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-30-2054/11p7bqr3r9si3ly367vyqi4g8jyw3dmklq4b8nq45yjwpf3q6izw.nar.zst
+Compression: zstd
+FileHash: sha256:11p7bqr3r9si3ly367vyqi4g8jyw3dmklq4b8nq45yjwpf3q6izw
+FileSize: 366
+NarHash: sha256:19qdqi57al8bl3x6i8dac3radpd3x3qa471n2i30dwf6839nj292
+NarSize: 776
+References: czx7cscpnqqmc9nwmbpnv2zcvck64mmf-bash-5.3p20 lq2fsnmg0q3y0vlxn91w8s8wvj1m6fld-python3-3.14.8 r3vdlpr9zjyb0j9gdr5rfjsd7yr21ki4-vdf-settings.py
+Deriver: pzwxz44ja0fwyqv6871a8a6bgrc524mg-steam-vdf-settings.drv
+Sig: korri-cache-ci-1:WF2TrEw9+y/cqHYQuvVLf/K0908Src9QbVCXQOwjupDCp204o9ipD7ki2Adzu/3/96iflgs60WzR9cHMzlPWCg==
+Sig: korri-plugins-1:9SUPOUiF2RQoCuwC5p+X5Ec9DNrZD+rwbn5OeD7Hnwy/uCWVTsVFwrbdjC2guA2ic6Lgb9K8yqIYOQq5TqimCQ==

@@ -1,0 +1,11 @@
+StorePath: /nix/store/r3vdlpr9zjyb0j9gdr5rfjsd7yr21ki4-vdf-settings.py
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-30-2054/0vsdd0s19np568319ry98g8zm54dnwjf2x8agrirj1ii8m1cn3rm.nar.zst
+Compression: zstd
+FileHash: sha256:0vsdd0s19np568319ry98g8zm54dnwjf2x8agrirj1ii8m1cn3rm
+FileSize: 3429
+NarHash: sha256:1rihs70ak0mr3l7d3mrx8fs4jkddwbb49ww49473a9f86g5y0xk4
+NarSize: 8360
+References: 
+Deriver: kqpaf9gl05z506w8cfsc6c3axdd8gd7v-vdf-settings.py.drv
+Sig: korri-cache-ci-1:B8Ovt6o1oDEPMjYTYpu71Fv4Vb16UlCZ3MZFkwZWvHUOHk4LRWrl4m/lR3BOxZSEmCCWWWQo94IBuThuCmngAg==
+Sig: korri-plugins-1:bE0/E9l2f5Y5Yco2jX+L4K2ok0gHibCiHKIkrr9odllWWR3hYYGogw54FWGw0l6v8YBCWH7vnBNZNP/MxfStBA==

@@ -1,0 +1,11 @@
+StorePath: /nix/store/hnx12gamnqvzsk5a1shqa2agcaig63rq-korri-steam-arm64-fhs
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-30-2054/0106nb5iizk5rhwp5dsmpnababkpkaw2mp85r0n8wj06n295hf0i.nar.zst
+Compression: zstd
+FileHash: sha256:0106nb5iizk5rhwp5dsmpnababkpkaw2mp85r0n8wj06n295hf0i
+FileSize: 204
+NarHash: sha256:09f9313kgdcjva8liah6kwh4560by6zyzm8k6ivc3v6rrv1dv54h
+NarSize: 528
+References: 1nvrszwly4b5psyj62d1yyn0nfj19m16-korri-steam-arm64-fhs-bwrap
+Deriver: 2wndwypf6gb1ygjczgpgf8zpv51zwxin-korri-steam-arm64-fhs.drv
+Sig: korri-cache-ci-1:7RBTvoeXyBRd5fzeSsJbxy6qd4FHBBmD7geIycq8wceXmrB1930a5mJyqqbexE+y3d8CfwqjOzN3nPMEegyECg==
+Sig: korri-plugins-1:zqU7ZUZ5FMKnLN4/mYgXzWuLL6rvHty5KPN7UxD3fZw2V6mU9CThcgC8ObU0ROtIDCptY+qN4Xm2Mz/ysj+sBw==
