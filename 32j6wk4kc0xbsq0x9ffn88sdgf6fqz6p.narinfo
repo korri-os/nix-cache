@@ -1,0 +1,10 @@
+StorePath: /nix/store/32j6wk4kc0xbsq0x9ffn88sdgf6fqz6p-korri-plugin-host-0.0.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-10-31-2076/0mrm2m4h7jjygc4glqc2ijfmqmycjwsqn0v0yfvipw3kv7a5fqs0.nar.zst
+Compression: zstd
+FileHash: sha256:0mrm2m4h7jjygc4glqc2ijfmqmycjwsqn0v0yfvipw3kv7a5fqs0
+FileSize: 6643886
+NarHash: sha256:17bwrvmqnak0nzqbrc9pilc302f3lag8v51hpzdmc2yfyq5xclc8
+NarSize: 18215312
+References: 2gl1g8549r89ah0n4r69bw4yga2wigcq-iptables-1.8.13 32j6wk4kc0xbsq0x9ffn88sdgf6fqz6p-korri-plugin-host-0.0.0 gnadg5slifq2r638xvz4pv6vrsdl9xkj-systemd-261.2 idnyqaaix26szkvhs1mjgi7990jajz9a-bash-5.3p15 lz2w1as1p0c2lajnvy2iif1i3vqh189a-nix-2.34.8 m54cs0m994hc3n9lax7sg98sgy729qsa-glibc-2.42-84 n65q2br81z7a9g3hcvskd2pvr8s6a7ms-gcc-15.3.0-lib xrpn2mzijwrl6rvi8h1rg73c3dr8i4d0-curl-8.22.0-bin
+Deriver: xg61l5s73x0xdvpr27bfa5xk41a7rf36-korri-plugin-host-0.0.0.drv
+Sig: korri-cache-ci-1:xNOasi1pLD02M0GyhGZKcEDiyVoQhkSeprmBaIxtVmdZFKuiTj54/topKmVFnqZD0Vky8VNqw6KlODsfLrA2CA==
