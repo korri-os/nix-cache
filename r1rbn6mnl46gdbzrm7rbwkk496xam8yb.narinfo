@@ -1,0 +1,10 @@
+StorePath: /nix/store/r1rbn6mnl46gdbzrm7rbwkk496xam8yb-korri-shell-freezer.conf
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-11-06-2085/1s657mnzwv30c5xfvl49rwxdrks1dcscykwfi77d6znakkbihhjm.nar.zst
+Compression: zstd
+FileHash: sha256:1s657mnzwv30c5xfvl49rwxdrks1dcscykwfi77d6znakkbihhjm
+FileSize: 403
+NarHash: sha256:1i56xhmqw7mdlwjlnhl0p20w0h138cx4c5q1qw2bls4627fkfwzi
+NarSize: 1320
+References: 
+Deriver: 32ky3bnd1g64x6zjpk2cqjhl6r6pizqh-korri-shell-freezer.conf.drv
+Sig: korri-cache-ci-1:l8iuyfr53MlaMR8KFDT0MVDMpxlrqExKitlap94QwhOxWjR+2BFuG48GTVZSHlBwTiCtg/DPcarvO+bLq94fAw==

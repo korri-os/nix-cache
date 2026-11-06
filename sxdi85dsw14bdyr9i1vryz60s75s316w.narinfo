@@ -1,0 +1,10 @@
+StorePath: /nix/store/sxdi85dsw14bdyr9i1vryz60s75s316w-X-Restart-Triggers-systemd-modules-load
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-11-06-2085/106d1y5cgksb86kgk2qvcmlmwbj51bpzdsfhm5pr2n4md9i3vbk6.nar.zst
+Compression: zstd
+FileHash: sha256:106d1y5cgksb86kgk2qvcmlmwbj51bpzdsfhm5pr2n4md9i3vbk6
+FileSize: 134
+NarHash: sha256:0jpfglaahsjz0h8bmcjc40lar4c2abqmzj5acld05x3zpy2lx6ya
+NarSize: 168
+References: 3krgmfv3l1mb2i02r4l50gxyx08smfai-nixos.conf
+Deriver: jlxfdb2pswrmxw4ab6xclb6p6p2fbxji-X-Restart-Triggers-systemd-modules-load.drv
+Sig: korri-cache-ci-1:YdFaIhZ0NqWp7iezFd3Q3UkBBX8oH7CFGn+DvINR0F1h+ckRjToIO5//sN/iUNu4ZcAPQtHTth+J2fQK7gQdAg==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/xzmanspgb4m0rhvsyws3gajrxnxqfshr-korri-shell-wayland-access
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-11-06-2085/14dw50ywb908b55w7glkpgm5i34a37hb6gg5d9gpyc47c624v1l5.nar.zst
+Compression: zstd
+FileHash: sha256:14dw50ywb908b55w7glkpgm5i34a37hb6gg5d9gpyc47c624v1l5
+FileSize: 552
+NarHash: sha256:05fq278bxcn4qx7x67a23gnzq9hbdbx6m85q9qzw2j3fakd02598
+NarSize: 1104
+References: idnyqaaix26szkvhs1mjgi7990jajz9a-bash-5.3p15 j0d86inmdqwknihdd7vi7dzbqhc6cq15-acl-2.4.0-bin p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11
+Deriver: cihax8ls70a40af88daf1lsiybm1wvdb-korri-shell-wayland-access.drv
+Sig: korri-cache-ci-1:JKUW14e8dF7Zt4x1nz2xKHcTPsX87UNDBBu7koTWPINA5jMrmpGLhZE3lcpmFGBTLEzerbwX6Bma0i24IOAYDw==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/2fmr1rbb089ya2214rih6snhp2xdaxby-unit-systemd-udevd.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-11-06-2085/16265i2b9gy494yayn36dgwrdarykbjkky6zib37fdn5gjzl29qj.nar.zst
+Compression: zstd
+FileHash: sha256:16265i2b9gy494yayn36dgwrdarykbjkky6zib37fdn5gjzl29qj
+FileSize: 681
+NarHash: sha256:0mldzx98sr8wciasnc3b1kxfgk8dqnkilh3fnp1frf6pzrqx6lwf
+NarSize: 1432
+References: 1nwgsy4c5862g44s9lkf50643p3nbwm5-gnused-4.10 3b3k72bbr01bgff7bdkiz6r05gmlx5s9-gnugrep-3.12 7lmmayak5i1b6wdpnfp4yj9rjcpasl7c-X-Restart-Triggers-systemd-udevd c0dxfpyx3wqibfipmghpay1rqmni05m6-alsa-ucm-conf-1.2.16.1 i8an849ir6g3f4n2wrsm88s2qgrzjayq-tzdata-2026c k8as1kdn16q5w6zq6z3vih70qby9l40i-glibc-locales-2.42-84 p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11 x0iv5hlpqfrpykdckbj8jdxy78clbjpz-systemd-261.2 xqx65i7cwacw7rsnj3dlbqas27mwvpn2-findutils-4.11.0
+Deriver: s7sk5mm5dr41y1mgbkgk2aqbk6nw3992-unit-systemd-udevd.service.drv
+Sig: korri-cache-ci-1:yrYk4frX4XTbvBY7FrOdJ6a2NV3vPT8OmkVEl3iUubo2u5Yn94lTQ38//NYG7wsDn/HE1gbyuszNhVVTGHo1Cw==
