@@ -1,0 +1,10 @@
+StorePath: /nix/store/zc712d4k7096g9h3ny2dp3hh03xdg5bq-unit-korri-plugin-admin.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-11-06-2103/1zfd84wqswmlzrrylabq55h1247gciymhjfwl3852ngrfmbv9xfd.nar.zst
+Compression: zstd
+FileHash: sha256:1zfd84wqswmlzrrylabq55h1247gciymhjfwl3852ngrfmbv9xfd
+FileSize: 917
+NarHash: sha256:01xkz5c3aqksrm6lb0lyr4fyp65rcrdy3g8ipi5c293w68n6p3ax
+NarSize: 1952
+References: 1nwgsy4c5862g44s9lkf50643p3nbwm5-gnused-4.10 3b3k72bbr01bgff7bdkiz6r05gmlx5s9-gnugrep-3.12 i8an849ir6g3f4n2wrsm88s2qgrzjayq-tzdata-2026c ihd1kzn12jxwdqysqv7209q6ryh22izb-korri-plugin-host-0.0.0 k8as1kdn16q5w6zq6z3vih70qby9l40i-glibc-locales-2.42-84 n5lfqryfx85ab6pahvb3m0i4avmcp9zp-X-Restart-Triggers-korri-plugin-admin p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11 x0iv5hlpqfrpykdckbj8jdxy78clbjpz-systemd-261.2 xqx65i7cwacw7rsnj3dlbqas27mwvpn2-findutils-4.11.0
+Deriver: rv3bg0w556w2mhzgl25f3qdsd71g8v74-unit-korri-plugin-admin.service.drv
+Sig: korri-cache-ci-1:IqYXxZPbR/W0X5yiNpxR7EGDKIqy0B4ASxx8kLE7JsrGCS+qYnn++NuvcHBvn3P9qy7meSngeIJZL7MSeSWhBA==
