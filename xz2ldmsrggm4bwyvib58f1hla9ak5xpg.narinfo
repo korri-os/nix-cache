@@ -1,0 +1,10 @@
+StorePath: /nix/store/xz2ldmsrggm4bwyvib58f1hla9ak5xpg-korri-shell-surfaces
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-11-06-2105/0nzlbalcm05ll91qy84l8rsqdcp4pxsdjqv1w6c5vbygzi3dxclj.nar.zst
+Compression: zstd
+FileHash: sha256:0nzlbalcm05ll91qy84l8rsqdcp4pxsdjqv1w6c5vbygzi3dxclj
+FileSize: 13906333
+NarHash: sha256:1nzgp0rv9ah0hrmhym54fwc8x85m3js6prs5czysg44gacrj6ni4
+NarSize: 20930776
+References: xz2ldmsrggm4bwyvib58f1hla9ak5xpg-korri-shell-surfaces
+Deriver: sxv3m8yw3x75brxh2fy27r2phixkbsv3-korri-shell-surfaces.drv
+Sig: korri-cache-ci-1:DD+56vuSFf33Epo95l4tczhXxdnOfXdK5HwT7z/ynBZqSsfQ0fwoHQGkoJffO9niOF5gaB8sHsqXrsYumKSuDQ==
