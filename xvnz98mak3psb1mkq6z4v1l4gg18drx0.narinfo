@@ -1,0 +1,10 @@
+StorePath: /nix/store/xvnz98mak3psb1mkq6z4v1l4gg18drx0-korrid-odin2portal-host.toml
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-11-08-2281/1qwdydw9bq3a2p4hm1hbz9s2y5lzlwllk9gxpjsgyc91vdvnzni4.nar.zst
+Compression: zstd
+FileHash: sha256:1qwdydw9bq3a2p4hm1hbz9s2y5lzlwllk9gxpjsgyc91vdvnzni4
+FileSize: 267
+NarHash: sha256:1ns5aclq7zjs2xcrkg16hzy2p5bfkimqmhjlfxn5rdc56nyigwva
+NarSize: 320
+References: 
+Deriver: 4x7v8kkn42d13w9167anfqxjhjcln23v-korrid-odin2portal-host.toml.drv
+Sig: korri-cache-ci-1:FLlnBrvduGtb8GibCg5NWqj2E9XCz5cp6ZBkD3+yAm29YslZPeZc0tSTiv7lgUVlqnzlyOcVFBPTl96jcj/cCw==

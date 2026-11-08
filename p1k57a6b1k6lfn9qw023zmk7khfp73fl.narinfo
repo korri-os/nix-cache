@@ -1,0 +1,10 @@
+StorePath: /nix/store/p1k57a6b1k6lfn9qw023zmk7khfp73fl-korrid-deps-0.0.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-11-08-2281/1i3srv7rfg6nl48zxy1jbqz69qjxp7nzpagpvshiqy0dz7cbwv0l.nar.zst
+Compression: zstd
+FileHash: sha256:1i3srv7rfg6nl48zxy1jbqz69qjxp7nzpagpvshiqy0dz7cbwv0l
+FileSize: 484594571
+NarHash: sha256:09x5ifjdvkzzm5pa97bvsg3dh2s137592v0lsd2zrsldd9zcff7h
+NarSize: 487644824
+References: msawl8iwp49hnyk7ngb5fbfa8xpcb90b-vendor-cargo-deps sphg65agsd4p0as2w0gxda1g4jn4ih2r-cargo-package-pem-3.0.6 vvkmfczh0csxx540d5djzbrp53q3ls2s-cargo-package-webpki-roots-1.0.9
+Deriver: kh1clncg8cs6l67gxcza09vmmsfdsf4c-korrid-deps-0.0.0.drv
+Sig: korri-cache-ci-1:LGa1frmicdi7Ee2x5qrUOAEELh681EeVqNEC8cy4vSZLkWPeY6vkpPJ+acWH06HyKIQ3ODbJ7WZ6M+h0nv7lBQ==

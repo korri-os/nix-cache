@@ -1,0 +1,10 @@
+StorePath: /nix/store/54i6pa55bhy6z8kkcgszhwpaa2cvls3k-unit-dbus.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-11-08-2281/1lh5d2ksr07gyvvwds5zr1gffiijq6x4cyy3d6myh6kkrhwdv54x.nar.zst
+Compression: zstd
+FileHash: sha256:1lh5d2ksr07gyvvwds5zr1gffiijq6x4cyy3d6myh6kkrhwdv54x
+FileSize: 612
+NarHash: sha256:183lj1izgyy1fqpbpw4nbw5yxyjbb67ibyvaws9h364qx18g8jfy
+NarSize: 1368
+References: 1nwgsy4c5862g44s9lkf50643p3nbwm5-gnused-4.10 3b3k72bbr01bgff7bdkiz6r05gmlx5s9-gnugrep-3.12 i8an849ir6g3f4n2wrsm88s2qgrzjayq-tzdata-2026c k8as1kdn16q5w6zq6z3vih70qby9l40i-glibc-locales-2.42-84 p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11 vmqgfg20ssy5zg2n3mvg89ngs6mbb39n-X-Restart-Triggers-dbus x0iv5hlpqfrpykdckbj8jdxy78clbjpz-systemd-261.2 xqx65i7cwacw7rsnj3dlbqas27mwvpn2-findutils-4.11.0
+Deriver: 0d54sv5is6ndkcvbrsq2ki96d4nd2j39-unit-dbus.service.drv
+Sig: korri-cache-ci-1:+HBW/dkGl/SYqhRsMy6TEx+EFskFMM5q1ODpMCJRpVNGSORmHDgEtcjIiKgwp0RiJJWeUPkK8qEF/l6iBkGLCg==
