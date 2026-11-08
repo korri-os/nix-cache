@@ -1,0 +1,10 @@
+StorePath: /nix/store/lgiln8yzd96qr4pp68k0finz362pjx18-X-Restart-Triggers-polkit
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-11-08-2321/025kwdinr63fvh30ccrxkx67x88s70hlz7ww013b2x78b5an345c.nar.zst
+Compression: zstd
+FileHash: sha256:025kwdinr63fvh30ccrxkx67x88s70hlz7ww013b2x78b5an345c
+FileSize: 134
+NarHash: sha256:1lgn2igxv8hfyn8656k2fgyhkblyj54z3x1yq66qsc41p2n0p0c0
+NarSize: 168
+References: 028niijh4nvvv9na49z8bpb81rx45jxa-system-path
+Deriver: 8vnqlr3wga7pjb0bwlfimzhxnhnflmc3-X-Restart-Triggers-polkit.drv
+Sig: korri-cache-ci-1:9tpORE6FJYlDPYPHwtNk8Lzw/kt7hWLi2siJG+BfqY7jfGGx9ZtlVliESLGoT/ZxqQxPkNv+VNWrlCpo37n8Bw==
