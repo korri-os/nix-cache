@@ -1,0 +1,10 @@
+StorePath: /nix/store/6rillrj93z1flysp3acad5acrlnizrjf-korri-local-signer-device-credential
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-11-08-2285/1zzh6bvdffq8x1ah9ccpjyzx5vw42fcklxmsx1v9qbwk9q77418m.nar.zst
+Compression: zstd
+FileHash: sha256:1zzh6bvdffq8x1ah9ccpjyzx5vw42fcklxmsx1v9qbwk9q77418m
+FileSize: 658
+NarHash: sha256:1a0zmr3wfwgn2cvhwa0bgqf18k01qw6h95rinik5hs3nriksnws8
+NarSize: 1416
+References: fgshiz9w26917l7530sfjmgfr2cnrwin-jq-1.8.2-bin idnyqaaix26szkvhs1mjgi7990jajz9a-bash-5.3p15 p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11 svq93dyxl6s64gfw9hfxmpp37x0bv6lc-korri-inputd-0.0.0
+Deriver: 7awsq0hi30x5rkkn7rg973a8bwmmwkh4-korri-local-signer-device-credential.drv
+Sig: korri-cache-ci-1:D2vMWHqcA3KEXNCIlC4ScMqoiu7v0cZfH1IB0n8pMOOrz25HQaK95cBaSF7vnB14QYbkKOvqYJ7heIED81yyBg==
