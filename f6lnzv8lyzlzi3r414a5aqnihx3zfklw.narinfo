@@ -1,0 +1,10 @@
+StorePath: /nix/store/f6lnzv8lyzlzi3r414a5aqnihx3zfklw-udev-rules
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-11-08-2284/0xf631sg9l2g4injm4mmj0f609kcsvjx0qf9080qm9vbsrza7jyz.nar.zst
+Compression: zstd
+FileHash: sha256:0xf631sg9l2g4injm4mmj0f609kcsvjx0qf9080qm9vbsrza7jyz
+FileSize: 44066
+NarHash: sha256:03aj3jxa9ncswfpzlwgn9ipl7hg3chzrdl0hyv651r4jhh1i1hd6
+NarSize: 374216
+References: 1nwgsy4c5862g44s9lkf50643p3nbwm5-gnused-4.10 558bbrzybch0lvlybaza3glcm7m0py05-systemd-minimal-libs-261.2 api6lim3kh9jrjr5dj1276icsaz7rzw0-korri-virtual-target-acl cyibcb70hq6gjmz0g1glxgps549h692m-udev-path idnyqaaix26szkvhs1mjgi7990jajz9a-bash-5.3p15 j6ysw1xvx5qkw0s95i1nlyzyyynppq1k-lvm2-2.03.41-bin p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11 qbxkcbbkharkrdfbhh0wwh2zf733pzzg-util-linux-2.42.3-bin sxl781hkxg725b9cmwzgcvmq4fv4hnvp-bluez-5.87 vwn8xs79jf9hj1vazn2pi8nhwwmdk1dm-ethtool-7.1 x0iv5hlpqfrpykdckbj8jdxy78clbjpz-systemd-261.2 z9nkwcylvgcrn4dvvd91jp8blv3mx38v-bash-interactive-5.3p15
+Deriver: p0ddxvqnj2kwn3fm7hmf9s4fiy6vhcjn-udev-rules.drv
+Sig: korri-cache-ci-1:X2dcC0ckTplJCb0Hgq/W1V4urJZ6i/a6SoLGl/KzjVuPUHGwfcZfT7bamsDB95J0T1VpaBwJIAJ4SACC+PhCDA==
