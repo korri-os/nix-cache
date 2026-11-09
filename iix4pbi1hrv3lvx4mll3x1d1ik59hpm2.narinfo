@@ -1,0 +1,10 @@
+StorePath: /nix/store/iix4pbi1hrv3lvx4mll3x1d1ik59hpm2-unit-korri-input-seat-receiver.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-11-09-2395/09vc16jvmxva0nrd78mpch94zqs68r7qz1fm7x0i4hgb56llcn36.nar.zst
+Compression: zstd
+FileHash: sha256:09vc16jvmxva0nrd78mpch94zqs68r7qz1fm7x0i4hgb56llcn36
+FileSize: 1254
+NarHash: sha256:16ifpcr8wmr2bg1iscjj3x79rlqikp5w43qzpv50my3sxcnb2qrm
+NarSize: 2544
+References: 1nwgsy4c5862g44s9lkf50643p3nbwm5-gnused-4.10 3b3k72bbr01bgff7bdkiz6r05gmlx5s9-gnugrep-3.12 c0dxfpyx3wqibfipmghpay1rqmni05m6-alsa-ucm-conf-1.2.16.1 frxyr3cd0wjfnhazxh4x05xynmj2pzvq-korri-inputd-0.0.0 i8an849ir6g3f4n2wrsm88s2qgrzjayq-tzdata-2026c k8as1kdn16q5w6zq6z3vih70qby9l40i-glibc-locales-2.42-84 p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11 x0iv5hlpqfrpykdckbj8jdxy78clbjpz-systemd-261.2 xqx65i7cwacw7rsnj3dlbqas27mwvpn2-findutils-4.11.0
+Deriver: kc2pdbfwiwvwlh6c42nzppwfk7q00idd-unit-korri-input-seat-receiver.service.drv
+Sig: korri-cache-ci-1:bqL7Q+06MMOJvJ5OH11EctBEa99hUvqrrxdl4Y/okVVJ/PeOfROvbRGo5VcWwi4tiYpTTHmIAySmzE88eJs5Cg==
