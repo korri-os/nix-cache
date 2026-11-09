@@ -1,0 +1,10 @@
+StorePath: /nix/store/9r324pfzy7llyzwc16il2i2ghs4ricg1-unit-korri-shell.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-11-09-2376/14rb33m1hw0grxabsb8kz5pwgg0ygp5vl8qiprn4nwdgji6b6520.nar.zst
+Compression: zstd
+FileHash: sha256:14rb33m1hw0grxabsb8kz5pwgg0ygp5vl8qiprn4nwdgji6b6520
+FileSize: 1172
+NarHash: sha256:16gq689kx8kqkjkwvliqmahs2qrn13b16svhbri5mhycg3dnjjn6
+NarSize: 2720
+References: 1nwgsy4c5862g44s9lkf50643p3nbwm5-gnused-4.10 3b3k72bbr01bgff7bdkiz6r05gmlx5s9-gnugrep-3.12 c9sfrynahfcmqy8bmamwp68zm9grh73s-korri-shell-0.0.0 i8an849ir6g3f4n2wrsm88s2qgrzjayq-tzdata-2026c k8as1kdn16q5w6zq6z3vih70qby9l40i-glibc-locales-2.42-84 p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11 rgy4z4m298s9wb7cni64s46070m11sbv-korri-shell-surfaces x0iv5hlpqfrpykdckbj8jdxy78clbjpz-systemd-261.2 xqx65i7cwacw7rsnj3dlbqas27mwvpn2-findutils-4.11.0 xzmanspgb4m0rhvsyws3gajrxnxqfshr-korri-shell-wayland-access
+Deriver: i9ll36y5bdvv1wxiyiqm6cvpsd0xm2xg-unit-korri-shell.service.drv
+Sig: korri-cache-ci-1:dgffwhgxu4R84vdCUOOqwTkWNn4Ib23bqlyWHQPAqG2SDfwFSFmkQwefDqAApcSFO987GgQbWJfc0lYfRrvTAg==
