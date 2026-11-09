@@ -1,0 +1,10 @@
+StorePath: /nix/store/g7z3fipgnwimqa6fx13b94rx1vawq61y-unit-korri-display-idle.service
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-11-09-2393/1495s9rac0wlaap7p3g1xixpa8xzkvnx745mchihjsk3vrk5w4bl.nar.zst
+Compression: zstd
+FileHash: sha256:1495s9rac0wlaap7p3g1xixpa8xzkvnx745mchihjsk3vrk5w4bl
+FileSize: 833
+NarHash: sha256:1zqprss7ha0l0rr1xx1ckl8916ad0d3b0hv8kzkbqz6s7z8n7d6a
+NarSize: 1696
+References: 1nwgsy4c5862g44s9lkf50643p3nbwm5-gnused-4.10 337yab1f1glp89iwdw6dbfgvnx1rzwik-korri-display-idle 3b3k72bbr01bgff7bdkiz6r05gmlx5s9-gnugrep-3.12 i8an849ir6g3f4n2wrsm88s2qgrzjayq-tzdata-2026c k8as1kdn16q5w6zq6z3vih70qby9l40i-glibc-locales-2.42-84 p7xdvcvl4aw7m229qzlq601aq0w0nb9n-coreutils-9.11 x0iv5hlpqfrpykdckbj8jdxy78clbjpz-systemd-261.2 xqx65i7cwacw7rsnj3dlbqas27mwvpn2-findutils-4.11.0
+Deriver: wpq2d3kssiad6bghzazjac2yf51swwmz-unit-korri-display-idle.service.drv
+Sig: korri-cache-ci-1:5VtuBpomc4cxVfCroJv61r/7v6rOsD5iczJApEudfY09nXxdLq6NsLuZSOlLXO6g4vKAbwu6XkyzS3lr/tB8Cg==
