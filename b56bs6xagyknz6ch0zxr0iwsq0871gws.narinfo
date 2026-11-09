@@ -1,0 +1,10 @@
+StorePath: /nix/store/b56bs6xagyknz6ch0zxr0iwsq0871gws-korri-shell-0.0.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-11-09-2487/1ykzyfh1b94ahqj1iqj9ss9j7lsa4n16z4yc0abx0g5gvshdbr0n.nar.zst
+Compression: zstd
+FileHash: sha256:1ykzyfh1b94ahqj1iqj9ss9j7lsa4n16z4yc0abx0g5gvshdbr0n
+FileSize: 14508573
+NarHash: sha256:0njgh66wd1wrr8gmdyhsn5pmv3w08mrz5rf44w297g8nwrbdp1xl
+NarSize: 33008864
+References: a9vrd8hyg9isgd80wmpi0y2a0v3sqk80-libxcb-1.17.0 b0ml5fzg1whfc2803dgpfyd4jrwk4fpg-wayland-1.26.0 c93rd8x6zq0q07bg2yfs6lf0c8vka8ks-libxkbcommon-1.13.2 j1n0wy76y4ks4xcz6j10z79sw82yscyl-fontconfig-2.18.3-lib k3cp6w7dk15zdmgn2adf87y5i2hhavnn-libx11-1.8.13 m54cs0m994hc3n9lax7sg98sgy729qsa-glibc-2.42-84 n65q2br81z7a9g3hcvskd2pvr8s6a7ms-gcc-15.3.0-lib n8pdz505vw8fx4mbs6indsjf9xqc69pb-libxcursor-1.2.3 rzdlqgdswhw01wizin73fnaaj7mxzmap-libxi-1.8.3 vh63gqmgi94xhqgpc27ndan2sbcq8m0p-libxrandr-1.5.5
+Deriver: rsz65kp9yg7576a7wirfx3ibrcpkim57-korri-shell-0.0.0.drv
+Sig: korri-cache-ci-1:u6myUVzfEXD+IBmkGljL9R4XSL7pI84i7D87eIqDd1uzGAz/X2qWyEqMGycn7jyiQfrF36e5vP5oZWEL98QoAg==
