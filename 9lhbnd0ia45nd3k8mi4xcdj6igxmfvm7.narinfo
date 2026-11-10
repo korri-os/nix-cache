@@ -1,0 +1,10 @@
+StorePath: /nix/store/9lhbnd0ia45nd3k8mi4xcdj6igxmfvm7-cargo-package-xattr-1.6.1
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-11-10-2591/12z633hpsd9vfm8j6x8blg5ff98bwzag5cnkhi2lfpbixij875bv.nar.zst
+Compression: zstd
+FileHash: sha256:12z633hpsd9vfm8j6x8blg5ff98bwzag5cnkhi2lfpbixij875bv
+FileSize: 16952
+NarHash: sha256:1mlagf3wmwz82byjvplw16v0l6n2laclsp637sn797sbcn87lvds
+NarSize: 61464
+References: 
+Deriver: 8jrn7skn6v5hsvyyw9p3xp52nyawca5i-cargo-package-xattr-1.6.1.drv
+Sig: korri-cache-ci-1:vm3AKGwfAOV0cQvn6i3FIyHxRT+/Wbcm/yfkixVrREsaj99xD3AlM2RDdmLlfAZCkpYpC+lD9KM4JyneHZnmAA==

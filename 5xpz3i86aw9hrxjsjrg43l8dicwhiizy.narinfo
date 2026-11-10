@@ -1,0 +1,10 @@
+StorePath: /nix/store/5xpz3i86aw9hrxjsjrg43l8dicwhiizy-cargo-package-lzma-rs-0.3.0
+URL: https://github.com/korri-os/nix-cache/releases/download/batch-2026-11-10-2591/17flihz245liar3319mivafigwlbhhxb2gcpa9xq9x0w3h2kbhks.nar.zst
+Compression: zstd
+FileHash: sha256:17flihz245liar3319mivafigwlbhhxb2gcpa9xq9x0w3h2kbhks
+FileSize: 30857
+NarHash: sha256:1wa2fm33bvz7ny41crnfdcc2x90ii4pz3gvay32gr3ayravxna0b
+NarSize: 136840
+References: 
+Deriver: m15n1wrja61ymlcnh7fvi1s84ynycxww-cargo-package-lzma-rs-0.3.0.drv
+Sig: korri-cache-ci-1:hjKr4NYdCzoMb4+u7LfOhSB8HijOL1TYx1n8N8CcRFxw5k5KIyxNSbbeNc7qFIPHiOrVNOooj92oX4oj/+K3DA==
